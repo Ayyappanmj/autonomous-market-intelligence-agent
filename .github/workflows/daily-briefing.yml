@@ -1,0 +1,32 @@
+name: Daily briefing
+# Free, persistent history: runs the pipeline on a schedule and commits the result to briefings/.
+# Add a repository secret GEMINI_API_KEY to enable Gemini mode; without it the free fallback is used.
+on:
+  schedule:
+    - cron: "0 7 * * *"   # 07:00 UTC daily
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: daily-briefing
+  cancel-in-progress: false
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install pydantic==2.10.4 requests==2.32.3 defusedxml==0.7.1
+      - name: Generate briefing
+        env:
+          LLM_PROVIDER: ${{ secrets.GEMINI_API_KEY != '' && 'gemini' || 'none' }}
+          LLM_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/run_briefing.py
+      - name: Commit result
+        run: |
+          git config user.name "briefing-bot"
+          git config user.email "briefing-bot@users.noreply.github.com"
+          git add briefings
+          git diff --cached --quiet || (git commit -m "Daily briefing $(date -u +%F)" && git push)

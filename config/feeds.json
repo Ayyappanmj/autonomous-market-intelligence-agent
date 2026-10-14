@@ -1,0 +1,23 @@
+{
+  "_comment": "Public RSS/Atom feeds. 'topics' are hints used to skip irrelevant feeds on each run (free-tier friendly). Omit 'topics' to always fetch. Set enabled=false to disable. Check each publisher's terms before public deployment; availability of any feed is not guaranteed.",
+  "feeds": [
+    {"name": "BBC / Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "topics": ["business", "markets", "economy"]},
+    {"name": "BBC / Technology", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "topics": ["technology", "ai"]},
+    {"name": "NYT / Business", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", "topics": ["business", "markets", "economy"]},
+    {"name": "NYT / Technology", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "topics": ["technology", "ai"]},
+    {"name": "The Guardian / Business", "url": "https://www.theguardian.com/uk/business/rss", "topics": ["business", "markets", "economy"]},
+    {"name": "The Guardian / Technology", "url": "https://www.theguardian.com/uk/technology/rss", "topics": ["technology", "ai"]},
+    {"name": "The Guardian / Economics", "url": "https://www.theguardian.com/business/economics/rss", "topics": ["economy", "markets"]},
+    {"name": "CNBC / Top News", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "topics": ["markets", "business"]},
+    {"name": "CNBC / Technology", "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html", "topics": ["technology", "ai"]},
+    {"name": "MarketWatch / Top Stories", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories", "topics": ["markets", "business"]},
+    {"name": "NPR / Business", "url": "https://feeds.npr.org/1006/rss.xml", "topics": ["business", "economy"]},
+    {"name": "Federal Reserve / Press Releases", "url": "https://www.federalreserve.gov/feeds/press_all.xml", "topics": ["economy", "markets"]},
+    {"name": "ECB / Press", "url": "https://www.ecb.europa.eu/rss/press.html", "topics": ["economy"]},
+    {"name": "EIA / Today in Energy", "url": "https://www.eia.gov/rss/todayinenergy.xml", "topics": ["energy"]},
+    {"name": "OilPrice.com / Main", "url": "https://oilprice.com/rss/main", "topics": ["energy", "markets"]},
+    {"name": "Ars Technica / Main", "url": "https://feeds.arstechnica.com/arstechnica/index", "topics": ["technology", "ai"]},
+    {"name": "TechCrunch / Main", "url": "https://techcrunch.com/feed/", "topics": ["technology", "ai", "business"]},
+    {"name": "The Verge / Main", "url": "https://www.theverge.com/rss/index.xml", "topics": ["technology", "ai"]}
+  ]
+}

@@ -1,0 +1,23 @@
+# Render Blueprint: ONE free web service. gateway.py serves the public API and proxies the dashboard on $PORT.
+services:
+  - type: web
+    name: market-intelligence-agent
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python start.py
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: MODE
+        value: gateway
+      - key: DATABASE_PATH
+        value: /tmp/market_intel.db
+      - key: TRUST_PROXY   # lets per-IP rate limits see real visitors; verify PROXY_HOPS for your setup
+        value: "true"
+      - key: LLM_PROVIDER
+        value: none
+      - key: LLM_API_KEY
+        sync: false   # set in the Render dashboard only if you want optional LLM mode

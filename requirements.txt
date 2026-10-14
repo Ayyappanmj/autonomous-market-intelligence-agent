@@ -1,0 +1,10 @@
+# Runtime (pinned; verify with `pip install -r requirements.txt` on Python 3.11/3.12)
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+requests==2.32.3
+httpx==0.28.1
+websockets==14.1
+defusedxml==0.7.1
+pandas==2.2.3
+streamlit==1.41.1

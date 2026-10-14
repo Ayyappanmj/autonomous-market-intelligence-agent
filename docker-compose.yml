@@ -1,0 +1,15 @@
+services:
+  app:
+    build: .
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      MODE: gateway
+      PORT: "8000"
+    ports:
+      - "8000:8000"   # dashboard at /, API at /docs and /api/v1
+    volumes:
+      - mia-data:/app/data
+volumes:
+  mia-data:
