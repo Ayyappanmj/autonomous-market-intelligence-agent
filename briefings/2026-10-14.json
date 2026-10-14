@@ -1,0 +1,436 @@
+{
+  "id": "68e4cd826155",
+  "generated_at": "2026-10-14T12:46:25.206186Z",
+  "period_start": "2026-10-13T12:46:25.206186Z",
+  "period_end": "2026-10-14T12:46:25.206186Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-10-13 12:46 UTC and 2026-10-14 12:46 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 6 positive, 37 neutral, 17 negative (mean score -0.11). The most recurring theme was \"government\".",
+  "key_developments": [
+    {
+      "text": "Bank of America fined $1.2bn for money laundering failures",
+      "kind": "verified_fact",
+      "source_urls": [
+        "https://theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering",
+        "https://bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_campaign=rss&at_medium=RSS"
+      ],
+      "publishers": [
+        "BBC",
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-14T11:54:29Z"
+    },
+    {
+      "text": "Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/10/14/5-things-to-know-before-the-stock-market-opens.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-10-14T12:45:09Z"
+    },
+    {
+      "text": "What Allegations of Spying at OpenAI Mean for the A.I. Industry",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/14/business/dealbook/openai-espionage.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-14T12:39:24Z"
+    },
+    {
+      "text": "US inflation rose to 3.7% in September, figures show",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/oct/14/inflation-numbers-september"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-14T12:36:35Z"
+    },
+    {
+      "text": "\u2018From liabilities to goldmines\u2019: refineries eye record profits from diesel shortage",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-14T12:26:27Z"
+    },
+    {
+      "text": "Wayfair among firms fined millions for misleading sales tactics",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://bbc.co.uk/news/articles/cqx298e5rr3po?at_campaign=rss&at_medium=RSS"
+      ],
+      "publishers": [
+        "BBC"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-14T12:09:45Z"
+    },
+    {
+      "text": "Oil Prices Rise as Iran Steps Up Attacks and Fighting Intensifies",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-14T12:08:58Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "government",
+      "article_count": 8,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates",
+        "https://theguardian.com/business/2026/oct/14/inflation-numbers-september",
+        "https://bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
+        "https://theguardian.com/politics/2026/oct/14/uk-will-not-put-tariffs-on-chinese-vehicles-says-jonathan-reynolds"
+      ],
+      "avg_sentiment": -0.203,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "company",
+      "article_count": 8,
+      "publishers": [
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
+        "https://cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+        "https://theguardian.com/commentisfree/2026/oct/14/palantir-british-state-controversial-us-company-tom-watson",
+        "https://theguardian.com/politics/2026/oct/14/cryptocurrency-exchange-founded-by-reform-donor-ben-delo-sued-for-20m",
+        "https://theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device"
+      ],
+      "avg_sentiment": -0.164,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "openai",
+      "article_count": 8,
+      "publishers": [
+        "Ars Technica",
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/14/business/dealbook/openai-espionage.html",
+        "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say",
+        "https://theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
+        "https://theguardian.com/commentisfree/2026/oct/14/ai-overlords-democratise-technology",
+        "https://nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html"
+      ],
+      "avg_sentiment": -0.068,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "investors",
+      "article_count": 7,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/10/14/5-things-to-know-before-the-stock-market-opens.html",
+        "https://cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+        "https://theguardian.com/politics/2026/oct/14/cryptocurrency-exchange-founded-by-reform-donor-ben-delo-sued-for-20m",
+        "https://cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
+        "https://cnbc.com/2026/10/13/jim-cramer-semiconductor-stocks-sell-off.html"
+      ],
+      "avg_sentiment": 0.061,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "business",
+      "article_count": 7,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates",
+        "https://theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil",
+        "https://theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
+        "https://theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust",
+        "https://theguardian.com/politics/2026/oct/14/uk-will-not-put-tariffs-on-chinese-vehicles-says-jonathan-reynolds"
+      ],
+      "avg_sentiment": -0.211,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "latest",
+      "article_count": 7,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates",
+        "https://theguardian.com/business/2026/oct/14/inflation-numbers-september",
+        "https://theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil",
+        "https://theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
+        "https://theguardian.com/commentisfree/2026/oct/14/ai-overlords-democratise-technology"
+      ],
+      "avg_sentiment": -0.224,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 6,
+    "neutral": 37,
+    "negative": 17,
+    "mean_score": -0.109,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Bank of America fined $1.2bn for money laundering failures (https://theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering)",
+    "CNBC reported a negative-toned story: AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation (https://cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html)",
+    "The Guardian reported a negative-toned story: Bank of England and IMF bosses warn of cyber threat to trust in financial system (https://theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "47eb819b661cd2b3",
+      "title": "Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/10/14/5-things-to-know-before-the-stock-market-opens.html",
+      "summary": "Here are five key things investors need to know to start the trading day.",
+      "published_at": "2026-10-14T12:45:09Z",
+      "collected_at": "2026-10-14T12:46:25.206186Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "technology",
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": -0.25,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "c3108824b483ac57",
+      "title": "What Allegations of Spying at OpenAI Mean for the A.I. Industry",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/14/business/dealbook/openai-espionage.html",
+      "summary": "The arrest of an OpenAI employee accused of planting a bug in an office of the artificial intelligence giant flags another concern for the industry.",
+      "published_at": "2026-10-14T12:39:24Z",
+      "collected_at": "2026-10-14T12:46:25.206186Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": -0.296,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "0aadefa9fde8d57c",
+      "title": "US inflation rose to 3.7% in September, figures show",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/14/inflation-numbers-september",
+      "summary": "Final inflation report before midterms comes as polls show widespread anger over cost of living under Trump Republicans are entering the midterm elections with the highest rate of inflation since the spring, according to a government report released on Wednesday. US price increases reached an annual rate of 3.7% in September, according to the latest data from the Bureau of Labor Statistics. This final inflation report before the pivotal midterm elections comes amid polls showing widespread dissa",
+      "published_at": "2026-10-14T12:36:35Z",
+      "collected_at": "2026-10-14T12:46:25.206186Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.5859,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "9f14d5e66ab12450",
+      "title": "\u2018From liabilities to goldmines\u2019: refineries eye record profits from diesel shortage",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil",
+      "summary": "Firms turning crude oil into the \u2018workhorse\u2019 fuel stand to gain most despite economic fallout from record prices Business live \u2013 latest updates Days after Donald Trump announced a deal to import Russian diesel into the US in an effort to lower soaring pump prices, the world\u2019s energy watchdog has warned that the global fuel shortage will drag into 2027. Trump\u2019s temporary sanctions reprieve was criticised for offering \u201ctoo little, too late\u201d to temper the sky high pump prices triggered by the shutd",
+      "published_at": "2026-10-14T12:26:27Z",
+      "collected_at": "2026-10-14T12:46:25.206186Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.296,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "10a669aa9d1a119f",
+      "title": "Wayfair among firms fined millions for misleading sales tactics",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/cqx298e5rr3po?at_campaign=rss&at_medium=RSS",
+      "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym \u00a36m in total.",
+      "published_at": "2026-10-14T12:09:45Z",
+      "collected_at": "2026-10-14T12:46:25.206186Z",
+      "feed_name": "BBC / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": -0.6124,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "1f61c1b12153bf50",
+      "title": "Oil Prices Rise as Iran Steps Up Attacks and Fighting Intensifies",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html",
+      "summary": "In a volatile moment for energy markets, more vessels are being hit while transiting the Strait of Hormuz, while the Houthis and Saudi Arabia traded attacks.",
+      "published_at": "2026-10-14T12:08:58Z",
+      "collected_at": "2026-10-14T12:46:25.206186Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": -0.0258,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "7d0bb90f24aeb167",
+      "title": "Bank of America fined $1.2bn for money laundering failures",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering",
+      "summary": "Third largest fine in US treasury\u2019s history, due to failure to report suspicious activity, may affect third-quarter earnings Bank of America (BAC.N), has been fined $1.21bn by US regulators for widespread failures to detect \u200cpotential money laundering and other illicit activity, a penalty the bank said will hurt third-quarter earnings. The treasury department said the fine, the third-largest in department history, is due to the bank\u2019s failure to report more than $5bn in suspicious activity to th",
+      "published_at": "2026-10-14T11:54:29Z",
+      "collected_at": "2026-10-14T12:46:25.206186Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.8126,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "cb836101d336037f",
+      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_campaign=rss&at_medium=RSS",
+      "summary": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+      "published_at": "2026-10-14T02:05:32Z",
+      "collected_at": "2026-10-14T12:46:25.206186Z",
+      "feed_name": "BBC / Business",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Bank of America fined $1.2bn for money laundering failures",
+        "status": "supported",
+        "detail": "corroborated by 2 publishers",
+        "source_urls": [
+          "https://theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering",
+          "https://bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_campaign=rss&at_medium=RSS"
+        ]
+      },
+      {
+        "claim": "Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/10/14/5-things-to-know-before-the-stock-market-opens.html"
+        ]
+      },
+      {
+        "claim": "What Allegations of Spying at OpenAI Mean for the A.I. Industry",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/14/business/dealbook/openai-espionage.html"
+        ]
+      },
+      {
+        "claim": "US inflation rose to 3.7% in September, figures show",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/oct/14/inflation-numbers-september"
+        ]
+      },
+      {
+        "claim": "\u2018From liabilities to goldmines\u2019: refineries eye record profits from diesel shortage",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil"
+        ]
+      },
+      {
+        "claim": "Wayfair among firms fined millions for misleading sales tactics",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://bbc.co.uk/news/articles/cqx298e5rr3po?at_campaign=rss&at_medium=RSS"
+        ]
+      },
+      {
+        "claim": "Oil Prices Rise as Iran Steps Up Attacks and Fighting Intensifies",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 1,
+    "unsupported_removed": 1
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-10-14\n\n**Reporting period:** 2026-10-13 12:46 UTC to 2026-10-14 12:46 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-10-13 12:46 UTC and 2026-10-14 12:46 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 6 positive, 37 neutral, 17 negative (mean score -0.11). The most recurring theme was \"government\".\n\n## Key developments\n\n1. **Bank of America fined $1.2bn for money laundering failures** - _BBC, The Guardian; 2026-10-14 11:54 UTC; corroborated by multiple publishers_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering), [2](https://bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_campaign=rss&at_medium=RSS)\n2. **Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk** - _CNBC; 2026-10-14 12:45 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://cnbc.com/2026/10/14/5-things-to-know-before-the-stock-market-opens.html)\n3. **What Allegations of Spying at OpenAI Mean for the A.I. Industry** - _NYT; 2026-10-14 12:39 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/10/14/business/dealbook/openai-espionage.html)\n4. **US inflation rose to 3.7% in September, figures show** - _The Guardian; 2026-10-14 12:36 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/2026/oct/14/inflation-numbers-september)\n5. **\u2018From liabilities to goldmines\u2019: refineries eye record profits from diesel shortage** - _The Guardian; 2026-10-14 12:26 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil)\n6. **Wayfair among firms fined millions for misleading sales tactics** - _BBC; 2026-10-14 12:09 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://bbc.co.uk/news/articles/cqx298e5rr3po?at_campaign=rss&at_medium=RSS)\n7. **Oil Prices Rise as Iran Steps Up Attacks and Fighting Intensifies** - _NYT; 2026-10-14 12:08 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html)\n\n## Emerging themes\n\n- **government** - 8 articles, 4 publisher(s), avg sentiment -0.20\n- **company** - 8 articles, 2 publisher(s), avg sentiment -0.16\n- **openai** - 8 articles, 5 publisher(s), avg sentiment -0.07\n- **investors** - 7 articles, 3 publisher(s), avg sentiment +0.06\n- **business** - 7 articles, 3 publisher(s), avg sentiment -0.21\n- **latest** - 7 articles, 2 publisher(s), avg sentiment -0.22\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 6 / Neutral 37 / Negative 17; mean -0.11.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Bank of America fined $1.2bn for money laundering failures (https://theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering)\n- CNBC reported a negative-toned story: AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation (https://cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html)\n- The Guardian reported a negative-toned story: Bank of England and IMF bosses warn of cyber threat to trust in financial system (https://theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 1; unsupported claims removed: 1.\n\n## Source references\n\n- CNBC - [Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk](https://cnbc.com/2026/10/14/5-things-to-know-before-the-stock-market-opens.html) (2026-10-14 12:45 UTC; collected 2026-10-14 12:46 UTC)\n- NYT - [What Allegations of Spying at OpenAI Mean for the A.I. Industry](https://nytimes.com/2026/10/14/business/dealbook/openai-espionage.html) (2026-10-14 12:39 UTC; collected 2026-10-14 12:46 UTC)\n- The Guardian - [US inflation rose to 3.7% in September, figures show](https://theguardian.com/business/2026/oct/14/inflation-numbers-september) (2026-10-14 12:36 UTC; collected 2026-10-14 12:46 UTC)\n- The Guardian - [\u2018From liabilities to goldmines\u2019: refineries eye record profits from diesel shortage](https://theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil) (2026-10-14 12:26 UTC; collected 2026-10-14 12:46 UTC)\n- BBC - [Wayfair among firms fined millions for misleading sales tactics](https://bbc.co.uk/news/articles/cqx298e5rr3po?at_campaign=rss&at_medium=RSS) (2026-10-14 12:09 UTC; collected 2026-10-14 12:46 UTC)\n- NYT - [Oil Prices Rise as Iran Steps Up Attacks and Fighting Intensifies](https://nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html) (2026-10-14 12:08 UTC; collected 2026-10-14 12:46 UTC)\n- The Guardian - [Bank of America fined $1.2bn for money laundering failures](https://theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering) (2026-10-14 11:54 UTC; collected 2026-10-14 12:46 UTC)\n- BBC - [Bank of America hit with $1.2bn fine for money laundering failings](https://bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_campaign=rss&at_medium=RSS) (2026-10-14 02:05 UTC; collected 2026-10-14 12:46 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-10-14\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-10-13 12:46 UTC and 2026-10-14 12:46 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 6 positive, 37 neutral, 17 negative (mean score -0.11). The most recurring theme was \"government\".\n\nKey developments:\n- Bank of America fined $1.2bn for money laundering failures (BBC, The Guardian) https://theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering\n- Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk (CNBC) https://cnbc.com/2026/10/14/5-things-to-know-before-the-stock-market-opens.html\n- What Allegations of Spying at OpenAI Mean for the A.I. Industry (NYT) https://nytimes.com/2026/10/14/business/dealbook/openai-espionage.html\n- US inflation rose to 3.7% in September, figures show (The Guardian) https://theguardian.com/business/2026/oct/14/inflation-numbers-september\n- \u2018From liabilities to goldmines\u2019: refineries eye record profits from diesel shortage (The Guardian) https://theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
