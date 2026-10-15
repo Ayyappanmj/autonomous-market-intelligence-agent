@@ -1,0 +1,475 @@
+{
+  "id": "27f2e4b68dd7",
+  "generated_at": "2026-10-15T12:33:46.265286Z",
+  "period_start": "2026-10-14T12:33:46.265286Z",
+  "period_end": "2026-10-15T12:33:46.265286Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-10-14 12:33 UTC and 2026-10-15 12:33 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 11 positive, 24 neutral, 25 negative (mean score -0.12). The most recurring theme was \"economy\".",
+  "key_developments": [
+    {
+      "text": "The Fallout From the \u2018Neocloud\u2019 Wipeout",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-15T12:30:05Z"
+    },
+    {
+      "text": "Chancellor John Healey says banks are part of \u2018jewel in the crown\u2019 of UK economy, amid budget tax speculation \u2013 business live",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-15T12:24:17Z"
+    },
+    {
+      "text": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-15T12:17:13Z"
+    },
+    {
+      "text": "Israeli firm\u2019s digital ads enabling installation of \u2018zero-click\u2019 spyware, researchers say",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-10-15T12:15:22Z"
+    },
+    {
+      "text": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-10-15T12:15:09Z"
+    },
+    {
+      "text": "Tech Stocks Plunge as Doubts Over A.I. Spending Intensify",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/15/business/chip-stocks-technology.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-10-15T12:12:46Z"
+    },
+    {
+      "text": "Bad news for Trump ahead of the midterms: it\u2019s still the economy, stupid",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/oct/15/trump-economy-midterm-elections"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-15T12:00:12Z"
+    },
+    {
+      "text": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-15T12:00:01Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "economy",
+      "article_count": 11,
+      "publishers": [
+        "BBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
+        "https://theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
+        "https://theguardian.com/food/2026/oct/15/food-delivery-apps-cost-economy",
+        "https://theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+        "https://bbc.co.uk/news/articles/ck8dz1me439no?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": 0.063,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "openai",
+      "article_count": 9,
+      "publishers": [
+        "Ars Technica",
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/14/business/dealbook/openai-espionage.html",
+        "https://nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
+        "https://theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit",
+        "https://cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
+        "https://theguardian.com/technology/2026/oct/14/openai-apple-employee-leak-lawsuit"
+      ],
+      "avg_sentiment": -0.184,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "inflation",
+      "article_count": 8,
+      "publishers": [
+        "BBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/15/business/chip-stocks-technology.html",
+        "https://theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+        "https://theguardian.com/commentisfree/2026/oct/15/global-economy-multilateral-cooperation-crisis-imf",
+        "https://nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
+        "https://nytimes.com/2026/10/14/business/economy/inflation-cpi.html"
+      ],
+      "avg_sentiment": -0.421,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "company",
+      "article_count": 8,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://bbc.co.uk/news/articles/c9j3dvezpdz0o?at_campaign=rss&at_medium=RSS",
+        "https://nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
+        "https://theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit",
+        "https://cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
+        "https://theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person"
+      ],
+      "avg_sentiment": -0.145,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "midterm elections",
+      "article_count": 5,
+      "publishers": [
+        "BBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
+        "https://theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
+        "https://bbc.co.uk/news/articles/c0rezqpnekro?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
+        "https://nytimes.com/2026/10/14/business/economy/inflation-cpi.html"
+      ],
+      "avg_sentiment": -0.158,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "market",
+      "article_count": 7,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://bbc.co.uk/news/articles/cqzjx448vxkgo?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+        "https://theguardian.com/film/2026/oct/15/aardman-wallace-gromit-annual-loss",
+        "https://cnbc.com/2026/10/14/cramer-stock-market-selloff-inflation.html",
+        "https://theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump"
+      ],
+      "avg_sentiment": -0.27,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 11,
+    "neutral": 24,
+    "negative": 25,
+    "mean_score": -0.123,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Tech market sell-off deepens amid fears over US inflation and AI debt (https://theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)",
+    "NYT reported a negative-toned story: Tech Stocks Plunge as Doubts Over A.I. Spending Intensify (https://nytimes.com/2026/10/15/business/chip-stocks-technology.html)",
+    "NYT reported a negative-toned story: Stocks Tumble as Concerns Over Inflation and A.I. Investments Grow (https://nytimes.com/2026/10/14/business/stocks-500-index-ai.html)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "a6302705c8971258",
+      "title": "The Fallout From the \u2018Neocloud\u2019 Wipeout",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html",
+      "summary": "Investors are newly worried about the health of artificial intelligence infrastructure companies like CoreWeave. That\u2019s weighing on the wider A.I. industry.",
+      "published_at": "2026-10-15T12:30:05Z",
+      "collected_at": "2026-10-15T12:33:46.265286Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "096ed66abae80284",
+      "title": "Chancellor John Healey says banks are part of \u2018jewel in the crown\u2019 of UK economy, amid budget tax speculation \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
+      "summary": "John Healey has spoken to UK journalists at the IMF annual meeting in Bangkok, and said banks are a part of the \u201cjewel\u201d in the UK\u2019s economic crown Today\u2019s better-than-forecast UK growth report is good news for chancellor John Healey as he hobnobs with other finance ministers at the IMF meeting in Bangkok. But it may encourage the Bank of England to raise interest rates as soon as its next meeting in November\u2026. \u201cWhile August\u2019s unexpected uptick all but confirms that the OBR will raise its growth ",
+      "published_at": "2026-10-15T12:24:17Z",
+      "collected_at": "2026-10-15T12:33:46.265286Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.6369,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "65bf1d2dab046cc2",
+      "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
+      "summary": "Huang told CNBC he has ongoing \"dialogs\" with researchers in China.",
+      "published_at": "2026-10-15T12:17:13Z",
+      "collected_at": "2026-10-15T12:33:46.265286Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "be230b0a8919e0d9",
+      "title": "Israeli firm\u2019s digital ads enabling installation of \u2018zero-click\u2019 spyware, researchers say",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+      "summary": "Discover-Tech\u2019s Controlium software lets clients mass-profile internet users then covertly hack targets, say researchers at University of Toronto An Israeli advertising agency has been serving millions of online adverts that allow \u201czero-click\u201d spyware to be used against targets, researchers at a Canadian university have said . Citizen Lab, a digital investigations research unit at the University of Toronto, said it believed dozens of devices at the Qatari broadcaster Al Jazeera had been compromi",
+      "published_at": "2026-10-15T12:15:22Z",
+      "collected_at": "2026-10-15T12:33:46.265286Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": -0.4588,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "34983e620f4454d8",
+      "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
+      "summary": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
+      "published_at": "2026-10-15T12:15:09Z",
+      "collected_at": "2026-10-15T12:33:46.265286Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "technology",
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "b5c1926340ccee09",
+      "title": "Tech Stocks Plunge as Doubts Over A.I. Spending Intensify",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/15/business/chip-stocks-technology.html",
+      "summary": "Tech stocks plunged, led by a steep drop in South Korea\u2019s benchmark index, as concerns over soaring A.I. spending and stubborn inflation fueled a sell-off.",
+      "published_at": "2026-10-15T12:12:46Z",
+      "collected_at": "2026-10-15T12:33:46.265286Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "technology",
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": -0.8625,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "81968925843fb42f",
+      "title": "Bad news for Trump ahead of the midterms: it\u2019s still the economy, stupid",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
+      "summary": "Voters\u2019 opposition to the state of Trump\u2019s economy is well established \u2013 despite his desperate attempts to deflect Our reporters answer your questions about the US economy and the midterm elections It\u2019s indisputable that the political polarization of our time has reduced (and confused) the influence of economic conditions on US elections. In September of 2024, in the waning weeks of the Joe Biden presidency, 65% of Republicans believed the US economy was getting worse. About six months later, as",
+      "published_at": "2026-10-15T12:00:12Z",
+      "collected_at": "2026-10-15T12:33:46.265286Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "6ef34eecc9613fc9",
+      "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+      "summary": "The $75 Bee Frontier is an upgraded version of Amazon's wearable bracelet, while the $100 Bee Eclipse attaches to a user's smartphone.",
+      "published_at": "2026-10-15T12:00:01Z",
+      "collected_at": "2026-10-15T12:33:46.265286Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.2023,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "096ed66abae80284",
+      "title": "Chancellor John Healey says banks are part of \u2018jewel in the crown\u2019 of UK economy, amid budget tax speculation \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
+      "summary": "John Healey has spoken to UK journalists at the IMF annual meeting in Bangkok, and said banks are a part of the \u201cjewel\u201d in the UK\u2019s economic crown Today\u2019s better-than-forecast UK growth report is good news for chancellor John Healey as he hobnobs with other finance ministers at the IMF meeting in Bangkok. But it may encourage the Bank of England to raise interest rates as soon as its next meeting in November\u2026. \u201cWhile August\u2019s unexpected uptick all but confirms that the OBR will raise its growth ",
+      "published_at": "2026-10-15T12:24:17Z",
+      "collected_at": "2026-10-15T12:33:46.265286Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "The Fallout From the \u2018Neocloud\u2019 Wipeout",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html"
+        ]
+      },
+      {
+        "claim": "Chancellor John Healey says banks are part of \u2018jewel in the crown\u2019 of UK economy, amid budget tax speculation \u2013 business live",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates"
+        ]
+      },
+      {
+        "claim": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html"
+        ]
+      },
+      {
+        "claim": "Israeli firm\u2019s digital ads enabling installation of \u2018zero-click\u2019 spyware, researchers say",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say"
+        ]
+      },
+      {
+        "claim": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html"
+        ]
+      },
+      {
+        "claim": "Tech Stocks Plunge as Doubts Over A.I. Spending Intensify",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/15/business/chip-stocks-technology.html"
+        ]
+      },
+      {
+        "claim": "Bad news for Trump ahead of the midterms: it\u2019s still the economy, stupid",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/oct/15/trump-economy-midterm-elections"
+        ]
+      },
+      {
+        "claim": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-10-15\n\n**Reporting period:** 2026-10-14 12:33 UTC to 2026-10-15 12:33 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-10-14 12:33 UTC and 2026-10-15 12:33 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 11 positive, 24 neutral, 25 negative (mean score -0.12). The most recurring theme was \"economy\".\n\n## Key developments\n\n1. **The Fallout From the \u2018Neocloud\u2019 Wipeout** - _NYT; 2026-10-15 12:30 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html)\n2. **Chancellor John Healey says banks are part of \u2018jewel in the crown\u2019 of UK economy, amid budget tax speculation \u2013 business live** - _The Guardian; 2026-10-15 12:24 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates)\n3. **Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI** - _CNBC; 2026-10-15 12:17 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html)\n4. **Israeli firm\u2019s digital ads enabling installation of \u2018zero-click\u2019 spyware, researchers say** - _The Guardian; 2026-10-15 12:15 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)\n5. **Memory stocks are getting hammered. China and a 2029 oversupply are the big worries** - _CNBC; 2026-10-15 12:15 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html)\n6. **Tech Stocks Plunge as Doubts Over A.I. Spending Intensify** - _NYT; 2026-10-15 12:12 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://nytimes.com/2026/10/15/business/chip-stocks-technology.html)\n7. **Bad news for Trump ahead of the midterms: it\u2019s still the economy, stupid** - _The Guardian; 2026-10-15 12:00 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/2026/oct/15/trump-economy-midterm-elections)\n8. **Amazon launches new Bee 'personal AI' devices that listen to conversations** - _CNBC; 2026-10-15 12:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html)\n\n## Emerging themes\n\n- **economy** - 11 articles, 3 publisher(s), avg sentiment +0.06\n- **openai** - 9 articles, 5 publisher(s), avg sentiment -0.18\n- **inflation** - 8 articles, 3 publisher(s), avg sentiment -0.42\n- **company** - 8 articles, 4 publisher(s), avg sentiment -0.14\n- **midterm elections** - 5 articles, 3 publisher(s), avg sentiment -0.16\n- **market** - 7 articles, 3 publisher(s), avg sentiment -0.27\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 11 / Neutral 24 / Negative 25; mean -0.12.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Tech market sell-off deepens amid fears over US inflation and AI debt (https://theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)\n- NYT reported a negative-toned story: Tech Stocks Plunge as Doubts Over A.I. Spending Intensify (https://nytimes.com/2026/10/15/business/chip-stocks-technology.html)\n- NYT reported a negative-toned story: Stocks Tumble as Concerns Over Inflation and A.I. Investments Grow (https://nytimes.com/2026/10/14/business/stocks-500-index-ai.html)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- NYT - [The Fallout From the \u2018Neocloud\u2019 Wipeout](https://nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html) (2026-10-15 12:30 UTC; collected 2026-10-15 12:33 UTC)\n- The Guardian - [Chancellor John Healey says banks are part of \u2018jewel in the crown\u2019 of UK economy, amid budget tax speculation \u2013 business live](https://theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates) (2026-10-15 12:24 UTC; collected 2026-10-15 12:33 UTC)\n- CNBC - [Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI](https://cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html) (2026-10-15 12:17 UTC; collected 2026-10-15 12:33 UTC)\n- The Guardian - [Israeli firm\u2019s digital ads enabling installation of \u2018zero-click\u2019 spyware, researchers say](https://theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say) (2026-10-15 12:15 UTC; collected 2026-10-15 12:33 UTC)\n- CNBC - [Memory stocks are getting hammered. China and a 2029 oversupply are the big worries](https://cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html) (2026-10-15 12:15 UTC; collected 2026-10-15 12:33 UTC)\n- NYT - [Tech Stocks Plunge as Doubts Over A.I. Spending Intensify](https://nytimes.com/2026/10/15/business/chip-stocks-technology.html) (2026-10-15 12:12 UTC; collected 2026-10-15 12:33 UTC)\n- The Guardian - [Bad news for Trump ahead of the midterms: it\u2019s still the economy, stupid](https://theguardian.com/business/2026/oct/15/trump-economy-midterm-elections) (2026-10-15 12:00 UTC; collected 2026-10-15 12:33 UTC)\n- CNBC - [Amazon launches new Bee 'personal AI' devices that listen to conversations](https://cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html) (2026-10-15 12:00 UTC; collected 2026-10-15 12:33 UTC)\n- The Guardian - [Chancellor John Healey says banks are part of \u2018jewel in the crown\u2019 of UK economy, amid budget tax speculation \u2013 business live](https://theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates) (2026-10-15 12:24 UTC; collected 2026-10-15 12:33 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-10-15\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-10-14 12:33 UTC and 2026-10-15 12:33 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 11 positive, 24 neutral, 25 negative (mean score -0.12). The most recurring theme was \"economy\".\n\nKey developments:\n- The Fallout From the \u2018Neocloud\u2019 Wipeout (NYT) https://nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html\n- Chancellor John Healey says banks are part of \u2018jewel in the crown\u2019 of UK economy, amid budget tax speculation \u2013 business live (The Guardian) https://theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates\n- Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI (CNBC) https://cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html\n- Israeli firm\u2019s digital ads enabling installation of \u2018zero-click\u2019 spyware, researchers say (The Guardian) https://theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say\n- Memory stocks are getting hammered. China and a 2029 oversupply are the big worries (CNBC) https://cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
