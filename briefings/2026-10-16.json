@@ -1,0 +1,470 @@
+{
+  "id": "f054a66a08c5",
+  "generated_at": "2026-10-16T12:12:51.626752Z",
+  "period_start": "2026-10-15T12:12:51.626752Z",
+  "period_end": "2026-10-16T12:12:51.626752Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-10-15 12:12 UTC and 2026-10-16 12:12 UTC, 44 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 7 positive, 20 neutral, 17 negative (mean score -0.14). The most recurring theme was \"companies\".",
+  "key_developments": [
+    {
+      "text": "When Will the Fed Move on Rates?",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/16/business/dealbook/fed-rates-warsh-inflation.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-16T12:00:34Z"
+    },
+    {
+      "text": "Europe's answer to SpaceX set for 25% weekly gain as Ukraine's Starshield limits raise concerns",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-16T11:58:43Z"
+    },
+    {
+      "text": "IMF suggests UK should cut spending rather than raise taxes on banks, as Healey prepares budget raid \u2013 business live",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-16T11:58:02Z"
+    },
+    {
+      "text": "Warsh Vows to Tame Inflation as A.I. Delivers \u2018Shock\u2019 to Economy",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-16T11:46:48Z"
+    },
+    {
+      "text": "\u2018Clean air is not a favour\u2019: Indonesia\u2019s neighbours fed up with acrid haze as Singapore threatens to prosecute",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/world/2026/oct/16/singapore-threatens-prosecute-indonesia-fires-toxic-haze-smoke"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-16T10:51:07Z"
+    },
+    {
+      "text": "Indonesian Stocks Plunge as MSCI Threatens to Drop Market from Indexes",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/16/business/indonesia-stocks-economy.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-16T10:30:01Z"
+    },
+    {
+      "text": "Googlebook review: Android on a laptop is still Android",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android"
+      ],
+      "publishers": [
+        "Ars Technica"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-10-16T10:00:32Z"
+    },
+    {
+      "text": "Ofgem could force energy suppliers to pay rivals if they lure customers with cheaper deals",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/oct/16/ofgem-energy-suppliers-pay-rivals-customers-cheaper-deals"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-16T08:14:53Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "companies",
+      "article_count": 8,
+      "publishers": [
+        "Ars Technica",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
+        "https://theguardian.com/world/2026/oct/16/singapore-threatens-prosecute-indonesia-fires-toxic-haze-smoke",
+        "https://theguardian.com/commentisfree/2026/oct/16/ai-existential-threat-real-journalism-democracy-resistance",
+        "https://cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+        "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says"
+      ],
+      "avg_sentiment": -0.218,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "investors",
+      "article_count": 7,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
+        "https://nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html",
+        "https://cnbc.com/2026/10/15/jim-cramer-ai-stocks-diversification.html",
+        "https://cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+        "https://theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt"
+      ],
+      "avg_sentiment": -0.332,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "market",
+      "article_count": 7,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/16/business/indonesia-stocks-economy.html",
+        "https://theguardian.com/business/2026/oct/16/ofgem-energy-suppliers-pay-rivals-customers-cheaper-deals",
+        "https://nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html",
+        "https://cnbc.com/2026/10/15/jim-cramer-ai-stocks-diversification.html",
+        "https://theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator"
+      ],
+      "avg_sentiment": -0.39,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "stocks",
+      "article_count": 7,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
+        "https://nytimes.com/2026/10/16/business/indonesia-stocks-economy.html",
+        "https://cnbc.com/2026/10/15/jim-cramer-ai-stocks-diversification.html",
+        "https://cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+        "https://nytimes.com/2026/10/15/business/chip-stocks-technology.html"
+      ],
+      "avg_sentiment": -0.29,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "tech",
+      "article_count": 6,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/commentisfree/2026/oct/16/ai-existential-threat-real-journalism-democracy-resistance",
+        "https://cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
+        "https://cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+        "https://nytimes.com/2026/10/15/business/chip-stocks-technology.html",
+        "https://theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt"
+      ],
+      "avg_sentiment": -0.306,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "inflation",
+      "article_count": 5,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/16/business/dealbook/fed-rates-warsh-inflation.html",
+        "https://nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html",
+        "https://nytimes.com/2026/10/15/business/chip-stocks-technology.html",
+        "https://theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
+        "https://theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt"
+      ],
+      "avg_sentiment": -0.382,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 7,
+    "neutral": 20,
+    "negative": 17,
+    "mean_score": -0.136,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Tech market sell-off deepens amid fears over US inflation and AI debt (https://theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)",
+    "NYT reported a negative-toned story: Indonesian Stocks Plunge as MSCI Threatens to Drop Market from Indexes (https://nytimes.com/2026/10/16/business/indonesia-stocks-economy.html)",
+    "The Guardian reported a negative-toned story: People in the US: what is your personal \u2018recession indicator\u2019? (https://theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "9dde6cbda8c78c30",
+      "title": "When Will the Fed Move on Rates?",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/16/business/dealbook/fed-rates-warsh-inflation.html",
+      "summary": "Kevin Warsh, the central bank\u2019s chairman, suggested he wouldn\u2019t push to raise borrowing rates this month. But persistent inflation may force the Fed\u2019s hand.",
+      "published_at": "2026-10-16T12:00:34Z",
+      "collected_at": "2026-10-16T12:12:51.626752Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.25,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "c89e8ffe90db36d1",
+      "title": "Europe's answer to SpaceX set for 25% weekly gain as Ukraine's Starshield limits raise concerns",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
+      "summary": "Eutelsat's shares soared this week and continued climbing on Friday as its competitor Starshield drew criticism over its limitations in Ukraine.",
+      "published_at": "2026-10-16T11:58:43Z",
+      "collected_at": "2026-10-16T12:12:51.626752Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.1027,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "d2b8be957fdb9d47",
+      "title": "IMF suggests UK should cut spending rather than raise taxes on banks, as Healey prepares budget raid \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
+      "summary": "Rolling coverage of the latest economic and financial news John Healey poised to raise taxes on banks in budget Elsewhere in the markets today, South Korea\u2019s Kospi share index has recorded its biggest weekly loss since October 2008, down 14.5% this week. Although the Kospi did rise today (+2%), it was still a bad week for technology stocks \u2013 as investors worried about the borrowing, spending commitments and future profitability of AI companies. The reality is that while companies embraced AI agg",
+      "published_at": "2026-10-16T11:58:02Z",
+      "collected_at": "2026-10-16T12:12:51.626752Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [
+        "ai",
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": -0.4215,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "f162ef7abeb7958d",
+      "title": "Warsh Vows to Tame Inflation as A.I. Delivers \u2018Shock\u2019 to Economy",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html",
+      "summary": "The Federal Reserve chairman said technological change was complicating the outlook for central banks.",
+      "published_at": "2026-10-16T11:46:48Z",
+      "collected_at": "2026-10-16T12:12:51.626752Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.25,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "98be891487dd3e2b",
+      "title": "\u2018Clean air is not a favour\u2019: Indonesia\u2019s neighbours fed up with acrid haze as Singapore threatens to prosecute",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/world/2026/oct/16/singapore-threatens-prosecute-indonesia-fires-toxic-haze-smoke",
+      "summary": "Millions affected by smoke from wildfires as schools close, respiratory illnesses soar and diplomatic tensions rise Singapore is threatening to prosecute companies responsible for some of the worst fires in years in neighbouring Indonesia, as the region grows increasingly frustrated with a persistent, acrid haze that could result in diplomatic relations fraying. Lawrence Wong, the Singaporean prime minister, said his government was distributing masks to vulnerable citizens and working with count",
+      "published_at": "2026-10-16T10:51:07Z",
+      "collected_at": "2026-10-16T12:12:51.626752Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.6249,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "090bd4e56c3a3744",
+      "title": "Indonesian Stocks Plunge as MSCI Threatens to Drop Market from Indexes",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/16/business/indonesia-stocks-economy.html",
+      "summary": "The potential downgrade by MSCI, an influential index provider, adds to a deepening crisis of investor confidence in the economic policies of Indonesian President Prabowo Subianto.",
+      "published_at": "2026-10-16T10:30:01Z",
+      "collected_at": "2026-10-16T12:12:51.626752Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": -0.91,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "590ec38a60edecd2",
+      "title": "Googlebook review: Android on a laptop is still Android",
+      "publisher": "Ars Technica",
+      "url": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android",
+      "summary": "Android laptops are here, but Google has a lot of work ahead to make them good.",
+      "published_at": "2026-10-16T10:00:32Z",
+      "collected_at": "2026-10-16T12:12:51.626752Z",
+      "feed_name": "Ars Technica / Main",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "12815f6c17ea09e3",
+      "title": "Ofgem could force energy suppliers to pay rivals if they lure customers with cheaper deals",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/16/ofgem-energy-suppliers-pay-rivals-customers-cheaper-deals",
+      "summary": "Regulator for Great Britain weighs up reintroducing market stabilisation charge to prevent firms going bust Energy suppliers could be forced to pay a charge to rivals if they lure customers with cheaper deals, as the industry regulator for Great Britain attempts to prevent suppliers going bust this winter. Ofgem has published a consultation on a proposal to reintroduce the market stabilisation charge (MSC), which aims to prevent suppliers failing if there is customer exodus, as it frets over the",
+      "published_at": "2026-10-16T08:14:53Z",
+      "collected_at": "2026-10-16T12:12:51.626752Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "d2b8be957fdb9d47",
+      "title": "IMF suggests UK should cut spending rather than raise taxes on banks, as Healey prepares budget raid \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
+      "summary": "Rolling coverage of the latest economic and financial news John Healey poised to raise taxes on banks in budget Elsewhere in the markets today, South Korea\u2019s Kospi share index has recorded its biggest weekly loss since October 2008, down 14.5% this week. Although the Kospi did rise today (+2%), it was still a bad week for technology stocks \u2013 as investors worried about the borrowing, spending commitments and future profitability of AI companies. The reality is that while companies embraced AI agg",
+      "published_at": "2026-10-16T11:31:11Z",
+      "collected_at": "2026-10-16T12:12:51.626752Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "When Will the Fed Move on Rates?",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/16/business/dealbook/fed-rates-warsh-inflation.html"
+        ]
+      },
+      {
+        "claim": "Europe's answer to SpaceX set for 25% weekly gain as Ukraine's Starshield limits raise concerns",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html"
+        ]
+      },
+      {
+        "claim": "IMF suggests UK should cut spending rather than raise taxes on banks, as Healey prepares budget raid \u2013 business live",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates"
+        ]
+      },
+      {
+        "claim": "Warsh Vows to Tame Inflation as A.I. Delivers \u2018Shock\u2019 to Economy",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html"
+        ]
+      },
+      {
+        "claim": "\u2018Clean air is not a favour\u2019: Indonesia\u2019s neighbours fed up with acrid haze as Singapore threatens to prosecute",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/world/2026/oct/16/singapore-threatens-prosecute-indonesia-fires-toxic-haze-smoke"
+        ]
+      },
+      {
+        "claim": "Indonesian Stocks Plunge as MSCI Threatens to Drop Market from Indexes",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/16/business/indonesia-stocks-economy.html"
+        ]
+      },
+      {
+        "claim": "Googlebook review: Android on a laptop is still Android",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android"
+        ]
+      },
+      {
+        "claim": "Ofgem could force energy suppliers to pay rivals if they lure customers with cheaper deals",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/oct/16/ofgem-energy-suppliers-pay-rivals-customers-cheaper-deals"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-10-16\n\n**Reporting period:** 2026-10-15 12:12 UTC to 2026-10-16 12:12 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-10-15 12:12 UTC and 2026-10-16 12:12 UTC, 44 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 7 positive, 20 neutral, 17 negative (mean score -0.14). The most recurring theme was \"companies\".\n\n## Key developments\n\n1. **When Will the Fed Move on Rates?** - _NYT; 2026-10-16 12:00 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/10/16/business/dealbook/fed-rates-warsh-inflation.html)\n2. **Europe's answer to SpaceX set for 25% weekly gain as Ukraine's Starshield limits raise concerns** - _CNBC; 2026-10-16 11:58 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html)\n3. **IMF suggests UK should cut spending rather than raise taxes on banks, as Healey prepares budget raid \u2013 business live** - _The Guardian; 2026-10-16 11:58 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates)\n4. **Warsh Vows to Tame Inflation as A.I. Delivers \u2018Shock\u2019 to Economy** - _NYT; 2026-10-16 11:46 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html)\n5. **\u2018Clean air is not a favour\u2019: Indonesia\u2019s neighbours fed up with acrid haze as Singapore threatens to prosecute** - _The Guardian; 2026-10-16 10:51 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/world/2026/oct/16/singapore-threatens-prosecute-indonesia-fires-toxic-haze-smoke)\n6. **Indonesian Stocks Plunge as MSCI Threatens to Drop Market from Indexes** - _NYT; 2026-10-16 10:30 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://nytimes.com/2026/10/16/business/indonesia-stocks-economy.html)\n7. **Googlebook review: Android on a laptop is still Android** - _Ars Technica; 2026-10-16 10:00 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android)\n8. **Ofgem could force energy suppliers to pay rivals if they lure customers with cheaper deals** - _The Guardian; 2026-10-16 08:14 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://theguardian.com/business/2026/oct/16/ofgem-energy-suppliers-pay-rivals-customers-cheaper-deals)\n\n## Emerging themes\n\n- **companies** - 8 articles, 4 publisher(s), avg sentiment -0.22\n- **investors** - 7 articles, 3 publisher(s), avg sentiment -0.33\n- **market** - 7 articles, 3 publisher(s), avg sentiment -0.39\n- **stocks** - 7 articles, 3 publisher(s), avg sentiment -0.29\n- **tech** - 6 articles, 3 publisher(s), avg sentiment -0.31\n- **inflation** - 5 articles, 2 publisher(s), avg sentiment -0.38\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 7 / Neutral 20 / Negative 17; mean -0.14.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Tech market sell-off deepens amid fears over US inflation and AI debt (https://theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)\n- NYT reported a negative-toned story: Indonesian Stocks Plunge as MSCI Threatens to Drop Market from Indexes (https://nytimes.com/2026/10/16/business/indonesia-stocks-economy.html)\n- The Guardian reported a negative-toned story: People in the US: what is your personal \u2018recession indicator\u2019? (https://theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- NYT - [When Will the Fed Move on Rates?](https://nytimes.com/2026/10/16/business/dealbook/fed-rates-warsh-inflation.html) (2026-10-16 12:00 UTC; collected 2026-10-16 12:12 UTC)\n- CNBC - [Europe's answer to SpaceX set for 25% weekly gain as Ukraine's Starshield limits raise concerns](https://cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html) (2026-10-16 11:58 UTC; collected 2026-10-16 12:12 UTC)\n- The Guardian - [IMF suggests UK should cut spending rather than raise taxes on banks, as Healey prepares budget raid \u2013 business live](https://theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates) (2026-10-16 11:58 UTC; collected 2026-10-16 12:12 UTC)\n- NYT - [Warsh Vows to Tame Inflation as A.I. Delivers \u2018Shock\u2019 to Economy](https://nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html) (2026-10-16 11:46 UTC; collected 2026-10-16 12:12 UTC)\n- The Guardian - [\u2018Clean air is not a favour\u2019: Indonesia\u2019s neighbours fed up with acrid haze as Singapore threatens to prosecute](https://theguardian.com/world/2026/oct/16/singapore-threatens-prosecute-indonesia-fires-toxic-haze-smoke) (2026-10-16 10:51 UTC; collected 2026-10-16 12:12 UTC)\n- NYT - [Indonesian Stocks Plunge as MSCI Threatens to Drop Market from Indexes](https://nytimes.com/2026/10/16/business/indonesia-stocks-economy.html) (2026-10-16 10:30 UTC; collected 2026-10-16 12:12 UTC)\n- Ars Technica - [Googlebook review: Android on a laptop is still Android](https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android) (2026-10-16 10:00 UTC; collected 2026-10-16 12:12 UTC)\n- The Guardian - [Ofgem could force energy suppliers to pay rivals if they lure customers with cheaper deals](https://theguardian.com/business/2026/oct/16/ofgem-energy-suppliers-pay-rivals-customers-cheaper-deals) (2026-10-16 08:14 UTC; collected 2026-10-16 12:12 UTC)\n- The Guardian - [IMF suggests UK should cut spending rather than raise taxes on banks, as Healey prepares budget raid \u2013 business live](https://theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates) (2026-10-16 11:31 UTC; collected 2026-10-16 12:12 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-10-16\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-10-15 12:12 UTC and 2026-10-16 12:12 UTC, 44 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 7 positive, 20 neutral, 17 negative (mean score -0.14). The most recurring theme was \"companies\".\n\nKey developments:\n- When Will the Fed Move on Rates? (NYT) https://nytimes.com/2026/10/16/business/dealbook/fed-rates-warsh-inflation.html\n- Europe's answer to SpaceX set for 25% weekly gain as Ukraine's Starshield limits raise concerns (CNBC) https://cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html\n- IMF suggests UK should cut spending rather than raise taxes on banks, as Healey prepares budget raid \u2013 business live (The Guardian) https://theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates\n- Warsh Vows to Tame Inflation as A.I. Delivers \u2018Shock\u2019 to Economy (NYT) https://nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html\n- \u2018Clean air is not a favour\u2019: Indonesia\u2019s neighbours fed up with acrid haze as Singapore threatens to prosecute (The Guardian) https://theguardian.com/world/2026/oct/16/singapore-threatens-prosecute-indonesia-fires-toxic-haze-smoke\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
