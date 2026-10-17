@@ -1,0 +1,483 @@
+{
+  "id": "921b0b2df5a5",
+  "generated_at": "2026-10-17T11:30:18.643720Z",
+  "period_start": "2026-10-16T11:30:18.643720Z",
+  "period_end": "2026-10-17T11:30:18.643720Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-10-16 11:30 UTC and 2026-10-17 11:30 UTC, 36 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 13 neutral, 20 negative (mean score -0.22). The most recurring theme was \"interest rates\".",
+  "key_developments": [
+    {
+      "text": "US corporate lobbyists mounted \u2018blitz\u2019 to dilute landmark EU deforestation law, report finds",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-17T11:00:31Z"
+    },
+    {
+      "text": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-10-17T10:19:32Z"
+    },
+    {
+      "text": "\u2018Countries are defying gravity\u2019: how much longer can global economy resist chaos?",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-17T10:00:27Z"
+    },
+    {
+      "text": "Weak Links Start to Show in A.I. Borrowing",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/17/business/weak-links-start-to-show-in-ai-borrowing.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-10-17T09:00:51Z"
+    },
+    {
+      "text": "Plan to make firms pay more to train older workers than youth apprentices in England",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-17T07:00:24Z"
+    },
+    {
+      "text": "Palantir patient data tech rejected by many NHS trusts in England",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-10-17T06:00:24Z"
+    },
+    {
+      "text": "Some companies give AI to everyone. This CEO is doing the opposite",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-17T05:00:01Z"
+    },
+    {
+      "text": "Not cool: who hacked France\u2019s supermarket fridges?",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-10-17T04:00:20Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "interest rates",
+      "article_count": 4,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html",
+        "https://nytimes.com/2026/10/16/business/us-budget-deficit.html",
+        "https://nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html",
+        "https://theguardian.com/commentisfree/2026/oct/16/the-guardian-view-on-the-banks-too-big-to-fail-cannot-mean-too-big-to-tax"
+      ],
+      "avg_sentiment": -0.131,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "being",
+      "article_count": 5,
+      "publishers": [
+        "BBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts",
+        "https://theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england",
+        "https://theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
+        "https://bbc.co.uk/news/articles/c9vgr61kml3mo?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/society/2026/oct/16/neet-rates-england-smaller-cities-towns-youth-unemployment-training"
+      ],
+      "avg_sentiment": -0.258,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "made",
+      "article_count": 5,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
+        "https://theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
+        "https://nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html",
+        "https://theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
+        "https://theguardian.com/commentisfree/2026/oct/16/the-guardian-view-on-the-banks-too-big-to-fail-cannot-mean-too-big-to-tax"
+      ],
+      "avg_sentiment": -0.175,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "john healey",
+      "article_count": 3,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
+        "https://theguardian.com/commentisfree/2026/oct/16/the-guardian-view-on-the-banks-too-big-to-fail-cannot-mean-too-big-to-tax",
+        "https://theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates"
+      ],
+      "avg_sentiment": 0.145,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "borrowing",
+      "article_count": 4,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/17/business/weak-links-start-to-show-in-ai-borrowing.html",
+        "https://nytimes.com/2026/10/16/business/us-budget-deficit.html",
+        "https://theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
+        "https://nytimes.com/2026/10/16/business/dealbook/fed-rates-warsh-inflation.html"
+      ],
+      "avg_sentiment": -0.326,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "biggest",
+      "article_count": 4,
+      "publishers": [
+        "Ars Technica",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent",
+        "https://theguardian.com/commentisfree/2026/oct/16/the-guardian-view-on-the-banks-too-big-to-fail-cannot-mean-too-big-to-tax",
+        "https://theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
+        "https://theguardian.com/society/2026/oct/16/neet-rates-england-smaller-cities-towns-youth-unemployment-training"
+      ],
+      "avg_sentiment": -0.427,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 3,
+    "neutral": 13,
+    "negative": 20,
+    "mean_score": -0.22,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "NYT reported a negative-toned story: Indonesian Stocks Plunge as MSCI Threatens to Drop Market from Indexes (https://nytimes.com/2026/10/16/business/indonesia-stocks-economy.html)",
+    "The Guardian reported a negative-toned story: No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme (https://theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme)",
+    "The Guardian reported a negative-toned story: Plan to make firms pay more to train older workers than youth apprentices in England (https://theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "98cff763592f39a8",
+      "title": "US corporate lobbyists mounted \u2018blitz\u2019 to dilute landmark EU deforestation law, report finds",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
+      "summary": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation Regulation US corporate lobbyists launched a two-year \u201cblitz\u201d to postpone and weaken the world\u2019s most progressive legislation to protect forests, according to a new investigation by the environmental watchdog Mighty Earth. Major US firms and trade associations, including Cargill, Bunge, Mondel\u0113z and the US Soybean Export Council, as well as numerous other US firms and organizations, sought to infl",
+      "published_at": "2026-10-17T11:00:31Z",
+      "collected_at": "2026-10-17T11:30:18.643720Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.34,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "94c7b6488f184cad",
+      "title": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts",
+      "summary": "Peter Ricketts calls for more resilience in protecting banking, energy and water systems from cyber-assaults Ministers need to be honest with the British public about the immediate threat posed by Russia, which could soon lead to lives being lost, a former national security adviser has said. Peter Ricketts, who advised David Cameron when he was prime minister, became the latest figure to warn about the scale of the threat posed by \u201chybrid attacks\u201d from Vladimir Putin\u2019s forces. Continue reading..",
+      "published_at": "2026-10-17T10:19:32Z",
+      "collected_at": "2026-10-17T11:30:18.643720Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": -0.3818,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "ae1e2037b92c39cf",
+      "title": "\u2018Countries are defying gravity\u2019: how much longer can global economy resist chaos?",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
+      "summary": "Sky-high oil prices and geopolitical turmoil have made less of a dent than feared \u2026 just don\u2019t bank on it to last Inside the vast, glass-walled Queen Sirikit conference centre in Bangkok, the air-conditioned atmosphere was calm as policymakers from more than 100 countries gathered this week for the International Monetary Fund\u2019s annual meeting \u2013 and contemplated the surprising strength of the global economy. A small army of smiling, uniformed Thai staff were on hand to explain the baffling geogra",
+      "published_at": "2026-10-17T10:00:27Z",
+      "collected_at": "2026-10-17T11:30:18.643720Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "f2da3779d35185ab",
+      "title": "Weak Links Start to Show in A.I. Borrowing",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/17/business/weak-links-start-to-show-in-ai-borrowing.html",
+      "summary": "Debt trouble at CoreWeave, Oracle and SoftBank raises questions about whether there is broader trouble with the data center build-out.",
+      "published_at": "2026-10-17T09:00:51Z",
+      "collected_at": "2026-10-17T11:30:18.643720Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": -0.3612,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "3b8ec8e4222968d8",
+      "title": "Plan to make firms pay more to train older workers than youth apprentices in England",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england",
+      "summary": "Exclusive: Ministers considering overhaul of apprenticeship funding scheme to tackle youth jobs crisis Employers in England are to be forced to pay more to train an older worker than a youth apprentice under plans being drawn up by the government to tackle the youth jobs crisis. The Guardian understands ministers plan to overhaul Labour\u2019s apprenticeship funding scheme to increase the cost of training by 25% for a worker over the age of 25 in order to encourage businesses to train young people in",
+      "published_at": "2026-10-17T07:00:24Z",
+      "collected_at": "2026-10-17T11:30:18.643720Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.7783,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "b95de62fffc1bc3f",
+      "title": "Palantir patient data tech rejected by many NHS trusts in England",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
+      "summary": "Exclusive: health bodies across country say controversial US firm\u2019s data platform no better than systems already in use NHS organisations that care for millions of people in England are rejecting Palantir\u2019s patient data technology, according to freedom of information responses that reveal health bosses believe they can find better or equal alternatives in many cases. Some health bodies said the \u00a3330m federated data platform (FDP) operated by the controversial US company had made it easier to man",
+      "published_at": "2026-10-17T06:00:24Z",
+      "collected_at": "2026-10-17T11:30:18.643720Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "8f77b86b8af73104",
+      "title": "Some companies give AI to everyone. This CEO is doing the opposite",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+      "summary": "Paysend CEO Ben Chisell limits AI tools to top performers as other U.K. companies push broader workplace rollouts.",
+      "published_at": "2026-10-17T05:00:01Z",
+      "collected_at": "2026-10-17T11:30:18.643720Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "d3d9fee19539ef72",
+      "title": "Not cool: who hacked France\u2019s supermarket fridges?",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
+      "summary": "Whether it was youngsters proving their skills or state sabotage, Europe\u2019s most hacked country was left with a mountain of waste after food began cooking in freezers Shortly before midnight last Sunday, the digital thermostats controlling hundreds of supermarket cold aisles across France began to flicker and rise. In a \u201cbizarre and unprecedented\u201d cyber-attack, hackers had remotely overridden the temperature settings on thousands of freezers, fridges and chiller cabinets pushing them from as low ",
+      "published_at": "2026-10-17T04:00:20Z",
+      "collected_at": "2026-10-17T11:30:18.643720Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.296,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "ae1e2037b92c39cf",
+      "title": "\u2018Countries are defying gravity\u2019: how much longer can global economy resist chaos?",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
+      "summary": "Sky-high oil prices and geopolitical turmoil have made less of a dent than feared \u2026 just don\u2019t bank on it to last Inside the vast, glass-walled Queen Sirikit conference centre in Bangkok, the air-conditioned atmosphere was calm as policymakers from more than 100 countries gathered this week for the International Monetary Fund\u2019s annual meeting \u2013 and contemplated the surprising strength of the global economy. A small army of smiling, uniformed Thai staff were on hand to explain the baffling geogra",
+      "published_at": "2026-10-17T10:00:27Z",
+      "collected_at": "2026-10-17T11:30:18.643720Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "b95de62fffc1bc3f",
+      "title": "Palantir patient data tech rejected by many NHS trusts in England",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
+      "summary": "Exclusive: health bodies across country say controversial US firm\u2019s data platform no better than systems already in use NHS organisations that care for millions of people in England are rejecting Palantir\u2019s patient data technology, according to freedom of information responses that reveal health bosses believe they can find better or equal alternatives in many cases. Some health bodies said the \u00a3330m federated data platform (FDP) operated by the controversial US company had made it easier to man",
+      "published_at": "2026-10-17T06:00:24Z",
+      "collected_at": "2026-10-17T11:30:18.643720Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "d3d9fee19539ef72",
+      "title": "Not cool: who hacked France\u2019s supermarket fridges?",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
+      "summary": "Whether it was youngsters proving their skills or state sabotage, Europe\u2019s most hacked country was left with a mountain of waste after food began cooking in freezers Shortly before midnight last Sunday, the digital thermostats controlling hundreds of supermarket cold aisles across France began to flicker and rise. In a \u201cbizarre and unprecedented\u201d cyber-attack, hackers had remotely overridden the temperature settings on thousands of freezers, fridges and chiller cabinets pushing them from as low ",
+      "published_at": "2026-10-17T04:00:20Z",
+      "collected_at": "2026-10-17T11:30:18.643720Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "US corporate lobbyists mounted \u2018blitz\u2019 to dilute landmark EU deforestation law, report finds",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation"
+        ]
+      },
+      {
+        "claim": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts"
+        ]
+      },
+      {
+        "claim": "\u2018Countries are defying gravity\u2019: how much longer can global economy resist chaos?",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable"
+        ]
+      },
+      {
+        "claim": "Weak Links Start to Show in A.I. Borrowing",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/17/business/weak-links-start-to-show-in-ai-borrowing.html"
+        ]
+      },
+      {
+        "claim": "Plan to make firms pay more to train older workers than youth apprentices in England",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england"
+        ]
+      },
+      {
+        "claim": "Palantir patient data tech rejected by many NHS trusts in England",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england"
+        ]
+      },
+      {
+        "claim": "Some companies give AI to everyone. This CEO is doing the opposite",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html"
+        ]
+      },
+      {
+        "claim": "Not cool: who hacked France\u2019s supermarket fridges?",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-10-17\n\n**Reporting period:** 2026-10-16 11:30 UTC to 2026-10-17 11:30 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-10-16 11:30 UTC and 2026-10-17 11:30 UTC, 36 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 13 neutral, 20 negative (mean score -0.22). The most recurring theme was \"interest rates\".\n\n## Key developments\n\n1. **US corporate lobbyists mounted \u2018blitz\u2019 to dilute landmark EU deforestation law, report finds** - _The Guardian; 2026-10-17 11:00 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation)\n2. **Ministers must be honest about Russian threat to UK, says former Foreign Office head** - _The Guardian; 2026-10-17 10:19 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts)\n3. **\u2018Countries are defying gravity\u2019: how much longer can global economy resist chaos?** - _The Guardian; 2026-10-17 10:00 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable)\n4. **Weak Links Start to Show in A.I. Borrowing** - _NYT; 2026-10-17 09:00 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://nytimes.com/2026/10/17/business/weak-links-start-to-show-in-ai-borrowing.html)\n5. **Plan to make firms pay more to train older workers than youth apprentices in England** - _The Guardian; 2026-10-17 07:00 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england)\n6. **Palantir patient data tech rejected by many NHS trusts in England** - _The Guardian; 2026-10-17 06:00 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england)\n7. **Some companies give AI to everyone. This CEO is doing the opposite** - _CNBC; 2026-10-17 05:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html)\n8. **Not cool: who hacked France\u2019s supermarket fridges?** - _The Guardian; 2026-10-17 04:00 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges)\n\n## Emerging themes\n\n- **interest rates** - 4 articles, 2 publisher(s), avg sentiment -0.13\n- **being** - 5 articles, 2 publisher(s), avg sentiment -0.26\n- **made** - 5 articles, 2 publisher(s), avg sentiment -0.17\n- **john healey** - 3 articles, 1 publisher(s), avg sentiment +0.14\n- **borrowing** - 4 articles, 2 publisher(s), avg sentiment -0.33\n- **biggest** - 4 articles, 2 publisher(s), avg sentiment -0.43\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 3 / Neutral 13 / Negative 20; mean -0.22.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- NYT reported a negative-toned story: Indonesian Stocks Plunge as MSCI Threatens to Drop Market from Indexes (https://nytimes.com/2026/10/16/business/indonesia-stocks-economy.html)\n- The Guardian reported a negative-toned story: No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme (https://theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme)\n- The Guardian reported a negative-toned story: Plan to make firms pay more to train older workers than youth apprentices in England (https://theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- The Guardian - [US corporate lobbyists mounted \u2018blitz\u2019 to dilute landmark EU deforestation law, report finds](https://theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation) (2026-10-17 11:00 UTC; collected 2026-10-17 11:30 UTC)\n- The Guardian - [Ministers must be honest about Russian threat to UK, says former Foreign Office head](https://theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts) (2026-10-17 10:19 UTC; collected 2026-10-17 11:30 UTC)\n- The Guardian - [\u2018Countries are defying gravity\u2019: how much longer can global economy resist chaos?](https://theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable) (2026-10-17 10:00 UTC; collected 2026-10-17 11:30 UTC)\n- NYT - [Weak Links Start to Show in A.I. Borrowing](https://nytimes.com/2026/10/17/business/weak-links-start-to-show-in-ai-borrowing.html) (2026-10-17 09:00 UTC; collected 2026-10-17 11:30 UTC)\n- The Guardian - [Plan to make firms pay more to train older workers than youth apprentices in England](https://theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england) (2026-10-17 07:00 UTC; collected 2026-10-17 11:30 UTC)\n- The Guardian - [Palantir patient data tech rejected by many NHS trusts in England](https://theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england) (2026-10-17 06:00 UTC; collected 2026-10-17 11:30 UTC)\n- CNBC - [Some companies give AI to everyone. This CEO is doing the opposite](https://cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html) (2026-10-17 05:00 UTC; collected 2026-10-17 11:30 UTC)\n- The Guardian - [Not cool: who hacked France\u2019s supermarket fridges?](https://theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges) (2026-10-17 04:00 UTC; collected 2026-10-17 11:30 UTC)\n- The Guardian - [\u2018Countries are defying gravity\u2019: how much longer can global economy resist chaos?](https://theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable) (2026-10-17 10:00 UTC; collected 2026-10-17 11:30 UTC)\n- The Guardian - [Palantir patient data tech rejected by many NHS trusts in England](https://theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england) (2026-10-17 06:00 UTC; collected 2026-10-17 11:30 UTC)\n- The Guardian - [Not cool: who hacked France\u2019s supermarket fridges?](https://theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges) (2026-10-17 04:00 UTC; collected 2026-10-17 11:30 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-10-17\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-10-16 11:30 UTC and 2026-10-17 11:30 UTC, 36 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 13 neutral, 20 negative (mean score -0.22). The most recurring theme was \"interest rates\".\n\nKey developments:\n- US corporate lobbyists mounted \u2018blitz\u2019 to dilute landmark EU deforestation law, report finds (The Guardian) https://theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation\n- Ministers must be honest about Russian threat to UK, says former Foreign Office head (The Guardian) https://theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts\n- \u2018Countries are defying gravity\u2019: how much longer can global economy resist chaos? (The Guardian) https://theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable\n- Weak Links Start to Show in A.I. Borrowing (NYT) https://nytimes.com/2026/10/17/business/weak-links-start-to-show-in-ai-borrowing.html\n- Plan to make firms pay more to train older workers than youth apprentices in England (The Guardian) https://theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
