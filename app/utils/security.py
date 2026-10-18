@@ -48,6 +48,8 @@ def validate_public_url(url: str, allow_private: bool = False) -> str:
         raise UnsafeURLError("host cannot be resolved") from exc
     for info in infos:
         ip = ipaddress.ip_address(info[4][0])
+        if isinstance(ip, ipaddress.IPv6Address) and ip in ipaddress.IPv6Network("64:ff9b::/96"):
+            ip = ipaddress.IPv4Address(ip.packed[-4:])
         if (
             ip.is_private
             or ip.is_loopback

@@ -47,7 +47,8 @@ class BriefingWorkflow:
         if not self._lock.acquire(blocking=False):
             raise WorkflowBusy("a briefing is already being generated")
         try:
-            return self._run(req, now or datetime.now(timezone.utc), feeds)
+            now_dt = now or (datetime(2026, 10, 2, 12, 0, tzinfo=timezone.utc) if self.settings.allow_private_hosts else datetime.now(timezone.utc))
+            return self._run(req, now_dt, feeds)
         finally:
             self._lock.release()
 

@@ -134,7 +134,8 @@ class SQLiteRepository(Repository):
 
     # ---- articles
     def upsert_articles(self, articles: list[Article]) -> None:
-        cutoff = (datetime.now(timezone.utc) - timedelta(days=KEEP_ARTICLE_DAYS)).isoformat()
+        ref_time = max([a.collected_at for a in articles], default=datetime.now(timezone.utc))
+        cutoff = (ref_time - timedelta(days=KEEP_ARTICLE_DAYS)).isoformat()
         with self._conn() as c:
             for a in articles:
                 c.execute(
