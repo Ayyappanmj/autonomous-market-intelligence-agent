@@ -1,0 +1,470 @@
+{
+  "id": "452a9aa87144",
+  "generated_at": "2026-10-23T12:31:16.372845Z",
+  "period_start": "2026-10-22T12:31:16.372845Z",
+  "period_end": "2026-10-23T12:31:16.372845Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-10-22 12:31 UTC and 2026-10-23 12:31 UTC, 51 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 6 positive, 25 neutral, 20 negative (mean score -0.16). The most recurring theme was \"continue reading\".",
+  "key_developments": [
+    {
+      "text": "What is PHP and why did it spark a global cyber-security scramble?",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://bbc.co.uk/news/articles/c3qjnwye0ep5o?at_campaign=rss&at_medium=RSS"
+      ],
+      "publishers": [
+        "BBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-23T12:24:17Z"
+    },
+    {
+      "text": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-23T12:08:30Z"
+    },
+    {
+      "text": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://bbc.co.uk/news/articles/cxnv025d8qpmo?at_campaign=rss&at_medium=RSS"
+      ],
+      "publishers": [
+        "BBC"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-10-23T12:00:25Z"
+    },
+    {
+      "text": "Oil hits five-month high as global stocks wobble on AI fears; retail sales in Great Britain fall as shoppers cut back - business live",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-23T11:55:06Z"
+    },
+    {
+      "text": "A Tech Rotation Roils the Markets, Again",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-23T11:42:50Z"
+    },
+    {
+      "text": "A.I. and New Rules for Accounting Are an Opportunity for Start-Ups",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/23/business/dealbook/pennylane-ai-accounting-france.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-23T11:39:37Z"
+    },
+    {
+      "text": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites"
+      ],
+      "publishers": [
+        "Ars Technica"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-10-23T11:30:22Z"
+    },
+    {
+      "text": "Trump\u2019s Tariffs Slow America\u2019s Access to Canada\u2019s Cheese",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-23T11:06:57Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "continue reading",
+      "article_count": 6,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/oct/23/retail-sales-in-great-britain-fall-as-struggling-households-cut-back",
+        "https://theguardian.com/business/2026/oct/23/europe-highest-energy-costs-great-britain-this-winter",
+        "https://theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment",
+        "https://theguardian.com/us-news/2026/oct/22/trump-atlantic-ocean-rename-google",
+        "https://theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
+      ],
+      "avg_sentiment": -0.133,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "jobs",
+      "article_count": 7,
+      "publishers": [
+        "BBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news",
+        "https://theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment",
+        "https://theguardian.com/commentisfree/2026/oct/22/net-zero-transition-britain-jackdaw-gasfield-jobs-energy-security-labour",
+        "https://bbc.co.uk/news/articles/cmx23dwp3qzro?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget"
+      ],
+      "avg_sentiment": -0.18,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "company",
+      "article_count": 6,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/23/business/dealbook/pennylane-ai-accounting-france.html",
+        "https://theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
+        "https://cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+        "https://theguardian.com/us-news/2026/oct/22/trump-atlantic-ocean-rename-google",
+        "https://theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
+      ],
+      "avg_sentiment": -0.073,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "workers",
+      "article_count": 6,
+      "publishers": [
+        "BBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://bbc.co.uk/news/articles/cxnv025d8qpmo?at_campaign=rss&at_medium=RSS",
+        "https://nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html",
+        "https://bbc.co.uk/news/articles/ckvgyml6pdm9o?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/commentisfree/2026/oct/23/labour-truth-immigration-economy-nhs-home-secretary",
+        "https://theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget"
+      ],
+      "avg_sentiment": -0.343,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "global",
+      "article_count": 6,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://bbc.co.uk/news/articles/c3qjnwye0ep5o?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news",
+        "https://cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
+        "https://theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-ai-safety-the-push-for-global-regulation-must-advance",
+        "https://cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html"
+      ],
+      "avg_sentiment": -0.258,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "plans",
+      "article_count": 6,
+      "publishers": [
+        "Ars Technica",
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
+        "https://cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+        "https://theguardian.com/commentisfree/2026/oct/23/labour-truth-immigration-economy-nhs-home-secretary",
+        "https://theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
+        "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational"
+      ],
+      "avg_sentiment": -0.213,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 6,
+    "neutral": 25,
+    "negative": 20,
+    "mean_score": -0.163,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Oil hits five-month high as global stocks wobble on AI fears; retail sales in Great Britain fall as shoppers cut back - business live (https://theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news)",
+    "The Guardian reported a negative-toned story: Is a job guarantee the solution to mass AI unemployment? (https://theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment)",
+    "The Guardian reported a negative-toned story: Retail sales in Great Britain fall as struggling households cut back (https://theguardian.com/business/2026/oct/23/retail-sales-in-great-britain-fall-as-struggling-households-cut-back)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "600bffa7bf243f70",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/c3qjnwye0ep5o?at_campaign=rss&at_medium=RSS",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "published_at": "2026-10-23T12:24:17Z",
+      "collected_at": "2026-10-23T12:31:16.372845Z",
+      "feed_name": "BBC / Business",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "a09dafaba2bdd4c5",
+      "title": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
+      "summary": "The word on the ground from Nvidia's GTC conference in Berlin.",
+      "published_at": "2026-10-23T12:08:30Z",
+      "collected_at": "2026-10-23T12:31:16.372845Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "5f356d70be588eee",
+      "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/cxnv025d8qpmo?at_campaign=rss&at_medium=RSS",
+      "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
+      "published_at": "2026-10-23T12:00:25Z",
+      "collected_at": "2026-10-23T12:31:16.372845Z",
+      "feed_name": "BBC / Technology",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": -0.3612,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "957aba61149576d8",
+      "title": "Oil hits five-month high as global stocks wobble on AI fears; retail sales in Great Britain fall as shoppers cut back - business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news",
+      "summary": "Rolling coverage of the latest economic and financial news Heineken has warned British bars and pubs that the boom in popularity of weight-loss drugs could lead to a fall in sales of beer and cider. The world\u2019s second largest brewer sent a presentation to British hospitality customers earlier this month warning that GLP-1 use \u2013 led by Ozempic and Wegovy \u2013 can reduce the desire to drink alcohol , which could lead to \u201cfullness and fewer serves\u201d of pints in pubs and bars. The jobs balance rose to 5",
+      "published_at": "2026-10-23T11:55:06Z",
+      "collected_at": "2026-10-23T12:31:16.372845Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai",
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": -0.9022,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "1c4161acf1430a80",
+      "title": "A Tech Rotation Roils the Markets, Again",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html",
+      "summary": "Investors are bracing for a one-two punch: rising oil prices and concerns about the soaring costs of the artificial intelligence buildout.",
+      "published_at": "2026-10-23T11:42:50Z",
+      "collected_at": "2026-10-23T12:31:16.372845Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai",
+        "technology",
+        "markets"
+      ],
+      "sentiment_score": -0.296,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "a2ff3f84e6a205dd",
+      "title": "A.I. and New Rules for Accounting Are an Opportunity for Start-Ups",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/23/business/dealbook/pennylane-ai-accounting-france.html",
+      "summary": "Pennylane, a French company, has gained market share in its home country by helping accountants work with clients. It\u2019s aiming to expand internationally.",
+      "published_at": "2026-10-23T11:39:37Z",
+      "collected_at": "2026-10-23T12:31:16.372845Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "4d9ebe56a9774973",
+      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+      "publisher": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites",
+      "summary": "Ukraine has changed drones and war-fighting tech to reduce reliance on Starlink.",
+      "published_at": "2026-10-23T11:30:22Z",
+      "collected_at": "2026-10-23T12:31:16.372845Z",
+      "feed_name": "Ars Technica / Main",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "1c059fbe57f81baa",
+      "title": "Trump\u2019s Tariffs Slow America\u2019s Access to Canada\u2019s Cheese",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html",
+      "summary": "The Trump administration\u2019s tariffs are slowing Americans\u2019 access to the cheese just as producers were finding a foothold stateside.",
+      "published_at": "2026-10-23T11:06:57Z",
+      "collected_at": "2026-10-23T12:31:16.372845Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.4939,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "600bffa7bf243f70",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/c3qjnwye0ep5o?at_campaign=rss&at_medium=RSS",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "published_at": "2026-10-23T12:24:17Z",
+      "collected_at": "2026-10-23T12:31:16.372845Z",
+      "feed_name": "BBC / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "What is PHP and why did it spark a global cyber-security scramble?",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://bbc.co.uk/news/articles/c3qjnwye0ep5o?at_campaign=rss&at_medium=RSS"
+        ]
+      },
+      {
+        "claim": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html"
+        ]
+      },
+      {
+        "claim": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://bbc.co.uk/news/articles/cxnv025d8qpmo?at_campaign=rss&at_medium=RSS"
+        ]
+      },
+      {
+        "claim": "Oil hits five-month high as global stocks wobble on AI fears; retail sales in Great Britain fall as shoppers cut back - business live",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news"
+        ]
+      },
+      {
+        "claim": "A Tech Rotation Roils the Markets, Again",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html"
+        ]
+      },
+      {
+        "claim": "A.I. and New Rules for Accounting Are an Opportunity for Start-Ups",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/23/business/dealbook/pennylane-ai-accounting-france.html"
+        ]
+      },
+      {
+        "claim": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites"
+        ]
+      },
+      {
+        "claim": "Trump\u2019s Tariffs Slow America\u2019s Access to Canada\u2019s Cheese",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-10-23\n\n**Reporting period:** 2026-10-22 12:31 UTC to 2026-10-23 12:31 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-10-22 12:31 UTC and 2026-10-23 12:31 UTC, 51 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 6 positive, 25 neutral, 20 negative (mean score -0.16). The most recurring theme was \"continue reading\".\n\n## Key developments\n\n1. **What is PHP and why did it spark a global cyber-security scramble?** - _BBC; 2026-10-23 12:24 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://bbc.co.uk/news/articles/c3qjnwye0ep5o?at_campaign=rss&at_medium=RSS)\n2. **On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress** - _CNBC; 2026-10-23 12:08 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html)\n3. **'It's been relentless' say IT workers on frontline of PHP cyber-security scramble** - _BBC; 2026-10-23 12:00 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://bbc.co.uk/news/articles/cxnv025d8qpmo?at_campaign=rss&at_medium=RSS)\n4. **Oil hits five-month high as global stocks wobble on AI fears; retail sales in Great Britain fall as shoppers cut back - business live** - _The Guardian; 2026-10-23 11:55 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news)\n5. **A Tech Rotation Roils the Markets, Again** - _NYT; 2026-10-23 11:42 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html)\n6. **A.I. and New Rules for Accounting Are an Opportunity for Start-Ups** - _NYT; 2026-10-23 11:39 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://nytimes.com/2026/10/23/business/dealbook/pennylane-ai-accounting-france.html)\n7. **Ukraine learns to fight without Starlink as Musk plays politics with satellites** - _Ars Technica; 2026-10-23 11:30 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites)\n8. **Trump\u2019s Tariffs Slow America\u2019s Access to Canada\u2019s Cheese** - _NYT; 2026-10-23 11:06 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html)\n\n## Emerging themes\n\n- **continue reading** - 6 articles, 1 publisher(s), avg sentiment -0.13\n- **jobs** - 7 articles, 3 publisher(s), avg sentiment -0.18\n- **company** - 6 articles, 3 publisher(s), avg sentiment -0.07\n- **workers** - 6 articles, 3 publisher(s), avg sentiment -0.34\n- **global** - 6 articles, 3 publisher(s), avg sentiment -0.26\n- **plans** - 6 articles, 3 publisher(s), avg sentiment -0.21\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 6 / Neutral 25 / Negative 20; mean -0.16.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Oil hits five-month high as global stocks wobble on AI fears; retail sales in Great Britain fall as shoppers cut back - business live (https://theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news)\n- The Guardian reported a negative-toned story: Is a job guarantee the solution to mass AI unemployment? (https://theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment)\n- The Guardian reported a negative-toned story: Retail sales in Great Britain fall as struggling households cut back (https://theguardian.com/business/2026/oct/23/retail-sales-in-great-britain-fall-as-struggling-households-cut-back)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- BBC - [What is PHP and why did it spark a global cyber-security scramble?](https://bbc.co.uk/news/articles/c3qjnwye0ep5o?at_campaign=rss&at_medium=RSS) (2026-10-23 12:24 UTC; collected 2026-10-23 12:31 UTC)\n- CNBC - [On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress](https://cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html) (2026-10-23 12:08 UTC; collected 2026-10-23 12:31 UTC)\n- BBC - ['It's been relentless' say IT workers on frontline of PHP cyber-security scramble](https://bbc.co.uk/news/articles/cxnv025d8qpmo?at_campaign=rss&at_medium=RSS) (2026-10-23 12:00 UTC; collected 2026-10-23 12:31 UTC)\n- The Guardian - [Oil hits five-month high as global stocks wobble on AI fears; retail sales in Great Britain fall as shoppers cut back - business live](https://theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news) (2026-10-23 11:55 UTC; collected 2026-10-23 12:31 UTC)\n- NYT - [A Tech Rotation Roils the Markets, Again](https://nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html) (2026-10-23 11:42 UTC; collected 2026-10-23 12:31 UTC)\n- NYT - [A.I. and New Rules for Accounting Are an Opportunity for Start-Ups](https://nytimes.com/2026/10/23/business/dealbook/pennylane-ai-accounting-france.html) (2026-10-23 11:39 UTC; collected 2026-10-23 12:31 UTC)\n- Ars Technica - [Ukraine learns to fight without Starlink as Musk plays politics with satellites](https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites) (2026-10-23 11:30 UTC; collected 2026-10-23 12:31 UTC)\n- NYT - [Trump\u2019s Tariffs Slow America\u2019s Access to Canada\u2019s Cheese](https://nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html) (2026-10-23 11:06 UTC; collected 2026-10-23 12:31 UTC)\n- BBC - [What is PHP and why did it spark a global cyber-security scramble?](https://bbc.co.uk/news/articles/c3qjnwye0ep5o?at_campaign=rss&at_medium=RSS) (2026-10-23 12:24 UTC; collected 2026-10-23 12:31 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-10-23\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-10-22 12:31 UTC and 2026-10-23 12:31 UTC, 51 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 6 positive, 25 neutral, 20 negative (mean score -0.16). The most recurring theme was \"continue reading\".\n\nKey developments:\n- What is PHP and why did it spark a global cyber-security scramble? (BBC) https://bbc.co.uk/news/articles/c3qjnwye0ep5o?at_campaign=rss&at_medium=RSS\n- On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress (CNBC) https://cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html\n- 'It's been relentless' say IT workers on frontline of PHP cyber-security scramble (BBC) https://bbc.co.uk/news/articles/cxnv025d8qpmo?at_campaign=rss&at_medium=RSS\n- Oil hits five-month high as global stocks wobble on AI fears; retail sales in Great Britain fall as shoppers cut back - business live (The Guardian) https://theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news\n- A Tech Rotation Roils the Markets, Again (NYT) https://nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
