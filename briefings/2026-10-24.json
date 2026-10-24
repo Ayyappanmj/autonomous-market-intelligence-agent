@@ -1,0 +1,484 @@
+{
+  "id": "f3ea4e4b2217",
+  "generated_at": "2026-10-24T11:54:51.039061Z",
+  "period_start": "2026-10-23T11:54:51.039061Z",
+  "period_end": "2026-10-24T11:54:51.039061Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-10-23 11:54 UTC and 2026-10-24 11:54 UTC, 35 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 14 neutral, 18 negative (mean score -0.18). The most recurring theme was \"some\".",
+  "key_developments": [
+    {
+      "text": "The datacentre next door: on the frontline of tech\u2019s latest David v Goliath battle",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-24T11:00:32Z"
+    },
+    {
+      "text": "No unions, low taxes: why some of Britain\u2019s top chefs are opening outposts in Gulf states",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-24T11:00:31Z"
+    },
+    {
+      "text": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-24T11:00:01Z"
+    },
+    {
+      "text": "Tinned food, loo roll and power banks: the Brits following advice to stockpile",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-24T09:00:29Z"
+    },
+    {
+      "text": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-24T08:32:56Z"
+    },
+    {
+      "text": "Opposition deepfake video of Spanish PM\u2019s wife sparks outrage before election",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-24T06:51:53Z"
+    },
+    {
+      "text": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-24T06:41:14Z"
+    },
+    {
+      "text": "John Healey pledges to use budget to harness power of AI to bolster Britain\u2019s security",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-24T05:00:24Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "some",
+      "article_count": 9,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
+        "https://cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+        "https://theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice",
+        "https://nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html",
+        "https://bbc.co.uk/news/articles/c60qk573yzz8o?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": -0.269,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "artificial intelligence",
+      "article_count": 4,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+        "https://theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+        "https://theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+        "https://theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts"
+      ],
+      "avg_sentiment": -0.158,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "market",
+      "article_count": 6,
+      "publishers": [
+        "Ars Technica",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
+        "https://cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+        "https://nytimes.com/2026/10/23/business/interest-rates-money-market-funds-stocks-bonds.html",
+        "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk",
+        "https://nytimes.com/2026/10/23/business/dealbook/pennylane-ai-accounting-france.html"
+      ],
+      "avg_sentiment": -0.225,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "company",
+      "article_count": 5,
+      "publishers": [
+        "Ars Technica",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+        "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising",
+        "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs",
+        "https://theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
+        "https://nytimes.com/2026/10/23/business/dealbook/pennylane-ai-accounting-france.html"
+      ],
+      "avg_sentiment": -0.118,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "global",
+      "article_count": 5,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+        "https://cnbc.com/2026/10/23/apple-iphone-duo-china-launch.html",
+        "https://nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+        "https://theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+        "https://bbc.co.uk/news/articles/c3qjnwye0ep5o?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": -0.1,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "tariffs",
+      "article_count": 4,
+      "publishers": [
+        "BBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://bbc.co.uk/news/articles/c60qk573yzz8o?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+        "https://nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
+        "https://nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html"
+      ],
+      "avg_sentiment": -0.292,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 3,
+    "neutral": 14,
+    "negative": 18,
+    "mean_score": -0.185,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "CNBC reported a negative-toned story: Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO (https://cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html)",
+    "NYT reported a negative-toned story: Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers (https://nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html)",
+    "NYT reported a negative-toned story: Volvo Shares Plunge as China Ambitions Fade for Western Carmakers (https://nytimes.com/2026/10/23/business/volvo-china-2500-job-cuts.html)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "86096526524972df",
+      "title": "The datacentre next door: on the frontline of tech\u2019s latest David v Goliath battle",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
+      "summary": "The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks \u2013 but one Welsh city is fighting back Dale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales. There\u2019s a trampoline and a slide on the lawn for his grandchildren, and chairs for him and his wife. He should be enjoying the light draining from the perfect autumnal sky \u2013 but almost his entire view is blotted out by a vast expanse of prefabri",
+      "published_at": "2026-10-24T11:00:32Z",
+      "collected_at": "2026-10-24T11:54:51.039061Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "f06ecaaafa035b70",
+      "title": "No unions, low taxes: why some of Britain\u2019s top chefs are opening outposts in Gulf states",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
+      "summary": "Leading restaurateur says Gulf countries actively help businesses set up, while east Asia has a better work ethic Some of London\u2019s top restaurants are opening branches in Dubai because of a \u201ctax tsunami\u201d in the UK and better work ethic abroad, according to a leading restaurateur. James Robson, a co-owner of Fallow in St James\u2019s Market, regarded as the capital\u2019s hottest restaurant, serving 1,000 people a day, has just signed a deal to open an outpost in the Gulf. Continue reading...",
+      "published_at": "2026-10-24T11:00:31Z",
+      "collected_at": "2026-10-24T11:54:51.039061Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "c6eadaddf3429b1e",
+      "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+      "summary": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
+      "published_at": "2026-10-24T11:00:01Z",
+      "collected_at": "2026-10-24T11:54:51.039061Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": -0.25,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "29a72f8d27c4bb1d",
+      "title": "Tinned food, loo roll and power banks: the Brits following advice to stockpile",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice",
+      "summary": "Government campaign recommends three days\u2019 worth of stores for emergencies, but some are ahead of the game Dried foods, bottled water, medicine stocks and backup power banks: it could be the props cupboard on a disaster movie, but instead it is precisely what some UK residents are stockpiling amid official warnings about Russian \u201cstate-sponsored terrorism\u201d and the impact of the climate crisis. The government launched a campaign on Thursday advising people to set aside three days\u2019 worth of stores",
+      "published_at": "2026-10-24T09:00:29Z",
+      "collected_at": "2026-10-24T11:54:51.039061Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": -0.5267,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "f9d2afbb139ea4a5",
+      "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "summary": "BBC series deliberately uses \u2018more organic\u2019 shots to assure viewers animals are not AI-generated, producers say The David Attenborough -narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure viewers it is \u201cauthentic\u201d, its producers have said. Nearly a decade after Blue Planet II shone a light on plastic pollution, and 25 years since the first Blue Planet aired, the hit BBC series is returning with more animal behaviour and cutting-ed",
+      "published_at": "2026-10-24T08:32:56Z",
+      "collected_at": "2026-10-24T11:54:51.039061Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "3ed381c3a779e666",
+      "title": "Opposition deepfake video of Spanish PM\u2019s wife sparks outrage before election",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+      "summary": "Video shows AI likenesses of people linked to Pedro S\u00e1nchez\u2019s Socialist party appearing to admit to wrongdoing A political ad from Spain\u2019s main opposition party that used a deepfake video of the prime minister\u2019s wife has sparked outrage and set off a wider debate on AI, as the deeply polarised country gears up for general elections next month. Launched this week across the social media channels of the conservative People\u2019s party (PP), the video used artificial intelligence to manipulate the like",
+      "published_at": "2026-10-24T06:51:53Z",
+      "collected_at": "2026-10-24T11:54:51.039061Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "d851818c03c42128",
+      "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+      "summary": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
+      "published_at": "2026-10-24T06:41:14Z",
+      "collected_at": "2026-10-24T11:54:51.039061Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": -0.8225,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "58337fdb26412cc0",
+      "title": "John Healey pledges to use budget to harness power of AI to bolster Britain\u2019s security",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "summary": "Chancellor says government to commit hundreds of millions to develop \u2018distinctively British\u2019 approach to AI John Healey has pledged to use Wednesday\u2019s budget to harness the power of artificial intelligence to bolster Britain\u2019s security and prosperity against the risks in the accelerating global technology arms race. As he prepares for his debut budget, the chancellor said that Andy Burnham\u2019s government would commit hundreds of millions of pounds to develop a \u201cdistinctively British\u201d approach to A",
+      "published_at": "2026-10-24T05:00:24Z",
+      "collected_at": "2026-10-24T11:54:51.039061Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": -0.25,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "86096526524972df",
+      "title": "The datacentre next door: on the frontline of tech\u2019s latest David v Goliath battle",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
+      "summary": "The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks \u2013 but one Welsh city is fighting back Dale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales. There\u2019s a trampoline and a slide on the lawn for his grandchildren, and chairs for him and his wife. He should be enjoying the light draining from the perfect autumnal sky \u2013 but almost his entire view is blotted out by a vast expanse of prefabri",
+      "published_at": "2026-10-24T11:00:32Z",
+      "collected_at": "2026-10-24T11:54:51.039061Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "58337fdb26412cc0",
+      "title": "John Healey pledges to use budget to harness power of AI to bolster Britain\u2019s security",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "summary": "Chancellor says government to commit hundreds of millions to develop \u2018distinctively British\u2019 approach to AI John Healey has pledged to use Wednesday\u2019s budget to harness the power of artificial intelligence to bolster Britain\u2019s security and prosperity against the risks in the accelerating global technology arms race. As he prepares for his debut budget, the chancellor said that Andy Burnham\u2019s government would commit hundreds of millions of pounds to develop a \u201cdistinctively British\u201d approach to A",
+      "published_at": "2026-10-24T05:00:24Z",
+      "collected_at": "2026-10-24T11:54:51.039061Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "The datacentre next door: on the frontline of tech\u2019s latest David v Goliath battle",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle"
+        ]
+      },
+      {
+        "claim": "No unions, low taxes: why some of Britain\u2019s top chefs are opening outposts in Gulf states",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad"
+        ]
+      },
+      {
+        "claim": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html"
+        ]
+      },
+      {
+        "claim": "Tinned food, loo roll and power banks: the Brits following advice to stockpile",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice"
+        ]
+      },
+      {
+        "claim": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom"
+        ]
+      },
+      {
+        "claim": "Opposition deepfake video of Spanish PM\u2019s wife sparks outrage before election",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election"
+        ]
+      },
+      {
+        "claim": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html"
+        ]
+      },
+      {
+        "claim": "John Healey pledges to use budget to harness power of AI to bolster Britain\u2019s security",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-10-24\n\n**Reporting period:** 2026-10-23 11:54 UTC to 2026-10-24 11:54 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-10-23 11:54 UTC and 2026-10-24 11:54 UTC, 35 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 14 neutral, 18 negative (mean score -0.18). The most recurring theme was \"some\".\n\n## Key developments\n\n1. **The datacentre next door: on the frontline of tech\u2019s latest David v Goliath battle** - _The Guardian; 2026-10-24 11:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle)\n2. **No unions, low taxes: why some of Britain\u2019s top chefs are opening outposts in Gulf states** - _The Guardian; 2026-10-24 11:00 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad)\n3. **Nvidia's role as AI financier faces first big test as neoclouds take market hit** - _CNBC; 2026-10-24 11:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html)\n4. **Tinned food, loo roll and power banks: the Brits following advice to stockpile** - _The Guardian; 2026-10-24 09:00 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice)\n5. **Blue Planet III features cloudier footage to prove authenticity amid AI boom** - _The Guardian; 2026-10-24 08:32 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom)\n6. **Opposition deepfake video of Spanish PM\u2019s wife sparks outrage before election** - _The Guardian; 2026-10-24 06:51 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election)\n7. **Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO** - _CNBC; 2026-10-24 06:41 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html)\n8. **John Healey pledges to use budget to harness power of AI to bolster Britain\u2019s security** - _The Guardian; 2026-10-24 05:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security)\n\n## Emerging themes\n\n- **some** - 9 articles, 4 publisher(s), avg sentiment -0.27\n- **artificial intelligence** - 4 articles, 1 publisher(s), avg sentiment -0.16\n- **market** - 6 articles, 4 publisher(s), avg sentiment -0.23\n- **company** - 5 articles, 4 publisher(s), avg sentiment -0.12\n- **global** - 5 articles, 4 publisher(s), avg sentiment -0.10\n- **tariffs** - 4 articles, 3 publisher(s), avg sentiment -0.29\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 3 / Neutral 14 / Negative 18; mean -0.18.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- CNBC reported a negative-toned story: Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO (https://cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html)\n- NYT reported a negative-toned story: Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers (https://nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html)\n- NYT reported a negative-toned story: Volvo Shares Plunge as China Ambitions Fade for Western Carmakers (https://nytimes.com/2026/10/23/business/volvo-china-2500-job-cuts.html)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- The Guardian - [The datacentre next door: on the frontline of tech\u2019s latest David v Goliath battle](https://theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle) (2026-10-24 11:00 UTC; collected 2026-10-24 11:54 UTC)\n- The Guardian - [No unions, low taxes: why some of Britain\u2019s top chefs are opening outposts in Gulf states](https://theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad) (2026-10-24 11:00 UTC; collected 2026-10-24 11:54 UTC)\n- CNBC - [Nvidia's role as AI financier faces first big test as neoclouds take market hit](https://cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html) (2026-10-24 11:00 UTC; collected 2026-10-24 11:54 UTC)\n- The Guardian - [Tinned food, loo roll and power banks: the Brits following advice to stockpile](https://theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice) (2026-10-24 09:00 UTC; collected 2026-10-24 11:54 UTC)\n- The Guardian - [Blue Planet III features cloudier footage to prove authenticity amid AI boom](https://theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom) (2026-10-24 08:32 UTC; collected 2026-10-24 11:54 UTC)\n- The Guardian - [Opposition deepfake video of Spanish PM\u2019s wife sparks outrage before election](https://theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election) (2026-10-24 06:51 UTC; collected 2026-10-24 11:54 UTC)\n- CNBC - [Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO](https://cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html) (2026-10-24 06:41 UTC; collected 2026-10-24 11:54 UTC)\n- The Guardian - [John Healey pledges to use budget to harness power of AI to bolster Britain\u2019s security](https://theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security) (2026-10-24 05:00 UTC; collected 2026-10-24 11:54 UTC)\n- The Guardian - [The datacentre next door: on the frontline of tech\u2019s latest David v Goliath battle](https://theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle) (2026-10-24 11:00 UTC; collected 2026-10-24 11:54 UTC)\n- The Guardian - [John Healey pledges to use budget to harness power of AI to bolster Britain\u2019s security](https://theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security) (2026-10-24 05:00 UTC; collected 2026-10-24 11:54 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-10-24\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-10-23 11:54 UTC and 2026-10-24 11:54 UTC, 35 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 14 neutral, 18 negative (mean score -0.18). The most recurring theme was \"some\".\n\nKey developments:\n- The datacentre next door: on the frontline of tech\u2019s latest David v Goliath battle (The Guardian) https://theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle\n- No unions, low taxes: why some of Britain\u2019s top chefs are opening outposts in Gulf states (The Guardian) https://theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad\n- Nvidia's role as AI financier faces first big test as neoclouds take market hit (CNBC) https://cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html\n- Tinned food, loo roll and power banks: the Brits following advice to stockpile (The Guardian) https://theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice\n- Blue Planet III features cloudier footage to prove authenticity amid AI boom (The Guardian) https://theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
