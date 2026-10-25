@@ -1,60 +1,60 @@
-# Market Intelligence Briefing - 2026-10-24
+# Market Intelligence Briefing - 2026-10-25
 
-**Reporting period:** 2026-10-23 11:54 UTC to 2026-10-24 11:54 UTC  
+**Reporting period:** 2026-10-24 12:26 UTC to 2026-10-25 12:26 UTC  
 **Topics:** ai, economy, markets, technology  
 **Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text
 
 ## Executive summary
 
-Between 2026-10-23 11:54 UTC and 2026-10-24 11:54 UTC, 35 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 14 neutral, 18 negative (mean score -0.18). The most recurring theme was "some".
+Between 2026-10-24 12:26 UTC and 2026-10-25 12:26 UTC, 10 unique articles from 3 publishers were reviewed. Headline tone measured by a rule-based baseline: 1 positive, 5 neutral, 4 negative (mean score -0.10). The most recurring theme was "andy burnham".
 
 ## Key developments
 
-1. **The datacentre next door: on the frontline of tech’s latest David v Goliath battle** - _The Guardian; 2026-10-24 11:00 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle)
-2. **No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states** - _The Guardian; 2026-10-24 11:00 UTC; single-source, attributed_  
+1. **Interest rates unlikely to reach 4.75% by next summer, say City economists** - _The Guardian; 2026-10-25 12:00 UTC; single-source, attributed_  
    Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  
-   Sources: [1](https://theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad)
-3. **Nvidia's role as AI financier faces first big test as neoclouds take market hit** - _CNBC; 2026-10-24 11:00 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html)
-4. **Tinned food, loo roll and power banks: the Brits following advice to stockpile** - _The Guardian; 2026-10-24 09:00 UTC; single-source, attributed_  
+   Sources: [1](https://theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027)
+2. **Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.** - _NYT; 2026-10-25 11:11 UTC; single-source, attributed_  
    Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  
-   Sources: [1](https://theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice)
-5. **Blue Planet III features cloudier footage to prove authenticity amid AI boom** - _The Guardian; 2026-10-24 08:32 UTC; single-source, attributed_  
+   Sources: [1](https://nytimes.com/2026/10/25/business/california-colleges-costs.html)
+3. **Put Your A.I. Agents to Work with These 4 Killer Tasks** - _NYT; 2026-10-25 09:01 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom)
-6. **Opposition deepfake video of Spanish PM’s wife sparks outrage before election** - _The Guardian; 2026-10-24 06:51 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election)
-7. **Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO** - _CNBC; 2026-10-24 06:41 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html)
-8. **John Healey pledges to use budget to harness power of AI to bolster Britain’s security** - _The Guardian; 2026-10-24 05:00 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security)
+   Sources: [1](https://nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html)
+4. **‘You can’t bring in robots’: the leather firm handmaking everything from wallets to cigar cases** - _The Guardian; 2026-10-25 08:00 UTC; single-source, attributed_  
+   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
+   Sources: [1](https://theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall)
+5. **Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money** - _The Guardian; 2026-10-25 07:00 UTC; single-source, attributed_  
+   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
+   Sources: [1](https://theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money)
+6. **Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in ten years** - _The Guardian; 2026-10-25 06:00 UTC; single-source, attributed_  
+   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
+   Sources: [1](https://theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land)
+7. **Audi to Build Factory in Georgia, Trump Says** - _NYT; 2026-10-25 02:17 UTC; single-source, attributed_  
+   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
+   Sources: [1](https://nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html)
+8. **Healey’s first budget to include big devolution package to boost growth** - _The Guardian; 2026-10-24 21:30 UTC; single-source, attributed_  
+   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
+   Sources: [1](https://theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package)
 
 ## Emerging themes
 
-- **some** - 9 articles, 4 publisher(s), avg sentiment -0.27
-- **artificial intelligence** - 4 articles, 1 publisher(s), avg sentiment -0.16
-- **market** - 6 articles, 4 publisher(s), avg sentiment -0.23
-- **company** - 5 articles, 4 publisher(s), avg sentiment -0.12
-- **global** - 5 articles, 4 publisher(s), avg sentiment -0.10
-- **tariffs** - 4 articles, 3 publisher(s), avg sentiment -0.29
+- **andy burnham** - 2 articles, 1 publisher(s), avg sentiment +0.32
+- **jobs** - 3 articles, 2 publisher(s), avg sentiment -0.33
+- **financial** - 2 articles, 1 publisher(s), avg sentiment +0.00
+- **factory** - 2 articles, 2 publisher(s), avg sentiment -0.28
+- **through** - 2 articles, 1 publisher(s), avg sentiment -0.34
+- **get** - 2 articles, 2 publisher(s), avg sentiment +0.00
 
 ## Sentiment overview
 
-Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 3 / Neutral 14 / Negative 18; mean -0.18.
+Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 1 / Neutral 5 / Negative 4; mean -0.10.
 
 _Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._
 
 ## Risks
 
-- CNBC reported a negative-toned story: Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO (https://cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html)
-- NYT reported a negative-toned story: Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers (https://nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html)
-- NYT reported a negative-toned story: Volvo Shares Plunge as China Ambitions Fade for Western Carmakers (https://nytimes.com/2026/10/23/business/volvo-china-2500-job-cuts.html)
+- The Guardian reported a negative-toned story: Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money (https://theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money)
+- CNBC reported a negative-toned story: AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio (https://cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html)
+- The Guardian reported a negative-toned story: ‘You can’t bring in robots’: the leather firm handmaking everything from wallets to cigar cases (https://theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall)
 
 ## Uncertainties
 
@@ -67,16 +67,15 @@ Passed: True; revisions: 0; unsupported claims removed: 0.
 
 ## Source references
 
-- The Guardian - [The datacentre next door: on the frontline of tech’s latest David v Goliath battle](https://theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle) (2026-10-24 11:00 UTC; collected 2026-10-24 11:54 UTC)
-- The Guardian - [No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states](https://theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad) (2026-10-24 11:00 UTC; collected 2026-10-24 11:54 UTC)
-- CNBC - [Nvidia's role as AI financier faces first big test as neoclouds take market hit](https://cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html) (2026-10-24 11:00 UTC; collected 2026-10-24 11:54 UTC)
-- The Guardian - [Tinned food, loo roll and power banks: the Brits following advice to stockpile](https://theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice) (2026-10-24 09:00 UTC; collected 2026-10-24 11:54 UTC)
-- The Guardian - [Blue Planet III features cloudier footage to prove authenticity amid AI boom](https://theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom) (2026-10-24 08:32 UTC; collected 2026-10-24 11:54 UTC)
-- The Guardian - [Opposition deepfake video of Spanish PM’s wife sparks outrage before election](https://theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election) (2026-10-24 06:51 UTC; collected 2026-10-24 11:54 UTC)
-- CNBC - [Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO](https://cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html) (2026-10-24 06:41 UTC; collected 2026-10-24 11:54 UTC)
-- The Guardian - [John Healey pledges to use budget to harness power of AI to bolster Britain’s security](https://theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security) (2026-10-24 05:00 UTC; collected 2026-10-24 11:54 UTC)
-- The Guardian - [The datacentre next door: on the frontline of tech’s latest David v Goliath battle](https://theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle) (2026-10-24 11:00 UTC; collected 2026-10-24 11:54 UTC)
-- The Guardian - [John Healey pledges to use budget to harness power of AI to bolster Britain’s security](https://theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security) (2026-10-24 05:00 UTC; collected 2026-10-24 11:54 UTC)
+- The Guardian - [Interest rates unlikely to reach 4.75% by next summer, say City economists](https://theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027) (2026-10-25 12:00 UTC; collected 2026-10-25 12:26 UTC)
+- NYT - [Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.](https://nytimes.com/2026/10/25/business/california-colleges-costs.html) (2026-10-25 11:11 UTC; collected 2026-10-25 12:26 UTC)
+- NYT - [Put Your A.I. Agents to Work with These 4 Killer Tasks](https://nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html) (2026-10-25 09:01 UTC; collected 2026-10-25 12:26 UTC)
+- The Guardian - [‘You can’t bring in robots’: the leather firm handmaking everything from wallets to cigar cases](https://theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall) (2026-10-25 08:00 UTC; collected 2026-10-25 12:26 UTC)
+- The Guardian - [Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money](https://theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money) (2026-10-25 07:00 UTC; collected 2026-10-25 12:26 UTC)
+- The Guardian - [Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in ten years](https://theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land) (2026-10-25 06:00 UTC; collected 2026-10-25 12:26 UTC)
+- NYT - [Audi to Build Factory in Georgia, Trump Says](https://nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html) (2026-10-25 02:17 UTC; collected 2026-10-25 12:26 UTC)
+- The Guardian - [Healey’s first budget to include big devolution package to boost growth](https://theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package) (2026-10-24 21:30 UTC; collected 2026-10-25 12:26 UTC)
+- The Guardian - [Interest rates unlikely to reach 4.75% by next summer, say City economists](https://theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027) (2026-10-25 12:00 UTC; collected 2026-10-25 12:26 UTC)
 
 ---
 Headlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.

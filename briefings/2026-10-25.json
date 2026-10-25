@@ -1,0 +1,444 @@
+{
+  "id": "e8a925423872",
+  "generated_at": "2026-10-25T12:26:25.923248Z",
+  "period_start": "2026-10-24T12:26:25.923248Z",
+  "period_end": "2026-10-25T12:26:25.923248Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-10-24 12:26 UTC and 2026-10-25 12:26 UTC, 10 unique articles from 3 publishers were reviewed. Headline tone measured by a rule-based baseline: 1 positive, 5 neutral, 4 negative (mean score -0.10). The most recurring theme was \"andy burnham\".",
+  "key_developments": [
+    {
+      "text": "Interest rates unlikely to reach 4.75% by next summer, say City economists",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-25T12:00:05Z"
+    },
+    {
+      "text": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/25/business/california-colleges-costs.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-25T11:11:21Z"
+    },
+    {
+      "text": "Put Your A.I. Agents to Work with These 4 Killer Tasks",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-25T09:01:00Z"
+    },
+    {
+      "text": "\u2018You can\u2019t bring in robots\u2019: the leather firm handmaking everything from wallets to cigar cases",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-25T08:00:57Z"
+    },
+    {
+      "text": "Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-25T07:00:57Z"
+    },
+    {
+      "text": "Emirati-linked firms\u2019 ownership of Manchester land \u2018up 39%\u2019 in ten years",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-25T06:00:55Z"
+    },
+    {
+      "text": "Audi to Build Factory in Georgia, Trump Says",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-25T02:17:33Z"
+    },
+    {
+      "text": "Healey\u2019s first budget to include big devolution package to boost growth",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-24T21:30:43Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "andy burnham",
+      "article_count": 2,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land",
+        "https://theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package"
+      ],
+      "avg_sentiment": 0.324,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "jobs",
+      "article_count": 3,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html",
+        "https://theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall",
+        "https://theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money"
+      ],
+      "avg_sentiment": -0.326,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "financial",
+      "article_count": 2,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+        "https://theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land"
+      ],
+      "avg_sentiment": 0.0,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "factory",
+      "article_count": 2,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall",
+        "https://nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html"
+      ],
+      "avg_sentiment": -0.285,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "through",
+      "article_count": 2,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money",
+        "https://theguardian.com/technology/2026/oct/25/synthetic-twin-why-socceroo-cristian-volpato-is-the-latest-footballer-to-license-his-ai-clone"
+      ],
+      "avg_sentiment": -0.34,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "get",
+      "article_count": 2,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/25/business/california-colleges-costs.html",
+        "https://theguardian.com/technology/2026/oct/25/synthetic-twin-why-socceroo-cristian-volpato-is-the-latest-footballer-to-license-his-ai-clone"
+      ],
+      "avg_sentiment": 0.0,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 1,
+    "neutral": 5,
+    "negative": 4,
+    "mean_score": -0.104,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money (https://theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money)",
+    "CNBC reported a negative-toned story: AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio (https://cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html)",
+    "The Guardian reported a negative-toned story: \u2018You can\u2019t bring in robots\u2019: the leather firm handmaking everything from wallets to cigar cases (https://theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "9293ca4bd02d05ab",
+      "title": "Interest rates unlikely to reach 4.75% by next summer, say City economists",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+      "summary": "Experts say Bank of England unlikely to increase rates by full percentage point \u2013 and could lower them by end of 2027 Financial markets are wrong to predict the Bank of England will raise UK interest rates by a full percentage point or more by next summer, City economists believe. According to market-implied interest rate expectations, the Bank is likely to raise interest rates at least four times over the next year, lifting the bank rate from 3.75% today to 4.75% by the end of July, and possibl",
+      "published_at": "2026-10-25T12:00:05Z",
+      "collected_at": "2026-10-25T12:26:25.923248Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "84343fe07f38b511",
+      "title": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/25/business/california-colleges-costs.html",
+      "summary": "At the University of California campuses in Berkeley, Irvine and Santa Barbara, students get an unwitting education in navigating the housing market.",
+      "published_at": "2026-10-25T11:11:21Z",
+      "collected_at": "2026-10-25T12:26:25.923248Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "8e485c35123f2fcf",
+      "title": "Put Your A.I. Agents to Work with These 4 Killer Tasks",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html",
+      "summary": "When you start using Meta\u2019s Muse and OpenAI\u2019s dots for these tasks \u2014 like applying for jobs and booking hard-to-get restaurant tables \u2014 you may never go back.",
+      "published_at": "2026-10-25T09:01:00Z",
+      "collected_at": "2026-10-25T12:26:25.923248Z",
+      "feed_name": "NYT / Technology",
+      "topics": [
+        "ai",
+        "technology",
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "98c1debed7ff3e76",
+      "title": "\u2018You can\u2019t bring in robots\u2019: the leather firm handmaking everything from wallets to cigar cases",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall",
+      "summary": "In the third article in a series on high-end British manufacturing, we visit the Ettinger factory in Walsall \u2018Our town is making jeans again\u2019: reviving jobs and skills in Wales From feathers to pet portraits, Rolls-Royce rides high on custom craze \u201cIt is all down to attention to detail and everything we do is based around that.\u201d Gary Billingham is demonstrating how the 28 pieces which make up an Ettinger wallet are cut from leather using a hydraulic press by the small team at one of Walsall\u2019s la",
+      "published_at": "2026-10-25T08:00:57Z",
+      "collected_at": "2026-10-25T12:26:25.923248Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.296,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "2723c1ffb19ba480",
+      "title": "Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money",
+      "summary": "Exclusive : Bosses tell staff cuts part of effort to \u2018simplify\u2019 operations and \u2018remove duplication\u2019 across wider workforce Nationwide building society is slashing another 275 jobs in the latest round of cuts since bank bosses pushed through a \u00a32.9bn takeover of Virgin Money . Bosses made the announcement to staff on Wednesday, saying it was part of efforts to simplify the bank\u2019s operations and \u201cremove duplication\u201d after absorbing thousands of staff in to the group\u2019s wider workforce. Continue rea",
+      "published_at": "2026-10-25T07:00:57Z",
+      "collected_at": "2026-10-25T12:26:25.923248Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.6808,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "25979df56accdcb7",
+      "title": "Emirati-linked firms\u2019 ownership of Manchester land \u2018up 39%\u2019 in ten years",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land",
+      "summary": "Economic ties face scrutiny after scandal over Manchester City\u2019s financial rules \u2018That\u2019s the way the city works\u2019: how the UAE changed the face of Andy Burnham\u2019s Manchester Emirati-linked companies own almost 40% more land in Greater Manchester than a decade ago, Guardian analysis reveals, as the city\u2019s economic ties face scrutiny after Manchester City\u2019s financial rules scandal. The number of land titles in Greater Manchester owned by United Arab Emirates-linked companies increased from 51 in 201",
+      "published_at": "2026-10-25T06:00:55Z",
+      "collected_at": "2026-10-25T12:26:25.923248Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "83829f5a06c4eeda",
+      "title": "Audi to Build Factory in Georgia, Trump Says",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html",
+      "summary": "The Volkswagen division, which imports all its cars from Europe or Mexico, has been hit hard by U.S. tariffs.",
+      "published_at": "2026-10-25T02:17:33Z",
+      "collected_at": "2026-10-25T12:26:25.923248Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.2732,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "e5dbd7269988fbf4",
+      "title": "Healey\u2019s first budget to include big devolution package to boost growth",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
+      "summary": "Chancellor will build on Burnham\u2019s promise that local leaders in England will no longer have to \u2018come cap in hand to Westminster\u2019 Andy Burnham has promised that local leaders in England will no longer have to come \u201ccap in hand to Westminster\u201d ahead of a fresh drive to devolve spending power in next week\u2019s budget. In his statement on Wednesday, the chancellor, John Healey, will include plans for a new \u00a31.5bn borrowing facility, to be drawn up in collaboration with mayors over the next two years. ",
+      "published_at": "2026-10-24T21:30:43Z",
+      "collected_at": "2026-10-25T12:26:25.923248Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.6486,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "9293ca4bd02d05ab",
+      "title": "Interest rates unlikely to reach 4.75% by next summer, say City economists",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+      "summary": "Experts say Bank of England unlikely to increase rates by full percentage point \u2013 and could lower them by end of 2027 Financial markets are wrong to predict the Bank of England will raise UK interest rates by a full percentage point or more by next summer, City economists believe. According to market-implied interest rate expectations, the Bank is likely to raise interest rates at least four times over the next year, lifting the bank rate from 3.75% today to 4.75% by the end of July, and possibl",
+      "published_at": "2026-10-25T12:00:05Z",
+      "collected_at": "2026-10-25T12:26:25.923248Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Interest rates unlikely to reach 4.75% by next summer, say City economists",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027"
+        ]
+      },
+      {
+        "claim": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/25/business/california-colleges-costs.html"
+        ]
+      },
+      {
+        "claim": "Put Your A.I. Agents to Work with These 4 Killer Tasks",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html"
+        ]
+      },
+      {
+        "claim": "\u2018You can\u2019t bring in robots\u2019: the leather firm handmaking everything from wallets to cigar cases",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall"
+        ]
+      },
+      {
+        "claim": "Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money"
+        ]
+      },
+      {
+        "claim": "Emirati-linked firms\u2019 ownership of Manchester land \u2018up 39%\u2019 in ten years",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land"
+        ]
+      },
+      {
+        "claim": "Audi to Build Factory in Georgia, Trump Says",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html"
+        ]
+      },
+      {
+        "claim": "Healey\u2019s first budget to include big devolution package to boost growth",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-10-25\n\n**Reporting period:** 2026-10-24 12:26 UTC to 2026-10-25 12:26 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-10-24 12:26 UTC and 2026-10-25 12:26 UTC, 10 unique articles from 3 publishers were reviewed. Headline tone measured by a rule-based baseline: 1 positive, 5 neutral, 4 negative (mean score -0.10). The most recurring theme was \"andy burnham\".\n\n## Key developments\n\n1. **Interest rates unlikely to reach 4.75% by next summer, say City economists** - _The Guardian; 2026-10-25 12:00 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027)\n2. **Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.** - _NYT; 2026-10-25 11:11 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://nytimes.com/2026/10/25/business/california-colleges-costs.html)\n3. **Put Your A.I. Agents to Work with These 4 Killer Tasks** - _NYT; 2026-10-25 09:01 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html)\n4. **\u2018You can\u2019t bring in robots\u2019: the leather firm handmaking everything from wallets to cigar cases** - _The Guardian; 2026-10-25 08:00 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall)\n5. **Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money** - _The Guardian; 2026-10-25 07:00 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money)\n6. **Emirati-linked firms\u2019 ownership of Manchester land \u2018up 39%\u2019 in ten years** - _The Guardian; 2026-10-25 06:00 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land)\n7. **Audi to Build Factory in Georgia, Trump Says** - _NYT; 2026-10-25 02:17 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html)\n8. **Healey\u2019s first budget to include big devolution package to boost growth** - _The Guardian; 2026-10-24 21:30 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package)\n\n## Emerging themes\n\n- **andy burnham** - 2 articles, 1 publisher(s), avg sentiment +0.32\n- **jobs** - 3 articles, 2 publisher(s), avg sentiment -0.33\n- **financial** - 2 articles, 1 publisher(s), avg sentiment +0.00\n- **factory** - 2 articles, 2 publisher(s), avg sentiment -0.28\n- **through** - 2 articles, 1 publisher(s), avg sentiment -0.34\n- **get** - 2 articles, 2 publisher(s), avg sentiment +0.00\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 1 / Neutral 5 / Negative 4; mean -0.10.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money (https://theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money)\n- CNBC reported a negative-toned story: AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio (https://cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html)\n- The Guardian reported a negative-toned story: \u2018You can\u2019t bring in robots\u2019: the leather firm handmaking everything from wallets to cigar cases (https://theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- The Guardian - [Interest rates unlikely to reach 4.75% by next summer, say City economists](https://theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027) (2026-10-25 12:00 UTC; collected 2026-10-25 12:26 UTC)\n- NYT - [Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.](https://nytimes.com/2026/10/25/business/california-colleges-costs.html) (2026-10-25 11:11 UTC; collected 2026-10-25 12:26 UTC)\n- NYT - [Put Your A.I. Agents to Work with These 4 Killer Tasks](https://nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html) (2026-10-25 09:01 UTC; collected 2026-10-25 12:26 UTC)\n- The Guardian - [\u2018You can\u2019t bring in robots\u2019: the leather firm handmaking everything from wallets to cigar cases](https://theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall) (2026-10-25 08:00 UTC; collected 2026-10-25 12:26 UTC)\n- The Guardian - [Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money](https://theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money) (2026-10-25 07:00 UTC; collected 2026-10-25 12:26 UTC)\n- The Guardian - [Emirati-linked firms\u2019 ownership of Manchester land \u2018up 39%\u2019 in ten years](https://theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land) (2026-10-25 06:00 UTC; collected 2026-10-25 12:26 UTC)\n- NYT - [Audi to Build Factory in Georgia, Trump Says](https://nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html) (2026-10-25 02:17 UTC; collected 2026-10-25 12:26 UTC)\n- The Guardian - [Healey\u2019s first budget to include big devolution package to boost growth](https://theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package) (2026-10-24 21:30 UTC; collected 2026-10-25 12:26 UTC)\n- The Guardian - [Interest rates unlikely to reach 4.75% by next summer, say City economists](https://theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027) (2026-10-25 12:00 UTC; collected 2026-10-25 12:26 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-10-25\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-10-24 12:26 UTC and 2026-10-25 12:26 UTC, 10 unique articles from 3 publishers were reviewed. Headline tone measured by a rule-based baseline: 1 positive, 5 neutral, 4 negative (mean score -0.10). The most recurring theme was \"andy burnham\".\n\nKey developments:\n- Interest rates unlikely to reach 4.75% by next summer, say City economists (The Guardian) https://theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027\n- Public Colleges Are Passing the $50,000-a-Year Mark. For Locals. (NYT) https://nytimes.com/2026/10/25/business/california-colleges-costs.html\n- Put Your A.I. Agents to Work with These 4 Killer Tasks (NYT) https://nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html\n- \u2018You can\u2019t bring in robots\u2019: the leather firm handmaking everything from wallets to cigar cases (The Guardian) https://theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall\n- Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money (The Guardian) https://theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
