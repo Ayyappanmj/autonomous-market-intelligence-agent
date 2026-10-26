@@ -1,0 +1,485 @@
+{
+  "id": "e2566a4e5c5f",
+  "generated_at": "2026-10-26T14:03:37.092228Z",
+  "period_start": "2026-10-25T14:03:37.092228Z",
+  "period_end": "2026-10-26T14:03:37.092228Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-10-25 14:03 UTC and 2026-10-26 14:03 UTC, 28 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 8 positive, 14 neutral, 6 negative (mean score -0.00). The most recurring theme was \"artificial intelligence\".",
+  "key_developments": [
+    {
+      "text": "AI giant Anthropic unveils plans for blockbuster share listing",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://bbc.co.uk/news/articles/cq398p1wd1evo?at_campaign=rss&at_medium=RSS"
+      ],
+      "publishers": [
+        "BBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-26T13:58:40Z"
+    },
+    {
+      "text": "Brazilian Markets Convulse After Unlikely Election Result",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/26/business/brazil-markets-election-lula.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-26T13:58:10Z"
+    },
+    {
+      "text": "Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion \u2013 business live",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-26T13:56:15Z"
+    },
+    {
+      "text": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-26T13:49:51Z"
+    },
+    {
+      "text": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-26T13:43:14Z"
+    },
+    {
+      "text": "Musk Is Predicting \u2018Guppy-level Death\u2019 for Scores of A.I. Companies",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-26T13:36:27Z"
+    },
+    {
+      "text": "Meet Anthropic\u2019s Seven Founders",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/26/technology/anthropic-founders.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-26T13:34:56Z"
+    },
+    {
+      "text": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-26T13:31:25Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "artificial intelligence",
+      "article_count": 6,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://bbc.co.uk/news/articles/cq398p1wd1evo?at_campaign=rss&at_medium=RSS",
+        "https://nytimes.com/2026/10/26/technology/anthropic-founders.html",
+        "https://nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html",
+        "https://nytimes.com/2026/10/26/us/politics/darline-graham-data-centers-south-carolina.html",
+        "https://cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html"
+      ],
+      "avg_sentiment": 0.044,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "anthropic",
+      "article_count": 7,
+      "publishers": [
+        "BBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://bbc.co.uk/news/articles/cq398p1wd1evo?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
+        "https://nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
+        "https://nytimes.com/2026/10/26/technology/anthropic-founders.html",
+        "https://theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us"
+      ],
+      "avg_sentiment": 0.054,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "infrastructure",
+      "article_count": 6,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
+        "https://cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+        "https://nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html",
+        "https://nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html",
+        "https://cnbc.com/2026/10/26/meta-stock-offering-ai.html"
+      ],
+      "avg_sentiment": -0.006,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "latest updates",
+      "article_count": 4,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
+        "https://theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+        "https://theguardian.com/business/2026/oct/26/drive-reindustrialisation-from-no-10-north-labour-mps-tell-burnham",
+        "https://theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham"
+      ],
+      "avg_sentiment": 0.047,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "elon musk",
+      "article_count": 4,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
+        "https://cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+        "https://nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html",
+        "https://cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html"
+      ],
+      "avg_sentiment": -0.064,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "company",
+      "article_count": 5,
+      "publishers": [
+        "BBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://bbc.co.uk/news/articles/cq398p1wd1evo?at_campaign=rss&at_medium=RSS",
+        "https://nytimes.com/2026/10/26/technology/anthropic-founders.html",
+        "https://theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
+        "https://theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+        "https://theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music"
+      ],
+      "avg_sentiment": -0.031,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 8,
+    "neutral": 14,
+    "negative": 6,
+    "mean_score": -0.001,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Higher training costs for older workers risks plan to tackle youth jobs crisis, employers say (https://theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet)",
+    "The Guardian reported a negative-toned story: \u2018We don\u2019t have inflation\u2019? Five charts show the US economic reality of Trump\u2019s second term so far (https://theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts)",
+    "NYT reported a negative-toned story: Musk Is Predicting \u2018Guppy-level Death\u2019 for Scores of A.I. Companies (https://nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "f5ee3467cbfd5aaa",
+      "title": "AI giant Anthropic unveils plans for blockbuster share listing",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/cq398p1wd1evo?at_campaign=rss&at_medium=RSS",
+      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "published_at": "2026-10-26T13:58:40Z",
+      "collected_at": "2026-10-26T14:03:37.092228Z",
+      "feed_name": "BBC / Business",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.2263,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "fe99631a1d7890f7",
+      "title": "Brazilian Markets Convulse After Unlikely Election Result",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/26/business/brazil-markets-election-lula.html",
+      "summary": "President Luiz In\u00e1cio Lula da Silva\u2019s re-election victory prompted a sharp reversal in financial markets that had expected his opponent to win.",
+      "published_at": "2026-10-26T13:58:10Z",
+      "collected_at": "2026-10-26T14:03:37.092228Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.3818,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "6ba6e00b852022e5",
+      "title": "Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
+      "summary": "Meta says share sale will support its \u201ccontinued investment in AI infrastructure and personal superintelligence\u201d, as Elon Musk warns some AI cloud computing firms face \u2018guppy-level death\u2019 UK government borrowing costs are dropping this morning, a welcome sign ahead of Wednesday\u2019s budget. The yield (or interest rate) on 10 and 30-year UK gilts have both dropped by around three basis points (0.03 of a percentage point) this morning. Issuing loans to public financial institutions creates a financia",
+      "published_at": "2026-10-26T13:56:15Z",
+      "collected_at": "2026-10-26T14:03:37.092228Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [
+        "ai",
+        "technology",
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": 0.1531,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "d3b35422c73cf438",
+      "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
+      "summary": "The maker of Claude is on the verge of what could be the largest ever public listing, in a test of the A.I. industry amid questions about whether the boom can be sustained.",
+      "published_at": "2026-10-26T13:49:51Z",
+      "collected_at": "2026-10-26T14:03:37.092228Z",
+      "feed_name": "NYT / Technology",
+      "topics": [
+        "ai",
+        "economy"
+      ],
+      "sentiment_score": 0.3818,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "ee304137ad135dce",
+      "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+      "summary": "Investors are already questioning the debt-fueled expansion of neoclouds and whether the large AI infrastructure build-out will generate long-term returns.",
+      "published_at": "2026-10-26T13:43:14Z",
+      "collected_at": "2026-10-26T14:03:37.092228Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": -0.0258,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "c7792847fbf1fe9c",
+      "title": "Musk Is Predicting \u2018Guppy-level Death\u2019 for Scores of A.I. Companies",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html",
+      "summary": "Elon Musk sees many artificial-intelligence infrastructure companies being shut out of the debt market, a warning that could weigh on markets.",
+      "published_at": "2026-10-26T13:36:27Z",
+      "collected_at": "2026-10-26T14:03:37.092228Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": -0.3818,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "95af724484100bf3",
+      "title": "Meet Anthropic\u2019s Seven Founders",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/26/technology/anthropic-founders.html",
+      "summary": "Former OpenAI employees started the company in 2021 after disagreements over how to safely build artificial intelligence. An I.P.O. could make them billionaires.",
+      "published_at": "2026-10-26T13:34:56Z",
+      "collected_at": "2026-10-26T14:03:37.092228Z",
+      "feed_name": "NYT / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "2777db621e9a7529",
+      "title": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html",
+      "summary": "The race to build artificial intelligence infrastructure is consuming increasingly enormous amounts of cash at the biggest tech companies.",
+      "published_at": "2026-10-26T13:31:25Z",
+      "collected_at": "2026-10-26T14:03:37.092228Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "f5ee3467cbfd5aaa",
+      "title": "AI giant Anthropic unveils plans for blockbuster share listing",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/cq398p1wd1evo?at_campaign=rss&at_medium=RSS",
+      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "published_at": "2026-10-26T13:58:40Z",
+      "collected_at": "2026-10-26T14:03:37.092228Z",
+      "feed_name": "BBC / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "6ba6e00b852022e5",
+      "title": "Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
+      "summary": "Meta says share sale will support its \u201ccontinued investment in AI infrastructure and personal superintelligence\u201d, as Elon Musk warns some AI cloud computing firms face \u2018guppy-level death\u2019 UK government borrowing costs are dropping this morning, a welcome sign ahead of Wednesday\u2019s budget. The yield (or interest rate) on 10 and 30-year UK gilts have both dropped by around three basis points (0.03 of a percentage point) this morning. Issuing loans to public financial institutions creates a financia",
+      "published_at": "2026-10-26T13:20:04Z",
+      "collected_at": "2026-10-26T14:03:37.092228Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "AI giant Anthropic unveils plans for blockbuster share listing",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://bbc.co.uk/news/articles/cq398p1wd1evo?at_campaign=rss&at_medium=RSS"
+        ]
+      },
+      {
+        "claim": "Brazilian Markets Convulse After Unlikely Election Result",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/26/business/brazil-markets-election-lula.html"
+        ]
+      },
+      {
+        "claim": "Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion \u2013 business live",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates"
+        ]
+      },
+      {
+        "claim": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html"
+        ]
+      },
+      {
+        "claim": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html"
+        ]
+      },
+      {
+        "claim": "Musk Is Predicting \u2018Guppy-level Death\u2019 for Scores of A.I. Companies",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html"
+        ]
+      },
+      {
+        "claim": "Meet Anthropic\u2019s Seven Founders",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/26/technology/anthropic-founders.html"
+        ]
+      },
+      {
+        "claim": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-10-26\n\n**Reporting period:** 2026-10-25 14:03 UTC to 2026-10-26 14:03 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-10-25 14:03 UTC and 2026-10-26 14:03 UTC, 28 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 8 positive, 14 neutral, 6 negative (mean score -0.00). The most recurring theme was \"artificial intelligence\".\n\n## Key developments\n\n1. **AI giant Anthropic unveils plans for blockbuster share listing** - _BBC; 2026-10-26 13:58 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://bbc.co.uk/news/articles/cq398p1wd1evo?at_campaign=rss&at_medium=RSS)\n2. **Brazilian Markets Convulse After Unlikely Election Result** - _NYT; 2026-10-26 13:58 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://nytimes.com/2026/10/26/business/brazil-markets-election-lula.html)\n3. **Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion \u2013 business live** - _The Guardian; 2026-10-26 13:56 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates)\n4. **Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO** - _NYT; 2026-10-26 13:49 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html)\n5. **Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'** - _CNBC; 2026-10-26 13:43 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html)\n6. **Musk Is Predicting \u2018Guppy-level Death\u2019 for Scores of A.I. Companies** - _NYT; 2026-10-26 13:36 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html)\n7. **Meet Anthropic\u2019s Seven Founders** - _NYT; 2026-10-26 13:34 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/10/26/technology/anthropic-founders.html)\n8. **Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions** - _NYT; 2026-10-26 13:31 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html)\n\n## Emerging themes\n\n- **artificial intelligence** - 6 articles, 4 publisher(s), avg sentiment +0.04\n- **anthropic** - 7 articles, 3 publisher(s), avg sentiment +0.05\n- **infrastructure** - 6 articles, 3 publisher(s), avg sentiment -0.01\n- **latest updates** - 4 articles, 1 publisher(s), avg sentiment +0.05\n- **elon musk** - 4 articles, 3 publisher(s), avg sentiment -0.06\n- **company** - 5 articles, 3 publisher(s), avg sentiment -0.03\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 8 / Neutral 14 / Negative 6; mean -0.00.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Higher training costs for older workers risks plan to tackle youth jobs crisis, employers say (https://theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet)\n- The Guardian reported a negative-toned story: \u2018We don\u2019t have inflation\u2019? Five charts show the US economic reality of Trump\u2019s second term so far (https://theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts)\n- NYT reported a negative-toned story: Musk Is Predicting \u2018Guppy-level Death\u2019 for Scores of A.I. Companies (https://nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- BBC - [AI giant Anthropic unveils plans for blockbuster share listing](https://bbc.co.uk/news/articles/cq398p1wd1evo?at_campaign=rss&at_medium=RSS) (2026-10-26 13:58 UTC; collected 2026-10-26 14:03 UTC)\n- NYT - [Brazilian Markets Convulse After Unlikely Election Result](https://nytimes.com/2026/10/26/business/brazil-markets-election-lula.html) (2026-10-26 13:58 UTC; collected 2026-10-26 14:03 UTC)\n- The Guardian - [Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion \u2013 business live](https://theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates) (2026-10-26 13:56 UTC; collected 2026-10-26 14:03 UTC)\n- NYT - [Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO](https://nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html) (2026-10-26 13:49 UTC; collected 2026-10-26 14:03 UTC)\n- CNBC - [Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'](https://cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html) (2026-10-26 13:43 UTC; collected 2026-10-26 14:03 UTC)\n- NYT - [Musk Is Predicting \u2018Guppy-level Death\u2019 for Scores of A.I. Companies](https://nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html) (2026-10-26 13:36 UTC; collected 2026-10-26 14:03 UTC)\n- NYT - [Meet Anthropic\u2019s Seven Founders](https://nytimes.com/2026/10/26/technology/anthropic-founders.html) (2026-10-26 13:34 UTC; collected 2026-10-26 14:03 UTC)\n- NYT - [Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions](https://nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html) (2026-10-26 13:31 UTC; collected 2026-10-26 14:03 UTC)\n- BBC - [AI giant Anthropic unveils plans for blockbuster share listing](https://bbc.co.uk/news/articles/cq398p1wd1evo?at_campaign=rss&at_medium=RSS) (2026-10-26 13:58 UTC; collected 2026-10-26 14:03 UTC)\n- The Guardian - [Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion \u2013 business live](https://theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates) (2026-10-26 13:20 UTC; collected 2026-10-26 14:03 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-10-26\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-10-25 14:03 UTC and 2026-10-26 14:03 UTC, 28 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 8 positive, 14 neutral, 6 negative (mean score -0.00). The most recurring theme was \"artificial intelligence\".\n\nKey developments:\n- AI giant Anthropic unveils plans for blockbuster share listing (BBC) https://bbc.co.uk/news/articles/cq398p1wd1evo?at_campaign=rss&at_medium=RSS\n- Brazilian Markets Convulse After Unlikely Election Result (NYT) https://nytimes.com/2026/10/26/business/brazil-markets-election-lula.html\n- Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion \u2013 business live (The Guardian) https://theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates\n- Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO (NYT) https://nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html\n- Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death' (CNBC) https://cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}

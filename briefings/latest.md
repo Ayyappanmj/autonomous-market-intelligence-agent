@@ -1,60 +1,60 @@
-# Market Intelligence Briefing - 2026-10-25
+# Market Intelligence Briefing - 2026-10-26
 
-**Reporting period:** 2026-10-24 12:26 UTC to 2026-10-25 12:26 UTC  
+**Reporting period:** 2026-10-25 14:03 UTC to 2026-10-26 14:03 UTC  
 **Topics:** ai, economy, markets, technology  
 **Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text
 
 ## Executive summary
 
-Between 2026-10-24 12:26 UTC and 2026-10-25 12:26 UTC, 10 unique articles from 3 publishers were reviewed. Headline tone measured by a rule-based baseline: 1 positive, 5 neutral, 4 negative (mean score -0.10). The most recurring theme was "andy burnham".
+Between 2026-10-25 14:03 UTC and 2026-10-26 14:03 UTC, 28 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 8 positive, 14 neutral, 6 negative (mean score -0.00). The most recurring theme was "artificial intelligence".
 
 ## Key developments
 
-1. **Interest rates unlikely to reach 4.75% by next summer, say City economists** - _The Guardian; 2026-10-25 12:00 UTC; single-source, attributed_  
-   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  
-   Sources: [1](https://theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027)
-2. **Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.** - _NYT; 2026-10-25 11:11 UTC; single-source, attributed_  
-   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  
-   Sources: [1](https://nytimes.com/2026/10/25/business/california-colleges-costs.html)
-3. **Put Your A.I. Agents to Work with These 4 Killer Tasks** - _NYT; 2026-10-25 09:01 UTC; single-source, attributed_  
+1. **AI giant Anthropic unveils plans for blockbuster share listing** - _BBC; 2026-10-26 13:58 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html)
-4. **‘You can’t bring in robots’: the leather firm handmaking everything from wallets to cigar cases** - _The Guardian; 2026-10-25 08:00 UTC; single-source, attributed_  
-   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
-   Sources: [1](https://theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall)
-5. **Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money** - _The Guardian; 2026-10-25 07:00 UTC; single-source, attributed_  
-   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
-   Sources: [1](https://theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money)
-6. **Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in ten years** - _The Guardian; 2026-10-25 06:00 UTC; single-source, attributed_  
-   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
-   Sources: [1](https://theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land)
-7. **Audi to Build Factory in Georgia, Trump Says** - _NYT; 2026-10-25 02:17 UTC; single-source, attributed_  
-   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
-   Sources: [1](https://nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html)
-8. **Healey’s first budget to include big devolution package to boost growth** - _The Guardian; 2026-10-24 21:30 UTC; single-source, attributed_  
-   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
-   Sources: [1](https://theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package)
+   Sources: [1](https://bbc.co.uk/news/articles/cq398p1wd1evo?at_campaign=rss&at_medium=RSS)
+2. **Brazilian Markets Convulse After Unlikely Election Result** - _NYT; 2026-10-26 13:58 UTC; single-source, attributed_  
+   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  
+   Sources: [1](https://nytimes.com/2026/10/26/business/brazil-markets-election-lula.html)
+3. **Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – business live** - _The Guardian; 2026-10-26 13:56 UTC; single-source, attributed_  
+   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
+   Sources: [1](https://theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates)
+4. **Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO** - _NYT; 2026-10-26 13:49 UTC; single-source, attributed_  
+   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
+   Sources: [1](https://nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html)
+5. **Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'** - _CNBC; 2026-10-26 13:43 UTC; single-source, attributed_  
+   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
+   Sources: [1](https://cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html)
+6. **Musk Is Predicting ‘Guppy-level Death’ for Scores of A.I. Companies** - _NYT; 2026-10-26 13:36 UTC; single-source, attributed_  
+   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  
+   Sources: [1](https://nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html)
+7. **Meet Anthropic’s Seven Founders** - _NYT; 2026-10-26 13:34 UTC; single-source, attributed_  
+   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
+   Sources: [1](https://nytimes.com/2026/10/26/technology/anthropic-founders.html)
+8. **Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions** - _NYT; 2026-10-26 13:31 UTC; single-source, attributed_  
+   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
+   Sources: [1](https://nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html)
 
 ## Emerging themes
 
-- **andy burnham** - 2 articles, 1 publisher(s), avg sentiment +0.32
-- **jobs** - 3 articles, 2 publisher(s), avg sentiment -0.33
-- **financial** - 2 articles, 1 publisher(s), avg sentiment +0.00
-- **factory** - 2 articles, 2 publisher(s), avg sentiment -0.28
-- **through** - 2 articles, 1 publisher(s), avg sentiment -0.34
-- **get** - 2 articles, 2 publisher(s), avg sentiment +0.00
+- **artificial intelligence** - 6 articles, 4 publisher(s), avg sentiment +0.04
+- **anthropic** - 7 articles, 3 publisher(s), avg sentiment +0.05
+- **infrastructure** - 6 articles, 3 publisher(s), avg sentiment -0.01
+- **latest updates** - 4 articles, 1 publisher(s), avg sentiment +0.05
+- **elon musk** - 4 articles, 3 publisher(s), avg sentiment -0.06
+- **company** - 5 articles, 3 publisher(s), avg sentiment -0.03
 
 ## Sentiment overview
 
-Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 1 / Neutral 5 / Negative 4; mean -0.10.
+Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 8 / Neutral 14 / Negative 6; mean -0.00.
 
 _Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._
 
 ## Risks
 
-- The Guardian reported a negative-toned story: Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money (https://theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money)
-- CNBC reported a negative-toned story: AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio (https://cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html)
-- The Guardian reported a negative-toned story: ‘You can’t bring in robots’: the leather firm handmaking everything from wallets to cigar cases (https://theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall)
+- The Guardian reported a negative-toned story: Higher training costs for older workers risks plan to tackle youth jobs crisis, employers say (https://theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet)
+- The Guardian reported a negative-toned story: ‘We don’t have inflation’? Five charts show the US economic reality of Trump’s second term so far (https://theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts)
+- NYT reported a negative-toned story: Musk Is Predicting ‘Guppy-level Death’ for Scores of A.I. Companies (https://nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html)
 
 ## Uncertainties
 
@@ -67,15 +67,16 @@ Passed: True; revisions: 0; unsupported claims removed: 0.
 
 ## Source references
 
-- The Guardian - [Interest rates unlikely to reach 4.75% by next summer, say City economists](https://theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027) (2026-10-25 12:00 UTC; collected 2026-10-25 12:26 UTC)
-- NYT - [Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.](https://nytimes.com/2026/10/25/business/california-colleges-costs.html) (2026-10-25 11:11 UTC; collected 2026-10-25 12:26 UTC)
-- NYT - [Put Your A.I. Agents to Work with These 4 Killer Tasks](https://nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html) (2026-10-25 09:01 UTC; collected 2026-10-25 12:26 UTC)
-- The Guardian - [‘You can’t bring in robots’: the leather firm handmaking everything from wallets to cigar cases](https://theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall) (2026-10-25 08:00 UTC; collected 2026-10-25 12:26 UTC)
-- The Guardian - [Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money](https://theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money) (2026-10-25 07:00 UTC; collected 2026-10-25 12:26 UTC)
-- The Guardian - [Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in ten years](https://theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land) (2026-10-25 06:00 UTC; collected 2026-10-25 12:26 UTC)
-- NYT - [Audi to Build Factory in Georgia, Trump Says](https://nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html) (2026-10-25 02:17 UTC; collected 2026-10-25 12:26 UTC)
-- The Guardian - [Healey’s first budget to include big devolution package to boost growth](https://theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package) (2026-10-24 21:30 UTC; collected 2026-10-25 12:26 UTC)
-- The Guardian - [Interest rates unlikely to reach 4.75% by next summer, say City economists](https://theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027) (2026-10-25 12:00 UTC; collected 2026-10-25 12:26 UTC)
+- BBC - [AI giant Anthropic unveils plans for blockbuster share listing](https://bbc.co.uk/news/articles/cq398p1wd1evo?at_campaign=rss&at_medium=RSS) (2026-10-26 13:58 UTC; collected 2026-10-26 14:03 UTC)
+- NYT - [Brazilian Markets Convulse After Unlikely Election Result](https://nytimes.com/2026/10/26/business/brazil-markets-election-lula.html) (2026-10-26 13:58 UTC; collected 2026-10-26 14:03 UTC)
+- The Guardian - [Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – business live](https://theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates) (2026-10-26 13:56 UTC; collected 2026-10-26 14:03 UTC)
+- NYT - [Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO](https://nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html) (2026-10-26 13:49 UTC; collected 2026-10-26 14:03 UTC)
+- CNBC - [Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'](https://cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html) (2026-10-26 13:43 UTC; collected 2026-10-26 14:03 UTC)
+- NYT - [Musk Is Predicting ‘Guppy-level Death’ for Scores of A.I. Companies](https://nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html) (2026-10-26 13:36 UTC; collected 2026-10-26 14:03 UTC)
+- NYT - [Meet Anthropic’s Seven Founders](https://nytimes.com/2026/10/26/technology/anthropic-founders.html) (2026-10-26 13:34 UTC; collected 2026-10-26 14:03 UTC)
+- NYT - [Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions](https://nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html) (2026-10-26 13:31 UTC; collected 2026-10-26 14:03 UTC)
+- BBC - [AI giant Anthropic unveils plans for blockbuster share listing](https://bbc.co.uk/news/articles/cq398p1wd1evo?at_campaign=rss&at_medium=RSS) (2026-10-26 13:58 UTC; collected 2026-10-26 14:03 UTC)
+- The Guardian - [Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – business live](https://theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates) (2026-10-26 13:20 UTC; collected 2026-10-26 14:03 UTC)
 
 ---
 Headlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.
