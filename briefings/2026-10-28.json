@@ -1,0 +1,466 @@
+{
+  "id": "56c9182cd96e",
+  "generated_at": "2026-10-28T13:55:10.461186Z",
+  "period_start": "2026-10-27T13:55:10.461186Z",
+  "period_end": "2026-10-28T13:55:10.461186Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-10-27 13:55 UTC and 2026-10-28 13:55 UTC, 50 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 12 positive, 22 neutral, 16 negative (mean score -0.05). The most recurring theme was \"wednesday\".",
+  "key_developments": [
+    {
+      "text": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-28T13:52:27Z"
+    },
+    {
+      "text": "Jio\u2019s Blockbuster I.P.O. Gives India\u2019s Investors a Lift",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/28/business/india-jio-ipo.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-28T13:48:43Z"
+    },
+    {
+      "text": "Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-28T13:48:05Z"
+    },
+    {
+      "text": "U.S. Restricts Trade With Chinese Genomics Company",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-28T13:44:24Z"
+    },
+    {
+      "text": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-28T13:40:03Z"
+    },
+    {
+      "text": "Budget 2026: John Healey offers \u00a3100 payments to households to help navigate \u2018global economic storms\u2019",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-28T13:17:31Z"
+    },
+    {
+      "text": "GSK shares dive as weaker sales and mounting costs unnerve investors",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/oct/28/gsk-shares-dive-as-weaker-sales-and-mounting-costs-unnerve-investors"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-28T12:44:37Z"
+    },
+    {
+      "text": "Will it be AI or the climate crisis that ends humanity? We can make it neither | Adam McKay and Philip Eubanks",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/commentisfree/2026/oct/28/ai-climate-crisis-humanity"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-28T12:00:04Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "wednesday",
+      "article_count": 8,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+        "https://theguardian.com/business/2026/oct/28/gsk-shares-dive-as-weaker-sales-and-mounting-costs-unnerve-investors",
+        "https://theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
+        "https://nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html",
+        "https://cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html"
+      ],
+      "avg_sentiment": -0.215,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "artificial intelligence",
+      "article_count": 5,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/28/business/dealbook/ai-spending-quarterly-results-amazon-microsoft.html",
+        "https://theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi",
+        "https://cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
+        "https://nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html",
+        "https://cnbc.com/2026/10/27/nvidia-invest-meta.html"
+      ],
+      "avg_sentiment": 0.122,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "john healey",
+      "article_count": 5,
+      "publishers": [
+        "BBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms",
+        "https://theguardian.com/uk-news/2026/oct/27/john-healey-budget-help-with-cost-of-living-deferring-decisions-on-tax-and-spending",
+        "https://theguardian.com/uk-news/2026/oct/27/budget-2026-six-charts-underpin-chancellor-decisions-john-healey",
+        "https://theguardian.com/business/nils-pratley-on-finance/2026/oct/27/the-chancellors-pet-pufins-have-an-important-role-but-they-need-more-scrutiny",
+        "https://bbc.co.uk/news/articles/c6d93gq1xdgno?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": -0.264,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "investors",
+      "article_count": 7,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/28/business/india-jio-ipo.html",
+        "https://theguardian.com/business/2026/oct/28/gsk-shares-dive-as-weaker-sales-and-mounting-costs-unnerve-investors",
+        "https://nytimes.com/2026/10/28/business/dealbook/ai-spending-quarterly-results-amazon-microsoft.html",
+        "https://cnbc.com/2026/10/28/investors-brace-for-a-hawkish-hold-and-tech-on-tap.html",
+        "https://cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html"
+      ],
+      "avg_sentiment": 0.006,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "crisis",
+      "article_count": 7,
+      "publishers": [
+        "BBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms",
+        "https://theguardian.com/commentisfree/2026/oct/28/ai-climate-crisis-humanity",
+        "https://theguardian.com/commentisfree/2026/oct/28/nicholas-stern-report-climate-consensus-lessons-capitalism",
+        "https://theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
+        "https://theguardian.com/uk-news/2026/oct/27/john-healey-budget-help-with-cost-of-living-deferring-decisions-on-tax-and-spending"
+      ],
+      "avg_sentiment": -0.649,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "latest updates",
+      "article_count": 4,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms",
+        "https://theguardian.com/business/2026/oct/28/gsk-shares-dive-as-weaker-sales-and-mounting-costs-unnerve-investors",
+        "https://theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics",
+        "https://theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release"
+      ],
+      "avg_sentiment": -0.679,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 12,
+    "neutral": 22,
+    "negative": 16,
+    "mean_score": -0.054,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Australia\u2019s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year (https://theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release)",
+    "The Guardian reported a negative-toned story: GSK shares dive as weaker sales and mounting costs unnerve investors (https://theguardian.com/business/2026/oct/28/gsk-shares-dive-as-weaker-sales-and-mounting-costs-unnerve-investors)",
+    "The Guardian reported a negative-toned story: Budget 2026: John Healey offers \u00a3100 payments to households to help navigate \u2018global economic storms\u2019 (https://theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "78ba31f40cf8c452",
+      "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
+      "summary": "Google is opening its TPU business beyond its own cloud as custom chips become a bigger engine for growth.",
+      "published_at": "2026-10-28T13:52:27Z",
+      "collected_at": "2026-10-28T13:55:10.461186Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology",
+        "economy"
+      ],
+      "sentiment_score": 0.3818,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "5c29f3578fe124cf",
+      "title": "Jio\u2019s Blockbuster I.P.O. Gives India\u2019s Investors a Lift",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/28/business/india-jio-ipo.html",
+      "summary": "Jio Platforms shares surged on their first day of trading, even as questions mount about the telecom firm\u2019s growth prospects and a new generation takes charge.",
+      "published_at": "2026-10-28T13:48:43Z",
+      "collected_at": "2026-10-28T13:55:10.461186Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": 0.3818,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "c67a0b1eb5b5ad87",
+      "title": "Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+      "summary": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
+      "published_at": "2026-10-28T13:48:05Z",
+      "collected_at": "2026-10-28T13:55:10.461186Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.3818,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "cc960eec3bc32a78",
+      "title": "U.S. Restricts Trade With Chinese Genomics Company",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
+      "summary": "The move will block shipments from BGI, a major Chinese firm that U.S. officials allege is associated with forced labor and the abuse of minority groups.",
+      "published_at": "2026-10-28T13:44:24Z",
+      "collected_at": "2026-10-28T13:55:10.461186Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "c635c47edb31b8c6",
+      "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
+      "summary": "A.I. has uncovered a horde of software flaws, which engineers are racing to fix before they can be exploited and abused by hackers.",
+      "published_at": "2026-10-28T13:40:03Z",
+      "collected_at": "2026-10-28T13:55:10.461186Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "004f0c4d09d6cff9",
+      "title": "Budget 2026: John Healey offers \u00a3100 payments to households to help navigate \u2018global economic storms\u2019",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms",
+      "summary": "Payment to 20m homes part of package to help cut energy bills and ease cost-of-living crisis, paid for by bank windfall tax Budget 2026: key points at a glance Budget 2026 live \u2013 latest updates John Healey promised to steer Britain through \u201cglobal economic storms,\u201d as he announced a package of measures to cut consumers\u2019 energy bills, funded by a smaller-than-expected windfall tax on banks. In his first budget, the chancellor said 20m households in council tax bands A to D would receive a \u00a3100 pa",
+      "published_at": "2026-10-28T13:17:31Z",
+      "collected_at": "2026-10-28T13:55:10.461186Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.7783,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "2aa492ae99ea1950",
+      "title": "GSK shares dive as weaker sales and mounting costs unnerve investors",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/28/gsk-shares-dive-as-weaker-sales-and-mounting-costs-unnerve-investors",
+      "summary": "British pharma company reports declining profits amid weaker vaccine sales and looming patent loss for blockbuster HIV drug Business live \u2013 latest updates Shares in GSK slid on Wednesday despite the UK drugmaker reporting better than expected financial results, as investors were unnerved by weaker vaccine sales, restructuring charges and its overall outlook. Britain\u2019s second-biggest pharmaceutical company reported a 19% decline in pre-tax profit to \u00a31.9bn in the July to September quarter and \u00a331",
+      "published_at": "2026-10-28T12:44:37Z",
+      "collected_at": "2026-10-28T13:55:10.461186Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": -0.7964,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "803eec2b975d722b",
+      "title": "Will it be AI or the climate crisis that ends humanity? We can make it neither | Adam McKay and Philip Eubanks",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/28/ai-climate-crisis-humanity",
+      "summary": "Both of these threats have the same roots: private entities seeking to cash in. We have the power to stand against them A summer of extreme heat, entire villages obliterated in Nepal, a super El Ni\u00f1o breaking records, Exxon publicly saying we may reach 3C by 2050 \u2013 could it possibly be any worse? How about throwing AI extinction in the mix? Continue reading...",
+      "published_at": "2026-10-28T12:00:04Z",
+      "collected_at": "2026-10-28T13:55:10.461186Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": -0.5267,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "c635c47edb31b8c6",
+      "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
+      "summary": "A.I. has uncovered a horde of software flaws, which engineers are racing to fix before they can be exploited and abused by hackers.",
+      "published_at": "2026-10-28T13:40:03Z",
+      "collected_at": "2026-10-28T13:55:10.461186Z",
+      "feed_name": "NYT / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html"
+        ]
+      },
+      {
+        "claim": "Jio\u2019s Blockbuster I.P.O. Gives India\u2019s Investors a Lift",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/28/business/india-jio-ipo.html"
+        ]
+      },
+      {
+        "claim": "Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html"
+        ]
+      },
+      {
+        "claim": "U.S. Restricts Trade With Chinese Genomics Company",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html"
+        ]
+      },
+      {
+        "claim": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html"
+        ]
+      },
+      {
+        "claim": "Budget 2026: John Healey offers \u00a3100 payments to households to help navigate \u2018global economic storms\u2019",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms"
+        ]
+      },
+      {
+        "claim": "GSK shares dive as weaker sales and mounting costs unnerve investors",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/oct/28/gsk-shares-dive-as-weaker-sales-and-mounting-costs-unnerve-investors"
+        ]
+      },
+      {
+        "claim": "Will it be AI or the climate crisis that ends humanity? We can make it neither | Adam McKay and Philip Eubanks",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/commentisfree/2026/oct/28/ai-climate-crisis-humanity"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-10-28\n\n**Reporting period:** 2026-10-27 13:55 UTC to 2026-10-28 13:55 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-10-27 13:55 UTC and 2026-10-28 13:55 UTC, 50 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 12 positive, 22 neutral, 16 negative (mean score -0.05). The most recurring theme was \"wednesday\".\n\n## Key developments\n\n1. **Google alters its cloud playbook, enlisting partners to sell more AI chips** - _CNBC; 2026-10-28 13:52 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html)\n2. **Jio\u2019s Blockbuster I.P.O. Gives India\u2019s Investors a Lift** - _NYT; 2026-10-28 13:48 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://nytimes.com/2026/10/28/business/india-jio-ipo.html)\n3. **Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction** - _CNBC; 2026-10-28 13:48 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html)\n4. **U.S. Restricts Trade With Chinese Genomics Company** - _NYT; 2026-10-28 13:44 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html)\n5. **AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them** - _NYT; 2026-10-28 13:40 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html)\n6. **Budget 2026: John Healey offers \u00a3100 payments to households to help navigate \u2018global economic storms\u2019** - _The Guardian; 2026-10-28 13:17 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms)\n7. **GSK shares dive as weaker sales and mounting costs unnerve investors** - _The Guardian; 2026-10-28 12:44 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://theguardian.com/business/2026/oct/28/gsk-shares-dive-as-weaker-sales-and-mounting-costs-unnerve-investors)\n8. **Will it be AI or the climate crisis that ends humanity? We can make it neither | Adam McKay and Philip Eubanks** - _The Guardian; 2026-10-28 12:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/commentisfree/2026/oct/28/ai-climate-crisis-humanity)\n\n## Emerging themes\n\n- **wednesday** - 8 articles, 3 publisher(s), avg sentiment -0.21\n- **artificial intelligence** - 5 articles, 3 publisher(s), avg sentiment +0.12\n- **john healey** - 5 articles, 2 publisher(s), avg sentiment -0.26\n- **investors** - 7 articles, 3 publisher(s), avg sentiment +0.01\n- **crisis** - 7 articles, 2 publisher(s), avg sentiment -0.65\n- **latest updates** - 4 articles, 1 publisher(s), avg sentiment -0.68\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 12 / Neutral 22 / Negative 16; mean -0.05.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Australia\u2019s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year (https://theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release)\n- The Guardian reported a negative-toned story: GSK shares dive as weaker sales and mounting costs unnerve investors (https://theguardian.com/business/2026/oct/28/gsk-shares-dive-as-weaker-sales-and-mounting-costs-unnerve-investors)\n- The Guardian reported a negative-toned story: Budget 2026: John Healey offers \u00a3100 payments to households to help navigate \u2018global economic storms\u2019 (https://theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- CNBC - [Google alters its cloud playbook, enlisting partners to sell more AI chips](https://cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html) (2026-10-28 13:52 UTC; collected 2026-10-28 13:55 UTC)\n- NYT - [Jio\u2019s Blockbuster I.P.O. Gives India\u2019s Investors a Lift](https://nytimes.com/2026/10/28/business/india-jio-ipo.html) (2026-10-28 13:48 UTC; collected 2026-10-28 13:55 UTC)\n- CNBC - [Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction](https://cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html) (2026-10-28 13:48 UTC; collected 2026-10-28 13:55 UTC)\n- NYT - [U.S. Restricts Trade With Chinese Genomics Company](https://nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html) (2026-10-28 13:44 UTC; collected 2026-10-28 13:55 UTC)\n- NYT - [AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them](https://nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html) (2026-10-28 13:40 UTC; collected 2026-10-28 13:55 UTC)\n- The Guardian - [Budget 2026: John Healey offers \u00a3100 payments to households to help navigate \u2018global economic storms\u2019](https://theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms) (2026-10-28 13:17 UTC; collected 2026-10-28 13:55 UTC)\n- The Guardian - [GSK shares dive as weaker sales and mounting costs unnerve investors](https://theguardian.com/business/2026/oct/28/gsk-shares-dive-as-weaker-sales-and-mounting-costs-unnerve-investors) (2026-10-28 12:44 UTC; collected 2026-10-28 13:55 UTC)\n- The Guardian - [Will it be AI or the climate crisis that ends humanity? We can make it neither | Adam McKay and Philip Eubanks](https://theguardian.com/commentisfree/2026/oct/28/ai-climate-crisis-humanity) (2026-10-28 12:00 UTC; collected 2026-10-28 13:55 UTC)\n- NYT - [AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them](https://nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html) (2026-10-28 13:40 UTC; collected 2026-10-28 13:55 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-10-28\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-10-27 13:55 UTC and 2026-10-28 13:55 UTC, 50 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 12 positive, 22 neutral, 16 negative (mean score -0.05). The most recurring theme was \"wednesday\".\n\nKey developments:\n- Google alters its cloud playbook, enlisting partners to sell more AI chips (CNBC) https://cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html\n- Jio\u2019s Blockbuster I.P.O. Gives India\u2019s Investors a Lift (NYT) https://nytimes.com/2026/10/28/business/india-jio-ipo.html\n- Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction (CNBC) https://cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html\n- U.S. Restricts Trade With Chinese Genomics Company (NYT) https://nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html\n- AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them (NYT) https://nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
