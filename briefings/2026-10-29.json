@@ -1,0 +1,468 @@
+{
+  "id": "868be1ca05c1",
+  "generated_at": "2026-10-29T14:01:37.801371Z",
+  "period_start": "2026-10-28T14:01:37.801371Z",
+  "period_end": "2026-10-29T14:01:37.801371Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-10-28 14:01 UTC and 2026-10-29 14:01 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 17 positive, 24 neutral, 19 negative (mean score +0.02). The most recurring theme was \"budget\".",
+  "key_developments": [
+    {
+      "text": "U.S. GDP Increased 3.4% in Third Quarter",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/29/business/economy/us-economy-gdp.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-29T13:55:29Z"
+    },
+    {
+      "text": "DoorDash to buy Instacart for $17bn in major grocery delivery consolidation",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-10-29T13:41:43Z"
+    },
+    {
+      "text": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-29T13:31:26Z"
+    },
+    {
+      "text": "Christine Lagarde to Step Down as President of European Central Bank",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-29T13:28:16Z"
+    },
+    {
+      "text": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://bbc.co.uk/news/articles/c6z7x8214np7o?at_campaign=rss&at_medium=RSS"
+      ],
+      "publishers": [
+        "BBC"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-29T13:19:24Z"
+    },
+    {
+      "text": "Inflation Accelerated in October, PCE Index Shows",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-29T13:11:39Z"
+    },
+    {
+      "text": "US economy grows faster than expected in report out just ahead of elections",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/oct/29/economy-growth-third-quarter"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-29T13:09:00Z"
+    },
+    {
+      "text": "Microsoft Up, Google Down. A Tale of Two Hyperscalers.",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/29/business/dealbook/microsoft-google-ai-hyperscalers.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-29T12:20:10Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "budget",
+      "article_count": 13,
+      "publishers": [
+        "BBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://bbc.co.uk/news/articles/c6z7x8214np7o?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/business/2026/oct/29/lloyds-executive-criticises-healey-for-linking-bank-tax-rises-to-energy-bill-support",
+        "https://theguardian.com/thefilter/2026/oct/29/dyson-camerajet-electric-toothbrush-review-tested-uk",
+        "https://theguardian.com/uk-news/2026/oct/29/will-the-budget-deliver-growth-in-every-postcode",
+        "https://theguardian.com/uk-news/2026/oct/29/uk-retail-hospitality-businesses-relief-budget"
+      ],
+      "avg_sentiment": -0.08,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "chancellor",
+      "article_count": 10,
+      "publishers": [
+        "BBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/oct/29/lloyds-executive-criticises-healey-for-linking-bank-tax-rises-to-energy-bill-support",
+        "https://theguardian.com/uk-news/2026/oct/29/will-the-budget-deliver-growth-in-every-postcode",
+        "https://theguardian.com/uk-news/2026/oct/29/uk-retail-hospitality-businesses-relief-budget",
+        "https://theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
+        "https://theguardian.com/money/2026/oct/28/budget-energy-economic-growth-cutting-prices"
+      ],
+      "avg_sentiment": -0.083,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "growth",
+      "article_count": 10,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
+        "https://bbc.co.uk/news/articles/c6z7x8214np7o?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
+        "https://theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
+        "https://theguardian.com/business/2026/oct/29/lloyds-executive-criticises-healey-for-linking-bank-tax-rises-to-energy-bill-support"
+      ],
+      "avg_sentiment": 0.328,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "business",
+      "article_count": 9,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
+        "https://theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
+        "https://cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+        "https://nytimes.com/2026/10/29/business/dealbook/kalshi-fundraising-ipo.html",
+        "https://theguardian.com/business/2026/oct/29/poundland-brink-administration-12000-jobs-at-risk"
+      ],
+      "avg_sentiment": 0.151,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "economic",
+      "article_count": 9,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
+        "https://theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
+        "https://theguardian.com/business/2026/oct/29/lloyds-executive-criticises-healey-for-linking-bank-tax-rises-to-energy-bill-support",
+        "https://cnbc.com/2026/10/28/jim-cramer-tech-giants-nation-states.html",
+        "https://theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households"
+      ],
+      "avg_sentiment": -0.017,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "federal reserve",
+      "article_count": 5,
+      "publishers": [
+        "NYT"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
+        "https://nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html",
+        "https://nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
+        "https://nytimes.com/2026/10/28/business/economy/fed-meetings-2027-interest-rates-warsh.html",
+        "https://nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html"
+      ],
+      "avg_sentiment": -0.192,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 17,
+    "neutral": 24,
+    "negative": 19,
+    "mean_score": 0.021,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Budget 2026: Healey hikes taxes on banks and landlords to fund \u00a3100 handouts to 20m households (https://theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households)",
+    "CNBC reported a negative-toned story: Alphabet earnings miss reflects first real sign that AI is taking a bite out of search (https://cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html)",
+    "The Guardian reported a negative-toned story: Healey gives households \u00a3100 to help navigate \u2018global economic storms\u2019 (https://theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "fcc553f67fd37a23",
+      "title": "U.S. GDP Increased 3.4% in Third Quarter",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
+      "summary": "The economy grew 3.4 percent in the third quarter, the fastest pace in a year. Strong spending and growth contrast with the poor marks many voters are giving the economy.",
+      "published_at": "2026-10-29T13:55:29Z",
+      "collected_at": "2026-10-29T14:01:37.801371Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.6249,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "1b4811ed75beb1ef",
+      "title": "DoorDash to buy Instacart for $17bn in major grocery delivery consolidation",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
+      "summary": "Acquisition will supercharge DoorDash\u2019s grocery delivery, \u2018one of the hardest things to get right online\u2019, CEO says DoorDash is gobbling up Instacart in a $17bn acquisition that will supercharge its grocery delivery business. DoorDash said the Instacart brand name and app will remain, and Instacart shoppers can continue fulfilling orders for Instacart. Grocers can also choose to work with Instacart or DoorDash. Instacart customers will now have access to 50,000 additional stores covered by DoorD",
+      "published_at": "2026-10-29T13:41:43Z",
+      "collected_at": "2026-10-29T14:01:37.801371Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "8df1927f7c25bb23",
+      "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
+      "summary": "Federal Reserve officials are expected to restart rate increases in December, but the cadence of additional moves will depend on the data.",
+      "published_at": "2026-10-29T13:31:26Z",
+      "collected_at": "2026-10-29T14:01:37.801371Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.4588,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "eb359bea73d366aa",
+      "title": "Christine Lagarde to Step Down as President of European Central Bank",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html",
+      "summary": "Her plan to depart in February, months before the end of an eight-year term, sets in motion a selection process among European leaders for a new central bank president.",
+      "published_at": "2026-10-29T13:28:16Z",
+      "collected_at": "2026-10-29T14:01:37.801371Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "3f2792df05c57ff8",
+      "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/c6z7x8214np7o?at_campaign=rss&at_medium=RSS",
+      "summary": "Budget forecasts show growth in living standards grinding almost to a halt.",
+      "published_at": "2026-10-29T13:19:24Z",
+      "collected_at": "2026-10-29T14:01:37.801371Z",
+      "feed_name": "BBC / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.5859,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "f66c7aaec604fcf5",
+      "title": "Inflation Accelerated in October, PCE Index Shows",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html",
+      "summary": "The Personal Consumption Expenditures index picked up in September, according to data released a day after the Federal Reserve\u2019s decision to hold interest rates steady.",
+      "published_at": "2026-10-29T13:11:39Z",
+      "collected_at": "2026-10-29T14:01:37.801371Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": -0.25,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "6ee52e22a02ba42e",
+      "title": "US economy grows faster than expected in report out just ahead of elections",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
+      "summary": "Growth is in sharp contrast to \u200bhouseholds\u2019 assessment, reflected in \u200cTrump\u2019s record-low approval ratings The US economy grew faster than expected in the third quarter as resilient consumer spending and AI -driven \u2060business investment more than \u2060offset the impact \u200bof higher oil prices stemming from the conflict in the Middle East . Gross domestic product (GDP) increased at a 3.4% annualized rate last quarter, the commerce department\u2019s \u2060bureau of economic analysis said in its advance estimate of ",
+      "published_at": "2026-10-29T13:09:00Z",
+      "collected_at": "2026-10-29T14:01:37.801371Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai",
+        "economy"
+      ],
+      "sentiment_score": 0.8689,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "a462cbefa8a22dfd",
+      "title": "Microsoft Up, Google Down. A Tale of Two Hyperscalers.",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/29/business/dealbook/microsoft-google-ai-hyperscalers.html",
+      "summary": "Investors are showing little patience for lavish spending and meager returns on companies\u2019 artificial intelligence bets.",
+      "published_at": "2026-10-29T12:20:10Z",
+      "collected_at": "2026-10-29T14:01:37.801371Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai",
+        "technology",
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "6ee52e22a02ba42e",
+      "title": "US economy grows faster than expected in report out just ahead of elections",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
+      "summary": "Growth is in sharp contrast to \u200bhouseholds\u2019 assessment, reflected in \u200cTrump\u2019s record-low approval ratings The US economy grew faster than expected in the third quarter as resilient consumer spending and AI -driven \u2060business investment more than \u2060offset the impact \u200bof higher oil prices stemming from the conflict in the Middle East . Gross domestic product (GDP) increased at a 3.4% annualized rate last quarter, the commerce department\u2019s \u2060bureau of economic analysis said in its advance estimate of ",
+      "published_at": "2026-10-29T13:09:00Z",
+      "collected_at": "2026-10-29T14:01:37.801371Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "U.S. GDP Increased 3.4% in Third Quarter",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/29/business/economy/us-economy-gdp.html"
+        ]
+      },
+      {
+        "claim": "DoorDash to buy Instacart for $17bn in major grocery delivery consolidation",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery"
+        ]
+      },
+      {
+        "claim": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html"
+        ]
+      },
+      {
+        "claim": "Christine Lagarde to Step Down as President of European Central Bank",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html"
+        ]
+      },
+      {
+        "claim": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://bbc.co.uk/news/articles/c6z7x8214np7o?at_campaign=rss&at_medium=RSS"
+        ]
+      },
+      {
+        "claim": "Inflation Accelerated in October, PCE Index Shows",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html"
+        ]
+      },
+      {
+        "claim": "US economy grows faster than expected in report out just ahead of elections",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/oct/29/economy-growth-third-quarter"
+        ]
+      },
+      {
+        "claim": "Microsoft Up, Google Down. A Tale of Two Hyperscalers.",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/29/business/dealbook/microsoft-google-ai-hyperscalers.html"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-10-29\n\n**Reporting period:** 2026-10-28 14:01 UTC to 2026-10-29 14:01 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-10-28 14:01 UTC and 2026-10-29 14:01 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 17 positive, 24 neutral, 19 negative (mean score +0.02). The most recurring theme was \"budget\".\n\n## Key developments\n\n1. **U.S. GDP Increased 3.4% in Third Quarter** - _NYT; 2026-10-29 13:55 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/10/29/business/economy/us-economy-gdp.html)\n2. **DoorDash to buy Instacart for $17bn in major grocery delivery consolidation** - _The Guardian; 2026-10-29 13:41 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery)\n3. **In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation** - _NYT; 2026-10-29 13:31 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html)\n4. **Christine Lagarde to Step Down as President of European Central Bank** - _NYT; 2026-10-29 13:28 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html)\n5. **'Painful' years ahead, think tanks warn, as living standards set to fall** - _BBC; 2026-10-29 13:19 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://bbc.co.uk/news/articles/c6z7x8214np7o?at_campaign=rss&at_medium=RSS)\n6. **Inflation Accelerated in October, PCE Index Shows** - _NYT; 2026-10-29 13:11 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html)\n7. **US economy grows faster than expected in report out just ahead of elections** - _The Guardian; 2026-10-29 13:09 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/business/2026/oct/29/economy-growth-third-quarter)\n8. **Microsoft Up, Google Down. A Tale of Two Hyperscalers.** - _NYT; 2026-10-29 12:20 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/10/29/business/dealbook/microsoft-google-ai-hyperscalers.html)\n\n## Emerging themes\n\n- **budget** - 13 articles, 2 publisher(s), avg sentiment -0.08\n- **chancellor** - 10 articles, 2 publisher(s), avg sentiment -0.08\n- **growth** - 10 articles, 4 publisher(s), avg sentiment +0.33\n- **business** - 9 articles, 3 publisher(s), avg sentiment +0.15\n- **economic** - 9 articles, 3 publisher(s), avg sentiment -0.02\n- **federal reserve** - 5 articles, 1 publisher(s), avg sentiment -0.19\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 17 / Neutral 24 / Negative 19; mean +0.02.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Budget 2026: Healey hikes taxes on banks and landlords to fund \u00a3100 handouts to 20m households (https://theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households)\n- CNBC reported a negative-toned story: Alphabet earnings miss reflects first real sign that AI is taking a bite out of search (https://cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html)\n- The Guardian reported a negative-toned story: Healey gives households \u00a3100 to help navigate \u2018global economic storms\u2019 (https://theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- NYT - [U.S. GDP Increased 3.4% in Third Quarter](https://nytimes.com/2026/10/29/business/economy/us-economy-gdp.html) (2026-10-29 13:55 UTC; collected 2026-10-29 14:01 UTC)\n- The Guardian - [DoorDash to buy Instacart for $17bn in major grocery delivery consolidation](https://theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery) (2026-10-29 13:41 UTC; collected 2026-10-29 14:01 UTC)\n- NYT - [In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation](https://nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html) (2026-10-29 13:31 UTC; collected 2026-10-29 14:01 UTC)\n- NYT - [Christine Lagarde to Step Down as President of European Central Bank](https://nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html) (2026-10-29 13:28 UTC; collected 2026-10-29 14:01 UTC)\n- BBC - ['Painful' years ahead, think tanks warn, as living standards set to fall](https://bbc.co.uk/news/articles/c6z7x8214np7o?at_campaign=rss&at_medium=RSS) (2026-10-29 13:19 UTC; collected 2026-10-29 14:01 UTC)\n- NYT - [Inflation Accelerated in October, PCE Index Shows](https://nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html) (2026-10-29 13:11 UTC; collected 2026-10-29 14:01 UTC)\n- The Guardian - [US economy grows faster than expected in report out just ahead of elections](https://theguardian.com/business/2026/oct/29/economy-growth-third-quarter) (2026-10-29 13:09 UTC; collected 2026-10-29 14:01 UTC)\n- NYT - [Microsoft Up, Google Down. A Tale of Two Hyperscalers.](https://nytimes.com/2026/10/29/business/dealbook/microsoft-google-ai-hyperscalers.html) (2026-10-29 12:20 UTC; collected 2026-10-29 14:01 UTC)\n- The Guardian - [US economy grows faster than expected in report out just ahead of elections](https://theguardian.com/business/2026/oct/29/economy-growth-third-quarter) (2026-10-29 13:09 UTC; collected 2026-10-29 14:01 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-10-29\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-10-28 14:01 UTC and 2026-10-29 14:01 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 17 positive, 24 neutral, 19 negative (mean score +0.02). The most recurring theme was \"budget\".\n\nKey developments:\n- U.S. GDP Increased 3.4% in Third Quarter (NYT) https://nytimes.com/2026/10/29/business/economy/us-economy-gdp.html\n- DoorDash to buy Instacart for $17bn in major grocery delivery consolidation (The Guardian) https://theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery\n- In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation (NYT) https://nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html\n- Christine Lagarde to Step Down as President of European Central Bank (NYT) https://nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html\n- 'Painful' years ahead, think tanks warn, as living standards set to fall (BBC) https://bbc.co.uk/news/articles/c6z7x8214np7o?at_campaign=rss&at_medium=RSS\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
