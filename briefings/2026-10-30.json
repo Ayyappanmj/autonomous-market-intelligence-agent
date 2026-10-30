@@ -1,0 +1,486 @@
+{
+  "id": "c87fbf3e4576",
+  "generated_at": "2026-10-30T13:56:15.337550Z",
+  "period_start": "2026-10-29T13:56:15.337550Z",
+  "period_end": "2026-10-30T13:56:15.337550Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-10-29 13:56 UTC and 2026-10-30 13:56 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 11 positive, 22 neutral, 27 negative (mean score -0.16). The most recurring theme was \"tech\".",
+  "key_developments": [
+    {
+      "text": "Binance hackers using \u2018never-seen-before laundering patterns\u2019 to hide proceeds of $6.3bn heist \u2013 business live",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-30T13:54:21Z"
+    },
+    {
+      "text": "Amazon falls 4%, Intel dives 29%, as tech stocks sell off in post-earnings rout",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-30T13:50:17Z"
+    },
+    {
+      "text": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/29/technology/binance-hack-crypto.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-30T13:46:48Z"
+    },
+    {
+      "text": "How big a deal is the $6.3bn crypto heist, who did it, and are investments safe?",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-30T13:22:02Z"
+    },
+    {
+      "text": "Public sector an \u2018afterthought\u2019 to North Sea oil jobs, says Unison leader",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-30T13:04:03Z"
+    },
+    {
+      "text": "North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-30T12:48:40Z"
+    },
+    {
+      "text": "The big questions remaining after Anthropic\u2019s blockbuster IPO prospectus",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-30T12:27:36Z"
+    },
+    {
+      "text": "The Tech Tumult Rocks Wall Street",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/30/business/dealbook/tech-tumult-ai-wall-street.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-30T12:13:01Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "tech",
+      "article_count": 11,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+        "https://nytimes.com/2026/10/30/business/dealbook/tech-tumult-ai-wall-street.html",
+        "https://nytimes.com/2026/10/30/business/stock-market-october-ai.html",
+        "https://cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html",
+        "https://cnbc.com/2026/10/30/tech-trade-nasdaq-futures-crypto-hack.html"
+      ],
+      "avg_sentiment": -0.084,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "company",
+      "article_count": 10,
+      "publishers": [
+        "Ars Technica",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html",
+        "https://nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+        "https://cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+        "https://nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
+        "https://cnbc.com/2026/10/29/jim-cramer-earnings-guilt-by-association.html"
+      ],
+      "avg_sentiment": 0.062,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "wall street",
+      "article_count": 6,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/30/business/dealbook/tech-tumult-ai-wall-street.html",
+        "https://cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+        "https://cnbc.com/2026/10/29/jim-cramer-earnings-guilt-by-association.html",
+        "https://theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture",
+        "https://cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html"
+      ],
+      "avg_sentiment": -0.228,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "big",
+      "article_count": 9,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+        "https://theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe",
+        "https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+        "https://cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
+        "https://cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html"
+      ],
+      "avg_sentiment": -0.022,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "business",
+      "article_count": 8,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+        "https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+        "https://theguardian.com/business/2026/oct/30/uk-house-prices-grow-at-slowest-pace-in-two-years-as-mortgage-rates-rise",
+        "https://nytimes.com/2026/10/29/technology/intel-earnings.html",
+        "https://cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html"
+      ],
+      "avg_sentiment": -0.303,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "earnings",
+      "article_count": 8,
+      "publishers": [
+        "Ars Technica",
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+        "https://cnbc.com/2026/10/30/tech-trade-nasdaq-futures-crypto-hack.html",
+        "https://cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
+        "https://cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+        "https://theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture"
+      ],
+      "avg_sentiment": -0.42,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 11,
+    "neutral": 22,
+    "negative": 27,
+    "mean_score": -0.158,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "CNBC reported a negative-toned story: ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears (https://cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html)",
+    "The Guardian reported a negative-toned story: North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist (https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack)",
+    "CNBC reported a negative-toned story: Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance (https://cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "6c4a5de4b9b2ab00",
+      "title": "Binance hackers using \u2018never-seen-before laundering patterns\u2019 to hide proceeds of $6.3bn heist \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+      "summary": "Blockchain intelligence firm TRM says North Korea\u2019s TraderTraitor hacking unit is responsible for the largest crypto theft on record Explainer: How big a deal is the $6.3bn crypto heist, who did it, and are investments safe? Tell us: have you been affected by the Binance hack? North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist Most major cryptocurrencies have fallen in value since news of the Binance theft broke, Coinmarketcap data shows . That includes: Bitcoin : -2.",
+      "published_at": "2026-10-30T13:54:21Z",
+      "collected_at": "2026-10-30T13:56:15.337550Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": -0.5574,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "9385b63eba9f5325",
+      "title": "Amazon falls 4%, Intel dives 29%, as tech stocks sell off in post-earnings rout",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+      "summary": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
+      "published_at": "2026-10-30T13:50:17Z",
+      "collected_at": "2026-10-30T13:56:15.337550Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology",
+        "markets"
+      ],
+      "sentiment_score": -0.34,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "ac0dec14efaa95fc",
+      "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
+      "summary": "The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to \u201cNorth Korea\u2019s elite hacking unit.\u201d",
+      "published_at": "2026-10-30T13:46:48Z",
+      "collected_at": "2026-10-30T13:56:15.337550Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "7ffc6b78c227c287",
+      "title": "How big a deal is the $6.3bn crypto heist, who did it, and are investments safe?",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe",
+      "summary": "The theft from Binance could be the biggest theft of any kind in history. We answer some key questions North Korean group blamed for $6.3bn crypto heist Tell us: have you been affected? The world\u2019s largest cryptocurrency exchange has been hit by a $6.3bn heist that, according to experts, is likely to be the work of North Korea . This is not the first time a crypto market has been targeted by hackers, and the rogue state has a track record of this type of theft. Here we answer some key questions ",
+      "published_at": "2026-10-30T13:22:02Z",
+      "collected_at": "2026-10-30T13:56:15.337550Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.34,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "56b7d6b04b57eb24",
+      "title": "Public sector an \u2018afterthought\u2019 to North Sea oil jobs, says Unison leader",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison",
+      "summary": "Andrea Egan calls for same political focus on teachers, care sector and NHS and says Jackdaw decision \u2018a serious misstep\u2019 UK politics live \u2013 latest updates The leader of the UK\u2019s biggest trade union has called for the same political focus to be given to NHS, education and care sector workers as there has been on those employed in North Sea oil and gas. Andrea Egan, the general secretary of Unison, said too often public sector workers were treated as an \u201cafterthought\u201d by the government compared w",
+      "published_at": "2026-10-30T13:04:03Z",
+      "collected_at": "2026-10-30T13:56:15.337550Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "ca9dc291454b05bc",
+      "title": "North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+      "summary": "Cryptocurrency exchange scrambles to freeze affected assets, with about $3bn located so far, and says it will cover losses Q&A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Binance hack? Business live \u2013 latest updates The world\u2019s largest cryptocurrency exchange has been hit by an industry-record $6.3bn (\u00a34.7bn) hack, with experts identifying North Korea as the likely culprit. Binance has scrambled to freeze the affected assets, with about $3bn located so far.",
+      "published_at": "2026-10-30T12:48:40Z",
+      "collected_at": "2026-10-30T13:56:15.337550Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": -0.8555,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "d552a130dca30610",
+      "title": "The big questions remaining after Anthropic\u2019s blockbuster IPO prospectus",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
+      "summary": "Uncertainties remain ahead of one of the most hotly anticipated IPOs in history.",
+      "published_at": "2026-10-30T12:27:36Z",
+      "collected_at": "2026-10-30T13:56:15.337550Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "eb4405292ebf8bbb",
+      "title": "The Tech Tumult Rocks Wall Street",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/30/business/dealbook/tech-tumult-ai-wall-street.html",
+      "summary": "Investors are growing nervous about the huge spending bills that tech giants are amassing to pay for their bets on artificial intelligence.",
+      "published_at": "2026-10-30T12:13:01Z",
+      "collected_at": "2026-10-30T13:56:15.337550Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai",
+        "technology",
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "6c4a5de4b9b2ab00",
+      "title": "Binance hackers using \u2018never-seen-before laundering patterns\u2019 to hide proceeds of $6.3bn heist \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+      "summary": "Blockchain intelligence firm TRM says North Korea\u2019s TraderTraitor hacking unit is responsible for the largest crypto theft on record Explainer: How big a deal is the $6.3bn crypto heist, who did it, and are investments safe? Tell us: have you been affected by the Binance hack? North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist Most major cryptocurrencies have fallen in value since news of the Binance theft broke, Coinmarketcap data shows . That includes: Bitcoin : -2.",
+      "published_at": "2026-10-30T13:45:57Z",
+      "collected_at": "2026-10-30T13:56:15.337550Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "ac0dec14efaa95fc",
+      "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
+      "summary": "The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to \u201cNorth Korea\u2019s elite hacking unit.\u201d",
+      "published_at": "2026-10-30T13:46:48Z",
+      "collected_at": "2026-10-30T13:56:15.337550Z",
+      "feed_name": "NYT / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Binance hackers using \u2018never-seen-before laundering patterns\u2019 to hide proceeds of $6.3bn heist \u2013 business live",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates"
+        ]
+      },
+      {
+        "claim": "Amazon falls 4%, Intel dives 29%, as tech stocks sell off in post-earnings rout",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
+        ]
+      },
+      {
+        "claim": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/29/technology/binance-hack-crypto.html"
+        ]
+      },
+      {
+        "claim": "How big a deal is the $6.3bn crypto heist, who did it, and are investments safe?",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe"
+        ]
+      },
+      {
+        "claim": "Public sector an \u2018afterthought\u2019 to North Sea oil jobs, says Unison leader",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison"
+        ]
+      },
+      {
+        "claim": "North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+        ]
+      },
+      {
+        "claim": "The big questions remaining after Anthropic\u2019s blockbuster IPO prospectus",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html"
+        ]
+      },
+      {
+        "claim": "The Tech Tumult Rocks Wall Street",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/30/business/dealbook/tech-tumult-ai-wall-street.html"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-10-30\n\n**Reporting period:** 2026-10-29 13:56 UTC to 2026-10-30 13:56 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-10-29 13:56 UTC and 2026-10-30 13:56 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 11 positive, 22 neutral, 27 negative (mean score -0.16). The most recurring theme was \"tech\".\n\n## Key developments\n\n1. **Binance hackers using \u2018never-seen-before laundering patterns\u2019 to hide proceeds of $6.3bn heist \u2013 business live** - _The Guardian; 2026-10-30 13:54 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates)\n2. **Amazon falls 4%, Intel dives 29%, as tech stocks sell off in post-earnings rout** - _CNBC; 2026-10-30 13:50 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html)\n3. **Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion** - _NYT; 2026-10-30 13:46 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://nytimes.com/2026/10/29/technology/binance-hack-crypto.html)\n4. **How big a deal is the $6.3bn crypto heist, who did it, and are investments safe?** - _The Guardian; 2026-10-30 13:22 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe)\n5. **Public sector an \u2018afterthought\u2019 to North Sea oil jobs, says Unison leader** - _The Guardian; 2026-10-30 13:04 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison)\n6. **North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist** - _The Guardian; 2026-10-30 12:48 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack)\n7. **The big questions remaining after Anthropic\u2019s blockbuster IPO prospectus** - _CNBC; 2026-10-30 12:27 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html)\n8. **The Tech Tumult Rocks Wall Street** - _NYT; 2026-10-30 12:13 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/10/30/business/dealbook/tech-tumult-ai-wall-street.html)\n\n## Emerging themes\n\n- **tech** - 11 articles, 3 publisher(s), avg sentiment -0.08\n- **company** - 10 articles, 4 publisher(s), avg sentiment +0.06\n- **wall street** - 6 articles, 3 publisher(s), avg sentiment -0.23\n- **big** - 9 articles, 3 publisher(s), avg sentiment -0.02\n- **business** - 8 articles, 3 publisher(s), avg sentiment -0.30\n- **earnings** - 8 articles, 3 publisher(s), avg sentiment -0.42\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 11 / Neutral 22 / Negative 27; mean -0.16.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- CNBC reported a negative-toned story: ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears (https://cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html)\n- The Guardian reported a negative-toned story: North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist (https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack)\n- CNBC reported a negative-toned story: Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance (https://cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- The Guardian - [Binance hackers using \u2018never-seen-before laundering patterns\u2019 to hide proceeds of $6.3bn heist \u2013 business live](https://theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates) (2026-10-30 13:54 UTC; collected 2026-10-30 13:56 UTC)\n- CNBC - [Amazon falls 4%, Intel dives 29%, as tech stocks sell off in post-earnings rout](https://cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html) (2026-10-30 13:50 UTC; collected 2026-10-30 13:56 UTC)\n- NYT - [Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion](https://nytimes.com/2026/10/29/technology/binance-hack-crypto.html) (2026-10-30 13:46 UTC; collected 2026-10-30 13:56 UTC)\n- The Guardian - [How big a deal is the $6.3bn crypto heist, who did it, and are investments safe?](https://theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe) (2026-10-30 13:22 UTC; collected 2026-10-30 13:56 UTC)\n- The Guardian - [Public sector an \u2018afterthought\u2019 to North Sea oil jobs, says Unison leader](https://theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison) (2026-10-30 13:04 UTC; collected 2026-10-30 13:56 UTC)\n- The Guardian - [North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist](https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack) (2026-10-30 12:48 UTC; collected 2026-10-30 13:56 UTC)\n- CNBC - [The big questions remaining after Anthropic\u2019s blockbuster IPO prospectus](https://cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html) (2026-10-30 12:27 UTC; collected 2026-10-30 13:56 UTC)\n- NYT - [The Tech Tumult Rocks Wall Street](https://nytimes.com/2026/10/30/business/dealbook/tech-tumult-ai-wall-street.html) (2026-10-30 12:13 UTC; collected 2026-10-30 13:56 UTC)\n- The Guardian - [Binance hackers using \u2018never-seen-before laundering patterns\u2019 to hide proceeds of $6.3bn heist \u2013 business live](https://theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates) (2026-10-30 13:45 UTC; collected 2026-10-30 13:56 UTC)\n- NYT - [Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion](https://nytimes.com/2026/10/29/technology/binance-hack-crypto.html) (2026-10-30 13:46 UTC; collected 2026-10-30 13:56 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-10-30\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-10-29 13:56 UTC and 2026-10-30 13:56 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 11 positive, 22 neutral, 27 negative (mean score -0.16). The most recurring theme was \"tech\".\n\nKey developments:\n- Binance hackers using \u2018never-seen-before laundering patterns\u2019 to hide proceeds of $6.3bn heist \u2013 business live (The Guardian) https://theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates\n- Amazon falls 4%, Intel dives 29%, as tech stocks sell off in post-earnings rout (CNBC) https://cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html\n- Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion (NYT) https://nytimes.com/2026/10/29/technology/binance-hack-crypto.html\n- How big a deal is the $6.3bn crypto heist, who did it, and are investments safe? (The Guardian) https://theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe\n- Public sector an \u2018afterthought\u2019 to North Sea oil jobs, says Unison leader (The Guardian) https://theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
