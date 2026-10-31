@@ -1,0 +1,460 @@
+{
+  "id": "238bdb500f56",
+  "generated_at": "2026-10-31T13:29:15.002790Z",
+  "period_start": "2026-10-30T13:29:15.002790Z",
+  "period_end": "2026-10-31T13:29:15.002790Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-10-30 13:29 UTC and 2026-10-31 13:29 UTC, 52 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 9 positive, 19 neutral, 24 negative (mean score -0.18). The most recurring theme was \"crypto\".",
+  "key_developments": [
+    {
+      "text": "Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-10-31T13:04:29Z"
+    },
+    {
+      "text": "Is AI your new wingman? How chatbots are transforming dating",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-31T12:00:42Z"
+    },
+    {
+      "text": "The New Hot Job in Law Doesn\u2019t Require a J.D.",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-31T12:00:03Z"
+    },
+    {
+      "text": "Humans are still doing the work behind some AI agents",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-31T12:00:01Z"
+    },
+    {
+      "text": "The staggering $446m Elon Musk has spent on the US midterms \u2013 visualized",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-10-31T10:00:40Z"
+    },
+    {
+      "text": "Relying on AI is rotting your brain. But here\u2019s what you can do about it | Carly Dober",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-10-31T08:00:37Z"
+    },
+    {
+      "text": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/politics/commentisfree/audio/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-31T07:45:36Z"
+    },
+    {
+      "text": "Budget 2026: how to beat the new savings tax rates",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/money/2026/oct/31/budget-2026-how-to-beat-the-new-savings-tax-rates"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-10-31T07:00:36Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "crypto",
+      "article_count": 13,
+      "publishers": [
+        "Ars Technica",
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html",
+        "https://nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html",
+        "https://nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+        "https://bbc.co.uk/news/articles/cwe8lp7zy07zo?at_campaign=rss&at_medium=RSS",
+        "https://nytimes.com/2026/10/30/business/binances-hack-customer-protections.html"
+      ],
+      "avg_sentiment": -0.247,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "tech",
+      "article_count": 13,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html",
+        "https://theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
+        "https://theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom",
+        "https://nytimes.com/2026/10/30/business/malaysia-data-center-china.html",
+        "https://nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html"
+      ],
+      "avg_sentiment": -0.231,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "big",
+      "article_count": 7,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html",
+        "https://nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+        "https://theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+        "https://theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+        "https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+      ],
+      "avg_sentiment": -0.234,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "spending",
+      "article_count": 6,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html",
+        "https://theguardian.com/politics/commentisfree/audio/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty",
+        "https://nytimes.com/2026/10/30/business/stock-market-october-ai.html",
+        "https://bbc.co.uk/news/articles/cvwy72e0n72yo?at_campaign=rss&at_medium=RSS",
+        "https://cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
+      ],
+      "avg_sentiment": -0.13,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "biggest",
+      "article_count": 6,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html",
+        "https://theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+        "https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+        "https://theguardian.com/business/2026/oct/30/poundland-peril-rampant-inflation-price-wars",
+        "https://theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe"
+      ],
+      "avg_sentiment": -0.405,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "ever",
+      "article_count": 6,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating",
+        "https://theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom",
+        "https://bbc.co.uk/news/articles/cwe8lp7zy07zo?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+        "https://cnbc.com/2026/10/30/reddit-stock-q3-earnings.html"
+      ],
+      "avg_sentiment": -0.26,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 9,
+    "neutral": 19,
+    "negative": 24,
+    "mean_score": -0.181,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: North Korea is likely culprit behind $6.3bn crypto hack, \u2018largest heist in history\u2019 (https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack)",
+    "CNBC reported a negative-toned story: Reddit stock plunges 29% after weak outlook, wrapping its worst day ever (https://cnbc.com/2026/10/30/reddit-stock-q3-earnings.html)",
+    "The Guardian reported a negative-toned story: Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case (https://theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "3ba8b57c4fb24301",
+      "title": "Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html",
+      "summary": "Interest groups tied to cryptocurrency are spending millions to tilt the midterm elections. They had mixed success in 2024",
+      "published_at": "2026-10-31T13:04:29Z",
+      "collected_at": "2026-10-31T13:29:15.002790Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.4215,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "382d5fd79fdc927e",
+      "title": "Is AI your new wingman? How chatbots are transforming dating",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating",
+      "summary": "Almost 40% of British singles have used AI for romantic advice, from writing messages to assessing potential partners After Sam\u2019s ex joked that her sister found him ugly, he turned to AI. Google Gemini had a look at the photo and politely disagreed. AI has been his wingman ever since, aiding his dating life by giving pep talks and vetting his messages. The 27-year-old from Stoke-on-Trent is not the only AI-assisted romantic \u2013 a survey of 3,000 British singles published this month by Match Group,",
+      "published_at": "2026-10-31T12:00:42Z",
+      "collected_at": "2026-10-31T13:29:15.002790Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "6b1e85ef4bc94922",
+      "title": "The New Hot Job in Law Doesn\u2019t Require a J.D.",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html",
+      "summary": "Big law firms, legal tech vendors, and in-house legal departments at companies like Microsoft and Nvidia are all hiring legal engineers, a new position for lawyers with A.I. skills.",
+      "published_at": "2026-10-31T12:00:03Z",
+      "collected_at": "2026-10-31T13:29:15.002790Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "b0efea28755fe8a4",
+      "title": "Humans are still doing the work behind some AI agents",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
+      "summary": "AI agents from startups including Dazzle, Duckbill and Wajo still rely on human workers for calls and other real-world tasks when software falls short.",
+      "published_at": "2026-10-31T12:00:01Z",
+      "collected_at": "2026-10-31T13:29:15.002790Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": -0.34,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "71beea19fde9e6d8",
+      "title": "The staggering $446m Elon Musk has spent on the US midterms \u2013 visualized",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
+      "summary": "The tech mogul\u2019s midterm donations backing Republicans have made him the largest single-cycle political donor in modern US history Elon Musk has poured so much money into US politics this midterms election cycle that his donations could fund half a dozen SpaceX rocket launches or buy thousands of Tesla Cybertrucks. At the Tesla Diner in Los Angeles , Musk could order more than 31.9m cheeseburgers with the money he has spent on the midterms. Musk, the world\u2019s richest person, has funnelled at leas",
+      "published_at": "2026-10-31T10:00:40Z",
+      "collected_at": "2026-10-31T13:29:15.002790Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.2023,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "684151da5c54c056",
+      "title": "Relying on AI is rotting your brain. But here\u2019s what you can do about it | Carly Dober",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom",
+      "summary": "Each new tech product is designed to make our lives easier and keep us mindlessly entertained. Switch off: embrace discomfort \u2013 and boredom Ever longed for your own personal assistant? In the ever quickening tech race, Meta has recently launched Muse, a new AI personal agent . Unlike traditional chatbots, this little AI tool will be able to fill out forms for you, organise calendars, pay bills and make reservations. Meta describes Muse as a personal agent \u201c built for everyone \u201d. The launch comes",
+      "published_at": "2026-10-31T08:00:37Z",
+      "collected_at": "2026-10-31T13:29:15.002790Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.2023,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "b1a37caaa858d1d9",
+      "title": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/politics/commentisfree/audio/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty",
+      "summary": "What if someone told you the truth about the economy? For years, governments have tried spending more, spending less, cutting red tape, Brexit, levelling up \u2013 and still failed to increase growth per person in the UK. So what\u2019s the lesson from the great British fairytale? On the latest episode of Radical Thinking with Aditya Chakrabortty, the rebel economists Karel Williams and Sukhdev Johal explain why they believe praying for growth is a fool\u2019s dream \u2013 and why it won\u2019t improve your life You can",
+      "published_at": "2026-10-31T07:45:36Z",
+      "collected_at": "2026-10-31T13:29:15.002790Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.6615,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "5dbbcffe718b85aa",
+      "title": "Budget 2026: how to beat the new savings tax rates",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/money/2026/oct/31/budget-2026-how-to-beat-the-new-savings-tax-rates",
+      "summary": "John Healey\u2019s budget offered a \u2018sting in the tail\u2019 for savers by raising tax rates but there are ways to ease the pain Savers were both winners and losers in Wednesday\u2019s budget . In his first outing as chancellor, John Healey dropped a plan to cut the cash Isa limit for under-65s but surprised everyone with an extra tax charge on savings and property income. His predecessor, Rachel Reeves, had already announced a plan to increase the income tax rates for savers and landlords that was due to take",
+      "published_at": "2026-10-31T07:00:36Z",
+      "collected_at": "2026-10-31T13:29:15.002790Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.1027,
+      "sentiment_label": "positive",
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html"
+        ]
+      },
+      {
+        "claim": "Is AI your new wingman? How chatbots are transforming dating",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating"
+        ]
+      },
+      {
+        "claim": "The New Hot Job in Law Doesn\u2019t Require a J.D.",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html"
+        ]
+      },
+      {
+        "claim": "Humans are still doing the work behind some AI agents",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html"
+        ]
+      },
+      {
+        "claim": "The staggering $446m Elon Musk has spent on the US midterms \u2013 visualized",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized"
+        ]
+      },
+      {
+        "claim": "Relying on AI is rotting your brain. But here\u2019s what you can do about it | Carly Dober",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom"
+        ]
+      },
+      {
+        "claim": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/politics/commentisfree/audio/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty"
+        ]
+      },
+      {
+        "claim": "Budget 2026: how to beat the new savings tax rates",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/money/2026/oct/31/budget-2026-how-to-beat-the-new-savings-tax-rates"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-10-31\n\n**Reporting period:** 2026-10-30 13:29 UTC to 2026-10-31 13:29 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-10-30 13:29 UTC and 2026-10-31 13:29 UTC, 52 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 9 positive, 19 neutral, 24 negative (mean score -0.18). The most recurring theme was \"crypto\".\n\n## Key developments\n\n1. **Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules** - _CNBC; 2026-10-31 13:04 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html)\n2. **Is AI your new wingman? How chatbots are transforming dating** - _The Guardian; 2026-10-31 12:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating)\n3. **The New Hot Job in Law Doesn\u2019t Require a J.D.** - _NYT; 2026-10-31 12:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html)\n4. **Humans are still doing the work behind some AI agents** - _CNBC; 2026-10-31 12:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html)\n5. **The staggering $446m Elon Musk has spent on the US midterms \u2013 visualized** - _The Guardian; 2026-10-31 10:00 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized)\n6. **Relying on AI is rotting your brain. But here\u2019s what you can do about it | Carly Dober** - _The Guardian; 2026-10-31 08:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom)\n7. **Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty** - _The Guardian; 2026-10-31 07:45 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/politics/commentisfree/audio/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty)\n8. **Budget 2026: how to beat the new savings tax rates** - _The Guardian; 2026-10-31 07:00 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/money/2026/oct/31/budget-2026-how-to-beat-the-new-savings-tax-rates)\n\n## Emerging themes\n\n- **crypto** - 13 articles, 5 publisher(s), avg sentiment -0.25\n- **tech** - 13 articles, 4 publisher(s), avg sentiment -0.23\n- **big** - 7 articles, 2 publisher(s), avg sentiment -0.23\n- **spending** - 6 articles, 4 publisher(s), avg sentiment -0.13\n- **biggest** - 6 articles, 2 publisher(s), avg sentiment -0.41\n- **ever** - 6 articles, 4 publisher(s), avg sentiment -0.26\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 9 / Neutral 19 / Negative 24; mean -0.18.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: North Korea is likely culprit behind $6.3bn crypto hack, \u2018largest heist in history\u2019 (https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack)\n- CNBC reported a negative-toned story: Reddit stock plunges 29% after weak outlook, wrapping its worst day ever (https://cnbc.com/2026/10/30/reddit-stock-q3-earnings.html)\n- The Guardian reported a negative-toned story: Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case (https://theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- CNBC - [Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules](https://cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html) (2026-10-31 13:04 UTC; collected 2026-10-31 13:29 UTC)\n- The Guardian - [Is AI your new wingman? How chatbots are transforming dating](https://theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating) (2026-10-31 12:00 UTC; collected 2026-10-31 13:29 UTC)\n- NYT - [The New Hot Job in Law Doesn\u2019t Require a J.D.](https://nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html) (2026-10-31 12:00 UTC; collected 2026-10-31 13:29 UTC)\n- CNBC - [Humans are still doing the work behind some AI agents](https://cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html) (2026-10-31 12:00 UTC; collected 2026-10-31 13:29 UTC)\n- The Guardian - [The staggering $446m Elon Musk has spent on the US midterms \u2013 visualized](https://theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized) (2026-10-31 10:00 UTC; collected 2026-10-31 13:29 UTC)\n- The Guardian - [Relying on AI is rotting your brain. But here\u2019s what you can do about it | Carly Dober](https://theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom) (2026-10-31 08:00 UTC; collected 2026-10-31 13:29 UTC)\n- The Guardian - [Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty](https://theguardian.com/politics/commentisfree/audio/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty) (2026-10-31 07:45 UTC; collected 2026-10-31 13:29 UTC)\n- The Guardian - [Budget 2026: how to beat the new savings tax rates](https://theguardian.com/money/2026/oct/31/budget-2026-how-to-beat-the-new-savings-tax-rates) (2026-10-31 07:00 UTC; collected 2026-10-31 13:29 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-10-31\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-10-30 13:29 UTC and 2026-10-31 13:29 UTC, 52 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 9 positive, 19 neutral, 24 negative (mean score -0.18). The most recurring theme was \"crypto\".\n\nKey developments:\n- Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules (CNBC) https://cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html\n- Is AI your new wingman? How chatbots are transforming dating (The Guardian) https://theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating\n- The New Hot Job in Law Doesn\u2019t Require a J.D. (NYT) https://nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html\n- Humans are still doing the work behind some AI agents (CNBC) https://cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html\n- The staggering $446m Elon Musk has spent on the US midterms \u2013 visualized (The Guardian) https://theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
