@@ -1,60 +1,60 @@
-# Market Intelligence Briefing - 2026-10-31
+# Market Intelligence Briefing - 2026-11-01
 
-**Reporting period:** 2026-10-30 13:29 UTC to 2026-10-31 13:29 UTC  
+**Reporting period:** 2026-10-31 14:10 UTC to 2026-11-01 14:10 UTC  
 **Topics:** ai, economy, markets, technology  
 **Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text
 
 ## Executive summary
 
-Between 2026-10-30 13:29 UTC and 2026-10-31 13:29 UTC, 52 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 9 positive, 19 neutral, 24 negative (mean score -0.18). The most recurring theme was "crypto".
+Between 2026-10-31 14:10 UTC and 2026-11-01 14:10 UTC, 22 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 8 positive, 6 neutral, 8 negative (mean score -0.04). The most recurring theme was "government".
 
 ## Key developments
 
-1. **Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules** - _CNBC; 2026-10-31 13:04 UTC; single-source, attributed_  
+1. **Crypto firm Binance covers 90% of losses after $6.3bn hack** - _BBC; 2026-11-01 13:11 UTC; single-source, attributed_  
    Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  
-   Sources: [1](https://cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html)
-2. **Is AI your new wingman? How chatbots are transforming dating** - _The Guardian; 2026-10-31 12:00 UTC; single-source, attributed_  
+   Sources: [1](https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_campaign=rss&at_medium=RSS)
+2. **Companies promised AI gains — here's how the payoff showed up in earnings** - _CNBC; 2026-11-01 12:34 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating)
-3. **The New Hot Job in Law Doesn’t Require a J.D.** - _NYT; 2026-10-31 12:00 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html)
-4. **Humans are still doing the work behind some AI agents** - _CNBC; 2026-10-31 12:00 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html)
-5. **The staggering $446m Elon Musk has spent on the US midterms – visualized** - _The Guardian; 2026-10-31 10:00 UTC; single-source, attributed_  
-   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  
-   Sources: [1](https://theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized)
-6. **Relying on AI is rotting your brain. But here’s what you can do about it | Carly Dober** - _The Guardian; 2026-10-31 08:00 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom)
-7. **Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty** - _The Guardian; 2026-10-31 07:45 UTC; single-source, attributed_  
+   Sources: [1](https://cnbc.com/2026/11/01/ai-investments-company-earnings.html)
+3. **High street ‘slot farms’ could avoid budget tax rise through bingo hall loophole** - _The Guardian; 2026-11-01 12:04 UTC; single-source, attributed_  
    Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
-   Sources: [1](https://theguardian.com/politics/commentisfree/audio/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty)
-8. **Budget 2026: how to beat the new savings tax rates** - _The Guardian; 2026-10-31 07:00 UTC; single-source, attributed_  
+   Sources: [1](https://theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole)
+4. **The US-China trade war seems to have subsided – but the sense of calm is misleading** - _The Guardian; 2026-11-01 12:00 UTC; single-source, attributed_  
    Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
-   Sources: [1](https://theguardian.com/money/2026/oct/31/budget-2026-how-to-beat-the-new-savings-tax-rates)
+   Sources: [1](https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi)
+5. **Fashion and tradition: how John Smedley is innovating in a tough market** - _The Guardian; 2026-11-01 12:00 UTC; single-source, attributed_  
+   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  
+   Sources: [1](https://theguardian.com/business/2026/nov/01/john-smedley-knitwear-brand-innovating-fashion-tradition-tough-market-manufacturing)
+6. **Why AI is boosting Meta's ad business while hurting Google search** - _CNBC; 2026-11-01 12:00 UTC; single-source, attributed_  
+   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
+   Sources: [1](https://cnbc.com/2026/11/01/ai-meta-ads-google-search.html)
+7. **How a Little-Known Company Dominated the Persian Gulf Oil Trade** - _NYT; 2026-11-01 10:02 UTC; single-source, attributed_  
+   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
+   Sources: [1](https://nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html)
+8. **Sadiq Khan calls for cap on numbers of robotaxis on London streets** - _The Guardian; 2026-11-01 10:00 UTC; single-source, attributed_  
+   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
+   Sources: [1](https://theguardian.com/technology/2026/nov/01/sadiq-khan-calls-cap-numbers-robotaxis-london-streets)
 
 ## Emerging themes
 
-- **crypto** - 13 articles, 5 publisher(s), avg sentiment -0.25
-- **tech** - 13 articles, 4 publisher(s), avg sentiment -0.23
-- **big** - 7 articles, 2 publisher(s), avg sentiment -0.23
-- **spending** - 6 articles, 4 publisher(s), avg sentiment -0.13
-- **biggest** - 6 articles, 2 publisher(s), avg sentiment -0.41
-- **ever** - 6 articles, 4 publisher(s), avg sentiment -0.26
+- **government** - 4 articles, 1 publisher(s), avg sentiment +0.16
+- **billion** - 4 articles, 2 publisher(s), avg sentiment -0.29
+- **continue reading** - 2 articles, 1 publisher(s), avg sentiment -0.32
+- **high street** - 2 articles, 1 publisher(s), avg sentiment +0.30
+- **companies** - 3 articles, 3 publisher(s), avg sentiment +0.34
+- **spending** - 3 articles, 2 publisher(s), avg sentiment +0.07
 
 ## Sentiment overview
 
-Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 9 / Neutral 19 / Negative 24; mean -0.18.
+Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 8 / Neutral 6 / Negative 8; mean -0.04.
 
 _Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._
 
 ## Risks
 
-- The Guardian reported a negative-toned story: North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’ (https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack)
-- CNBC reported a negative-toned story: Reddit stock plunges 29% after weak outlook, wrapping its worst day ever (https://cnbc.com/2026/10/30/reddit-stock-q3-earnings.html)
-- The Guardian reported a negative-toned story: Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case (https://theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case)
+- BBC reported a negative-toned story: Crypto firm Binance covers 90% of losses after $6.3bn hack (https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_campaign=rss&at_medium=RSS)
+- The Guardian reported a negative-toned story: The US-China trade war seems to have subsided – but the sense of calm is misleading (https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi)
+- NYT reported a negative-toned story: Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know. (https://nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html)
 
 ## Uncertainties
 
@@ -67,14 +67,15 @@ Passed: True; revisions: 0; unsupported claims removed: 0.
 
 ## Source references
 
-- CNBC - [Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules](https://cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html) (2026-10-31 13:04 UTC; collected 2026-10-31 13:29 UTC)
-- The Guardian - [Is AI your new wingman? How chatbots are transforming dating](https://theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating) (2026-10-31 12:00 UTC; collected 2026-10-31 13:29 UTC)
-- NYT - [The New Hot Job in Law Doesn’t Require a J.D.](https://nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html) (2026-10-31 12:00 UTC; collected 2026-10-31 13:29 UTC)
-- CNBC - [Humans are still doing the work behind some AI agents](https://cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html) (2026-10-31 12:00 UTC; collected 2026-10-31 13:29 UTC)
-- The Guardian - [The staggering $446m Elon Musk has spent on the US midterms – visualized](https://theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized) (2026-10-31 10:00 UTC; collected 2026-10-31 13:29 UTC)
-- The Guardian - [Relying on AI is rotting your brain. But here’s what you can do about it | Carly Dober](https://theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom) (2026-10-31 08:00 UTC; collected 2026-10-31 13:29 UTC)
-- The Guardian - [Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty](https://theguardian.com/politics/commentisfree/audio/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty) (2026-10-31 07:45 UTC; collected 2026-10-31 13:29 UTC)
-- The Guardian - [Budget 2026: how to beat the new savings tax rates](https://theguardian.com/money/2026/oct/31/budget-2026-how-to-beat-the-new-savings-tax-rates) (2026-10-31 07:00 UTC; collected 2026-10-31 13:29 UTC)
+- BBC - [Crypto firm Binance covers 90% of losses after $6.3bn hack](https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_campaign=rss&at_medium=RSS) (2026-11-01 13:11 UTC; collected 2026-11-01 14:10 UTC)
+- CNBC - [Companies promised AI gains — here's how the payoff showed up in earnings](https://cnbc.com/2026/11/01/ai-investments-company-earnings.html) (2026-11-01 12:34 UTC; collected 2026-11-01 14:10 UTC)
+- The Guardian - [High street ‘slot farms’ could avoid budget tax rise through bingo hall loophole](https://theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole) (2026-11-01 12:04 UTC; collected 2026-11-01 14:10 UTC)
+- The Guardian - [The US-China trade war seems to have subsided – but the sense of calm is misleading](https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi) (2026-11-01 12:00 UTC; collected 2026-11-01 14:10 UTC)
+- The Guardian - [Fashion and tradition: how John Smedley is innovating in a tough market](https://theguardian.com/business/2026/nov/01/john-smedley-knitwear-brand-innovating-fashion-tradition-tough-market-manufacturing) (2026-11-01 12:00 UTC; collected 2026-11-01 14:10 UTC)
+- CNBC - [Why AI is boosting Meta's ad business while hurting Google search](https://cnbc.com/2026/11/01/ai-meta-ads-google-search.html) (2026-11-01 12:00 UTC; collected 2026-11-01 14:10 UTC)
+- NYT - [How a Little-Known Company Dominated the Persian Gulf Oil Trade](https://nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html) (2026-11-01 10:02 UTC; collected 2026-11-01 14:10 UTC)
+- The Guardian - [Sadiq Khan calls for cap on numbers of robotaxis on London streets](https://theguardian.com/technology/2026/nov/01/sadiq-khan-calls-cap-numbers-robotaxis-london-streets) (2026-11-01 10:00 UTC; collected 2026-11-01 14:10 UTC)
+- The Guardian - [The US-China trade war seems to have subsided – but the sense of calm is misleading](https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi) (2026-11-01 12:00 UTC; collected 2026-11-01 14:10 UTC)
 
 ---
 Headlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.

@@ -1,0 +1,450 @@
+{
+  "id": "6456ba1691be",
+  "generated_at": "2026-11-01T14:10:33.636569Z",
+  "period_start": "2026-10-31T14:10:33.636569Z",
+  "period_end": "2026-11-01T14:10:33.636569Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-10-31 14:10 UTC and 2026-11-01 14:10 UTC, 22 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 8 positive, 6 neutral, 8 negative (mean score -0.04). The most recurring theme was \"government\".",
+  "key_developments": [
+    {
+      "text": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_campaign=rss&at_medium=RSS"
+      ],
+      "publishers": [
+        "BBC"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-01T13:11:37Z"
+    },
+    {
+      "text": "Companies promised AI gains \u2014 here's how the payoff showed up in earnings",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/01/ai-investments-company-earnings.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-01T12:34:06Z"
+    },
+    {
+      "text": "High street \u2018slot farms\u2019 could avoid budget tax rise through bingo hall loophole",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-01T12:04:59Z"
+    },
+    {
+      "text": "The US-China trade war seems to have subsided \u2013 but the sense of calm is misleading",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-01T12:00:12Z"
+    },
+    {
+      "text": "Fashion and tradition: how John Smedley is innovating in a tough market",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/nov/01/john-smedley-knitwear-brand-innovating-fashion-tradition-tough-market-manufacturing"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-01T12:00:11Z"
+    },
+    {
+      "text": "Why AI is boosting Meta's ad business while hurting Google search",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/01/ai-meta-ads-google-search.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-01T12:00:01Z"
+    },
+    {
+      "text": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-01T10:02:30Z"
+    },
+    {
+      "text": "Sadiq Khan calls for cap on numbers of robotaxis on London streets",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/technology/2026/nov/01/sadiq-khan-calls-cap-numbers-robotaxis-london-streets"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-01T10:00:09Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "government",
+      "article_count": 4,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole",
+        "https://theguardian.com/technology/2026/nov/01/sadiq-khan-calls-cap-numbers-robotaxis-london-streets",
+        "https://theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated",
+        "https://theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west"
+      ],
+      "avg_sentiment": 0.159,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "billion",
+      "article_count": 4,
+      "publishers": [
+        "CNBC",
+        "NYT"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html",
+        "https://nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+        "https://nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
+        "https://cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html"
+      ],
+      "avg_sentiment": -0.29,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "continue reading",
+      "article_count": 2,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
+        "https://theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated"
+      ],
+      "avg_sentiment": -0.318,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "high street",
+      "article_count": 2,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole",
+        "https://theguardian.com/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback"
+      ],
+      "avg_sentiment": 0.296,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "companies",
+      "article_count": 3,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+        "https://theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
+        "https://nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html"
+      ],
+      "avg_sentiment": 0.337,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "spending",
+      "article_count": 3,
+      "publishers": [
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/news/audio/2026/nov/01/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty-podcast",
+        "https://theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated",
+        "https://cnbc.com/investingclub/2026/10/31/stocks-started-the-week-with-promise-but-ended-in-despair.html"
+      ],
+      "avg_sentiment": 0.074,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 8,
+    "neutral": 6,
+    "negative": 8,
+    "mean_score": -0.043,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "BBC reported a negative-toned story: Crypto firm Binance covers 90% of losses after $6.3bn hack (https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_campaign=rss&at_medium=RSS)",
+    "The Guardian reported a negative-toned story: The US-China trade war seems to have subsided \u2013 but the sense of calm is misleading (https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi)",
+    "NYT reported a negative-toned story: Binance Lost Over $6 Billion in Crypto Hack. Here\u2019s What to Know. (https://nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "30031249891e71a6",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_campaign=rss&at_medium=RSS",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "published_at": "2026-11-01T13:11:37Z",
+      "collected_at": "2026-11-01T14:10:33.636569Z",
+      "feed_name": "BBC / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": -0.8807,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "c08bd7a08d197427",
+      "title": "Companies promised AI gains \u2014 here's how the payoff showed up in earnings",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+      "summary": "Santander, Novartis and other companies say AI is beginning to boost revenue, cut costs or improve profitability as investors seek returns.",
+      "published_at": "2026-11-01T12:34:06Z",
+      "collected_at": "2026-11-01T14:10:33.636569Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": 0.6705,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "cb183912350d3f5b",
+      "title": "High street \u2018slot farms\u2019 could avoid budget tax rise through bingo hall loophole",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole",
+      "summary": "Hundreds of adult gaming centres in England have bingo licences that still qualify them for discounted business rates Hundreds of high street \u201c slot farms \u201d could continue claiming a discount on their business rates, unless the government closes a loophole that allows them to pose as bingo halls. John Healey singled out adult gaming centres (AGCs) in his first budget this week, in which he increased duty on slot machine takings from 20% to 25%, claiming he was \u201craising taxes on gambling to suppo",
+      "published_at": "2026-11-01T12:04:59Z",
+      "collected_at": "2026-11-01T14:10:33.636569Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.296,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "622e32e71883dd74",
+      "title": "The US-China trade war seems to have subsided \u2013 but the sense of calm is misleading",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+      "summary": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities Donald Trump \u2019s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails \u2013 for instance, threatening to end US trade with countries with which it has a deficit unless the Federal Reserve cuts interest rates. But the sense that the world\u2019s two largest economies are plowing ahead into an overt economi",
+      "published_at": "2026-11-01T12:00:12Z",
+      "collected_at": "2026-11-01T14:10:33.636569Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.7351,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "8ffa2c5c6effcdf1",
+      "title": "Fashion and tradition: how John Smedley is innovating in a tough market",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/01/john-smedley-knitwear-brand-innovating-fashion-tradition-tough-market-manufacturing",
+      "summary": "In the final article in a series on high-end British manufacturing we look at a clothing brand that dates to the 18th century but is increasingly on-trend Making jeans again: the Hiut Denim factory in Cardigan Rolls-Royce rides high on craze for customisation Luxury leather: from wallets to cigar cases Tina is wielding a large pair of scissors with authority, slicing with immense skill and precision. With 38 years of experience, she is an important member of the 230-strong manufacturing team pro",
+      "published_at": "2026-11-01T12:00:11Z",
+      "collected_at": "2026-11-01T14:10:33.636569Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.3612,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "45dd64793fde3bb7",
+      "title": "Why AI is boosting Meta's ad business while hurting Google search",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+      "summary": "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.",
+      "published_at": "2026-11-01T12:00:01Z",
+      "collected_at": "2026-11-01T14:10:33.636569Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology",
+        "economy"
+      ],
+      "sentiment_score": 0.5994,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "dd9a70d2294cebfe",
+      "title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
+      "summary": "South Korea\u2019s Sinokor controls about half the tanker transits through the Strait of Hormuz, benefiting from a big bet just before the war in Iran started.",
+      "published_at": "2026-11-01T10:02:30Z",
+      "collected_at": "2026-11-01T14:10:33.636569Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "3d4412fab7ce4b89",
+      "title": "Sadiq Khan calls for cap on numbers of robotaxis on London streets",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/01/sadiq-khan-calls-cap-numbers-robotaxis-london-streets",
+      "summary": "Mayor questions impact on air quality, congestion and jobs as government poised to allow driverless vehicles in capital London\u2019s mayor has called for a cap on the numbers of robotaxis on its streets, with the UK government poised to allow fully driverless vehicles to operate in the capital. Sadiq Khan said politicians had failed to \u201cgrasp the pace of change\u201d from the technology, which could threaten jobs and increase congestion in the city, and questioned whether the rules for autonomous cars we",
+      "published_at": "2026-11-01T10:00:09Z",
+      "collected_at": "2026-11-01T14:10:33.636569Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "622e32e71883dd74",
+      "title": "The US-China trade war seems to have subsided \u2013 but the sense of calm is misleading",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+      "summary": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities Donald Trump \u2019s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails \u2013 for instance, threatening to end US trade with countries with which it has a deficit unless the Federal Reserve cuts interest rates. But the sense that the world\u2019s two largest economies are plowing ahead into an overt economi",
+      "published_at": "2026-11-01T12:00:12Z",
+      "collected_at": "2026-11-01T14:10:33.636569Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_campaign=rss&at_medium=RSS"
+        ]
+      },
+      {
+        "claim": "Companies promised AI gains \u2014 here's how the payoff showed up in earnings",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/01/ai-investments-company-earnings.html"
+        ]
+      },
+      {
+        "claim": "High street \u2018slot farms\u2019 could avoid budget tax rise through bingo hall loophole",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole"
+        ]
+      },
+      {
+        "claim": "The US-China trade war seems to have subsided \u2013 but the sense of calm is misleading",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi"
+        ]
+      },
+      {
+        "claim": "Fashion and tradition: how John Smedley is innovating in a tough market",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/nov/01/john-smedley-knitwear-brand-innovating-fashion-tradition-tough-market-manufacturing"
+        ]
+      },
+      {
+        "claim": "Why AI is boosting Meta's ad business while hurting Google search",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/01/ai-meta-ads-google-search.html"
+        ]
+      },
+      {
+        "claim": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html"
+        ]
+      },
+      {
+        "claim": "Sadiq Khan calls for cap on numbers of robotaxis on London streets",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/technology/2026/nov/01/sadiq-khan-calls-cap-numbers-robotaxis-london-streets"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-01\n\n**Reporting period:** 2026-10-31 14:10 UTC to 2026-11-01 14:10 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-10-31 14:10 UTC and 2026-11-01 14:10 UTC, 22 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 8 positive, 6 neutral, 8 negative (mean score -0.04). The most recurring theme was \"government\".\n\n## Key developments\n\n1. **Crypto firm Binance covers 90% of losses after $6.3bn hack** - _BBC; 2026-11-01 13:11 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_campaign=rss&at_medium=RSS)\n2. **Companies promised AI gains \u2014 here's how the payoff showed up in earnings** - _CNBC; 2026-11-01 12:34 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/01/ai-investments-company-earnings.html)\n3. **High street \u2018slot farms\u2019 could avoid budget tax rise through bingo hall loophole** - _The Guardian; 2026-11-01 12:04 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole)\n4. **The US-China trade war seems to have subsided \u2013 but the sense of calm is misleading** - _The Guardian; 2026-11-01 12:00 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi)\n5. **Fashion and tradition: how John Smedley is innovating in a tough market** - _The Guardian; 2026-11-01 12:00 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://theguardian.com/business/2026/nov/01/john-smedley-knitwear-brand-innovating-fashion-tradition-tough-market-manufacturing)\n6. **Why AI is boosting Meta's ad business while hurting Google search** - _CNBC; 2026-11-01 12:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/01/ai-meta-ads-google-search.html)\n7. **How a Little-Known Company Dominated the Persian Gulf Oil Trade** - _NYT; 2026-11-01 10:02 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html)\n8. **Sadiq Khan calls for cap on numbers of robotaxis on London streets** - _The Guardian; 2026-11-01 10:00 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/technology/2026/nov/01/sadiq-khan-calls-cap-numbers-robotaxis-london-streets)\n\n## Emerging themes\n\n- **government** - 4 articles, 1 publisher(s), avg sentiment +0.16\n- **billion** - 4 articles, 2 publisher(s), avg sentiment -0.29\n- **continue reading** - 2 articles, 1 publisher(s), avg sentiment -0.32\n- **high street** - 2 articles, 1 publisher(s), avg sentiment +0.30\n- **companies** - 3 articles, 3 publisher(s), avg sentiment +0.34\n- **spending** - 3 articles, 2 publisher(s), avg sentiment +0.07\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 8 / Neutral 6 / Negative 8; mean -0.04.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- BBC reported a negative-toned story: Crypto firm Binance covers 90% of losses after $6.3bn hack (https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_campaign=rss&at_medium=RSS)\n- The Guardian reported a negative-toned story: The US-China trade war seems to have subsided \u2013 but the sense of calm is misleading (https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi)\n- NYT reported a negative-toned story: Binance Lost Over $6 Billion in Crypto Hack. Here\u2019s What to Know. (https://nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- BBC - [Crypto firm Binance covers 90% of losses after $6.3bn hack](https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_campaign=rss&at_medium=RSS) (2026-11-01 13:11 UTC; collected 2026-11-01 14:10 UTC)\n- CNBC - [Companies promised AI gains \u2014 here's how the payoff showed up in earnings](https://cnbc.com/2026/11/01/ai-investments-company-earnings.html) (2026-11-01 12:34 UTC; collected 2026-11-01 14:10 UTC)\n- The Guardian - [High street \u2018slot farms\u2019 could avoid budget tax rise through bingo hall loophole](https://theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole) (2026-11-01 12:04 UTC; collected 2026-11-01 14:10 UTC)\n- The Guardian - [The US-China trade war seems to have subsided \u2013 but the sense of calm is misleading](https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi) (2026-11-01 12:00 UTC; collected 2026-11-01 14:10 UTC)\n- The Guardian - [Fashion and tradition: how John Smedley is innovating in a tough market](https://theguardian.com/business/2026/nov/01/john-smedley-knitwear-brand-innovating-fashion-tradition-tough-market-manufacturing) (2026-11-01 12:00 UTC; collected 2026-11-01 14:10 UTC)\n- CNBC - [Why AI is boosting Meta's ad business while hurting Google search](https://cnbc.com/2026/11/01/ai-meta-ads-google-search.html) (2026-11-01 12:00 UTC; collected 2026-11-01 14:10 UTC)\n- NYT - [How a Little-Known Company Dominated the Persian Gulf Oil Trade](https://nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html) (2026-11-01 10:02 UTC; collected 2026-11-01 14:10 UTC)\n- The Guardian - [Sadiq Khan calls for cap on numbers of robotaxis on London streets](https://theguardian.com/technology/2026/nov/01/sadiq-khan-calls-cap-numbers-robotaxis-london-streets) (2026-11-01 10:00 UTC; collected 2026-11-01 14:10 UTC)\n- The Guardian - [The US-China trade war seems to have subsided \u2013 but the sense of calm is misleading](https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi) (2026-11-01 12:00 UTC; collected 2026-11-01 14:10 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-01\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-10-31 14:10 UTC and 2026-11-01 14:10 UTC, 22 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 8 positive, 6 neutral, 8 negative (mean score -0.04). The most recurring theme was \"government\".\n\nKey developments:\n- Crypto firm Binance covers 90% of losses after $6.3bn hack (BBC) https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_campaign=rss&at_medium=RSS\n- Companies promised AI gains \u2014 here's how the payoff showed up in earnings (CNBC) https://cnbc.com/2026/11/01/ai-investments-company-earnings.html\n- High street \u2018slot farms\u2019 could avoid budget tax rise through bingo hall loophole (The Guardian) https://theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole\n- The US-China trade war seems to have subsided \u2013 but the sense of calm is misleading (The Guardian) https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi\n- Fashion and tradition: how John Smedley is innovating in a tough market (The Guardian) https://theguardian.com/business/2026/nov/01/john-smedley-knitwear-brand-innovating-fashion-tradition-tough-market-manufacturing\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
