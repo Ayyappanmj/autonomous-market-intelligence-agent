@@ -1,60 +1,60 @@
-# Market Intelligence Briefing - 2026-11-01
+# Market Intelligence Briefing - 2026-11-02
 
-**Reporting period:** 2026-10-31 14:10 UTC to 2026-11-01 14:10 UTC  
+**Reporting period:** 2026-11-01 16:56 UTC to 2026-11-02 16:56 UTC  
 **Topics:** ai, economy, markets, technology  
 **Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text
 
 ## Executive summary
 
-Between 2026-10-31 14:10 UTC and 2026-11-01 14:10 UTC, 22 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 8 positive, 6 neutral, 8 negative (mean score -0.04). The most recurring theme was "government".
+Between 2026-11-01 16:56 UTC and 2026-11-02 16:56 UTC, 33 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 8 positive, 13 neutral, 12 negative (mean score -0.06). The most recurring theme was "continue reading".
 
 ## Key developments
 
-1. **Crypto firm Binance covers 90% of losses after $6.3bn hack** - _BBC; 2026-11-01 13:11 UTC; single-source, attributed_  
-   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  
-   Sources: [1](https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_campaign=rss&at_medium=RSS)
-2. **Companies promised AI gains — here's how the payoff showed up in earnings** - _CNBC; 2026-11-01 12:34 UTC; single-source, attributed_  
+1. **Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell** - _CNBC; 2026-11-02 16:46 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://cnbc.com/2026/11/01/ai-investments-company-earnings.html)
-3. **High street ‘slot farms’ could avoid budget tax rise through bingo hall loophole** - _The Guardian; 2026-11-01 12:04 UTC; single-source, attributed_  
+   Sources: [1](https://cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html)
+2. **Shop fridges and freezers across Europe hit by fresh suspected cyber-attack** - _The Guardian; 2026-11-02 16:39 UTC; single-source, attributed_  
+   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  
+   Sources: [1](https://theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack)
+3. **Trump’s Tariffs Are On the Ballot in Michigan** - _NYT; 2026-11-02 16:37 UTC; single-source, attributed_  
    Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
-   Sources: [1](https://theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole)
-4. **The US-China trade war seems to have subsided – but the sense of calm is misleading** - _The Guardian; 2026-11-01 12:00 UTC; single-source, attributed_  
-   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
-   Sources: [1](https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi)
-5. **Fashion and tradition: how John Smedley is innovating in a tough market** - _The Guardian; 2026-11-01 12:00 UTC; single-source, attributed_  
+   Sources: [1](https://nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html)
+4. **Oil price falls amid hope of a breakthrough to end Iran war** - _The Guardian; 2026-11-02 16:37 UTC; single-source, attributed_  
    Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  
-   Sources: [1](https://theguardian.com/business/2026/nov/01/john-smedley-knitwear-brand-innovating-fashion-tradition-tough-market-manufacturing)
-6. **Why AI is boosting Meta's ad business while hurting Google search** - _CNBC; 2026-11-01 12:00 UTC; single-source, attributed_  
+   Sources: [1](https://theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war)
+5. **Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1** - _CNBC; 2026-11-02 16:13 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://cnbc.com/2026/11/01/ai-meta-ads-google-search.html)
-7. **How a Little-Known Company Dominated the Persian Gulf Oil Trade** - _NYT; 2026-11-01 10:02 UTC; single-source, attributed_  
-   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
-   Sources: [1](https://nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html)
-8. **Sadiq Khan calls for cap on numbers of robotaxis on London streets** - _The Guardian; 2026-11-01 10:00 UTC; single-source, attributed_  
-   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
-   Sources: [1](https://theguardian.com/technology/2026/nov/01/sadiq-khan-calls-cap-numbers-robotaxis-london-streets)
+   Sources: [1](https://cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html)
+6. **Anthropic Reveals Surging Revenue in Third Quarter as I.P.O. Approaches** - _NYT; 2026-11-02 15:48 UTC; single-source, attributed_  
+   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
+   Sources: [1](https://nytimes.com/2026/11/02/business/anthropic-earnings-ai.html)
+7. **After Tech Sell-Off, Investors Brace for More Market Volatility** - _NYT; 2026-11-02 15:16 UTC; single-source, attributed_  
+   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  
+   Sources: [1](https://nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html)
+8. **Shop freezers in seven European countries hit by cyber-attack** - _BBC; 2026-11-02 15:12 UTC; single-source, attributed_  
+   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  
+   Sources: [1](https://bbc.co.uk/news/articles/cq1kd1nee80eo?at_campaign=rss&at_medium=RSS)
 
 ## Emerging themes
 
-- **government** - 4 articles, 1 publisher(s), avg sentiment +0.16
-- **billion** - 4 articles, 2 publisher(s), avg sentiment -0.29
-- **continue reading** - 2 articles, 1 publisher(s), avg sentiment -0.32
-- **high street** - 2 articles, 1 publisher(s), avg sentiment +0.30
-- **companies** - 3 articles, 3 publisher(s), avg sentiment +0.34
-- **spending** - 3 articles, 2 publisher(s), avg sentiment +0.07
+- **continue reading** - 7 articles, 1 publisher(s), avg sentiment -0.02
+- **news podcast** - 4 articles, 1 publisher(s), avg sentiment -0.17
+- **expected** - 5 articles, 2 publisher(s), avg sentiment +0.09
+- **free** - 5 articles, 2 publisher(s), avg sentiment -0.19
+- **government** - 4 articles, 2 publisher(s), avg sentiment +0.26
+- **investment** - 4 articles, 2 publisher(s), avg sentiment +0.39
 
 ## Sentiment overview
 
-Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 8 / Neutral 6 / Negative 8; mean -0.04.
+Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 8 / Neutral 13 / Negative 12; mean -0.06.
 
 _Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._
 
 ## Risks
 
-- BBC reported a negative-toned story: Crypto firm Binance covers 90% of losses after $6.3bn hack (https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_campaign=rss&at_medium=RSS)
-- The Guardian reported a negative-toned story: The US-China trade war seems to have subsided – but the sense of calm is misleading (https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi)
-- NYT reported a negative-toned story: Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know. (https://nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html)
+- The Guardian reported a negative-toned story: UK making up China policy ‘as it goes along’, MPs warn (https://theguardian.com/politics/2026/nov/02/uk-making-up-china-policy-as-it-goes-along-mps)
+- The Guardian reported a negative-toned story: ‘Sharper, longer slowdown’ predicted for Australian economy as fifth interest rate hike looms (https://theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms)
+- The Guardian reported a negative-toned story: It’s time to block reckless AI IPOs and tax billionaires | Naomi Klein and Ilana Glazer (https://theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires)
 
 ## Uncertainties
 
@@ -67,15 +67,16 @@ Passed: True; revisions: 0; unsupported claims removed: 0.
 
 ## Source references
 
-- BBC - [Crypto firm Binance covers 90% of losses after $6.3bn hack](https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_campaign=rss&at_medium=RSS) (2026-11-01 13:11 UTC; collected 2026-11-01 14:10 UTC)
-- CNBC - [Companies promised AI gains — here's how the payoff showed up in earnings](https://cnbc.com/2026/11/01/ai-investments-company-earnings.html) (2026-11-01 12:34 UTC; collected 2026-11-01 14:10 UTC)
-- The Guardian - [High street ‘slot farms’ could avoid budget tax rise through bingo hall loophole](https://theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole) (2026-11-01 12:04 UTC; collected 2026-11-01 14:10 UTC)
-- The Guardian - [The US-China trade war seems to have subsided – but the sense of calm is misleading](https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi) (2026-11-01 12:00 UTC; collected 2026-11-01 14:10 UTC)
-- The Guardian - [Fashion and tradition: how John Smedley is innovating in a tough market](https://theguardian.com/business/2026/nov/01/john-smedley-knitwear-brand-innovating-fashion-tradition-tough-market-manufacturing) (2026-11-01 12:00 UTC; collected 2026-11-01 14:10 UTC)
-- CNBC - [Why AI is boosting Meta's ad business while hurting Google search](https://cnbc.com/2026/11/01/ai-meta-ads-google-search.html) (2026-11-01 12:00 UTC; collected 2026-11-01 14:10 UTC)
-- NYT - [How a Little-Known Company Dominated the Persian Gulf Oil Trade](https://nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html) (2026-11-01 10:02 UTC; collected 2026-11-01 14:10 UTC)
-- The Guardian - [Sadiq Khan calls for cap on numbers of robotaxis on London streets](https://theguardian.com/technology/2026/nov/01/sadiq-khan-calls-cap-numbers-robotaxis-london-streets) (2026-11-01 10:00 UTC; collected 2026-11-01 14:10 UTC)
-- The Guardian - [The US-China trade war seems to have subsided – but the sense of calm is misleading](https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi) (2026-11-01 12:00 UTC; collected 2026-11-01 14:10 UTC)
+- CNBC - [Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell](https://cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html) (2026-11-02 16:46 UTC; collected 2026-11-02 16:56 UTC)
+- The Guardian - [Shop fridges and freezers across Europe hit by fresh suspected cyber-attack](https://theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack) (2026-11-02 16:39 UTC; collected 2026-11-02 16:56 UTC)
+- NYT - [Trump’s Tariffs Are On the Ballot in Michigan](https://nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html) (2026-11-02 16:37 UTC; collected 2026-11-02 16:56 UTC)
+- The Guardian - [Oil price falls amid hope of a breakthrough to end Iran war](https://theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war) (2026-11-02 16:37 UTC; collected 2026-11-02 16:56 UTC)
+- CNBC - [Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1](https://cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html) (2026-11-02 16:13 UTC; collected 2026-11-02 16:56 UTC)
+- NYT - [Anthropic Reveals Surging Revenue in Third Quarter as I.P.O. Approaches](https://nytimes.com/2026/11/02/business/anthropic-earnings-ai.html) (2026-11-02 15:48 UTC; collected 2026-11-02 16:56 UTC)
+- NYT - [After Tech Sell-Off, Investors Brace for More Market Volatility](https://nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html) (2026-11-02 15:16 UTC; collected 2026-11-02 16:56 UTC)
+- BBC - [Shop freezers in seven European countries hit by cyber-attack](https://bbc.co.uk/news/articles/cq1kd1nee80eo?at_campaign=rss&at_medium=RSS) (2026-11-02 15:12 UTC; collected 2026-11-02 16:56 UTC)
+- The Guardian - [Shop fridges and freezers across Europe hit by fresh suspected cyber-attack](https://theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack) (2026-11-02 16:39 UTC; collected 2026-11-02 16:56 UTC)
+- NYT - [Anthropic Reveals Surging Revenue in Third Quarter as I.P.O. Approaches](https://nytimes.com/2026/11/02/business/anthropic-earnings-ai.html) (2026-11-02 15:48 UTC; collected 2026-11-02 16:56 UTC)
 
 ---
 Headlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.
