@@ -1,0 +1,457 @@
+{
+  "id": "886d7c31fecd",
+  "generated_at": "2026-11-04T15:16:57.522326Z",
+  "period_start": "2026-11-03T15:16:57.522326Z",
+  "period_end": "2026-11-04T15:16:57.522326Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-03 15:16 UTC and 2026-11-04 15:16 UTC, 51 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 10 positive, 22 neutral, 19 negative (mean score -0.08). The most recurring theme was \"midterm elections\".",
+  "key_developments": [
+    {
+      "text": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-04T15:09:52Z"
+    },
+    {
+      "text": "William Nordhaus Dies; Nobel Winner Influenced Climate Policy",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-04T15:04:11Z"
+    },
+    {
+      "text": "Stocks Rise as Democrats Flip Control of Congress",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/04/business/midterm-elections-stock-market.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-04T14:42:33Z"
+    },
+    {
+      "text": "America\u2019s Trade Deficit Remained Elevated in September",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/04/business/us-trade-deficit-september.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-04T14:42:20Z"
+    },
+    {
+      "text": "US stock markets and government bonds rally while dollar falls after Democrats secure Congress \u2013 business live",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-04T14:35:30Z"
+    },
+    {
+      "text": "AMD's data center revenue nearly doubles in Q3 and CEO Su expects growth to accelerate",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-04T14:23:01Z"
+    },
+    {
+      "text": "The RBA says there is \u2018excess demand\u2019 in the economy. Households doing it tough might disagree | Greg Jericho",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/grogonomics/2026/nov/04/the-rba-says-there-is-excess-demand-in-the-economy-households-doing-it-tough-might-disagree"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-04T14:00:37Z"
+    },
+    {
+      "text": "\u2018Discontent and distrust\u2019: annual social cohesion checkup shows exactly what\u2019s making Australia angry",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/australia-news/2026/nov/04/social-cohesion-report-australia-cost-of-living-economy-immigration-multiculturalism-ai-ntwnfb"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-04T14:00:36Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "midterm elections",
+      "article_count": 6,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates",
+        "https://nytimes.com/2026/11/04/business/dealbook/business-fallout-blue-wave.html",
+        "https://theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+        "https://nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+        "https://theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending"
+      ],
+      "avg_sentiment": 0.273,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "company",
+      "article_count": 8,
+      "publishers": [
+        "Ars Technica",
+        "BBC",
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+        "https://theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
+        "https://cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
+        "https://theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
+        "https://cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html"
+      ],
+      "avg_sentiment": -0.03,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "investors",
+      "article_count": 7,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+        "https://theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates",
+        "https://nytimes.com/2026/11/04/business/dealbook/business-fallout-blue-wave.html",
+        "https://theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+        "https://theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending"
+      ],
+      "avg_sentiment": 0.087,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "political",
+      "article_count": 7,
+      "publishers": [
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/grogonomics/2026/nov/04/the-rba-says-there-is-excess-demand-in-the-economy-households-doing-it-tough-might-disagree",
+        "https://theguardian.com/australia-news/2026/nov/04/social-cohesion-report-australia-cost-of-living-economy-immigration-multiculturalism-ai-ntwnfb",
+        "https://theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+        "https://cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+        "https://cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html"
+      ],
+      "avg_sentiment": 0.063,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "artificial intelligence",
+      "article_count": 4,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/australia-news/2026/nov/04/social-cohesion-report-australia-cost-of-living-economy-immigration-multiculturalism-ai-ntwnfb",
+        "https://theguardian.com/business/2026/nov/04/uk-interest-rates-increase-expected-service-sector-activity-accelerates-pmi",
+        "https://theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
+        "https://theguardian.com/commentisfree/2026/nov/03/datacentres-are-deeply-unpopular-so-the-geniuses-at-openai-are-rebranding-them"
+      ],
+      "avg_sentiment": 0.115,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "job interviews",
+      "article_count": 4,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
+        "https://cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+        "https://nytimes.com/2026/11/03/technology/binance-hack-report.html",
+        "https://bbc.co.uk/news/articles/ck5ynwz9gy67o?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": -0.115,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 10,
+    "neutral": 22,
+    "negative": 19,
+    "mean_score": -0.077,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure (https://theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure)",
+    "CNBC reported a negative-toned story: Binance breach puts custody at center of crypto infrastructure trade (https://cnbc.com/2026/11/03/binance-breach-puts-custody-at-center-of-crypto-infrastructure-trade.html)",
+    "CNBC reported a negative-toned story: Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways (https://cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "32ccff80955d087e",
+      "title": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
+      "summary": "The world\u2019s richest person has antagonized Democrats, some of whom have signaled their intent to investigate him when they take control of Congress.",
+      "published_at": "2026-11-04T15:09:52Z",
+      "collected_at": "2026-11-04T15:16:57.522326Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": -0.7184,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "aac80cce5615529e",
+      "title": "William Nordhaus Dies; Nobel Winner Influenced Climate Policy",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html",
+      "summary": "The Yale professor moved climate change into mainstream economic analysis.",
+      "published_at": "2026-11-04T15:04:11Z",
+      "collected_at": "2026-11-04T15:16:57.522326Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "ed8001e2e52534ce",
+      "title": "Stocks Rise as Democrats Flip Control of Congress",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+      "summary": "Global markets fell as the first results came in, but later traded higher as investors assessed the outlook for policy as the balance of power shifted sharply in Washington.",
+      "published_at": "2026-11-04T14:42:33Z",
+      "collected_at": "2026-11-04T15:16:57.522326Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": -0.0516,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "ec83b2e9793bc805",
+      "title": "America\u2019s Trade Deficit Remained Elevated in September",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/04/business/us-trade-deficit-september.html",
+      "summary": "The gap between U.S. exports and imports, which remained at a relatively high level in September, has defied efforts by President Trump to decrease it with tariffs.",
+      "published_at": "2026-11-04T14:42:20Z",
+      "collected_at": "2026-11-04T15:16:57.522326Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.2732,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "fb63c218957a3b58",
+      "title": "US stock markets and government bonds rally while dollar falls after Democrats secure Congress \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates",
+      "summary": "European shares also power ahead as markets react to blue wave in US midterm elections And Chris Turner , global head of markets at ING, says: Investors will be parsing what this all means. For example, Gina Hinojosa won the Texas governor\u2019s race on a ticket of wanting an immediate moratorium on data centre buildouts. Given AI\u2019s role in powering the US economy, speculation over whether a new Democrat Congress would slow AI capital expenditure plans briefly hit markets. The chip exporter-heavy st",
+      "published_at": "2026-11-04T14:35:30Z",
+      "collected_at": "2026-11-04T15:16:57.522326Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai",
+        "technology",
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": 0.2023,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "3533cb5b1c1c7e0f",
+      "title": "AMD's data center revenue nearly doubles in Q3 and CEO Su expects growth to accelerate",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+      "summary": "AMD reported better-than-expected third-quarter results, driven by booming sales of AI chips",
+      "published_at": "2026-11-04T14:23:01Z",
+      "collected_at": "2026-11-04T15:16:57.522326Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology",
+        "economy"
+      ],
+      "sentiment_score": 0.3818,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "b3be07e27cb55b7d",
+      "title": "The RBA says there is \u2018excess demand\u2019 in the economy. Households doing it tough might disagree | Greg Jericho",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/grogonomics/2026/nov/04/the-rba-says-there-is-excess-demand-in-the-economy-households-doing-it-tough-might-disagree",
+      "summary": "The problem with inflation driven by factors such as wars and supply side shocks is that interest rate rises don\u2019t do much Get our daily political email , free app or daily news podcast On Tuesday this week came the biggest news regarding inflation. No, not the Reserve Bank\u2019s decision to raise interest rates ; that will do barely anything (although it will most certainly raise unemployment). No, the most important news for inflation was that the US had launched limited strikes on \u200bIran\u2019s Qeshm I",
+      "published_at": "2026-11-04T14:00:37Z",
+      "collected_at": "2026-11-04T15:16:57.522326Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [
+        "technology",
+        "economy"
+      ],
+      "sentiment_score": -0.4215,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "b07ce855472daead",
+      "title": "\u2018Discontent and distrust\u2019: annual social cohesion checkup shows exactly what\u2019s making Australia angry",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/nov/04/social-cohesion-report-australia-cost-of-living-economy-immigration-multiculturalism-ai-ntwnfb",
+      "summary": "Cost of living and AI outrank climate change and war as top concerns for future, but support for multiculturalism remains strong Get our daily political email , free app or daily news podcast The vast majority of Australians support immigration and multiculturalism despite more feeling poorer \u2013 and increasingly pessimistic and distrustful of government, the annual Scanlon report on social cohesion has revealed. People are more worried about artificial intelligence than climate change or going to",
+      "published_at": "2026-11-04T14:00:36Z",
+      "collected_at": "2026-11-04T15:16:57.522326Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0772,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html"
+        ]
+      },
+      {
+        "claim": "William Nordhaus Dies; Nobel Winner Influenced Climate Policy",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html"
+        ]
+      },
+      {
+        "claim": "Stocks Rise as Democrats Flip Control of Congress",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/04/business/midterm-elections-stock-market.html"
+        ]
+      },
+      {
+        "claim": "America\u2019s Trade Deficit Remained Elevated in September",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/04/business/us-trade-deficit-september.html"
+        ]
+      },
+      {
+        "claim": "US stock markets and government bonds rally while dollar falls after Democrats secure Congress \u2013 business live",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates"
+        ]
+      },
+      {
+        "claim": "AMD's data center revenue nearly doubles in Q3 and CEO Su expects growth to accelerate",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html"
+        ]
+      },
+      {
+        "claim": "The RBA says there is \u2018excess demand\u2019 in the economy. Households doing it tough might disagree | Greg Jericho",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/grogonomics/2026/nov/04/the-rba-says-there-is-excess-demand-in-the-economy-households-doing-it-tough-might-disagree"
+        ]
+      },
+      {
+        "claim": "\u2018Discontent and distrust\u2019: annual social cohesion checkup shows exactly what\u2019s making Australia angry",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/australia-news/2026/nov/04/social-cohesion-report-australia-cost-of-living-economy-immigration-multiculturalism-ai-ntwnfb"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-04\n\n**Reporting period:** 2026-11-03 15:16 UTC to 2026-11-04 15:16 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-03 15:16 UTC and 2026-11-04 15:16 UTC, 51 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 10 positive, 22 neutral, 19 negative (mean score -0.08). The most recurring theme was \"midterm elections\".\n\n## Key developments\n\n1. **SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas** - _NYT; 2026-11-04 15:09 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html)\n2. **William Nordhaus Dies; Nobel Winner Influenced Climate Policy** - _NYT; 2026-11-04 15:04 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html)\n3. **Stocks Rise as Democrats Flip Control of Congress** - _NYT; 2026-11-04 14:42 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://nytimes.com/2026/11/04/business/midterm-elections-stock-market.html)\n4. **America\u2019s Trade Deficit Remained Elevated in September** - _NYT; 2026-11-04 14:42 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/11/04/business/us-trade-deficit-september.html)\n5. **US stock markets and government bonds rally while dollar falls after Democrats secure Congress \u2013 business live** - _The Guardian; 2026-11-04 14:35 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates)\n6. **AMD's data center revenue nearly doubles in Q3 and CEO Su expects growth to accelerate** - _CNBC; 2026-11-04 14:23 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html)\n7. **The RBA says there is \u2018excess demand\u2019 in the economy. Households doing it tough might disagree | Greg Jericho** - _The Guardian; 2026-11-04 14:00 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/business/grogonomics/2026/nov/04/the-rba-says-there-is-excess-demand-in-the-economy-households-doing-it-tough-might-disagree)\n8. **\u2018Discontent and distrust\u2019: annual social cohesion checkup shows exactly what\u2019s making Australia angry** - _The Guardian; 2026-11-04 14:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/australia-news/2026/nov/04/social-cohesion-report-australia-cost-of-living-economy-immigration-multiculturalism-ai-ntwnfb)\n\n## Emerging themes\n\n- **midterm elections** - 6 articles, 3 publisher(s), avg sentiment +0.27\n- **company** - 8 articles, 4 publisher(s), avg sentiment -0.03\n- **investors** - 7 articles, 3 publisher(s), avg sentiment +0.09\n- **political** - 7 articles, 2 publisher(s), avg sentiment +0.06\n- **artificial intelligence** - 4 articles, 1 publisher(s), avg sentiment +0.12\n- **job interviews** - 4 articles, 4 publisher(s), avg sentiment -0.12\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 10 / Neutral 22 / Negative 19; mean -0.08.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure (https://theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure)\n- CNBC reported a negative-toned story: Binance breach puts custody at center of crypto infrastructure trade (https://cnbc.com/2026/11/03/binance-breach-puts-custody-at-center-of-crypto-infrastructure-trade.html)\n- CNBC reported a negative-toned story: Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways (https://cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- NYT - [SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas](https://nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html) (2026-11-04 15:09 UTC; collected 2026-11-04 15:16 UTC)\n- NYT - [William Nordhaus Dies; Nobel Winner Influenced Climate Policy](https://nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html) (2026-11-04 15:04 UTC; collected 2026-11-04 15:16 UTC)\n- NYT - [Stocks Rise as Democrats Flip Control of Congress](https://nytimes.com/2026/11/04/business/midterm-elections-stock-market.html) (2026-11-04 14:42 UTC; collected 2026-11-04 15:16 UTC)\n- NYT - [America\u2019s Trade Deficit Remained Elevated in September](https://nytimes.com/2026/11/04/business/us-trade-deficit-september.html) (2026-11-04 14:42 UTC; collected 2026-11-04 15:16 UTC)\n- The Guardian - [US stock markets and government bonds rally while dollar falls after Democrats secure Congress \u2013 business live](https://theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates) (2026-11-04 14:35 UTC; collected 2026-11-04 15:16 UTC)\n- CNBC - [AMD's data center revenue nearly doubles in Q3 and CEO Su expects growth to accelerate](https://cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html) (2026-11-04 14:23 UTC; collected 2026-11-04 15:16 UTC)\n- The Guardian - [The RBA says there is \u2018excess demand\u2019 in the economy. Households doing it tough might disagree | Greg Jericho](https://theguardian.com/business/grogonomics/2026/nov/04/the-rba-says-there-is-excess-demand-in-the-economy-households-doing-it-tough-might-disagree) (2026-11-04 14:00 UTC; collected 2026-11-04 15:16 UTC)\n- The Guardian - [\u2018Discontent and distrust\u2019: annual social cohesion checkup shows exactly what\u2019s making Australia angry](https://theguardian.com/australia-news/2026/nov/04/social-cohesion-report-australia-cost-of-living-economy-immigration-multiculturalism-ai-ntwnfb) (2026-11-04 14:00 UTC; collected 2026-11-04 15:16 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-04\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-03 15:16 UTC and 2026-11-04 15:16 UTC, 51 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 10 positive, 22 neutral, 19 negative (mean score -0.08). The most recurring theme was \"midterm elections\".\n\nKey developments:\n- SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas (NYT) https://nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html\n- William Nordhaus Dies; Nobel Winner Influenced Climate Policy (NYT) https://nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html\n- Stocks Rise as Democrats Flip Control of Congress (NYT) https://nytimes.com/2026/11/04/business/midterm-elections-stock-market.html\n- America\u2019s Trade Deficit Remained Elevated in September (NYT) https://nytimes.com/2026/11/04/business/us-trade-deficit-september.html\n- US stock markets and government bonds rally while dollar falls after Democrats secure Congress \u2013 business live (The Guardian) https://theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
