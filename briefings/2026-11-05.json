@@ -1,0 +1,484 @@
+{
+  "id": "e86dc220273b",
+  "generated_at": "2026-11-05T15:16:45.424404Z",
+  "period_start": "2026-11-04T15:16:45.424404Z",
+  "period_end": "2026-11-05T15:16:45.424404Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-04 15:16 UTC and 2026-11-05 15:16 UTC, 56 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 15 positive, 26 neutral, 15 negative (mean score +0.00). The most recurring theme was \"interest rates\".",
+  "key_developments": [
+    {
+      "text": "Today\u2019s UK interest rate rise unlikely to be the last unless Iran war ends, Bank of England warns \u2013 business live",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-05T14:57:33Z"
+    },
+    {
+      "text": "BT cuts almost 8,000 jobs amid sweeping cost-saving programme",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/nov/05/bt-cuts-jobs-cost-saving-programme-profit-share-price"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-05T14:40:48Z"
+    },
+    {
+      "text": "Interest rates hiked to 4% in first increase in over three years",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://bbc.co.uk/news/articles/ck5ynw45jrgqo?at_campaign=rss&at_medium=RSS"
+      ],
+      "publishers": [
+        "BBC"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-05T14:36:26Z"
+    },
+    {
+      "text": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-05T14:30:25Z"
+    },
+    {
+      "text": "Democratic sweep puts crypto on defensive in Washington",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-05T14:27:01Z"
+    },
+    {
+      "text": "Bank of England Raises Rates for First Time in Three Years",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-05T14:04:31Z"
+    },
+    {
+      "text": "What does the UK interest rate rise mean for homeowners and savers?",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/nov/05/what-does-interest-rate-rise-mean-for-homeowners-and-savers-mortgages"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-05T14:00:12Z"
+    },
+    {
+      "text": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-05T13:44:45Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "interest rates",
+      "article_count": 9,
+      "publishers": [
+        "BBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://bbc.co.uk/news/articles/ck5ynw45jrgqo?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
+        "https://nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
+        "https://theguardian.com/business/2026/nov/05/what-does-interest-rate-rise-mean-for-homeowners-and-savers-mortgages",
+        "https://bbc.co.uk/news/articles/ckr5y0y37gv3o?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": 0.118,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "trump",
+      "article_count": 11,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html",
+        "https://nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html",
+        "https://theguardian.com/business/2026/nov/05/democrats-midterms-triumph-renewable-energy-industry-donald-trump",
+        "https://theguardian.com/technology/2026/nov/05/tech-barons-america-musk-bezos-zuckerberg",
+        "https://theguardian.com/world/2026/nov/05/thursday-briefing-a-dignified-life-for-all-must-be-the-north-star-economist-isabella-weber-answers-your-questions"
+      ],
+      "avg_sentiment": 0.025,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "data",
+      "article_count": 10,
+      "publishers": [
+        "Ars Technica",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
+        "https://cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
+        "https://cnbc.com/2026/11/05/meta-spacex-ai-data-centers-use-millions-of-gallons-of-water-a-day.html",
+        "https://cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
+        "https://theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres"
+      ],
+      "avg_sentiment": 0.001,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "midterm elections",
+      "article_count": 6,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/nov/05/democrats-midterms-triumph-renewable-energy-industry-donald-trump",
+        "https://theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
+        "https://cnbc.com/2026/11/04/cramer-midterms-ai-stocks.html",
+        "https://nytimes.com/2026/11/04/business/trump-media-truth-social-midterm-elections.html",
+        "https://theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears"
+      ],
+      "avg_sentiment": 0.187,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "bank england",
+      "article_count": 6,
+      "publishers": [
+        "BBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates",
+        "https://nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
+        "https://theguardian.com/business/2026/nov/05/what-does-interest-rate-rise-mean-for-homeowners-and-savers-mortgages",
+        "https://theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
+        "https://bbc.co.uk/news/articles/cx4g1q3vlp62o?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": 0.031,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "democrats",
+      "article_count": 9,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html",
+        "https://nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html",
+        "https://theguardian.com/business/2026/nov/05/democrats-midterms-triumph-renewable-energy-industry-donald-trump",
+        "https://theguardian.com/technology/2026/nov/05/tech-barons-america-musk-bezos-zuckerberg",
+        "https://nytimes.com/2026/11/04/business/trump-media-truth-social-midterm-elections.html"
+      ],
+      "avg_sentiment": -0.002,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 15,
+    "neutral": 26,
+    "negative": 15,
+    "mean_score": 0.001,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "CNBC reported a negative-toned story: Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales (https://cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html)",
+    "CNBC reported a negative-toned story: Snap shares fall over 10% on third-quarter revenue miss (https://cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html)",
+    "NYT reported a negative-toned story: SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas (https://nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "aedbff25b39b4bd8",
+      "title": "Today\u2019s UK interest rate rise unlikely to be the last unless Iran war ends, Bank of England warns \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates",
+      "summary": "UK hit by first interest rate rise in three years, as Bank predicts inflation will approach 5% by middle of 2027 UK government bond prices are also rallying today. This has pushed down the yield, or rate of return, on UK 10-year gilts by 4 basis points (0.04 of a percentage point) to the lowest since August 28, below 5.1%. Continue reading...",
+      "published_at": "2026-11-05T14:57:33Z",
+      "collected_at": "2026-11-05T15:16:45.424404Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": -0.0516,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "a8175f263d4d55ba",
+      "title": "BT cuts almost 8,000 jobs amid sweeping cost-saving programme",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/05/bt-cuts-jobs-cost-saving-programme-profit-share-price",
+      "summary": "Telecoms group reports \u00a31.1bn pre-tax profit in six months to end of September and share price touches five-year high Business live \u2013 latest updates BT has cut almost 8,000 jobs from its workforce since the end of March, as it pushes ahead with sweeping cost cuts across the business. The telecoms group said its workforce had fallen by 7,731 to 90,000, excluding staff in its international business, which is being spun out in a joint venture with the US telecoms company Verizon. It had a workforce",
+      "published_at": "2026-11-05T14:40:48Z",
+      "collected_at": "2026-11-05T15:16:45.424404Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.4767,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "bd47880a2c7c1df6",
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/ck5ynw45jrgqo?at_campaign=rss&at_medium=RSS",
+      "summary": "Most analysts expected the increase from 3.75% to 4%.",
+      "published_at": "2026-11-05T14:36:26Z",
+      "collected_at": "2026-11-05T15:16:45.424404Z",
+      "feed_name": "BBC / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "a33f0f268e1012c0",
+      "title": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
+      "summary": "Cost of servicing external debt is preventing developing countries from investing for future Debt owed by developing countries rose to a record $9.4tn (\u00a37tn) last year, with the poorest paying the highest interest rates since the late 1980s, World Bank data shows. The UK government is preparing to champion a \u201cnew drive on debt\u201d as part of its presidency of the G20 next year \u2013 a move the prime minister, Andy Burnham, has linked to confronting the legacy of slavery. Continue reading...",
+      "published_at": "2026-11-05T14:30:25Z",
+      "collected_at": "2026-11-05T15:16:45.424404Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.7184,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "db2b08f8266c795d",
+      "title": "Democratic sweep puts crypto on defensive in Washington",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html",
+      "summary": "Democrats in Congress could impose tougher rules on crypto and investigate President Donald Trump, ushering in a tougher era for the industry.",
+      "published_at": "2026-11-05T14:27:01Z",
+      "collected_at": "2026-11-05T15:16:45.424404Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "67109b7e7131eb7a",
+      "title": "Bank of England Raises Rates for First Time in Three Years",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
+      "summary": "The central bank increased interest rates for the first time in more than three years and warned that inflation would climb to about 5 percent next year, far above its target.",
+      "published_at": "2026-11-05T14:04:31Z",
+      "collected_at": "2026-11-05T15:16:45.424404Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.25,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "da41024e178de6d8",
+      "title": "What does the UK interest rate rise mean for homeowners and savers?",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/05/what-does-interest-rate-rise-mean-for-homeowners-and-savers-mortgages",
+      "summary": "First rate rise for more than three years leaves millions facing rise in mortgage payments Bank of England raises interest rates to 4% Business live \u2013 latest updates The Bank of England has hiked interest rates by 0.25 percentage points, taking the base rate to 4%. It is the first rate rise for more than three years, leaving millions of households facing a sharp rise in mortgage payments. Continue reading...",
+      "published_at": "2026-11-05T14:00:12Z",
+      "collected_at": "2026-11-05T15:16:45.424404Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.8402,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "1c93339f97edfe37",
+      "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
+      "summary": "OpenAI pledged to solicit community input around AI data centers, publish construction plans and protect ratepayers.",
+      "published_at": "2026-11-05T13:44:45Z",
+      "collected_at": "2026-11-05T15:16:45.424404Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": -0.34,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "aedbff25b39b4bd8",
+      "title": "Today\u2019s UK interest rate rise unlikely to be the last unless Iran war ends, Bank of England warns \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates",
+      "summary": "UK hit by first interest rate rise in three years, as Bank predicts inflation will approach 5% by middle of 2027 UK government bond prices are also rallying today. This has pushed down the yield, or rate of return, on UK 10-year gilts by 4 basis points (0.04 of a percentage point) to the lowest since August 28, below 5.1%. Continue reading...",
+      "published_at": "2026-11-05T14:57:33Z",
+      "collected_at": "2026-11-05T15:16:45.424404Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "a33f0f268e1012c0",
+      "title": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
+      "summary": "Cost of servicing external debt is preventing developing countries from investing for future Debt owed by developing countries rose to a record $9.4tn (\u00a37tn) last year, with the poorest paying the highest interest rates since the late 1980s, World Bank data shows. The UK government is preparing to champion a \u201cnew drive on debt\u201d as part of its presidency of the G20 next year \u2013 a move the prime minister, Andy Burnham, has linked to confronting the legacy of slavery. Continue reading...",
+      "published_at": "2026-11-05T14:30:25Z",
+      "collected_at": "2026-11-05T15:16:45.424404Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Today\u2019s UK interest rate rise unlikely to be the last unless Iran war ends, Bank of England warns \u2013 business live",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates"
+        ]
+      },
+      {
+        "claim": "BT cuts almost 8,000 jobs amid sweeping cost-saving programme",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/nov/05/bt-cuts-jobs-cost-saving-programme-profit-share-price"
+        ]
+      },
+      {
+        "claim": "Interest rates hiked to 4% in first increase in over three years",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://bbc.co.uk/news/articles/ck5ynw45jrgqo?at_campaign=rss&at_medium=RSS"
+        ]
+      },
+      {
+        "claim": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data"
+        ]
+      },
+      {
+        "claim": "Democratic sweep puts crypto on defensive in Washington",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html"
+        ]
+      },
+      {
+        "claim": "Bank of England Raises Rates for First Time in Three Years",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html"
+        ]
+      },
+      {
+        "claim": "What does the UK interest rate rise mean for homeowners and savers?",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/nov/05/what-does-interest-rate-rise-mean-for-homeowners-and-savers-mortgages"
+        ]
+      },
+      {
+        "claim": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-05\n\n**Reporting period:** 2026-11-04 15:16 UTC to 2026-11-05 15:16 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-04 15:16 UTC and 2026-11-05 15:16 UTC, 56 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 15 positive, 26 neutral, 15 negative (mean score +0.00). The most recurring theme was \"interest rates\".\n\n## Key developments\n\n1. **Today\u2019s UK interest rate rise unlikely to be the last unless Iran war ends, Bank of England warns \u2013 business live** - _The Guardian; 2026-11-05 14:57 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates)\n2. **BT cuts almost 8,000 jobs amid sweeping cost-saving programme** - _The Guardian; 2026-11-05 14:40 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/2026/nov/05/bt-cuts-jobs-cost-saving-programme-profit-share-price)\n3. **Interest rates hiked to 4% in first increase in over three years** - _BBC; 2026-11-05 14:36 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://bbc.co.uk/news/articles/ck5ynw45jrgqo?at_campaign=rss&at_medium=RSS)\n4. **Debt of poorest countries at record $9.4tn high, World Bank data shows** - _The Guardian; 2026-11-05 14:30 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data)\n5. **Democratic sweep puts crypto on defensive in Washington** - _CNBC; 2026-11-05 14:27 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html)\n6. **Bank of England Raises Rates for First Time in Three Years** - _NYT; 2026-11-05 14:04 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html)\n7. **What does the UK interest rate rise mean for homeowners and savers?** - _The Guardian; 2026-11-05 14:00 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/2026/nov/05/what-does-interest-rate-rise-mean-for-homeowners-and-savers-mortgages)\n8. **OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke** - _CNBC; 2026-11-05 13:44 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html)\n\n## Emerging themes\n\n- **interest rates** - 9 articles, 3 publisher(s), avg sentiment +0.12\n- **trump** - 11 articles, 3 publisher(s), avg sentiment +0.03\n- **data** - 10 articles, 4 publisher(s), avg sentiment +0.00\n- **midterm elections** - 6 articles, 3 publisher(s), avg sentiment +0.19\n- **bank england** - 6 articles, 3 publisher(s), avg sentiment +0.03\n- **democrats** - 9 articles, 3 publisher(s), avg sentiment -0.00\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 15 / Neutral 26 / Negative 15; mean +0.00.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- CNBC reported a negative-toned story: Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales (https://cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html)\n- CNBC reported a negative-toned story: Snap shares fall over 10% on third-quarter revenue miss (https://cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html)\n- NYT reported a negative-toned story: SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas (https://nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- The Guardian - [Today\u2019s UK interest rate rise unlikely to be the last unless Iran war ends, Bank of England warns \u2013 business live](https://theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates) (2026-11-05 14:57 UTC; collected 2026-11-05 15:16 UTC)\n- The Guardian - [BT cuts almost 8,000 jobs amid sweeping cost-saving programme](https://theguardian.com/business/2026/nov/05/bt-cuts-jobs-cost-saving-programme-profit-share-price) (2026-11-05 14:40 UTC; collected 2026-11-05 15:16 UTC)\n- BBC - [Interest rates hiked to 4% in first increase in over three years](https://bbc.co.uk/news/articles/ck5ynw45jrgqo?at_campaign=rss&at_medium=RSS) (2026-11-05 14:36 UTC; collected 2026-11-05 15:16 UTC)\n- The Guardian - [Debt of poorest countries at record $9.4tn high, World Bank data shows](https://theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data) (2026-11-05 14:30 UTC; collected 2026-11-05 15:16 UTC)\n- CNBC - [Democratic sweep puts crypto on defensive in Washington](https://cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html) (2026-11-05 14:27 UTC; collected 2026-11-05 15:16 UTC)\n- NYT - [Bank of England Raises Rates for First Time in Three Years](https://nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html) (2026-11-05 14:04 UTC; collected 2026-11-05 15:16 UTC)\n- The Guardian - [What does the UK interest rate rise mean for homeowners and savers?](https://theguardian.com/business/2026/nov/05/what-does-interest-rate-rise-mean-for-homeowners-and-savers-mortgages) (2026-11-05 14:00 UTC; collected 2026-11-05 15:16 UTC)\n- CNBC - [OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke](https://cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html) (2026-11-05 13:44 UTC; collected 2026-11-05 15:16 UTC)\n- The Guardian - [Today\u2019s UK interest rate rise unlikely to be the last unless Iran war ends, Bank of England warns \u2013 business live](https://theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates) (2026-11-05 14:57 UTC; collected 2026-11-05 15:16 UTC)\n- The Guardian - [Debt of poorest countries at record $9.4tn high, World Bank data shows](https://theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data) (2026-11-05 14:30 UTC; collected 2026-11-05 15:16 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-05\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-04 15:16 UTC and 2026-11-05 15:16 UTC, 56 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 15 positive, 26 neutral, 15 negative (mean score +0.00). The most recurring theme was \"interest rates\".\n\nKey developments:\n- Today\u2019s UK interest rate rise unlikely to be the last unless Iran war ends, Bank of England warns \u2013 business live (The Guardian) https://theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates\n- BT cuts almost 8,000 jobs amid sweeping cost-saving programme (The Guardian) https://theguardian.com/business/2026/nov/05/bt-cuts-jobs-cost-saving-programme-profit-share-price\n- Interest rates hiked to 4% in first increase in over three years (BBC) https://bbc.co.uk/news/articles/ck5ynw45jrgqo?at_campaign=rss&at_medium=RSS\n- Debt of poorest countries at record $9.4tn high, World Bank data shows (The Guardian) https://theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data\n- Democratic sweep puts crypto on defensive in Washington (CNBC) https://cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
