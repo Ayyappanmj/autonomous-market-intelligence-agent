@@ -1,0 +1,489 @@
+{
+  "id": "d2e4d90b28c6",
+  "generated_at": "2026-11-06T14:53:47.358199Z",
+  "period_start": "2026-11-05T14:53:47.358199Z",
+  "period_end": "2026-11-06T14:53:47.358199Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-05 14:53 UTC and 2026-11-06 14:53 UTC, 57 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 5 positive, 26 neutral, 26 negative (mean score -0.20). The most recurring theme was \"artificial intelligence\".",
+  "key_developments": [
+    {
+      "text": "US tech stocks open higher on Wall Street after worst day in 19 months \u2013 business live",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-06T14:45:42Z"
+    },
+    {
+      "text": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns"
+      ],
+      "publishers": [
+        "Ars Technica"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-06T14:13:32Z"
+    },
+    {
+      "text": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-06T14:01:03Z"
+    },
+    {
+      "text": "Fearing AI disruption, white-collar workers are quitting their jobs",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-06T14:00:45Z"
+    },
+    {
+      "text": "What Homeowners Should Know About Home Equity Contracts",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/06/your-money/home-equity-investment.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-06T14:00:06Z"
+    },
+    {
+      "text": "EU charges TikTok with failing to protect users\u2019 mental health",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-06T13:49:39Z"
+    },
+    {
+      "text": "Stable Labor Market Keeps Fed on Track to Raise Rates Gradually",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/06/business/economy/stable-labor-market-to-keep-fed-on-track-to-raise-rates-gradually.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-06T13:45:01Z"
+    },
+    {
+      "text": "US job growth exceeds expectations in October despite economic uncertainty",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/nov/06/us-job-growth-october"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-06T13:42:26Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "artificial intelligence",
+      "article_count": 10,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
+        "https://nytimes.com/2026/11/06/business/dealbook/tech-investors-ai-rout.html",
+        "https://nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
+        "https://nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html",
+        "https://nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html"
+      ],
+      "avg_sentiment": -0.078,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "tech",
+      "article_count": 10,
+      "publishers": [
+        "Ars Technica",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+        "https://theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
+        "https://nytimes.com/2026/11/06/your-money/home-equity-investment.html",
+        "https://nytimes.com/2026/11/06/business/dealbook/tech-investors-ai-rout.html",
+        "https://nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html"
+      ],
+      "avg_sentiment": -0.264,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "stocks",
+      "article_count": 9,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+        "https://bbc.co.uk/news/articles/cmn04705rd8jo?at_campaign=rss&at_medium=RSS",
+        "https://nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
+        "https://cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
+        "https://cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html"
+      ],
+      "avg_sentiment": -0.424,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "market",
+      "article_count": 8,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/06/business/economy/stable-labor-market-to-keep-fed-on-track-to-raise-rates-gradually.html",
+        "https://theguardian.com/business/2026/nov/06/us-job-growth-october",
+        "https://theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years",
+        "https://theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+        "https://theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
+      ],
+      "avg_sentiment": -0.442,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "interest rates",
+      "article_count": 5,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/06/business/economy/stable-labor-market-to-keep-fed-on-track-to-raise-rates-gradually.html",
+        "https://cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
+        "https://theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+        "https://bbc.co.uk/news/articles/ck5ynw45jrgqo?at_campaign=rss&at_medium=RSS",
+        "https://nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html"
+      ],
+      "avg_sentiment": -0.09,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "wall street",
+      "article_count": 5,
+      "publishers": [
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+        "https://cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+        "https://theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+        "https://theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+        "https://theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates"
+      ],
+      "avg_sentiment": -0.662,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 5,
+    "neutral": 26,
+    "negative": 26,
+    "mean_score": -0.199,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Global stocks plunge amid AI slowdown fears after Democrats\u2019 midterm triumph (https://theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph)",
+    "CNBC reported a negative-toned story: AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025 (https://cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html)",
+    "The Guardian reported a negative-toned story: Nasdaq sees worst day in 19 months as investors bet on AI slowdown after Democrats\u2019 election triumph (https://theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "05135575d857aa24",
+      "title": "US tech stocks open higher on Wall Street after worst day in 19 months \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+      "summary": "European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year. The Nasdaq Composite index, for example, is still up 4.6% since the start of January \u2013 even though it\u2019s more than 10% below its peak. \u201cThe tech sell-off has intensified, with the pain of the brutal sell-off on Wall Street carried straight through to Asia and knocking sentimen",
+      "published_at": "2026-11-06T14:45:42Z",
+      "collected_at": "2026-11-06T14:53:47.358199Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [
+        "technology",
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": -0.5423,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "6d918f2a577a78fb",
+      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "publisher": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns",
+      "summary": "Lawmakers want answers about Jensen Huang\u2019s ties to an alleged Chinese intelligence asset.",
+      "published_at": "2026-11-06T14:13:32Z",
+      "collected_at": "2026-11-06T14:53:47.358199Z",
+      "feed_name": "Ars Technica / Main",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": -0.296,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "c10f9934fd6fcbcb",
+      "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
+      "summary": "The Cybertruck and its polarizing design gained a niche following, but it did not achieve mass-market sales and Tesla has issued several voluntary recalls.",
+      "published_at": "2026-11-06T14:01:03Z",
+      "collected_at": "2026-11-06T14:53:47.358199Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "ed7a344f8f0218a0",
+      "title": "Fearing AI disruption, white-collar workers are quitting their jobs",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
+      "summary": "While there\u2019s no evidence linking AI to mass layoffs, the tech has already \u2018changed worker psychology\u2019 When artificial intelligence researcher Mrinank Sharma quit his job at Anthropic earlier this year, the news rippled across the internet. In his resignation letter, posted on X and viewed 15.3m times, Sharma warned of a world \u201cin peril\u201d from the technology he had helped build. \u201cIt is clear to me the time has come to move on,\u201d he wrote. His next move: a poetry degree. Continue reading...",
+      "published_at": "2026-11-06T14:00:45Z",
+      "collected_at": "2026-11-06T14:53:47.358199Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai",
+        "technology",
+        "economy"
+      ],
+      "sentiment_score": -0.4939,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "173fd8fd7447b809",
+      "title": "What Homeowners Should Know About Home Equity Contracts",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/06/your-money/home-equity-investment.html",
+      "summary": "Financial tech firms promote home equity contracts as a source of money without monthly payments. But skeptics see \u201ca loan masquerading as obligation-free cash.\u201d",
+      "published_at": "2026-11-06T14:00:06Z",
+      "collected_at": "2026-11-06T14:53:47.358199Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "de9af9b2c796a3ea",
+      "title": "EU charges TikTok with failing to protect users\u2019 mental health",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+      "summary": "Regulator\u2019s initial ruling says algorithm \u2018can be harmful\u2019 and led young and vulnerable viewers \u2018down rabbit holes they can\u2019t easily escape\u2019 Business live \u2013 latest updates TikTok has been charged by the European Commission with failing to protect users\u2019 mental health by exposing them to a relentless stream of content that risks worsening eating disorders and anxiety in a case that strikes at its business model. Issuing a preliminary ruling on Friday, the EU regulator said TikTok\u2019s algorithm \u201ccan",
+      "published_at": "2026-11-06T13:49:39Z",
+      "collected_at": "2026-11-06T14:53:47.358199Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": -0.25,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "28c4ea9b9dffb8ec",
+      "title": "Stable Labor Market Keeps Fed on Track to Raise Rates Gradually",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/06/business/economy/stable-labor-market-to-keep-fed-on-track-to-raise-rates-gradually.html",
+      "summary": "The Federal Reserve decided against raising interest rates at its meeting last week, but it is widely expected to move again in December to help tame inflation.",
+      "published_at": "2026-11-06T13:45:01Z",
+      "collected_at": "2026-11-06T14:53:47.358199Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": -0.25,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "bf35a7644898e59b",
+      "title": "US job growth exceeds expectations in October despite economic uncertainty",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/06/us-job-growth-october",
+      "summary": "\u2018Low-hire, low-fire\u2019 labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December The US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid ongoing war in the Middle East and inflation, according to new data released on Friday. Economists had said the labor market has been stuck in a \u201clow-hire, low-fire\u201d state, in which job growth is sluggish but layoffs also remain low, but October\u2019s data surpassed economist expecta",
+      "published_at": "2026-11-06T13:42:26Z",
+      "collected_at": "2026-11-06T14:53:47.358199Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": -0.4588,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "05135575d857aa24",
+      "title": "US tech stocks open higher on Wall Street after worst day in 19 months \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+      "summary": "European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year. The Nasdaq Composite index, for example, is still up 4.6% since the start of January \u2013 even though it\u2019s more than 10% below its peak. \u201cThe tech sell-off has intensified, with the pain of the brutal sell-off on Wall Street carried straight through to Asia and knocking sentimen",
+      "published_at": "2026-11-06T14:37:19Z",
+      "collected_at": "2026-11-06T14:53:47.358199Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "de9af9b2c796a3ea",
+      "title": "EU charges TikTok with failing to protect users\u2019 mental health",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+      "summary": "Regulator\u2019s initial ruling says algorithm \u2018can be harmful\u2019 and led young and vulnerable viewers \u2018down rabbit holes they can\u2019t easily escape\u2019 Business live \u2013 latest updates TikTok has been charged by the European Commission with failing to protect users\u2019 mental health by exposing them to a relentless stream of content that risks worsening eating disorders and anxiety in a case that strikes at its business model. Issuing a preliminary ruling on Friday, the EU regulator said TikTok\u2019s algorithm \u201ccan",
+      "published_at": "2026-11-06T13:49:39Z",
+      "collected_at": "2026-11-06T14:53:47.358199Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "US tech stocks open higher on Wall Street after worst day in 19 months \u2013 business live",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
+        ]
+      },
+      {
+        "claim": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns"
+        ]
+      },
+      {
+        "claim": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
+        ]
+      },
+      {
+        "claim": "Fearing AI disruption, white-collar workers are quitting their jobs",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting"
+        ]
+      },
+      {
+        "claim": "What Homeowners Should Know About Home Equity Contracts",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/06/your-money/home-equity-investment.html"
+        ]
+      },
+      {
+        "claim": "EU charges TikTok with failing to protect users\u2019 mental health",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health"
+        ]
+      },
+      {
+        "claim": "Stable Labor Market Keeps Fed on Track to Raise Rates Gradually",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/06/business/economy/stable-labor-market-to-keep-fed-on-track-to-raise-rates-gradually.html"
+        ]
+      },
+      {
+        "claim": "US job growth exceeds expectations in October despite economic uncertainty",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/nov/06/us-job-growth-october"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-06\n\n**Reporting period:** 2026-11-05 14:53 UTC to 2026-11-06 14:53 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-05 14:53 UTC and 2026-11-06 14:53 UTC, 57 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 5 positive, 26 neutral, 26 negative (mean score -0.20). The most recurring theme was \"artificial intelligence\".\n\n## Key developments\n\n1. **US tech stocks open higher on Wall Street after worst day in 19 months \u2013 business live** - _The Guardian; 2026-11-06 14:45 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates)\n2. **Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns** - _Ars Technica; 2026-11-06 14:13 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns)\n3. **Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says** - _CNBC; 2026-11-06 14:01 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html)\n4. **Fearing AI disruption, white-collar workers are quitting their jobs** - _The Guardian; 2026-11-06 14:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting)\n5. **What Homeowners Should Know About Home Equity Contracts** - _NYT; 2026-11-06 14:00 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://nytimes.com/2026/11/06/your-money/home-equity-investment.html)\n6. **EU charges TikTok with failing to protect users\u2019 mental health** - _The Guardian; 2026-11-06 13:49 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health)\n7. **Stable Labor Market Keeps Fed on Track to Raise Rates Gradually** - _NYT; 2026-11-06 13:45 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://nytimes.com/2026/11/06/business/economy/stable-labor-market-to-keep-fed-on-track-to-raise-rates-gradually.html)\n8. **US job growth exceeds expectations in October despite economic uncertainty** - _The Guardian; 2026-11-06 13:42 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://theguardian.com/business/2026/nov/06/us-job-growth-october)\n\n## Emerging themes\n\n- **artificial intelligence** - 10 articles, 3 publisher(s), avg sentiment -0.08\n- **tech** - 10 articles, 4 publisher(s), avg sentiment -0.26\n- **stocks** - 9 articles, 4 publisher(s), avg sentiment -0.42\n- **market** - 8 articles, 3 publisher(s), avg sentiment -0.44\n- **interest rates** - 5 articles, 4 publisher(s), avg sentiment -0.09\n- **wall street** - 5 articles, 2 publisher(s), avg sentiment -0.66\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 5 / Neutral 26 / Negative 26; mean -0.20.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Global stocks plunge amid AI slowdown fears after Democrats\u2019 midterm triumph (https://theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph)\n- CNBC reported a negative-toned story: AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025 (https://cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html)\n- The Guardian reported a negative-toned story: Nasdaq sees worst day in 19 months as investors bet on AI slowdown after Democrats\u2019 election triumph (https://theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- The Guardian - [US tech stocks open higher on Wall Street after worst day in 19 months \u2013 business live](https://theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates) (2026-11-06 14:45 UTC; collected 2026-11-06 14:53 UTC)\n- Ars Technica - [Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns](https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns) (2026-11-06 14:13 UTC; collected 2026-11-06 14:53 UTC)\n- CNBC - [Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says](https://cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html) (2026-11-06 14:01 UTC; collected 2026-11-06 14:53 UTC)\n- The Guardian - [Fearing AI disruption, white-collar workers are quitting their jobs](https://theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting) (2026-11-06 14:00 UTC; collected 2026-11-06 14:53 UTC)\n- NYT - [What Homeowners Should Know About Home Equity Contracts](https://nytimes.com/2026/11/06/your-money/home-equity-investment.html) (2026-11-06 14:00 UTC; collected 2026-11-06 14:53 UTC)\n- The Guardian - [EU charges TikTok with failing to protect users\u2019 mental health](https://theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health) (2026-11-06 13:49 UTC; collected 2026-11-06 14:53 UTC)\n- NYT - [Stable Labor Market Keeps Fed on Track to Raise Rates Gradually](https://nytimes.com/2026/11/06/business/economy/stable-labor-market-to-keep-fed-on-track-to-raise-rates-gradually.html) (2026-11-06 13:45 UTC; collected 2026-11-06 14:53 UTC)\n- The Guardian - [US job growth exceeds expectations in October despite economic uncertainty](https://theguardian.com/business/2026/nov/06/us-job-growth-october) (2026-11-06 13:42 UTC; collected 2026-11-06 14:53 UTC)\n- The Guardian - [US tech stocks open higher on Wall Street after worst day in 19 months \u2013 business live](https://theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates) (2026-11-06 14:37 UTC; collected 2026-11-06 14:53 UTC)\n- The Guardian - [EU charges TikTok with failing to protect users\u2019 mental health](https://theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health) (2026-11-06 13:49 UTC; collected 2026-11-06 14:53 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-06\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-05 14:53 UTC and 2026-11-06 14:53 UTC, 57 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 5 positive, 26 neutral, 26 negative (mean score -0.20). The most recurring theme was \"artificial intelligence\".\n\nKey developments:\n- US tech stocks open higher on Wall Street after worst day in 19 months \u2013 business live (The Guardian) https://theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates\n- Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns (Ars Technica) https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns\n- Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says (CNBC) https://cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html\n- Fearing AI disruption, white-collar workers are quitting their jobs (The Guardian) https://theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting\n- What Homeowners Should Know About Home Equity Contracts (NYT) https://nytimes.com/2026/11/06/your-money/home-equity-investment.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
