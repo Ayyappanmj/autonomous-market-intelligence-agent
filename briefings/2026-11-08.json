@@ -1,0 +1,472 @@
+{
+  "id": "c7e278538deb",
+  "generated_at": "2026-11-08T14:11:17.777022Z",
+  "period_start": "2026-11-07T14:11:17.777022Z",
+  "period_end": "2026-11-08T14:11:17.777022Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-07 14:11 UTC and 2026-11-08 14:11 UTC, 11 unique articles from 3 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 6 neutral, 2 negative (mean score -0.02). The most recurring theme was \"chatbot-generated complaints\".",
+  "key_developments": [
+    {
+      "text": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-08T13:00:01Z"
+    },
+    {
+      "text": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-08T12:05:58Z"
+    },
+    {
+      "text": "The World Can\u2019t Get Enough Anime. Can Japan Cash In on Its Success?",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-08T10:00:26Z"
+    },
+    {
+      "text": "\u2018AI clog\u2019: UK public bodies battle onslaught of chatbot-generated complaints",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-08T08:00:36Z"
+    },
+    {
+      "text": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-08T07:00:34Z"
+    },
+    {
+      "text": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-08T06:00:33Z"
+    },
+    {
+      "text": "Cathie Wood 'always feels better when the market is worried' \u2014 here's why",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/08/cathie-wood-ai-selloff.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-08T06:00:01Z"
+    },
+    {
+      "text": "AI is speeding up recruitment \u2014 and putting agency fees under pressure",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/08/ai-recruitment-agency-fees.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-08T06:00:01Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "chatbot-generated complaints",
+      "article_count": 2,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+        "https://theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence"
+      ],
+      "avg_sentiment": 0.0,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "continue reading",
+      "article_count": 2,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+        "https://theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena"
+      ],
+      "avg_sentiment": -0.263,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "market",
+      "article_count": 3,
+      "publishers": [
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+        "https://theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+        "https://cnbc.com/2026/11/08/cathie-wood-ai-selloff.html"
+      ],
+      "avg_sentiment": -0.225,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "business",
+      "article_count": 2,
+      "publishers": [
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+        "https://cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html"
+      ],
+      "avg_sentiment": 0.17,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "company",
+      "article_count": 2,
+      "publishers": [
+        "CNBC",
+        "NYT"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html",
+        "https://cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html"
+      ],
+      "avg_sentiment": 0.33,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "whether",
+      "article_count": 2,
+      "publishers": [
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/08/ai-recruitment-agency-fees.html",
+        "https://theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena"
+      ],
+      "avg_sentiment": -0.263,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 3,
+    "neutral": 6,
+    "negative": 2,
+    "mean_score": -0.018,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Banana producers in Latin America want better pay to cope with effects of climate crisis (https://theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis)",
+    "The Guardian reported a negative-toned story: \u2018Very strange, very sad\u2019: Paraguay bank collapse fells a presidency and leaves millions broke (https://theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "a30a98932721490f",
+      "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+      "summary": "Amazon has formed a new home robotics team and is hiring for a \u201cnew-to-world robot product,\u201d according to CNBC\u2019s analysis of job posts.",
+      "published_at": "2026-11-08T13:00:01Z",
+      "collected_at": "2026-11-08T14:11:17.777022Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "8a9604c27d24070a",
+      "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+      "summary": "Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI \u2018AI clog\u2019: UK battles onslaught of chatbot-generated complaints Editorial: the AI backlash \u2013 Silicon Valley\u2019s political power is cracking Last week\u2019s midterms may not have cowed Donald Trump, but they should be a wake-up call for the grinning tech broligarchs who lined up at his inauguration two chaotic years ago. Clearly, the cost of living squeeze unleashed by Trump\u2019s war in",
+      "published_at": "2026-11-08T12:05:58Z",
+      "collected_at": "2026-11-08T14:11:17.777022Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai",
+        "technology",
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "2a55264cdc47d8a1",
+      "title": "The World Can\u2019t Get Enough Anime. Can Japan Cash In on Its Success?",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html",
+      "summary": "Sony is building an anime empire, betting that global fandom can fuel growth for both the company and the country as foreign rivals and A.I. swarm the scene.",
+      "published_at": "2026-11-08T10:00:26Z",
+      "collected_at": "2026-11-08T14:11:17.777022Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.6597,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "8d5a66c3ea7fb371",
+      "title": "\u2018AI clog\u2019: UK public bodies battle onslaught of chatbot-generated complaints",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+      "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to \u201cIt started as a trickle in 2024 and now it\u2019s an onslaught.\u201d Hollie Wickens, a senior caseworker in a Labour MP\u2019s office, is explaining the daily reality of dealing with surging volumes of artificial intelligence-generated correspondence. \u201cHalf the emails we receive are some form of AI,\u201d she says, adding that this has made requests and complain",
+      "published_at": "2026-11-08T08:00:36Z",
+      "collected_at": "2026-11-08T14:11:17.777022Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "8c5af7b6cd5531df",
+      "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+      "summary": "Farmers face big drop in production from extreme weather during this year\u2019s super El Ni\u00f1o event Banana producers in Latin America are calling for better pay to help cope with the impact of the climate crisis, as they face big drops in production resulting from extreme weather during this year\u2019s super El Ni\u00f1o event. High winds in parts of Colombia, one of the biggest suppliers to the UK market where droughts are predicted in some regions this year, and heavy rainfall in Peru and Ecuador are alrea",
+      "published_at": "2026-11-08T07:00:34Z",
+      "collected_at": "2026-11-08T14:11:17.777022Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": -0.9001,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "3a33c31f625bace0",
+      "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+      "summary": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurrence Alex Pearce was doing the morning rounds at his fruit and vegetable wholesale business in London on Monday last week when he noticed something odd. The defrost light on refrigeration unit 2 was on, and the panel reading was 150C. Unit 4 was the same. Continue reading...",
+      "published_at": "2026-11-08T06:00:33Z",
+      "collected_at": "2026-11-08T14:11:17.777022Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "5ea35cfd0bb6b086",
+      "title": "Cathie Wood 'always feels better when the market is worried' \u2014 here's why",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+      "summary": "The Ark Invest CEO said there was a \"wall of worry\" gripping markets right now.",
+      "published_at": "2026-11-08T06:00:01Z",
+      "collected_at": "2026-11-08T14:11:17.777022Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.2263,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "71e4270de798c05d",
+      "title": "AI is speeding up recruitment \u2014 and putting agency fees under pressure",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/08/ai-recruitment-agency-fees.html",
+      "summary": "Recruiters say AI is speeding up screening and reshaping agency work, raising questions about whether percentage-based placement fees can hold.",
+      "published_at": "2026-11-08T06:00:01Z",
+      "collected_at": "2026-11-08T14:11:17.777022Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "8a9604c27d24070a",
+      "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+      "summary": "Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI \u2018AI clog\u2019: UK battles onslaught of chatbot-generated complaints Editorial: the AI backlash \u2013 Silicon Valley\u2019s political power is cracking Last week\u2019s midterms may not have cowed Donald Trump, but they should be a wake-up call for the grinning tech broligarchs who lined up at his inauguration two chaotic years ago. Clearly, the cost of living squeeze unleashed by Trump\u2019s war in",
+      "published_at": "2026-11-08T12:05:58Z",
+      "collected_at": "2026-11-08T14:11:17.777022Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "8d5a66c3ea7fb371",
+      "title": "\u2018AI clog\u2019: UK public bodies battle onslaught of chatbot-generated complaints",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+      "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to \u201cIt started as a trickle in 2024 and now it\u2019s an onslaught.\u201d Hollie Wickens, a senior caseworker in a Labour MP\u2019s office, is explaining the daily reality of dealing with surging volumes of artificial intelligence-generated correspondence. \u201cHalf the emails we receive are some form of AI,\u201d she says, adding that this has made requests and complain",
+      "published_at": "2026-11-08T08:00:36Z",
+      "collected_at": "2026-11-08T14:11:17.777022Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "3a33c31f625bace0",
+      "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+      "summary": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurrence Alex Pearce was doing the morning rounds at his fruit and vegetable wholesale business in London on Monday last week when he noticed something odd. The defrost light on refrigeration unit 2 was on, and the panel reading was 150C. Unit 4 was the same. Continue reading...",
+      "published_at": "2026-11-08T06:00:33Z",
+      "collected_at": "2026-11-08T14:11:17.777022Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html"
+        ]
+      },
+      {
+        "claim": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash"
+        ]
+      },
+      {
+        "claim": "The World Can\u2019t Get Enough Anime. Can Japan Cash In on Its Success?",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html"
+        ]
+      },
+      {
+        "claim": "\u2018AI clog\u2019: UK public bodies battle onslaught of chatbot-generated complaints",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence"
+        ]
+      },
+      {
+        "claim": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis"
+        ]
+      },
+      {
+        "claim": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic"
+        ]
+      },
+      {
+        "claim": "Cathie Wood 'always feels better when the market is worried' \u2014 here's why",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/08/cathie-wood-ai-selloff.html"
+        ]
+      },
+      {
+        "claim": "AI is speeding up recruitment \u2014 and putting agency fees under pressure",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/08/ai-recruitment-agency-fees.html"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-08\n\n**Reporting period:** 2026-11-07 14:11 UTC to 2026-11-08 14:11 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-07 14:11 UTC and 2026-11-08 14:11 UTC, 11 unique articles from 3 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 6 neutral, 2 negative (mean score -0.02). The most recurring theme was \"chatbot-generated complaints\".\n\n## Key developments\n\n1. **Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again** - _CNBC; 2026-11-08 13:00 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html)\n2. **1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart** - _The Guardian; 2026-11-08 12:05 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash)\n3. **The World Can\u2019t Get Enough Anime. Can Japan Cash In on Its Success?** - _NYT; 2026-11-08 10:00 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html)\n4. **\u2018AI clog\u2019: UK public bodies battle onslaught of chatbot-generated complaints** - _The Guardian; 2026-11-08 08:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence)\n5. **Banana producers in Latin America want better pay to cope with effects of climate crisis** - _The Guardian; 2026-11-08 07:00 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis)\n6. **Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?** - _The Guardian; 2026-11-08 06:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic)\n7. **Cathie Wood 'always feels better when the market is worried' \u2014 here's why** - _CNBC; 2026-11-08 06:00 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://cnbc.com/2026/11/08/cathie-wood-ai-selloff.html)\n8. **AI is speeding up recruitment \u2014 and putting agency fees under pressure** - _CNBC; 2026-11-08 06:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/08/ai-recruitment-agency-fees.html)\n\n## Emerging themes\n\n- **chatbot-generated complaints** - 2 articles, 1 publisher(s), avg sentiment +0.00\n- **continue reading** - 2 articles, 1 publisher(s), avg sentiment -0.26\n- **market** - 3 articles, 2 publisher(s), avg sentiment -0.23\n- **business** - 2 articles, 2 publisher(s), avg sentiment +0.17\n- **company** - 2 articles, 2 publisher(s), avg sentiment +0.33\n- **whether** - 2 articles, 2 publisher(s), avg sentiment -0.26\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 3 / Neutral 6 / Negative 2; mean -0.02.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Banana producers in Latin America want better pay to cope with effects of climate crisis (https://theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis)\n- The Guardian reported a negative-toned story: \u2018Very strange, very sad\u2019: Paraguay bank collapse fells a presidency and leaves millions broke (https://theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- CNBC - [Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again](https://cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html) (2026-11-08 13:00 UTC; collected 2026-11-08 14:11 UTC)\n- The Guardian - [1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart](https://theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash) (2026-11-08 12:05 UTC; collected 2026-11-08 14:11 UTC)\n- NYT - [The World Can\u2019t Get Enough Anime. Can Japan Cash In on Its Success?](https://nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html) (2026-11-08 10:00 UTC; collected 2026-11-08 14:11 UTC)\n- The Guardian - [\u2018AI clog\u2019: UK public bodies battle onslaught of chatbot-generated complaints](https://theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence) (2026-11-08 08:00 UTC; collected 2026-11-08 14:11 UTC)\n- The Guardian - [Banana producers in Latin America want better pay to cope with effects of climate crisis](https://theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis) (2026-11-08 07:00 UTC; collected 2026-11-08 14:11 UTC)\n- The Guardian - [Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?](https://theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic) (2026-11-08 06:00 UTC; collected 2026-11-08 14:11 UTC)\n- CNBC - [Cathie Wood 'always feels better when the market is worried' \u2014 here's why](https://cnbc.com/2026/11/08/cathie-wood-ai-selloff.html) (2026-11-08 06:00 UTC; collected 2026-11-08 14:11 UTC)\n- CNBC - [AI is speeding up recruitment \u2014 and putting agency fees under pressure](https://cnbc.com/2026/11/08/ai-recruitment-agency-fees.html) (2026-11-08 06:00 UTC; collected 2026-11-08 14:11 UTC)\n- The Guardian - [1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart](https://theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash) (2026-11-08 12:05 UTC; collected 2026-11-08 14:11 UTC)\n- The Guardian - [\u2018AI clog\u2019: UK public bodies battle onslaught of chatbot-generated complaints](https://theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence) (2026-11-08 08:00 UTC; collected 2026-11-08 14:11 UTC)\n- The Guardian - [Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?](https://theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic) (2026-11-08 06:00 UTC; collected 2026-11-08 14:11 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-08\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-07 14:11 UTC and 2026-11-08 14:11 UTC, 11 unique articles from 3 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 6 neutral, 2 negative (mean score -0.02). The most recurring theme was \"chatbot-generated complaints\".\n\nKey developments:\n- Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again (CNBC) https://cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html\n- 1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart (The Guardian) https://theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash\n- The World Can\u2019t Get Enough Anime. Can Japan Cash In on Its Success? (NYT) https://nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html\n- \u2018AI clog\u2019: UK public bodies battle onslaught of chatbot-generated complaints (The Guardian) https://theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence\n- Banana producers in Latin America want better pay to cope with effects of climate crisis (The Guardian) https://theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
