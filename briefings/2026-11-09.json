@@ -1,0 +1,497 @@
+{
+  "id": "be49d8b0b9c7",
+  "generated_at": "2026-11-09T17:19:43.819477Z",
+  "period_start": "2026-11-08T17:19:43.819477Z",
+  "period_end": "2026-11-09T17:19:43.819477Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-08 17:19 UTC and 2026-11-09 17:19 UTC, 42 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 20 neutral, 19 negative (mean score -0.19). The most recurring theme was \"jensen huang\".",
+  "key_developments": [
+    {
+      "text": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+      "kind": "verified_fact",
+      "source_urls": [
+        "https://cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+        "https://nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+      ],
+      "publishers": [
+        "CNBC",
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-09T15:51:40Z"
+    },
+    {
+      "text": "Jim Cramer says this is the stock to buy as data center development slows",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/investingclub/2026/11/09/cramer-says-this-is-the-stock-to-buy-as-data-center-development-slows.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-09T17:18:15Z"
+    },
+    {
+      "text": "Civil servant who secretly held five jobs found guilty of fraud",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://bbc.co.uk/news/articles/cm70pgnx891do?at_campaign=rss&at_medium=RSS"
+      ],
+      "publishers": [
+        "BBC"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-09T17:17:16Z"
+    },
+    {
+      "text": "Nvidia\u2019s value tumbles by $330bn after \u2018honeytrap\u2019 investigation launched, as China denies spying claims \u2013 business live",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-09T17:14:00Z"
+    },
+    {
+      "text": "Nvidia\u2019s board needs to do some succession planning \u2013 sharpish | Nils Pratley",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-09T17:06:23Z"
+    },
+    {
+      "text": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-09T17:05:25Z"
+    },
+    {
+      "text": "Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-09T16:59:16Z"
+    },
+    {
+      "text": "Elon Musk and the tech bros banked on Trump and lost. Humbled, humiliated: what will they do next? | Jonathan Liew",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/commentisfree/2026/nov/09/elon-musk-tech-bros-donald-trump"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-09T16:48:18Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "jensen huang",
+      "article_count": 16,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+        "https://theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang",
+        "https://theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+        "https://nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
+        "https://cnbc.com/2026/11/09/megaspeed-nvidia-jensen-huang-alice-huang.html"
+      ],
+      "avg_sentiment": -0.246,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "nvidia",
+      "article_count": 22,
+      "publishers": [
+        "Ars Technica",
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+        "https://theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang",
+        "https://cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
+        "https://nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+        "https://theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk"
+      ],
+      "avg_sentiment": -0.238,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "chinese spy",
+      "article_count": 13,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+        "https://cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
+        "https://theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+        "https://cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+        "https://bbc.co.uk/news/articles/ckgel338xql3o?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": -0.237,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "investigation",
+      "article_count": 14,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+        "https://theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang",
+        "https://nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+        "https://theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+        "https://nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html"
+      ],
+      "avg_sentiment": -0.442,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "ceo",
+      "article_count": 13,
+      "publishers": [
+        "Ars Technica",
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+        "https://theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang",
+        "https://cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
+        "https://theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+        "https://nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html"
+      ],
+      "avg_sentiment": -0.293,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "intelligence",
+      "article_count": 10,
+      "publishers": [
+        "Ars Technica",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+        "https://theguardian.com/commentisfree/2026/nov/09/elon-musk-tech-bros-donald-trump",
+        "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage",
+        "https://cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+        "https://nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html"
+      ],
+      "avg_sentiment": -0.265,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 3,
+    "neutral": 20,
+    "negative": 19,
+    "mean_score": -0.19,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Fixing UK\u2019s youth jobs crisis demands much more investment, TUC boss warns (https://theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review)",
+    "The Guardian reported a negative-toned story: Nvidia\u2019s value tumbles by $330bn after \u2018honeytrap\u2019 investigation launched, as China denies spying claims \u2013 business live (https://theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates)",
+    "The Guardian reported a negative-toned story: \u2018Obvious risk of further tragedy\u2019 at rail crossing type at which Amazon driver died, inquiry finds (https://theguardian.com/business/2026/nov/09/amazon-driver-died-inquiry-manually-operated-level-crossing-kent)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "400633e3d8a75550",
+      "title": "Jim Cramer says this is the stock to buy as data center development slows",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/investingclub/2026/11/09/cramer-says-this-is-the-stock-to-buy-as-data-center-development-slows.html",
+      "summary": "Jim Cramer says a slowdown in data center construction gives Amazon an edge.",
+      "published_at": "2026-11-09T17:18:15Z",
+      "collected_at": "2026-11-09T17:19:43.819477Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "technology",
+        "markets"
+      ],
+      "sentiment_score": -0.4215,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "b15ad8c3f5e68f9e",
+      "title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/cm70pgnx891do?at_campaign=rss&at_medium=RSS",
+      "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+      "published_at": "2026-11-09T17:17:16Z",
+      "collected_at": "2026-11-09T17:19:43.819477Z",
+      "feed_name": "BBC / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "d9765f19d681f612",
+      "title": "Nvidia\u2019s value tumbles by $330bn after \u2018honeytrap\u2019 investigation launched, as China denies spying claims \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+      "summary": "Shares in world\u2019s most valuable company hit seven-month low after CEO Huang admits to affair, after allegations of relationship with Chinese spy Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence Huang is receiving support from some fellow tech executives, including Elon Musk. Musk commented \u201cI agree\u201d on a post by \u200bSequoia partner Shaun Maguire that said Huang \u201cdid something incredibly dumb\u201d that was \u201cbad for America\u201d but that \u201cJensen is irreplaceable for",
+      "published_at": "2026-11-09T17:14:00Z",
+      "collected_at": "2026-11-09T17:19:43.819477Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [
+        "ai",
+        "technology",
+        "markets"
+      ],
+      "sentiment_score": -0.802,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "0cf72001a206a2c2",
+      "title": "Nvidia\u2019s board needs to do some succession planning \u2013 sharpish | Nils Pratley",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang",
+      "summary": "The chipmaker faces business risks and political scrutiny due to its over-reliance on founder and CEO Jensen Huang Why is Nvidia\u2019s Jensen Huang at the centre of a US-China row? Too big \u2013 and too well-connected \u2013 to sack? One doesn\u2019t have to be overly cynical to think Jensen Huang, the Nvidia boss, starts with one huge advantage as the chipmaker\u2019s board starts its independent investigation into the alleged honeytrap spy scandal . The world of US big tech is not, to put it mildly, strong on checks",
+      "published_at": "2026-11-09T17:06:23Z",
+      "collected_at": "2026-11-09T17:19:43.819477Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": -0.2263,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "c7a2a6e09ea83e3a",
+      "title": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
+      "summary": "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
+      "published_at": "2026-11-09T17:05:25Z",
+      "collected_at": "2026-11-09T17:19:43.819477Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "567fd513eaf6d0da",
+      "title": "Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
+      "summary": "Voter backlash could threaten the data center boom. Some economists think that could be a good thing.",
+      "published_at": "2026-11-09T16:59:16Z",
+      "collected_at": "2026-11-09T17:19:43.819477Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "technology",
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "90c640b149d1479e",
+      "title": "Elon Musk and the tech bros banked on Trump and lost. Humbled, humiliated: what will they do next? | Jonathan Liew",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/09/elon-musk-tech-bros-donald-trump",
+      "summary": "Democrats won seats on anti-datacentre tickets and Musk wasted nearly half a billion dollars. Big tech may be losing its grip, but it won\u2019t go quietly Photos That Precede Unfortunate Events: a couple of months back, Donald Trump hosted some of the world\u2019s most powerful tech executives at the White House for a \u201c Super Intelligence luncheon \u201d, which by coincidence is also how my mum described her tuna sandwiches in a forlorn attempt to get me to eat them. Sitting either side of the president were ",
+      "published_at": "2026-11-09T16:48:18Z",
+      "collected_at": "2026-11-09T17:19:43.819477Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "8fa5516d071ab26d",
+      "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "summary": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.",
+      "published_at": "2026-11-09T15:51:40Z",
+      "collected_at": "2026-11-09T17:19:43.819477Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": -0.34,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "d9765f19d681f612",
+      "title": "Nvidia\u2019s value tumbles by $330bn after \u2018honeytrap\u2019 investigation launched, as China denies spying claims \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+      "summary": "Shares in world\u2019s most valuable company hit seven-month low after CEO Huang admits to affair, after allegations of relationship with Chinese spy Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence Huang is receiving support from some fellow tech executives, including Elon Musk. Musk commented \u201cI agree\u201d on a post by \u200bSequoia partner Shaun Maguire that said Huang \u201cdid something incredibly dumb\u201d that was \u201cbad for America\u201d but that \u201cJensen is irreplaceable for",
+      "published_at": "2026-11-09T16:48:33Z",
+      "collected_at": "2026-11-09T17:19:43.819477Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "fa4d1ac3589023f9",
+      "title": "Nvidia Opens Investigation Into Jensen Huang\u2019s Relationship With Suspected Chinese Spy",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+      "summary": "Mr. Huang, the company\u2019s chief executive, acknowledged on Sunday that he was intimate with a business executive who U.S. officials had determined was working for Chinese intelligence.",
+      "published_at": "2026-11-09T13:31:00Z",
+      "collected_at": "2026-11-09T17:19:43.819477Z",
+      "feed_name": "NYT / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+        "status": "supported",
+        "detail": "corroborated by 2 publishers",
+        "source_urls": [
+          "https://cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+          "https://nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+        ]
+      },
+      {
+        "claim": "Jim Cramer says this is the stock to buy as data center development slows",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/investingclub/2026/11/09/cramer-says-this-is-the-stock-to-buy-as-data-center-development-slows.html"
+        ]
+      },
+      {
+        "claim": "Civil servant who secretly held five jobs found guilty of fraud",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://bbc.co.uk/news/articles/cm70pgnx891do?at_campaign=rss&at_medium=RSS"
+        ]
+      },
+      {
+        "claim": "Nvidia\u2019s value tumbles by $330bn after \u2018honeytrap\u2019 investigation launched, as China denies spying claims \u2013 business live",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates"
+        ]
+      },
+      {
+        "claim": "Nvidia\u2019s board needs to do some succession planning \u2013 sharpish | Nils Pratley",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang"
+        ]
+      },
+      {
+        "claim": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html"
+        ]
+      },
+      {
+        "claim": "Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html"
+        ]
+      },
+      {
+        "claim": "Elon Musk and the tech bros banked on Trump and lost. Humbled, humiliated: what will they do next? | Jonathan Liew",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/commentisfree/2026/nov/09/elon-musk-tech-bros-donald-trump"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-09\n\n**Reporting period:** 2026-11-08 17:19 UTC to 2026-11-09 17:19 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-08 17:19 UTC and 2026-11-09 17:19 UTC, 42 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 20 neutral, 19 negative (mean score -0.19). The most recurring theme was \"jensen huang\".\n\n## Key developments\n\n1. **Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy** - _CNBC, NYT; 2026-11-09 15:51 UTC; corroborated by multiple publishers_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html), [2](https://nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html)\n2. **Jim Cramer says this is the stock to buy as data center development slows** - _CNBC; 2026-11-09 17:18 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://cnbc.com/investingclub/2026/11/09/cramer-says-this-is-the-stock-to-buy-as-data-center-development-slows.html)\n3. **Civil servant who secretly held five jobs found guilty of fraud** - _BBC; 2026-11-09 17:17 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://bbc.co.uk/news/articles/cm70pgnx891do?at_campaign=rss&at_medium=RSS)\n4. **Nvidia\u2019s value tumbles by $330bn after \u2018honeytrap\u2019 investigation launched, as China denies spying claims \u2013 business live** - _The Guardian; 2026-11-09 17:14 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates)\n5. **Nvidia\u2019s board needs to do some succession planning \u2013 sharpish | Nils Pratley** - _The Guardian; 2026-11-09 17:06 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang)\n6. **Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight** - _CNBC; 2026-11-09 17:05 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html)\n7. **Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?** - _NYT; 2026-11-09 16:59 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html)\n8. **Elon Musk and the tech bros banked on Trump and lost. Humbled, humiliated: what will they do next? | Jonathan Liew** - _The Guardian; 2026-11-09 16:48 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/commentisfree/2026/nov/09/elon-musk-tech-bros-donald-trump)\n\n## Emerging themes\n\n- **jensen huang** - 16 articles, 4 publisher(s), avg sentiment -0.25\n- **nvidia** - 22 articles, 5 publisher(s), avg sentiment -0.24\n- **chinese spy** - 13 articles, 4 publisher(s), avg sentiment -0.24\n- **investigation** - 14 articles, 4 publisher(s), avg sentiment -0.44\n- **ceo** - 13 articles, 5 publisher(s), avg sentiment -0.29\n- **intelligence** - 10 articles, 4 publisher(s), avg sentiment -0.27\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 3 / Neutral 20 / Negative 19; mean -0.19.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Fixing UK\u2019s youth jobs crisis demands much more investment, TUC boss warns (https://theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review)\n- The Guardian reported a negative-toned story: Nvidia\u2019s value tumbles by $330bn after \u2018honeytrap\u2019 investigation launched, as China denies spying claims \u2013 business live (https://theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates)\n- The Guardian reported a negative-toned story: \u2018Obvious risk of further tragedy\u2019 at rail crossing type at which Amazon driver died, inquiry finds (https://theguardian.com/business/2026/nov/09/amazon-driver-died-inquiry-manually-operated-level-crossing-kent)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- CNBC - [Jim Cramer says this is the stock to buy as data center development slows](https://cnbc.com/investingclub/2026/11/09/cramer-says-this-is-the-stock-to-buy-as-data-center-development-slows.html) (2026-11-09 17:18 UTC; collected 2026-11-09 17:19 UTC)\n- BBC - [Civil servant who secretly held five jobs found guilty of fraud](https://bbc.co.uk/news/articles/cm70pgnx891do?at_campaign=rss&at_medium=RSS) (2026-11-09 17:17 UTC; collected 2026-11-09 17:19 UTC)\n- The Guardian - [Nvidia\u2019s value tumbles by $330bn after \u2018honeytrap\u2019 investigation launched, as China denies spying claims \u2013 business live](https://theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates) (2026-11-09 17:14 UTC; collected 2026-11-09 17:19 UTC)\n- The Guardian - [Nvidia\u2019s board needs to do some succession planning \u2013 sharpish | Nils Pratley](https://theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang) (2026-11-09 17:06 UTC; collected 2026-11-09 17:19 UTC)\n- CNBC - [Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight](https://cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html) (2026-11-09 17:05 UTC; collected 2026-11-09 17:19 UTC)\n- NYT - [Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?](https://nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html) (2026-11-09 16:59 UTC; collected 2026-11-09 17:19 UTC)\n- The Guardian - [Elon Musk and the tech bros banked on Trump and lost. Humbled, humiliated: what will they do next? | Jonathan Liew](https://theguardian.com/commentisfree/2026/nov/09/elon-musk-tech-bros-donald-trump) (2026-11-09 16:48 UTC; collected 2026-11-09 17:19 UTC)\n- CNBC - [Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy](https://cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html) (2026-11-09 15:51 UTC; collected 2026-11-09 17:19 UTC)\n- The Guardian - [Nvidia\u2019s value tumbles by $330bn after \u2018honeytrap\u2019 investigation launched, as China denies spying claims \u2013 business live](https://theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates) (2026-11-09 16:48 UTC; collected 2026-11-09 17:19 UTC)\n- NYT - [Nvidia Opens Investigation Into Jensen Huang\u2019s Relationship With Suspected Chinese Spy](https://nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html) (2026-11-09 13:31 UTC; collected 2026-11-09 17:19 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-09\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-08 17:19 UTC and 2026-11-09 17:19 UTC, 42 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 20 neutral, 19 negative (mean score -0.19). The most recurring theme was \"jensen huang\".\n\nKey developments:\n- Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy (CNBC, NYT) https://cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html\n- Jim Cramer says this is the stock to buy as data center development slows (CNBC) https://cnbc.com/investingclub/2026/11/09/cramer-says-this-is-the-stock-to-buy-as-data-center-development-slows.html\n- Civil servant who secretly held five jobs found guilty of fraud (BBC) https://bbc.co.uk/news/articles/cm70pgnx891do?at_campaign=rss&at_medium=RSS\n- Nvidia\u2019s value tumbles by $330bn after \u2018honeytrap\u2019 investigation launched, as China denies spying claims \u2013 business live (The Guardian) https://theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates\n- Nvidia\u2019s board needs to do some succession planning \u2013 sharpish | Nils Pratley (The Guardian) https://theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
