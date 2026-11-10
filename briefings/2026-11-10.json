@@ -1,0 +1,492 @@
+{
+  "id": "2ba13659a986",
+  "generated_at": "2026-11-10T15:29:25.771428Z",
+  "period_start": "2026-11-09T15:29:25.771428Z",
+  "period_end": "2026-11-10T15:29:25.771428Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-09 15:29 UTC and 2026-11-10 15:29 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 5 positive, 30 neutral, 25 negative (mean score -0.17). The most recurring theme was \"jensen huang\".",
+  "key_developments": [
+    {
+      "text": "Nvidia falls for second day as investors weigh fallout of CEO\u2019s affair with alleged spy",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-10T15:29:07Z"
+    },
+    {
+      "text": "Inquiry launched into UK budget bank tax leak; Wall Street hit by US inflation shock \u2013 business live",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-10T15:24:32Z"
+    },
+    {
+      "text": "What to Know About Nvidia\u2019s Investigation of CEO Jensen Huang",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-10T15:24:26Z"
+    },
+    {
+      "text": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-10T15:15:32Z"
+    },
+    {
+      "text": "As Nvidia probes Jensen Huang affair, here\u2019s the board member likely to play a big role",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-10T15:10:35Z"
+    },
+    {
+      "text": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-10T15:04:23Z"
+    },
+    {
+      "text": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-10T15:01:21Z"
+    },
+    {
+      "text": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak"
+      ],
+      "publishers": [
+        "Ars Technica"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-10T15:00:39Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "jensen huang",
+      "article_count": 18,
+      "publishers": [
+        "Ars Technica",
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
+        "https://nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html",
+        "https://cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
+        "https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+        "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor"
+      ],
+      "avg_sentiment": -0.188,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "nvidia",
+      "article_count": 27,
+      "publishers": [
+        "Ars Technica",
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+        "https://theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
+        "https://nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html",
+        "https://cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
+        "https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html"
+      ],
+      "avg_sentiment": -0.203,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "chinese spy",
+      "article_count": 16,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+        "https://theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
+        "https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+        "https://cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+        "https://theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
+      ],
+      "avg_sentiment": -0.176,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "alleged",
+      "article_count": 15,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+        "https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+        "https://cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+        "https://theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+        "https://theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills"
+      ],
+      "avg_sentiment": -0.193,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "company",
+      "article_count": 12,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html",
+        "https://nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+        "https://bbc.co.uk/news/articles/crpdgd723x2zo?at_campaign=rss&at_medium=RSS",
+        "https://nytimes.com/2026/11/10/business/dealbook/nvidia-huang-succession.html",
+        "https://theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
+      ],
+      "avg_sentiment": -0.136,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "ceo",
+      "article_count": 11,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+        "https://nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html",
+        "https://theguardian.com/us-news/2026/nov/10/california-billionaire-tax-opposition",
+        "https://theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+        "https://cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html"
+      ],
+      "avg_sentiment": -0.317,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 5,
+    "neutral": 30,
+    "negative": 25,
+    "mean_score": -0.173,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul (https://theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul)",
+    "The Guardian reported a negative-toned story: Oil prices fall to lowest since August as Trump says Iran war is \u2018effectively over\u2019 (https://theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets)",
+    "NYT reported a negative-toned story: Nvidia\u2019s Stock Price Drops After Investigation Into CEO Jensen Huang (https://nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "8cf89b12fa19fae1",
+      "title": "Nvidia falls for second day as investors weigh fallout of CEO\u2019s affair with alleged spy",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+      "summary": "Investors continue to weigh the potential fallout from CEO Jensen Huang's affair with an alleged Chinese spy.",
+      "published_at": "2026-11-10T15:29:07Z",
+      "collected_at": "2026-11-10T15:29:25.771428Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": -0.34,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "579a3a4a2e1a02da",
+      "title": "Inquiry launched into UK budget bank tax leak; Wall Street hit by US inflation shock \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
+      "summary": "Rolling coverage of the latest economic and financial news, including live coverage of the Bank of England Watchers conference in London Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy The AI poster boy, the \u2018Chinese spy\u2019 and Trump: how an affair may have harmed US security Jensen Huang\u2019s image has been shattered. Could he be pushed out at Nvidia? A senior US central banker is calling for a hike in interest rates next month. Federal Reserve governor Christopher Waller ",
+      "published_at": "2026-11-10T15:24:32Z",
+      "collected_at": "2026-11-10T15:29:25.771428Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [
+        "ai",
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": -0.5574,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "faafb6878a18615c",
+      "title": "What to Know About Nvidia\u2019s Investigation of CEO Jensen Huang",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html",
+      "summary": "Jensen Huang, the chief executive of the A.I. chip company, admitted to an affair with a woman who U.S. intelligence says was recruited by China\u2019s top spy agency.",
+      "published_at": "2026-11-10T15:24:26Z",
+      "collected_at": "2026-11-10T15:29:25.771428Z",
+      "feed_name": "NYT / Technology",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": -0.34,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "56d441f61406a87c",
+      "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+      "summary": "The A.I. company\u2019s pricing would make it one of the biggest ever public listings. It comes at a volatile moment in markets, with investors questioning the sustainability of the A.I. boom.",
+      "published_at": "2026-11-10T15:15:32Z",
+      "collected_at": "2026-11-10T15:29:25.771428Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": -0.3182,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "171f9da277cd8a84",
+      "title": "As Nvidia probes Jensen Huang affair, here\u2019s the board member likely to play a big role",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
+      "summary": "Stephen Neal is the board's lead independent director and head of corporate governance. Experts say how Nvidia handles the probe is crucial to retaining its reputation.",
+      "published_at": "2026-11-10T15:10:35Z",
+      "collected_at": "2026-11-10T15:29:25.771428Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": -0.3182,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "ae0ee6c2db54911e",
+      "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+      "summary": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
+      "published_at": "2026-11-10T15:04:23Z",
+      "collected_at": "2026-11-10T15:29:25.771428Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "ec94b13fb3801275",
+      "title": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html",
+      "summary": "CoreWeave\u2019s earnings after the bell could calm fears about its debt-fueled AI buildout \u2014 or stoke more fear.",
+      "published_at": "2026-11-10T15:01:21Z",
+      "collected_at": "2026-11-10T15:29:25.771428Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": -0.7003,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "0f696e8c856711df",
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "publisher": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak",
+      "summary": "The new model is up to twice as successful at some tasks.",
+      "published_at": "2026-11-10T15:00:39Z",
+      "collected_at": "2026-11-10T15:29:25.771428Z",
+      "feed_name": "Ars Technica / Main",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "579a3a4a2e1a02da",
+      "title": "Inquiry launched into UK budget bank tax leak; Wall Street hit by US inflation shock \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
+      "summary": "Rolling coverage of the latest economic and financial news, including live coverage of the Bank of England Watchers conference in London Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy The AI poster boy, the \u2018Chinese spy\u2019 and Trump: how an affair may have harmed US security Jensen Huang\u2019s image has been shattered. Could he be pushed out at Nvidia? A senior US central banker is calling for a hike in interest rates next month. Federal Reserve governor Christopher Waller ",
+      "published_at": "2026-11-10T15:09:23Z",
+      "collected_at": "2026-11-10T15:29:25.771428Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "56d441f61406a87c",
+      "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+      "summary": "The A.I. company\u2019s pricing would make it one of the biggest ever public listings. It comes at a volatile moment in markets, with investors questioning the sustainability of the A.I. boom.",
+      "published_at": "2026-11-10T15:15:32Z",
+      "collected_at": "2026-11-10T15:29:25.771428Z",
+      "feed_name": "NYT / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Nvidia falls for second day as investors weigh fallout of CEO\u2019s affair with alleged spy",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+        ]
+      },
+      {
+        "claim": "Inquiry launched into UK budget bank tax leak; Wall Street hit by US inflation shock \u2013 business live",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates"
+        ]
+      },
+      {
+        "claim": "What to Know About Nvidia\u2019s Investigation of CEO Jensen Huang",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html"
+        ]
+      },
+      {
+        "claim": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html"
+        ]
+      },
+      {
+        "claim": "As Nvidia probes Jensen Huang affair, here\u2019s the board member likely to play a big role",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html"
+        ]
+      },
+      {
+        "claim": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html"
+        ]
+      },
+      {
+        "claim": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html"
+        ]
+      },
+      {
+        "claim": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-10\n\n**Reporting period:** 2026-11-09 15:29 UTC to 2026-11-10 15:29 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-09 15:29 UTC and 2026-11-10 15:29 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 5 positive, 30 neutral, 25 negative (mean score -0.17). The most recurring theme was \"jensen huang\".\n\n## Key developments\n\n1. **Nvidia falls for second day as investors weigh fallout of CEO\u2019s affair with alleged spy** - _CNBC; 2026-11-10 15:29 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html)\n2. **Inquiry launched into UK budget bank tax leak; Wall Street hit by US inflation shock \u2013 business live** - _The Guardian; 2026-11-10 15:24 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates)\n3. **What to Know About Nvidia\u2019s Investigation of CEO Jensen Huang** - _NYT; 2026-11-10 15:24 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html)\n4. **Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.** - _NYT; 2026-11-10 15:15 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html)\n5. **As Nvidia probes Jensen Huang affair, here\u2019s the board member likely to play a big role** - _CNBC; 2026-11-10 15:10 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html)\n6. **Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem** - _CNBC; 2026-11-10 15:04 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html)\n7. **CoreWeave earnings put debt-fueled AI build-out under scrutiny** - _CNBC; 2026-11-10 15:01 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html)\n8. **DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"** - _Ars Technica; 2026-11-10 15:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak)\n\n## Emerging themes\n\n- **jensen huang** - 18 articles, 5 publisher(s), avg sentiment -0.19\n- **nvidia** - 27 articles, 5 publisher(s), avg sentiment -0.20\n- **chinese spy** - 16 articles, 3 publisher(s), avg sentiment -0.18\n- **alleged** - 15 articles, 3 publisher(s), avg sentiment -0.19\n- **company** - 12 articles, 4 publisher(s), avg sentiment -0.14\n- **ceo** - 11 articles, 3 publisher(s), avg sentiment -0.32\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 5 / Neutral 30 / Negative 25; mean -0.17.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul (https://theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul)\n- The Guardian reported a negative-toned story: Oil prices fall to lowest since August as Trump says Iran war is \u2018effectively over\u2019 (https://theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets)\n- NYT reported a negative-toned story: Nvidia\u2019s Stock Price Drops After Investigation Into CEO Jensen Huang (https://nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- CNBC - [Nvidia falls for second day as investors weigh fallout of CEO\u2019s affair with alleged spy](https://cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html) (2026-11-10 15:29 UTC; collected 2026-11-10 15:29 UTC)\n- The Guardian - [Inquiry launched into UK budget bank tax leak; Wall Street hit by US inflation shock \u2013 business live](https://theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates) (2026-11-10 15:24 UTC; collected 2026-11-10 15:29 UTC)\n- NYT - [What to Know About Nvidia\u2019s Investigation of CEO Jensen Huang](https://nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html) (2026-11-10 15:24 UTC; collected 2026-11-10 15:29 UTC)\n- NYT - [Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.](https://nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html) (2026-11-10 15:15 UTC; collected 2026-11-10 15:29 UTC)\n- CNBC - [As Nvidia probes Jensen Huang affair, here\u2019s the board member likely to play a big role](https://cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html) (2026-11-10 15:10 UTC; collected 2026-11-10 15:29 UTC)\n- CNBC - [Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem](https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html) (2026-11-10 15:04 UTC; collected 2026-11-10 15:29 UTC)\n- CNBC - [CoreWeave earnings put debt-fueled AI build-out under scrutiny](https://cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html) (2026-11-10 15:01 UTC; collected 2026-11-10 15:29 UTC)\n- Ars Technica - [DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"](https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak) (2026-11-10 15:00 UTC; collected 2026-11-10 15:29 UTC)\n- The Guardian - [Inquiry launched into UK budget bank tax leak; Wall Street hit by US inflation shock \u2013 business live](https://theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates) (2026-11-10 15:09 UTC; collected 2026-11-10 15:29 UTC)\n- NYT - [Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.](https://nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html) (2026-11-10 15:15 UTC; collected 2026-11-10 15:29 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-10\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-09 15:29 UTC and 2026-11-10 15:29 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 5 positive, 30 neutral, 25 negative (mean score -0.17). The most recurring theme was \"jensen huang\".\n\nKey developments:\n- Nvidia falls for second day as investors weigh fallout of CEO\u2019s affair with alleged spy (CNBC) https://cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html\n- Inquiry launched into UK budget bank tax leak; Wall Street hit by US inflation shock \u2013 business live (The Guardian) https://theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates\n- What to Know About Nvidia\u2019s Investigation of CEO Jensen Huang (NYT) https://nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html\n- Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O. (NYT) https://nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html\n- As Nvidia probes Jensen Huang affair, here\u2019s the board member likely to play a big role (CNBC) https://cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
