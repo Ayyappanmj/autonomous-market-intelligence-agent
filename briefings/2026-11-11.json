@@ -1,0 +1,496 @@
+{
+  "id": "d6940072942e",
+  "generated_at": "2026-11-11T14:59:47.751083Z",
+  "period_start": "2026-11-10T14:59:47.751083Z",
+  "period_end": "2026-11-11T14:59:47.751083Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-10 14:59 UTC and 2026-11-11 14:59 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 12 positive, 30 neutral, 18 negative (mean score -0.05). The most recurring theme was \"nvidia\".",
+  "key_developments": [
+    {
+      "text": "Nvidia hires major US law firm to investigate spying claims; UK chancellor \u2018dismayed\u2019 by budget leak \u2013 business live",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-11T14:56:22Z"
+    },
+    {
+      "text": "Jensen Huang\u2019s Affair Puts His Wife, Lori Huang, In the Spotlight",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-11T14:46:43Z"
+    },
+    {
+      "text": "CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-11T14:40:44Z"
+    },
+    {
+      "text": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-11T14:39:33Z"
+    },
+    {
+      "text": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-11T14:35:23Z"
+    },
+    {
+      "text": "Google DeepMind just mathematically verified key parts of Signal",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup"
+      ],
+      "publishers": [
+        "Ars Technica"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-11T14:08:57Z"
+    },
+    {
+      "text": "How a Suspected Chinese Spy Gained Access to Nvidia Chips",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-11T13:48:52Z"
+    },
+    {
+      "text": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-11T13:46:59Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "nvidia",
+      "article_count": 20,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
+        "https://nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
+        "https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+        "https://cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+        "https://nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html"
+      ],
+      "avg_sentiment": -0.009,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "jensen huang",
+      "article_count": 13,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
+        "https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+        "https://cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+        "https://nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html",
+        "https://cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html"
+      ],
+      "avg_sentiment": -0.087,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "affair",
+      "article_count": 11,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
+        "https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+        "https://cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+        "https://cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+        "https://bbc.co.uk/news/articles/ckgel338xql3o?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": -0.074,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "investors",
+      "article_count": 10,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+        "https://cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+        "https://nytimes.com/2026/11/11/business/dealbook/anthropic-ipo-nvidia.html",
+        "https://cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html",
+        "https://cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html"
+      ],
+      "avg_sentiment": 0.018,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "china",
+      "article_count": 8,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+        "https://theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china",
+        "https://nytimes.com/2026/11/11/business/nvidia-megaspeed-christian-lamarco.html",
+        "https://cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+        "https://cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html"
+      ],
+      "avg_sentiment": -0.054,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "tech",
+      "article_count": 8,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
+        "https://theguardian.com/commentisfree/2026/nov/11/how-fix-broken-britain-public-better",
+        "https://bbc.co.uk/news/articles/cx5ynyg6j375o?at_campaign=rss&at_medium=RSS",
+        "https://bbc.co.uk/news/articles/ckgel338xql3o?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/commentisfree/2026/nov/11/donald-trump-elon-musk-nigel-farage-voters-billionaires-midterms"
+      ],
+      "avg_sentiment": 0.119,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 12,
+    "neutral": 30,
+    "negative": 18,
+    "mean_score": -0.052,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019 (https://theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer)",
+    "CNBC reported a negative-toned story: CoreWeave earnings put debt-fueled AI build-out under scrutiny (https://cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html)",
+    "NYT reported a negative-toned story: Elevated Inflation Keeps Pressure on Fed to Raise Rates (https://nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "e118acf807b7ba7b",
+      "title": "Nvidia hires major US law firm to investigate spying claims; UK chancellor \u2018dismayed\u2019 by budget leak \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
+      "summary": "Rolling coverage of the latest economic and financial news After two days of losses, Nvidia\u2019s stock is expected to recover some lost ground today. Nvidia\u2019s shares are up almost 5% in premarket trading, ahead of the Wall Street open in just over four hour\u2019s time. \u201cThe FTSE 100 advanced 0.8% to 10,835, putting it ever closer to hitting the magic 11,000 level. It only needs to rise a further 1.5% to win the prize. Hitting 11,000 would have psychological benefits, and doing so could help win over na",
+      "published_at": "2026-11-11T14:56:22Z",
+      "collected_at": "2026-11-11T14:59:47.751083Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [
+        "ai",
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": 0.7184,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "abf868558975a3c8",
+      "title": "Jensen Huang\u2019s Affair Puts His Wife, Lori Huang, In the Spotlight",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
+      "summary": "Lori Huang, who has been married to the Nvidia chief executive for more than 40 years, stands out among tech titan spouses for how private she has been.",
+      "published_at": "2026-11-11T14:46:43Z",
+      "collected_at": "2026-11-11T14:59:47.751083Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "2d8d4010bd6eb90b",
+      "title": "CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+      "summary": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
+      "published_at": "2026-11-11T14:40:44Z",
+      "collected_at": "2026-11-11T14:59:47.751083Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": -0.6124,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "ae0ee6c2db54911e",
+      "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+      "summary": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
+      "published_at": "2026-11-11T14:39:33Z",
+      "collected_at": "2026-11-11T14:59:47.751083Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "051e00cab56ea4e0",
+      "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+      "summary": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.",
+      "published_at": "2026-11-11T14:35:23Z",
+      "collected_at": "2026-11-11T14:59:47.751083Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": 0.4019,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "4878c495cef54ff1",
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "publisher": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup",
+      "summary": "The four-week project hints that AI could make formal verification far more practical.",
+      "published_at": "2026-11-11T14:08:57Z",
+      "collected_at": "2026-11-11T14:59:47.751083Z",
+      "feed_name": "Ars Technica / Main",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "04c2ff130471e129",
+      "title": "How a Suspected Chinese Spy Gained Access to Nvidia Chips",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html",
+      "summary": "A woman whom U.S. intelligence identified as a Chinese spy had ties to Nvidia\u2019s chief executive, Jensen Huang, dating to at least 2023. Ana Swanson, our reporter on trade and economics, explains what new photos show.",
+      "published_at": "2026-11-11T13:48:52Z",
+      "collected_at": "2026-11-11T14:59:47.751083Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai",
+        "technology",
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "987e1bc684e323ff",
+      "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+      "summary": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair.",
+      "published_at": "2026-11-11T13:46:59Z",
+      "collected_at": "2026-11-11T14:59:47.751083Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "e118acf807b7ba7b",
+      "title": "Nvidia hires major US law firm to investigate spying claims; UK chancellor \u2018dismayed\u2019 by budget leak \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
+      "summary": "Rolling coverage of the latest economic and financial news After two days of losses, Nvidia\u2019s stock is expected to recover some lost ground today. Nvidia\u2019s shares are up almost 5% in premarket trading, ahead of the Wall Street open in just over four hour\u2019s time. \u201cThe FTSE 100 advanced 0.8% to 10,835, putting it ever closer to hitting the magic 11,000 level. It only needs to rise a further 1.5% to win the prize. Hitting 11,000 would have psychological benefits, and doing so could help win over na",
+      "published_at": "2026-11-11T14:48:28Z",
+      "collected_at": "2026-11-11T14:59:47.751083Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "abf868558975a3c8",
+      "title": "Jensen Huang\u2019s Affair Puts His Wife, Lori Huang, In the Spotlight",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
+      "summary": "Lori Huang, who has been married to the Nvidia chief executive for more than 40 years, stands out among tech titan spouses for how private she has been.",
+      "published_at": "2026-11-11T14:46:43Z",
+      "collected_at": "2026-11-11T14:59:47.751083Z",
+      "feed_name": "NYT / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Nvidia hires major US law firm to investigate spying claims; UK chancellor \u2018dismayed\u2019 by budget leak \u2013 business live",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates"
+        ]
+      },
+      {
+        "claim": "Jensen Huang\u2019s Affair Puts His Wife, Lori Huang, In the Spotlight",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html"
+        ]
+      },
+      {
+        "claim": "CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html"
+        ]
+      },
+      {
+        "claim": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html"
+        ]
+      },
+      {
+        "claim": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html"
+        ]
+      },
+      {
+        "claim": "Google DeepMind just mathematically verified key parts of Signal",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup"
+        ]
+      },
+      {
+        "claim": "How a Suspected Chinese Spy Gained Access to Nvidia Chips",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html"
+        ]
+      },
+      {
+        "claim": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-11\n\n**Reporting period:** 2026-11-10 14:59 UTC to 2026-11-11 14:59 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-10 14:59 UTC and 2026-11-11 14:59 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 12 positive, 30 neutral, 18 negative (mean score -0.05). The most recurring theme was \"nvidia\".\n\n## Key developments\n\n1. **Nvidia hires major US law firm to investigate spying claims; UK chancellor \u2018dismayed\u2019 by budget leak \u2013 business live** - _The Guardian; 2026-11-11 14:56 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates)\n2. **Jensen Huang\u2019s Affair Puts His Wife, Lori Huang, In the Spotlight** - _NYT; 2026-11-11 14:46 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html)\n3. **CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns** - _CNBC; 2026-11-11 14:40 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html)\n4. **Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem** - _CNBC; 2026-11-11 14:39 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html)\n5. **Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings** - _CNBC; 2026-11-11 14:35 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html)\n6. **Google DeepMind just mathematically verified key parts of Signal** - _Ars Technica; 2026-11-11 14:08 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup)\n7. **How a Suspected Chinese Spy Gained Access to Nvidia Chips** - _NYT; 2026-11-11 13:48 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html)\n8. **Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation** - _CNBC; 2026-11-11 13:46 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html)\n\n## Emerging themes\n\n- **nvidia** - 20 articles, 4 publisher(s), avg sentiment -0.01\n- **jensen huang** - 13 articles, 4 publisher(s), avg sentiment -0.09\n- **affair** - 11 articles, 4 publisher(s), avg sentiment -0.07\n- **investors** - 10 articles, 3 publisher(s), avg sentiment +0.02\n- **china** - 8 articles, 4 publisher(s), avg sentiment -0.05\n- **tech** - 8 articles, 4 publisher(s), avg sentiment +0.12\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 12 / Neutral 30 / Negative 18; mean -0.05.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Bank of England\u2019s inflation response \u2018risks higher interest rates for longer\u2019 (https://theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer)\n- CNBC reported a negative-toned story: CoreWeave earnings put debt-fueled AI build-out under scrutiny (https://cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html)\n- NYT reported a negative-toned story: Elevated Inflation Keeps Pressure on Fed to Raise Rates (https://nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- The Guardian - [Nvidia hires major US law firm to investigate spying claims; UK chancellor \u2018dismayed\u2019 by budget leak \u2013 business live](https://theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates) (2026-11-11 14:56 UTC; collected 2026-11-11 14:59 UTC)\n- NYT - [Jensen Huang\u2019s Affair Puts His Wife, Lori Huang, In the Spotlight](https://nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html) (2026-11-11 14:46 UTC; collected 2026-11-11 14:59 UTC)\n- CNBC - [CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns](https://cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html) (2026-11-11 14:40 UTC; collected 2026-11-11 14:59 UTC)\n- CNBC - [Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem](https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html) (2026-11-11 14:39 UTC; collected 2026-11-11 14:59 UTC)\n- CNBC - [Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings](https://cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html) (2026-11-11 14:35 UTC; collected 2026-11-11 14:59 UTC)\n- Ars Technica - [Google DeepMind just mathematically verified key parts of Signal](https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup) (2026-11-11 14:08 UTC; collected 2026-11-11 14:59 UTC)\n- NYT - [How a Suspected Chinese Spy Gained Access to Nvidia Chips](https://nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html) (2026-11-11 13:48 UTC; collected 2026-11-11 14:59 UTC)\n- CNBC - [Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation](https://cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html) (2026-11-11 13:46 UTC; collected 2026-11-11 14:59 UTC)\n- The Guardian - [Nvidia hires major US law firm to investigate spying claims; UK chancellor \u2018dismayed\u2019 by budget leak \u2013 business live](https://theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates) (2026-11-11 14:48 UTC; collected 2026-11-11 14:59 UTC)\n- NYT - [Jensen Huang\u2019s Affair Puts His Wife, Lori Huang, In the Spotlight](https://nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html) (2026-11-11 14:46 UTC; collected 2026-11-11 14:59 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-11\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-10 14:59 UTC and 2026-11-11 14:59 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 12 positive, 30 neutral, 18 negative (mean score -0.05). The most recurring theme was \"nvidia\".\n\nKey developments:\n- Nvidia hires major US law firm to investigate spying claims; UK chancellor \u2018dismayed\u2019 by budget leak \u2013 business live (The Guardian) https://theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates\n- Jensen Huang\u2019s Affair Puts His Wife, Lori Huang, In the Spotlight (NYT) https://nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html\n- CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns (CNBC) https://cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html\n- Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem (CNBC) https://cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html\n- Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings (CNBC) https://cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
