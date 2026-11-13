@@ -1,60 +1,60 @@
-# Market Intelligence Briefing - 2026-11-12
+# Market Intelligence Briefing - 2026-11-13
 
-**Reporting period:** 2026-11-11 15:52 UTC to 2026-11-12 15:52 UTC  
+**Reporting period:** 2026-11-12 15:14 UTC to 2026-11-13 15:14 UTC  
 **Topics:** ai, economy, markets, technology  
 **Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text
 
 ## Executive summary
 
-Between 2026-11-11 15:52 UTC and 2026-11-12 15:52 UTC, 56 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 13 positive, 34 neutral, 9 negative (mean score +0.03). The most recurring theme was "jensen huang".
+Between 2026-11-12 15:14 UTC and 2026-11-13 15:14 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 7 positive, 31 neutral, 22 negative (mean score -0.13). The most recurring theme was "jensen huang".
 
 ## Key developments
 
-1. **UK economy grows at fastest rate for more than two years** - _BBC, The Guardian; 2026-11-12 11:20 UTC; corroborated by multiple publishers_  
-   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
-   Sources: [1](https://bbc.co.uk/news/articles/ck3rgd429zd5o?at_campaign=rss&at_medium=RSS), [2](https://theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp), [3](https://theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp)
-2. **The superstar tech boss - who is Jensen Huang?** - _BBC; 2026-11-12 15:48 UTC; single-source, attributed_  
+1. **Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?** - _NYT, The Guardian; 2026-11-13 03:02 UTC; corroborated by multiple publishers_  
+   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
+   Sources: [1](https://theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement), [2](https://nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html)
+2. **Microsoft says email queues 'approaching normal levels' as Outlook issues persist** - _CNBC; 2026-11-13 15:10 UTC; single-source, attributed_  
    Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  
-   Sources: [1](https://bbc.co.uk/news/articles/cmze750zg0jeo?at_campaign=rss&at_medium=RSS)
-3. **What to Know About the Turmoil at Nvidia as Jensen Huang Resigns as C.E.O.** - _NYT; 2026-11-12 15:43 UTC; single-source, attributed_  
+   Sources: [1](https://cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html)
+3. **Wall Street Braces for Anthropic’s Spending** - _NYT; 2026-11-13 15:09 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://nytimes.com/article/nvidia-investigation-jensen-huang.html)
-4. **Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live** - _The Guardian; 2026-11-12 15:43 UTC; single-source, attributed_  
+   Sources: [1](https://nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html)
+4. **Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers** - _NYT; 2026-11-13 15:09 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest)
-5. **Jensen Huang Joins a Growing Club: C.E.O.s Brought Down by Affairs** - _NYT; 2026-11-12 15:33 UTC; single-source, attributed_  
+   Sources: [1](https://nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html)
+5. **Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test** - _CNBC; 2026-11-13 15:03 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html)
-6. **Jensen Huang resigns as Nvidia CEO after alleged affairs** - _The Guardian; 2026-11-12 15:31 UTC; single-source, attributed_  
+   Sources: [1](https://cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html)
+6. **Nvidia stock sinks 2% in fallout from Jensen Huang resignation** - _CNBC; 2026-11-13 14:56 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns)
-7. **Nvidia Stock Plunges After Jensen Huang Resigns as CEO** - _NYT; 2026-11-12 15:30 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html)
-8. **What we know as Nvidia CEO Jensen Huang resigns over affair allegations** - _BBC; 2026-11-12 15:26 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://bbc.co.uk/news/articles/ckgel338xql3o?at_campaign=rss&at_medium=RSS)
+   Sources: [1](https://cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html)
+7. **Microsoft outage live: millions still affected as disruption stretches beyond 18 hours** - _The Guardian; 2026-11-13 14:56 UTC; single-source, attributed_  
+   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  
+   Sources: [1](https://theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news)
+8. **Microsoft Races to Fix Outage Disrupting Outlook for a Second Day** - _NYT; 2026-11-13 14:53 UTC; single-source, attributed_  
+   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  
+   Sources: [1](https://nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html)
 
 ## Emerging themes
 
-- **jensen huang** - 26 articles, 5 publisher(s), avg sentiment -0.08
-- **nvidia** - 27 articles, 5 publisher(s), avg sentiment -0.07
-- **ceo** - 17 articles, 5 publisher(s), avg sentiment -0.08
-- **chief** - 14 articles, 4 publisher(s), avg sentiment -0.02
-- **tech** - 10 articles, 4 publisher(s), avg sentiment +0.08
-- **investors** - 6 articles, 2 publisher(s), avg sentiment +0.20
+- **jensen huang** - 21 articles, 4 publisher(s), avg sentiment -0.08
+- **nvidia** - 31 articles, 4 publisher(s), avg sentiment -0.09
+- **microsoft outage** - 6 articles, 3 publisher(s), avg sentiment -0.62
+- **chief executive** - 6 articles, 2 publisher(s), avg sentiment -0.31
+- **thursday** - 9 articles, 4 publisher(s), avg sentiment -0.11
+- **company** - 8 articles, 3 publisher(s), avg sentiment +0.04
 
 ## Sentiment overview
 
-Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 13 / Neutral 34 / Negative 9; mean +0.03.
+Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 7 / Neutral 31 / Negative 22; mean -0.13.
 
 _Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._
 
 ## Risks
 
-- The Guardian reported a negative-toned story: Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live (https://theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest)
-- The Guardian reported a negative-toned story: Thanks to American oligarchy, Jensen Huang’s midlife crisis is a problem for all of us | Moira Donegan (https://theguardian.com/commentisfree/2026/nov/12/jensen-huang-nvidia-trump-oligarchy)
-- NYT reported a negative-toned story: Nvidia Stock Plunges After Jensen Huang Resigns as CEO (https://nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html)
+- The Guardian reported a negative-toned story: Microsoft outage live: millions still affected as disruption stretches beyond 18 hours (https://theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news)
+- The Guardian reported a negative-toned story: Marlon Brando cool to Jensen Huang joke: how the black leather jacket became a meme (https://theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia)
+- CNBC reported a negative-toned story: Nscale updates IPO prospectus that shows widening loss (https://cnbc.com/2026/11/12/nscale-updates-ipo-prospectus-that-shows-widening-loss.html)
 
 ## Uncertainties
 
@@ -67,19 +67,17 @@ Passed: True; revisions: 0; unsupported claims removed: 0.
 
 ## Source references
 
-- BBC - [The superstar tech boss - who is Jensen Huang?](https://bbc.co.uk/news/articles/cmze750zg0jeo?at_campaign=rss&at_medium=RSS) (2026-11-12 15:48 UTC; collected 2026-11-12 15:52 UTC)
-- NYT - [What to Know About the Turmoil at Nvidia as Jensen Huang Resigns as C.E.O.](https://nytimes.com/article/nvidia-investigation-jensen-huang.html) (2026-11-12 15:43 UTC; collected 2026-11-12 15:52 UTC)
-- The Guardian - [Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live](https://theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest) (2026-11-12 15:43 UTC; collected 2026-11-12 15:52 UTC)
-- NYT - [Jensen Huang Joins a Growing Club: C.E.O.s Brought Down by Affairs](https://nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html) (2026-11-12 15:33 UTC; collected 2026-11-12 15:52 UTC)
-- The Guardian - [Jensen Huang resigns as Nvidia CEO after alleged affairs](https://theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns) (2026-11-12 15:31 UTC; collected 2026-11-12 15:52 UTC)
-- NYT - [Nvidia Stock Plunges After Jensen Huang Resigns as CEO](https://nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html) (2026-11-12 15:30 UTC; collected 2026-11-12 15:52 UTC)
-- BBC - [What we know as Nvidia CEO Jensen Huang resigns over affair allegations](https://bbc.co.uk/news/articles/ckgel338xql3o?at_campaign=rss&at_medium=RSS) (2026-11-12 15:26 UTC; collected 2026-11-12 15:52 UTC)
-- BBC - [UK economy grows at fastest rate for more than two years](https://bbc.co.uk/news/articles/ck3rgd429zd5o?at_campaign=rss&at_medium=RSS) (2026-11-12 11:20 UTC; collected 2026-11-12 15:52 UTC)
-- BBC - [The superstar tech boss - who is Jensen Huang?](https://bbc.co.uk/news/articles/cmze750zg0jeo?at_campaign=rss&at_medium=RSS) (2026-11-12 15:48 UTC; collected 2026-11-12 15:52 UTC)
-- NYT - [Nvidia Stock Plunges After Jensen Huang Resigns as CEO](https://nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html) (2026-11-12 15:30 UTC; collected 2026-11-12 15:52 UTC)
-- BBC - [What we know as Nvidia CEO Jensen Huang resigns over affair allegations](https://bbc.co.uk/news/articles/ckgel338xql3o?at_campaign=rss&at_medium=RSS) (2026-11-12 15:26 UTC; collected 2026-11-12 15:52 UTC)
-- The Guardian - [AI helps UK economy grow at fastest pace for more than two years](https://theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp) (2026-11-12 09:12 UTC; collected 2026-11-12 15:52 UTC)
-- The Guardian - [AI helps UK economy grow at fastest pace for more than two years](https://theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp) (2026-11-12 09:12 UTC; collected 2026-11-12 15:52 UTC)
+- CNBC - [Microsoft says email queues 'approaching normal levels' as Outlook issues persist](https://cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html) (2026-11-13 15:10 UTC; collected 2026-11-13 15:14 UTC)
+- NYT - [Wall Street Braces for Anthropic’s Spending](https://nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html) (2026-11-13 15:09 UTC; collected 2026-11-13 15:14 UTC)
+- NYT - [Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers](https://nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html) (2026-11-13 15:09 UTC; collected 2026-11-13 15:14 UTC)
+- CNBC - [Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test](https://cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html) (2026-11-13 15:03 UTC; collected 2026-11-13 15:14 UTC)
+- CNBC - [Nvidia stock sinks 2% in fallout from Jensen Huang resignation](https://cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html) (2026-11-13 14:56 UTC; collected 2026-11-13 15:14 UTC)
+- The Guardian - [Microsoft outage live: millions still affected as disruption stretches beyond 18 hours](https://theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news) (2026-11-13 14:56 UTC; collected 2026-11-13 15:14 UTC)
+- NYT - [Microsoft Races to Fix Outage Disrupting Outlook for a Second Day](https://nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html) (2026-11-13 14:53 UTC; collected 2026-11-13 15:14 UTC)
+- The Guardian - [Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?](https://theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement) (2026-11-13 03:02 UTC; collected 2026-11-13 15:14 UTC)
+- The Guardian - [Microsoft outage live: millions still affected as disruption stretches beyond 18 hours](https://theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news) (2026-11-13 14:56 UTC; collected 2026-11-13 15:14 UTC)
+- NYT - [Microsoft Races to Fix Outage Disrupting Outlook for a Second Day](https://nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html) (2026-11-13 14:53 UTC; collected 2026-11-13 15:14 UTC)
+- NYT - [Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?](https://nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html) (2026-11-12 18:54 UTC; collected 2026-11-13 15:14 UTC)
 
 ---
 Headlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.

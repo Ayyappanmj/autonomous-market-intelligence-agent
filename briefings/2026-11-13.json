@@ -1,0 +1,503 @@
+{
+  "id": "bc643925a8f9",
+  "generated_at": "2026-11-13T15:14:01.616094Z",
+  "period_start": "2026-11-12T15:14:01.616094Z",
+  "period_end": "2026-11-13T15:14:01.616094Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-12 15:14 UTC and 2026-11-13 15:14 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 7 positive, 31 neutral, 22 negative (mean score -0.13). The most recurring theme was \"jensen huang\".",
+  "key_developments": [
+    {
+      "text": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
+      "kind": "verified_fact",
+      "source_urls": [
+        "https://theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+        "https://nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html"
+      ],
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-13T03:02:06Z"
+    },
+    {
+      "text": "Microsoft says email queues 'approaching normal levels' as Outlook issues persist",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-13T15:10:20Z"
+    },
+    {
+      "text": "Wall Street Braces for Anthropic\u2019s Spending",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-13T15:09:26Z"
+    },
+    {
+      "text": "Why Anthropic\u2019s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-13T15:09:04Z"
+    },
+    {
+      "text": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-13T15:03:10Z"
+    },
+    {
+      "text": "Nvidia stock sinks 2% in fallout from Jensen Huang resignation",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-13T14:56:20Z"
+    },
+    {
+      "text": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-13T14:56:14Z"
+    },
+    {
+      "text": "Microsoft Races to Fix Outage Disrupting Outlook for a Second Day",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-13T14:53:51Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "jensen huang",
+      "article_count": 21,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
+        "https://cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
+        "https://theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
+        "https://cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html",
+        "https://nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html"
+      ],
+      "avg_sentiment": -0.08,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "nvidia",
+      "article_count": 31,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
+        "https://cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
+        "https://theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
+        "https://nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
+        "https://cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html"
+      ],
+      "avg_sentiment": -0.087,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "microsoft outage",
+      "article_count": 6,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+        "https://theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+        "https://bbc.co.uk/news/articles/cwvg238zrnm5o?at_campaign=rss&at_medium=RSS",
+        "https://bbc.co.uk/news/articles/c6vg2ljjpj32o?at_campaign=rss&at_medium=RSS",
+        "https://bbc.co.uk/news/articles/cqp9d58eldlro?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": -0.616,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "chief executive",
+      "article_count": 6,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+        "https://theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
+        "https://nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
+        "https://nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html",
+        "https://nytimes.com/2026/11/12/technology/huang-ai-policy-washington.html"
+      ],
+      "avg_sentiment": -0.306,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "thursday",
+      "article_count": 9,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+        "https://cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
+        "https://theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+        "https://bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_campaign=rss&at_medium=RSS",
+        "https://nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html"
+      ],
+      "avg_sentiment": -0.111,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "company",
+      "article_count": 8,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+        "https://nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+        "https://cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
+        "https://nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
+        "https://theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline"
+      ],
+      "avg_sentiment": 0.042,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 7,
+    "neutral": 31,
+    "negative": 22,
+    "mean_score": -0.133,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Microsoft outage live: millions still affected as disruption stretches beyond 18 hours (https://theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news)",
+    "The Guardian reported a negative-toned story: Marlon Brando cool to Jensen Huang joke: how the black leather jacket became a meme (https://theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia)",
+    "CNBC reported a negative-toned story: Nscale updates IPO prospectus that shows widening loss (https://cnbc.com/2026/11/12/nscale-updates-ipo-prospectus-that-shows-widening-loss.html)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "ed299ac3d1969ce6",
+      "title": "Microsoft says email queues 'approaching normal levels' as Outlook issues persist",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+      "published_at": "2026-11-13T15:10:20Z",
+      "collected_at": "2026-11-13T15:14:01.616094Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": -0.4019,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "946ecb0b3b6bd217",
+      "title": "Wall Street Braces for Anthropic\u2019s Spending",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+      "summary": "The company\u2019s financial picture may get murky as it deals with employee stock compensation and the growing costs of artificial intelligence.",
+      "published_at": "2026-11-13T15:09:26Z",
+      "collected_at": "2026-11-13T15:14:01.616094Z",
+      "feed_name": "NYT / Technology",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "37e1f794c2e1e1f9",
+      "title": "Why Anthropic\u2019s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+      "summary": "Dario Amodei, the company\u2019s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way.",
+      "published_at": "2026-11-13T15:09:04Z",
+      "collected_at": "2026-11-13T15:14:01.616094Z",
+      "feed_name": "NYT / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "3927af319cda6913",
+      "title": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
+      "summary": "Like Apple, Nvidia now faces its own transition away from a founder-led company. But experts say Jensen Huang\u2019s central role could make replacing him difficult.",
+      "published_at": "2026-11-13T15:03:10Z",
+      "collected_at": "2026-11-13T15:14:01.616094Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "17e44b270099b1a1",
+      "title": "Nvidia stock sinks 2% in fallout from Jensen Huang resignation",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
+      "summary": "Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.",
+      "published_at": "2026-11-13T14:56:20Z",
+      "collected_at": "2026-11-13T15:14:01.616094Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "e81faca04b47427e",
+      "title": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+      "summary": "Microsoft reports it is \u201ccontinuing to see improvements in service availability\u201d, after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largely impacting email systems. The Australian Medical Association said it has so far not received an",
+      "published_at": "2026-11-13T14:56:14Z",
+      "collected_at": "2026-11-13T15:14:01.616094Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": -0.9154,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "440e8895ae982b09",
+      "title": "Microsoft Races to Fix Outage Disrupting Outlook for a Second Day",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+      "summary": "Health services, schools, police departments and companies worldwide reported disruptions to their work. The cause was unclear, though Microsoft appeared to rule out a cyberattack.",
+      "published_at": "2026-11-13T14:53:51Z",
+      "collected_at": "2026-11-13T15:14:01.616094Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": -0.4019,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "3a77e12d8b65b376",
+      "title": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+      "summary": "Chief financial officer, reportedly disparaged by Huang during summer meeting, to take over on short-term basis The hunt is on for a new Nvidia CEO. It comes after a whirlwind week, which saw the company head and co-founder, Jensen Huang, resign amid multiple allegations of extramarital affairs , including one that involved an alleged Chinese spy and two with company employees. Nvidia immediately named Colette Kress, the company\u2019s chief financial officer, as the interim CEO. It\u2019s possible she co",
+      "published_at": "2026-11-13T03:02:06Z",
+      "collected_at": "2026-11-13T15:14:01.616094Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "e81faca04b47427e",
+      "title": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+      "summary": "Microsoft reports it is \u201ccontinuing to see improvements in service availability\u201d, after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largely impacting email systems. The Australian Medical Association said it has so far not received an",
+      "published_at": "2026-11-13T14:56:14Z",
+      "collected_at": "2026-11-13T15:14:01.616094Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "440e8895ae982b09",
+      "title": "Microsoft Races to Fix Outage Disrupting Outlook for a Second Day",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+      "summary": "Health services, schools, police departments and companies worldwide reported disruptions to their work. The cause was unclear, though Microsoft appeared to rule out a cyberattack.",
+      "published_at": "2026-11-13T14:53:51Z",
+      "collected_at": "2026-11-13T15:14:01.616094Z",
+      "feed_name": "NYT / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "b7875371579c2113",
+      "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
+      "summary": "Ms. Kress, the company\u2019s chief financial officer, joined Nvidia in 2013.",
+      "published_at": "2026-11-12T18:54:12Z",
+      "collected_at": "2026-11-13T15:14:01.616094Z",
+      "feed_name": "NYT / Business",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
+        "status": "supported",
+        "detail": "corroborated by 2 publishers",
+        "source_urls": [
+          "https://theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+          "https://nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html"
+        ]
+      },
+      {
+        "claim": "Microsoft says email queues 'approaching normal levels' as Outlook issues persist",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
+        ]
+      },
+      {
+        "claim": "Wall Street Braces for Anthropic\u2019s Spending",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html"
+        ]
+      },
+      {
+        "claim": "Why Anthropic\u2019s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html"
+        ]
+      },
+      {
+        "claim": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html"
+        ]
+      },
+      {
+        "claim": "Nvidia stock sinks 2% in fallout from Jensen Huang resignation",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
+        ]
+      },
+      {
+        "claim": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
+        ]
+      },
+      {
+        "claim": "Microsoft Races to Fix Outage Disrupting Outlook for a Second Day",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-13\n\n**Reporting period:** 2026-11-12 15:14 UTC to 2026-11-13 15:14 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-12 15:14 UTC and 2026-11-13 15:14 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 7 positive, 31 neutral, 22 negative (mean score -0.13). The most recurring theme was \"jensen huang\".\n\n## Key developments\n\n1. **Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?** - _NYT, The Guardian; 2026-11-13 03:02 UTC; corroborated by multiple publishers_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement), [2](https://nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html)\n2. **Microsoft says email queues 'approaching normal levels' as Outlook issues persist** - _CNBC; 2026-11-13 15:10 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html)\n3. **Wall Street Braces for Anthropic\u2019s Spending** - _NYT; 2026-11-13 15:09 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html)\n4. **Why Anthropic\u2019s Dario Amodei Has Angered OpenAI and Other A.I. Peers** - _NYT; 2026-11-13 15:09 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html)\n5. **Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test** - _CNBC; 2026-11-13 15:03 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html)\n6. **Nvidia stock sinks 2% in fallout from Jensen Huang resignation** - _CNBC; 2026-11-13 14:56 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html)\n7. **Microsoft outage live: millions still affected as disruption stretches beyond 18 hours** - _The Guardian; 2026-11-13 14:56 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news)\n8. **Microsoft Races to Fix Outage Disrupting Outlook for a Second Day** - _NYT; 2026-11-13 14:53 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html)\n\n## Emerging themes\n\n- **jensen huang** - 21 articles, 4 publisher(s), avg sentiment -0.08\n- **nvidia** - 31 articles, 4 publisher(s), avg sentiment -0.09\n- **microsoft outage** - 6 articles, 3 publisher(s), avg sentiment -0.62\n- **chief executive** - 6 articles, 2 publisher(s), avg sentiment -0.31\n- **thursday** - 9 articles, 4 publisher(s), avg sentiment -0.11\n- **company** - 8 articles, 3 publisher(s), avg sentiment +0.04\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 7 / Neutral 31 / Negative 22; mean -0.13.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Microsoft outage live: millions still affected as disruption stretches beyond 18 hours (https://theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news)\n- The Guardian reported a negative-toned story: Marlon Brando cool to Jensen Huang joke: how the black leather jacket became a meme (https://theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia)\n- CNBC reported a negative-toned story: Nscale updates IPO prospectus that shows widening loss (https://cnbc.com/2026/11/12/nscale-updates-ipo-prospectus-that-shows-widening-loss.html)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- CNBC - [Microsoft says email queues 'approaching normal levels' as Outlook issues persist](https://cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html) (2026-11-13 15:10 UTC; collected 2026-11-13 15:14 UTC)\n- NYT - [Wall Street Braces for Anthropic\u2019s Spending](https://nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html) (2026-11-13 15:09 UTC; collected 2026-11-13 15:14 UTC)\n- NYT - [Why Anthropic\u2019s Dario Amodei Has Angered OpenAI and Other A.I. Peers](https://nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html) (2026-11-13 15:09 UTC; collected 2026-11-13 15:14 UTC)\n- CNBC - [Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test](https://cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html) (2026-11-13 15:03 UTC; collected 2026-11-13 15:14 UTC)\n- CNBC - [Nvidia stock sinks 2% in fallout from Jensen Huang resignation](https://cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html) (2026-11-13 14:56 UTC; collected 2026-11-13 15:14 UTC)\n- The Guardian - [Microsoft outage live: millions still affected as disruption stretches beyond 18 hours](https://theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news) (2026-11-13 14:56 UTC; collected 2026-11-13 15:14 UTC)\n- NYT - [Microsoft Races to Fix Outage Disrupting Outlook for a Second Day](https://nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html) (2026-11-13 14:53 UTC; collected 2026-11-13 15:14 UTC)\n- The Guardian - [Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?](https://theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement) (2026-11-13 03:02 UTC; collected 2026-11-13 15:14 UTC)\n- The Guardian - [Microsoft outage live: millions still affected as disruption stretches beyond 18 hours](https://theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news) (2026-11-13 14:56 UTC; collected 2026-11-13 15:14 UTC)\n- NYT - [Microsoft Races to Fix Outage Disrupting Outlook for a Second Day](https://nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html) (2026-11-13 14:53 UTC; collected 2026-11-13 15:14 UTC)\n- NYT - [Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?](https://nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html) (2026-11-12 18:54 UTC; collected 2026-11-13 15:14 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-13\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-12 15:14 UTC and 2026-11-13 15:14 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 7 positive, 31 neutral, 22 negative (mean score -0.13). The most recurring theme was \"jensen huang\".\n\nKey developments:\n- Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit? (NYT, The Guardian) https://theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement\n- Microsoft says email queues 'approaching normal levels' as Outlook issues persist (CNBC) https://cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html\n- Wall Street Braces for Anthropic\u2019s Spending (NYT) https://nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html\n- Why Anthropic\u2019s Dario Amodei Has Angered OpenAI and Other A.I. Peers (NYT) https://nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html\n- Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test (CNBC) https://cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
