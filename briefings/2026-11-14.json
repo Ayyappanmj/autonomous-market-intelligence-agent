@@ -1,0 +1,500 @@
+{
+  "id": "899cff03491e",
+  "generated_at": "2026-11-14T14:01:25.168319Z",
+  "period_start": "2026-11-13T14:01:25.168319Z",
+  "period_end": "2026-11-14T14:01:25.168319Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-13 14:01 UTC and 2026-11-14 14:01 UTC, 55 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 9 positive, 26 neutral, 20 negative (mean score -0.14). The most recurring theme was \"jensen huang\".",
+  "key_developments": [
+    {
+      "text": "Microsoft\u2019s Global Outage and Fixes: What We Know",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-14T13:15:55Z"
+    },
+    {
+      "text": "5 Big Questions as C.E.O.s Meet in China",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-14T13:00:06Z"
+    },
+    {
+      "text": "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-14T12:33:58Z"
+    },
+    {
+      "text": "Meet the seven co-founders of Anthropic",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-14T12:15:01Z"
+    },
+    {
+      "text": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-14T12:00:01Z"
+    },
+    {
+      "text": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-14T11:55:40Z"
+    },
+    {
+      "text": "Microsoft says services fully restored after global outage hits governments",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-14T11:54:31Z"
+    },
+    {
+      "text": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-14T08:11:28Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "jensen huang",
+      "article_count": 14,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
+        "https://cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+        "https://cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+        "https://cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+        "https://bbc.co.uk/news/articles/ck1exevgql4qo?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": -0.029,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "nvidia",
+      "article_count": 20,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+        "https://nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
+        "https://cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+        "https://cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+        "https://cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"
+      ],
+      "avg_sentiment": -0.052,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "microsoft",
+      "article_count": 11,
+      "publishers": [
+        "Ars Technica",
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+        "https://theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+        "https://cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+        "https://bbc.co.uk/news/articles/c6rrg51rkz09o?at_campaign=rss&at_medium=RSS",
+        "https://nytimes.com/2026/11/13/business/microsoft-outage.html"
+      ],
+      "avg_sentiment": -0.533,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "company",
+      "article_count": 9,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+        "https://cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+        "https://theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+        "https://nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
+        "https://nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html"
+      ],
+      "avg_sentiment": -0.184,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "secretary",
+      "article_count": 8,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/money/2026/nov/14/u2-tickets-stubhub-bot-culture-secretary-resale",
+        "https://cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+        "https://bbc.co.uk/news/articles/cqvg2d1eg7zro?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+        "https://nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html"
+      ],
+      "avg_sentiment": 0.051,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "chief executive",
+      "article_count": 5,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
+        "https://nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+        "https://nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+        "https://theguardian.com/business/2026/nov/13/jaguar-land-rover-quarterly-loss-electric-cars-job-cuts",
+        "https://theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia"
+      ],
+      "avg_sentiment": -0.515,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 9,
+    "neutral": 26,
+    "negative": 20,
+    "mean_score": -0.144,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Microsoft says services fully restored after global outage hits governments (https://theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage)",
+    "The Guardian reported a negative-toned story: Jaguar Land Rover reports \u00a3451m quarterly loss after cutting 4,000 jobs (https://theguardian.com/business/2026/nov/13/jaguar-land-rover-quarterly-loss-electric-cars-job-cuts)",
+    "The Guardian reported a negative-toned story: Marlon Brando cool to Jensen Huang joke: how the black leather jacket became a meme (https://theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "a8a59a8eced34fe1",
+      "title": "Microsoft\u2019s Global Outage and Fixes: What We Know",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+      "summary": "Disruptions to the company\u2019s email, messaging and other products lasted about 36 hours, hampering companies and services around the world.",
+      "published_at": "2026-11-14T13:15:55Z",
+      "collected_at": "2026-11-14T14:01:25.168319Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": -0.4019,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "31b9d10a6406ee03",
+      "title": "5 Big Questions as C.E.O.s Meet in China",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html",
+      "summary": "President Trump and U.S. tech executives are expected to gather for a major summit in Shenzhen next week. On the agenda: a stalled trade war, expanding export controls, and suspected spy games.",
+      "published_at": "2026-11-14T13:00:06Z",
+      "collected_at": "2026-11-14T14:01:25.168319Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "technology",
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "2260b28244b1348c",
+      "title": "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+      "summary": "\u2018We have further to go,\u2019 says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said. Signalling a sharp rise in mortgage payments for an estimated 2.3 million homeowners who will have to refinance their loans next year, Huw Pill said that while the decision to nudge interest rates from 3.75% to 4% earlier this month",
+      "published_at": "2026-11-14T12:33:58Z",
+      "collected_at": "2026-11-14T14:01:25.168319Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.1027,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "b02174312911889d",
+      "title": "Meet the seven co-founders of Anthropic",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
+      "summary": "Four researchers, a former journalist, a public policymaker, and an engineer founded Anthropic in 2021. They're now poised to become multi-billionaires.",
+      "published_at": "2026-11-14T12:15:01Z",
+      "collected_at": "2026-11-14T14:01:25.168319Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "4bcc9df5517e3c6a",
+      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+      "summary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
+      "published_at": "2026-11-14T12:00:01Z",
+      "collected_at": "2026-11-14T14:01:25.168319Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "536ba40e62ffdfca",
+      "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
+      "summary": "As Jensen Huang abruptly departs, the tech community grapples with an eternal question: Why do the smartest and most successful men so often act so stupidly?",
+      "published_at": "2026-11-14T11:55:40Z",
+      "collected_at": "2026-11-14T14:01:25.168319Z",
+      "feed_name": "NYT / Technology",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "50441397c2a0711a",
+      "title": "Microsoft says services fully restored after global outage hits governments",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+      "summary": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments, businesses and public services around the world. The technology company said on Saturday morning it had restored service to the remaining customers affected by one of the worst IT failures in years. On its Microsoft 365 status page, the US-based firm said: \u201cWe h",
+      "published_at": "2026-11-14T11:54:31Z",
+      "collected_at": "2026-11-14T14:01:25.168319Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": -0.9102,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "ed299ac3d1969ce6",
+      "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+      "published_at": "2026-11-14T08:11:28Z",
+      "collected_at": "2026-11-14T14:01:25.168319Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": -0.7105,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "a8a59a8eced34fe1",
+      "title": "Microsoft\u2019s Global Outage and Fixes: What We Know",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+      "summary": "Disruptions to the company\u2019s email, messaging and other products lasted about 36 hours, hampering companies and services around the world.",
+      "published_at": "2026-11-14T13:15:55Z",
+      "collected_at": "2026-11-14T14:01:25.168319Z",
+      "feed_name": "NYT / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "2260b28244b1348c",
+      "title": "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+      "summary": "\u2018We have further to go,\u2019 says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said. Signalling a sharp rise in mortgage payments for an estimated 2.3 million homeowners who will have to refinance their loans next year, Huw Pill said that while the decision to nudge interest rates from 3.75% to 4% earlier this month",
+      "published_at": "2026-11-14T12:33:58Z",
+      "collected_at": "2026-11-14T14:01:25.168319Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "50441397c2a0711a",
+      "title": "Microsoft says services fully restored after global outage hits governments",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+      "summary": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments, businesses and public services around the world. The technology company said on Saturday morning it had restored service to the remaining customers affected by one of the worst IT failures in years. On its Microsoft 365 status page, the US-based firm said: \u201cWe h",
+      "published_at": "2026-11-14T11:54:31Z",
+      "collected_at": "2026-11-14T14:01:25.168319Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Microsoft\u2019s Global Outage and Fixes: What We Know",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html"
+        ]
+      },
+      {
+        "claim": "5 Big Questions as C.E.O.s Meet in China",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html"
+        ]
+      },
+      {
+        "claim": "Interest rate rises likely in coming months, Bank of England\u2019s chief economist says",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist"
+        ]
+      },
+      {
+        "claim": "Meet the seven co-founders of Anthropic",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html"
+        ]
+      },
+      {
+        "claim": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html"
+        ]
+      },
+      {
+        "claim": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html"
+        ]
+      },
+      {
+        "claim": "Microsoft says services fully restored after global outage hits governments",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
+        ]
+      },
+      {
+        "claim": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-14\n\n**Reporting period:** 2026-11-13 14:01 UTC to 2026-11-14 14:01 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-13 14:01 UTC and 2026-11-14 14:01 UTC, 55 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 9 positive, 26 neutral, 20 negative (mean score -0.14). The most recurring theme was \"jensen huang\".\n\n## Key developments\n\n1. **Microsoft\u2019s Global Outage and Fixes: What We Know** - _NYT; 2026-11-14 13:15 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html)\n2. **5 Big Questions as C.E.O.s Meet in China** - _NYT; 2026-11-14 13:00 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html)\n3. **Interest rate rises likely in coming months, Bank of England\u2019s chief economist says** - _The Guardian; 2026-11-14 12:33 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist)\n4. **Meet the seven co-founders of Anthropic** - _CNBC; 2026-11-14 12:15 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html)\n5. **Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home** - _CNBC; 2026-11-14 12:00 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html)\n6. **The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley** - _NYT; 2026-11-14 11:55 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html)\n7. **Microsoft says services fully restored after global outage hits governments** - _The Guardian; 2026-11-14 11:54 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage)\n8. **Microsoft apologizes for massive outage that took down Outlook and other 365 services** - _CNBC; 2026-11-14 08:11 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html)\n\n## Emerging themes\n\n- **jensen huang** - 14 articles, 4 publisher(s), avg sentiment -0.03\n- **nvidia** - 20 articles, 4 publisher(s), avg sentiment -0.05\n- **microsoft** - 11 articles, 5 publisher(s), avg sentiment -0.53\n- **company** - 9 articles, 3 publisher(s), avg sentiment -0.18\n- **secretary** - 8 articles, 4 publisher(s), avg sentiment +0.05\n- **chief executive** - 5 articles, 2 publisher(s), avg sentiment -0.52\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 9 / Neutral 26 / Negative 20; mean -0.14.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Microsoft says services fully restored after global outage hits governments (https://theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage)\n- The Guardian reported a negative-toned story: Jaguar Land Rover reports \u00a3451m quarterly loss after cutting 4,000 jobs (https://theguardian.com/business/2026/nov/13/jaguar-land-rover-quarterly-loss-electric-cars-job-cuts)\n- The Guardian reported a negative-toned story: Marlon Brando cool to Jensen Huang joke: how the black leather jacket became a meme (https://theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- NYT - [Microsoft\u2019s Global Outage and Fixes: What We Know](https://nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html) (2026-11-14 13:15 UTC; collected 2026-11-14 14:01 UTC)\n- NYT - [5 Big Questions as C.E.O.s Meet in China](https://nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html) (2026-11-14 13:00 UTC; collected 2026-11-14 14:01 UTC)\n- The Guardian - [Interest rate rises likely in coming months, Bank of England\u2019s chief economist says](https://theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist) (2026-11-14 12:33 UTC; collected 2026-11-14 14:01 UTC)\n- CNBC - [Meet the seven co-founders of Anthropic](https://cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html) (2026-11-14 12:15 UTC; collected 2026-11-14 14:01 UTC)\n- CNBC - [Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home](https://cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html) (2026-11-14 12:00 UTC; collected 2026-11-14 14:01 UTC)\n- NYT - [The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley](https://nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html) (2026-11-14 11:55 UTC; collected 2026-11-14 14:01 UTC)\n- The Guardian - [Microsoft says services fully restored after global outage hits governments](https://theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage) (2026-11-14 11:54 UTC; collected 2026-11-14 14:01 UTC)\n- CNBC - [Microsoft apologizes for massive outage that took down Outlook and other 365 services](https://cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html) (2026-11-14 08:11 UTC; collected 2026-11-14 14:01 UTC)\n- NYT - [Microsoft\u2019s Global Outage and Fixes: What We Know](https://nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html) (2026-11-14 13:15 UTC; collected 2026-11-14 14:01 UTC)\n- The Guardian - [Interest rate rises likely in coming months, Bank of England\u2019s chief economist says](https://theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist) (2026-11-14 12:33 UTC; collected 2026-11-14 14:01 UTC)\n- The Guardian - [Microsoft says services fully restored after global outage hits governments](https://theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage) (2026-11-14 11:54 UTC; collected 2026-11-14 14:01 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-14\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-13 14:01 UTC and 2026-11-14 14:01 UTC, 55 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 9 positive, 26 neutral, 20 negative (mean score -0.14). The most recurring theme was \"jensen huang\".\n\nKey developments:\n- Microsoft\u2019s Global Outage and Fixes: What We Know (NYT) https://nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html\n- 5 Big Questions as C.E.O.s Meet in China (NYT) https://nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html\n- Interest rate rises likely in coming months, Bank of England\u2019s chief economist says (The Guardian) https://theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist\n- Meet the seven co-founders of Anthropic (CNBC) https://cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html\n- Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home (CNBC) https://cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
