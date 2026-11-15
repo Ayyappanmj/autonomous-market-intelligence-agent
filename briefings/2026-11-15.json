@@ -1,0 +1,469 @@
+{
+  "id": "4b6a70e916d1",
+  "generated_at": "2026-11-15T14:37:27.721411Z",
+  "period_start": "2026-11-14T14:37:27.721411Z",
+  "period_end": "2026-11-15T14:37:27.721411Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-14 14:37 UTC and 2026-11-15 14:37 UTC, 24 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 11 neutral, 10 negative (mean score -0.12). The most recurring theme was \"jensen huang\".",
+  "key_developments": [
+    {
+      "text": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-15T14:00:19Z"
+    },
+    {
+      "text": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-15T13:47:43Z"
+    },
+    {
+      "text": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://bbc.co.uk/news/articles/ckvg2ezvpe08o?at_campaign=rss&at_medium=RSS"
+      ],
+      "publishers": [
+        "BBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-15T13:37:45Z"
+    },
+    {
+      "text": "\u2018Nobody else is going to save us\u2019: the direct action group taking on the UK\u2019s banks, bailiffs and water firms",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/nov/15/acorn-union-direct-action-uk-banks-bailiffs-water-firms"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-15T13:04:48Z"
+    },
+    {
+      "text": "How Jensen Huang\u2019s Secret Led to His Downfall at Nvidia",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-15T12:40:04Z"
+    },
+    {
+      "text": "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-15T12:00:01Z"
+    },
+    {
+      "text": "Microsoft Outlook Outage and FAA Groundstop Show Dependence on Fragile Technology",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-15T10:02:06Z"
+    },
+    {
+      "text": "Jensen Huang\u2019s Downfall Brings Disbelief in Taiwan",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/15/business/jensen-huang-taiwan.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-15T10:01:57Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "jensen huang",
+      "article_count": 5,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+        "https://nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
+        "https://cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+        "https://theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+        "https://nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html"
+      ],
+      "avg_sentiment": -0.026,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "nvidia",
+      "article_count": 5,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+        "https://nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
+        "https://theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+        "https://nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
+        "https://cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
+      ],
+      "avg_sentiment": 0.0,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "people",
+      "article_count": 5,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push",
+        "https://theguardian.com/business/2026/nov/15/acorn-union-direct-action-uk-banks-bailiffs-water-firms",
+        "https://nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
+        "https://nytimes.com/2026/11/15/business/tech-jobs-ai-ecosystem.html",
+        "https://theguardian.com/business/2026/nov/15/young-people-stress-seeking-a-job-mental-physical-health"
+      ],
+      "avg_sentiment": -0.213,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "social media",
+      "article_count": 3,
+      "publishers": [
+        "BBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push",
+        "https://nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
+        "https://bbc.co.uk/news/articles/cwn83gxemk35o?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": -0.062,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "company",
+      "article_count": 4,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+        "https://cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+        "https://theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+        "https://theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos"
+      ],
+      "avg_sentiment": -0.298,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "tech",
+      "article_count": 4,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+        "https://theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+        "https://theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos",
+        "https://nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html"
+      ],
+      "avg_sentiment": -0.019,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 3,
+    "neutral": 11,
+    "negative": 10,
+    "mean_score": -0.122,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington (https://theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push)",
+    "The Guardian reported a negative-toned story: Italy fines Meta $887m for accessing Android users\u2019 photos and videos (https://theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos)",
+    "The Guardian reported a negative-toned story: \u2018Jensen Huang lost his mind\u2019: how AI\u2019s smartest man fell for the world\u2019s oldest trick (https://theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "4f312d0aa693db97",
+      "title": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise",
+      "summary": "The role AI played in job losses at Australia\u2019s NAB, Qantas, Canva and Atlassian is far from clear \u2013 but it may prove to have more impact on the stock market than the jobs market Get our breaking news email , free app or daily news podcast In 1987, the Nobel prize winning economist Robert Solow remarked: \u201cYou can see the computer age everywhere but in the productivity statistics.\u201d At the time, computers had been around for 40 years. Real productivity gains did emerge in the 1990s after the arriv",
+      "published_at": "2026-11-15T14:00:19Z",
+      "collected_at": "2026-11-15T14:37:27.721411Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai",
+        "technology",
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": -0.0516,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "564ee024d0aba56f",
+      "title": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push",
+      "summary": "Long-awaited final report will call for benefit cuts but lack of entry-level jobs is also driving the crisis \u2018I\u2019m scared about my future\u2019: young people on the stress and desperation of jobseeking A generation is being sold short. Almost a million young people are not in education, employment or training (Neet). Austerity and the Covid pandemic cast a lengthy shadow, AI is upending the jobs market, and the cost of living is soaring \u2013 all under the microscope of the social media age. On Tuesday, A",
+      "published_at": "2026-11-15T13:47:43Z",
+      "collected_at": "2026-11-15T14:37:27.721411Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai",
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": -0.6808,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "422c3dcbe3db8126",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/ckvg2ezvpe08o?at_campaign=rss&at_medium=RSS",
+      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "published_at": "2026-11-15T13:37:45Z",
+      "collected_at": "2026-11-15T14:37:27.721411Z",
+      "feed_name": "BBC / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "842df89f122168ba",
+      "title": "\u2018Nobody else is going to save us\u2019: the direct action group taking on the UK\u2019s banks, bailiffs and water firms",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/15/acorn-union-direct-action-uk-banks-bailiffs-water-firms",
+      "summary": "Community union Acorn is helping people fight unfair bills, AI decision-making and housing injustices as cost of living crisis deepens Yasmin didn\u2019t expect to find herself sitting across a negotiating table from executives at one of Britain\u2019s biggest water companies. But her growing frustration with her water bills had led her to launch a national campaign. The 34-year-old single mother from Manchester had endured unexplained charges and a nine-month wait for a water meter. She went to the commu",
+      "published_at": "2026-11-15T13:04:48Z",
+      "collected_at": "2026-11-15T14:37:27.721411Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": -0.3818,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "a7af60e98a4f3086",
+      "title": "How Jensen Huang\u2019s Secret Led to His Downfall at Nvidia",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+      "summary": "Nvidia\u2019s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created.",
+      "published_at": "2026-11-15T12:40:04Z",
+      "collected_at": "2026-11-15T14:37:27.721411Z",
+      "feed_name": "NYT / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "9ce8ac8b4c951537",
+      "title": "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+      "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
+      "published_at": "2026-11-15T12:00:01Z",
+      "collected_at": "2026-11-15T14:37:27.721411Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology",
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "b98d5b54bf0e8fda",
+      "title": "Microsoft Outlook Outage and FAA Groundstop Show Dependence on Fragile Technology",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html",
+      "summary": "Incidents involving Microsoft\u2019s Outlook and the Federal Aviation Administration this past week demonstrated our dependence on fragile technology.",
+      "published_at": "2026-11-15T10:02:06Z",
+      "collected_at": "2026-11-15T14:37:27.721411Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": -0.4019,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "f4c957a4290d35be",
+      "title": "Jensen Huang\u2019s Downfall Brings Disbelief in Taiwan",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
+      "summary": "The Nvidia chief executive\u2019s resignation shocked people in his birthplace, where he is called \u201cthe people\u2019s dad.\u201d",
+      "published_at": "2026-11-15T10:01:57Z",
+      "collected_at": "2026-11-15T14:37:27.721411Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "564ee024d0aba56f",
+      "title": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push",
+      "summary": "Long-awaited final report will call for benefit cuts but lack of entry-level jobs is also driving the crisis \u2018I\u2019m scared about my future\u2019: young people on the stress and desperation of jobseeking A generation is being sold short. Almost a million young people are not in education, employment or training (Neet). Austerity and the Covid pandemic cast a lengthy shadow, AI is upending the jobs market, and the cost of living is soaring \u2013 all under the microscope of the social media age. On Tuesday, A",
+      "published_at": "2026-11-15T13:47:43Z",
+      "collected_at": "2026-11-15T14:37:27.721411Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise"
+        ]
+      },
+      {
+        "claim": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push"
+        ]
+      },
+      {
+        "claim": "South Korea's top scorer in tax accountancy exam admits cheating",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://bbc.co.uk/news/articles/ckvg2ezvpe08o?at_campaign=rss&at_medium=RSS"
+        ]
+      },
+      {
+        "claim": "\u2018Nobody else is going to save us\u2019: the direct action group taking on the UK\u2019s banks, bailiffs and water firms",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/nov/15/acorn-union-direct-action-uk-banks-bailiffs-water-firms"
+        ]
+      },
+      {
+        "claim": "How Jensen Huang\u2019s Secret Led to His Downfall at Nvidia",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
+        ]
+      },
+      {
+        "claim": "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html"
+        ]
+      },
+      {
+        "claim": "Microsoft Outlook Outage and FAA Groundstop Show Dependence on Fragile Technology",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html"
+        ]
+      },
+      {
+        "claim": "Jensen Huang\u2019s Downfall Brings Disbelief in Taiwan",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/15/business/jensen-huang-taiwan.html"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-15\n\n**Reporting period:** 2026-11-14 14:37 UTC to 2026-11-15 14:37 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-14 14:37 UTC and 2026-11-15 14:37 UTC, 24 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 11 neutral, 10 negative (mean score -0.12). The most recurring theme was \"jensen huang\".\n\n## Key developments\n\n1. **Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin** - _The Guardian; 2026-11-15 14:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise)\n2. **Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington** - _The Guardian; 2026-11-15 13:47 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push)\n3. **South Korea's top scorer in tax accountancy exam admits cheating** - _BBC; 2026-11-15 13:37 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://bbc.co.uk/news/articles/ckvg2ezvpe08o?at_campaign=rss&at_medium=RSS)\n4. **\u2018Nobody else is going to save us\u2019: the direct action group taking on the UK\u2019s banks, bailiffs and water firms** - _The Guardian; 2026-11-15 13:04 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/business/2026/nov/15/acorn-union-direct-action-uk-banks-bailiffs-water-firms)\n5. **How Jensen Huang\u2019s Secret Led to His Downfall at Nvidia** - _NYT; 2026-11-15 12:40 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html)\n6. **Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot** - _CNBC; 2026-11-15 12:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html)\n7. **Microsoft Outlook Outage and FAA Groundstop Show Dependence on Fragile Technology** - _NYT; 2026-11-15 10:02 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html)\n8. **Jensen Huang\u2019s Downfall Brings Disbelief in Taiwan** - _NYT; 2026-11-15 10:01 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/11/15/business/jensen-huang-taiwan.html)\n\n## Emerging themes\n\n- **jensen huang** - 5 articles, 3 publisher(s), avg sentiment -0.03\n- **nvidia** - 5 articles, 3 publisher(s), avg sentiment +0.00\n- **people** - 5 articles, 2 publisher(s), avg sentiment -0.21\n- **social media** - 3 articles, 3 publisher(s), avg sentiment -0.06\n- **company** - 4 articles, 3 publisher(s), avg sentiment -0.30\n- **tech** - 4 articles, 3 publisher(s), avg sentiment -0.02\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 3 / Neutral 11 / Negative 10; mean -0.12.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington (https://theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push)\n- The Guardian reported a negative-toned story: Italy fines Meta $887m for accessing Android users\u2019 photos and videos (https://theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos)\n- The Guardian reported a negative-toned story: \u2018Jensen Huang lost his mind\u2019: how AI\u2019s smartest man fell for the world\u2019s oldest trick (https://theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- The Guardian - [Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin](https://theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise) (2026-11-15 14:00 UTC; collected 2026-11-15 14:37 UTC)\n- The Guardian - [Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington](https://theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push) (2026-11-15 13:47 UTC; collected 2026-11-15 14:37 UTC)\n- BBC - [South Korea's top scorer in tax accountancy exam admits cheating](https://bbc.co.uk/news/articles/ckvg2ezvpe08o?at_campaign=rss&at_medium=RSS) (2026-11-15 13:37 UTC; collected 2026-11-15 14:37 UTC)\n- The Guardian - [\u2018Nobody else is going to save us\u2019: the direct action group taking on the UK\u2019s banks, bailiffs and water firms](https://theguardian.com/business/2026/nov/15/acorn-union-direct-action-uk-banks-bailiffs-water-firms) (2026-11-15 13:04 UTC; collected 2026-11-15 14:37 UTC)\n- NYT - [How Jensen Huang\u2019s Secret Led to His Downfall at Nvidia](https://nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html) (2026-11-15 12:40 UTC; collected 2026-11-15 14:37 UTC)\n- CNBC - [Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot](https://cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html) (2026-11-15 12:00 UTC; collected 2026-11-15 14:37 UTC)\n- NYT - [Microsoft Outlook Outage and FAA Groundstop Show Dependence on Fragile Technology](https://nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html) (2026-11-15 10:02 UTC; collected 2026-11-15 14:37 UTC)\n- NYT - [Jensen Huang\u2019s Downfall Brings Disbelief in Taiwan](https://nytimes.com/2026/11/15/business/jensen-huang-taiwan.html) (2026-11-15 10:01 UTC; collected 2026-11-15 14:37 UTC)\n- The Guardian - [Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington](https://theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push) (2026-11-15 13:47 UTC; collected 2026-11-15 14:37 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-15\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-14 14:37 UTC and 2026-11-15 14:37 UTC, 24 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 11 neutral, 10 negative (mean score -0.12). The most recurring theme was \"jensen huang\".\n\nKey developments:\n- Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin (The Guardian) https://theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise\n- Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington (The Guardian) https://theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push\n- South Korea's top scorer in tax accountancy exam admits cheating (BBC) https://bbc.co.uk/news/articles/ckvg2ezvpe08o?at_campaign=rss&at_medium=RSS\n- \u2018Nobody else is going to save us\u2019: the direct action group taking on the UK\u2019s banks, bailiffs and water firms (The Guardian) https://theguardian.com/business/2026/nov/15/acorn-union-direct-action-uk-banks-bailiffs-water-firms\n- How Jensen Huang\u2019s Secret Led to His Downfall at Nvidia (NYT) https://nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
