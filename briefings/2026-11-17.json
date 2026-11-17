@@ -1,0 +1,491 @@
+{
+  "id": "bbddf50ef2bc",
+  "generated_at": "2026-11-17T16:47:49.081953Z",
+  "period_start": "2026-11-16T16:47:49.081953Z",
+  "period_end": "2026-11-17T16:47:49.081953Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-16 16:47 UTC and 2026-11-17 16:47 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 7 positive, 34 neutral, 19 negative (mean score -0.10). The most recurring theme was \"nvidia\".",
+  "key_developments": [
+    {
+      "text": "Trump\u2019s New A.I. Chip Rules Rattle Southeast Asia",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-17T16:42:30Z"
+    },
+    {
+      "text": "Jensen Huang says he would return as Nvidia boss if asked by the board",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://bbc.co.uk/news/articles/cwx2en2vrxmdo?at_campaign=rss&at_medium=RSS"
+      ],
+      "publishers": [
+        "BBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-17T16:39:54Z"
+    },
+    {
+      "text": "Markets drop ahead of Nvidia\u2019s results; Jensen Huang says he\u2019d be \u2018honoured\u2019 to return as CEO \u2013 business live",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-17T16:39:53Z"
+    },
+    {
+      "text": "Former Nvidia CEO Jensen Huang says he\u2019s open to returning in first statement since resignation",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-17T16:30:19Z"
+    },
+    {
+      "text": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-17T16:21:40Z"
+    },
+    {
+      "text": "Jensen Huang Says He Would Return to Nvidia if Asked",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-17T16:21:23Z"
+    },
+    {
+      "text": "Facing Criticism, Trump Administration Says It\u2019s Investigating Megaspeed",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-17T15:34:24Z"
+    },
+    {
+      "text": "Nvidia shares try to rebound ahead of earnings as company reels from Huang resignation",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-17T15:17:16Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "nvidia",
+      "article_count": 16,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://bbc.co.uk/news/articles/cwx2en2vrxmdo?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
+        "https://cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+        "https://nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+        "https://cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html"
+      ],
+      "avg_sentiment": -0.125,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "jensen huang",
+      "article_count": 9,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://bbc.co.uk/news/articles/cwx2en2vrxmdo?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
+        "https://cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+        "https://nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+        "https://cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html"
+      ],
+      "avg_sentiment": -0.08,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "artificial intelligence",
+      "article_count": 6,
+      "publishers": [
+        "BBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html",
+        "https://theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai",
+        "https://bbc.co.uk/news/articles/c6wy4xv2mxglo?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit",
+        "https://theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars"
+      ],
+      "avg_sentiment": -0.322,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "company",
+      "article_count": 9,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+        "https://cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
+        "https://cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
+        "https://theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai",
+        "https://nytimes.com/2026/11/17/business/disney-earnings-3billion-savings.html"
+      ],
+      "avg_sentiment": -0.117,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "ceo",
+      "article_count": 9,
+      "publishers": [
+        "Ars Technica",
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
+        "https://cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+        "https://cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
+        "https://cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
+        "https://cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html"
+      ],
+      "avg_sentiment": -0.159,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "trump",
+      "article_count": 8,
+      "publishers": [
+        "Ars Technica",
+        "BBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
+        "https://nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html",
+        "https://nytimes.com/2026/11/17/business/economy/fed-governor-lisa-cook-trump-white-house-hearing.html",
+        "https://nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html",
+        "https://bbc.co.uk/news/articles/cry49plv8v3go?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": -0.054,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 7,
+    "neutral": 34,
+    "negative": 19,
+    "mean_score": -0.104,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: California sues OpenAI over safety concerns after rogue agent hacking (https://theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit)",
+    "The Guardian reported a negative-toned story: UK unemployment unexpectedly eases to 4.6% as government releases Milburn report (https://theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report)",
+    "NYT reported a negative-toned story: California Sues OpenAI Over A.I. Safety Issues (https://nytimes.com/2026/11/16/technology/california-openai-ai-safety.html)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "f9e0c8730fa3940a",
+      "title": "Trump\u2019s New A.I. Chip Rules Rattle Southeast Asia",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
+      "summary": "New U.S. restrictions could jeopardize billions in investment and force countries in the region to strike an increasingly difficult balance between Washington and Beijing.",
+      "published_at": "2026-11-17T16:42:30Z",
+      "collected_at": "2026-11-17T16:47:49.081953Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.2263,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "8f142e3c426ab03c",
+      "title": "Jensen Huang says he would return as Nvidia boss if asked by the board",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/cwx2en2vrxmdo?at_campaign=rss&at_medium=RSS",
+      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "published_at": "2026-11-17T16:39:54Z",
+      "collected_at": "2026-11-17T16:47:49.081953Z",
+      "feed_name": "BBC / Business",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "7f5de671f8d1aac2",
+      "title": "Markets drop ahead of Nvidia\u2019s results; Jensen Huang says he\u2019d be \u2018honoured\u2019 to return as CEO \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
+      "summary": "Rolling coverage of the latest economic and financial news Jensen Huang\u2019s departure as Nvidia CEO becomes a political proxy war China has threatened to retaliate against the US after Washington tightened restrictions on remote access to AI chips and servers. At a press conference on Tuesday, China\u2019s foreign ministry spokesperson Guo Jiakun said Beijing would take \u201cnecessary measures\u201d to safeguard its own interests, saying: \u201cThe US has repeatedly overstretched the concept of national security, ab",
+      "published_at": "2026-11-17T16:39:53Z",
+      "collected_at": "2026-11-17T16:47:49.081953Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [
+        "ai",
+        "technology",
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": -0.3818,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "558b39f2463f8dc8",
+      "title": "Former Nvidia CEO Jensen Huang says he\u2019s open to returning in first statement since resignation",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+      "summary": "He said he had seen support from investors and employees was willing to come back as CEO.",
+      "published_at": "2026-11-17T16:30:19Z",
+      "collected_at": "2026-11-17T16:47:49.081953Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "56d73bb3f47a89f2",
+      "title": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html",
+      "summary": "Shoe prices have been rising faster than overall prices in recent months, and there\u2019s little sign those increases will reverse soon.",
+      "published_at": "2026-11-17T16:21:40Z",
+      "collected_at": "2026-11-17T16:47:49.081953Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.1779,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "92bf8536f2d5ce41",
+      "title": "Jensen Huang Says He Would Return to Nvidia if Asked",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+      "summary": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.",
+      "published_at": "2026-11-17T16:21:23Z",
+      "collected_at": "2026-11-17T16:47:49.081953Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "3ae69b57e87c979b",
+      "title": "Facing Criticism, Trump Administration Says It\u2019s Investigating Megaspeed",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html",
+      "summary": "The announcement appeared to be a response to recent criticism that the Commerce Department has moved too slowly on the alleged chip smuggling case.",
+      "published_at": "2026-11-17T15:34:24Z",
+      "collected_at": "2026-11-17T16:47:49.081953Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "bbe8011b40b3517b",
+      "title": "Nvidia shares try to rebound ahead of earnings as company reels from Huang resignation",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
+      "summary": "Investors have been weighing the fallout from former CEO Jensen Huang's resignation.",
+      "published_at": "2026-11-17T15:17:16Z",
+      "collected_at": "2026-11-17T16:47:49.081953Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": 0.4019,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "7f5de671f8d1aac2",
+      "title": "Markets drop ahead of Nvidia\u2019s results; Jensen Huang says he\u2019d be \u2018honoured\u2019 to return as CEO \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
+      "summary": "Rolling coverage of the latest economic and financial news Jensen Huang\u2019s departure as Nvidia CEO becomes a political proxy war China has threatened to retaliate against the US after Washington tightened restrictions on remote access to AI chips and servers. At a press conference on Tuesday, China\u2019s foreign ministry spokesperson Guo Jiakun said Beijing would take \u201cnecessary measures\u201d to safeguard its own interests, saying: \u201cThe US has repeatedly overstretched the concept of national security, ab",
+      "published_at": "2026-11-17T16:27:16Z",
+      "collected_at": "2026-11-17T16:47:49.081953Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "92bf8536f2d5ce41",
+      "title": "Jensen Huang Says He Would Return to Nvidia if Asked",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+      "summary": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.",
+      "published_at": "2026-11-17T16:21:23Z",
+      "collected_at": "2026-11-17T16:47:49.081953Z",
+      "feed_name": "NYT / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Trump\u2019s New A.I. Chip Rules Rattle Southeast Asia",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html"
+        ]
+      },
+      {
+        "claim": "Jensen Huang says he would return as Nvidia boss if asked by the board",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://bbc.co.uk/news/articles/cwx2en2vrxmdo?at_campaign=rss&at_medium=RSS"
+        ]
+      },
+      {
+        "claim": "Markets drop ahead of Nvidia\u2019s results; Jensen Huang says he\u2019d be \u2018honoured\u2019 to return as CEO \u2013 business live",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates"
+        ]
+      },
+      {
+        "claim": "Former Nvidia CEO Jensen Huang says he\u2019s open to returning in first statement since resignation",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html"
+        ]
+      },
+      {
+        "claim": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html"
+        ]
+      },
+      {
+        "claim": "Jensen Huang Says He Would Return to Nvidia if Asked",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html"
+        ]
+      },
+      {
+        "claim": "Facing Criticism, Trump Administration Says It\u2019s Investigating Megaspeed",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html"
+        ]
+      },
+      {
+        "claim": "Nvidia shares try to rebound ahead of earnings as company reels from Huang resignation",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-17\n\n**Reporting period:** 2026-11-16 16:47 UTC to 2026-11-17 16:47 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-16 16:47 UTC and 2026-11-17 16:47 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 7 positive, 34 neutral, 19 negative (mean score -0.10). The most recurring theme was \"nvidia\".\n\n## Key developments\n\n1. **Trump\u2019s New A.I. Chip Rules Rattle Southeast Asia** - _NYT; 2026-11-17 16:42 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html)\n2. **Jensen Huang says he would return as Nvidia boss if asked by the board** - _BBC; 2026-11-17 16:39 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://bbc.co.uk/news/articles/cwx2en2vrxmdo?at_campaign=rss&at_medium=RSS)\n3. **Markets drop ahead of Nvidia\u2019s results; Jensen Huang says he\u2019d be \u2018honoured\u2019 to return as CEO \u2013 business live** - _The Guardian; 2026-11-17 16:39 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates)\n4. **Former Nvidia CEO Jensen Huang says he\u2019s open to returning in first statement since resignation** - _CNBC; 2026-11-17 16:30 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html)\n5. **Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs** - _NYT; 2026-11-17 16:21 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html)\n6. **Jensen Huang Says He Would Return to Nvidia if Asked** - _NYT; 2026-11-17 16:21 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html)\n7. **Facing Criticism, Trump Administration Says It\u2019s Investigating Megaspeed** - _NYT; 2026-11-17 15:34 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html)\n8. **Nvidia shares try to rebound ahead of earnings as company reels from Huang resignation** - _CNBC; 2026-11-17 15:17 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html)\n\n## Emerging themes\n\n- **nvidia** - 16 articles, 4 publisher(s), avg sentiment -0.12\n- **jensen huang** - 9 articles, 4 publisher(s), avg sentiment -0.08\n- **artificial intelligence** - 6 articles, 3 publisher(s), avg sentiment -0.32\n- **company** - 9 articles, 4 publisher(s), avg sentiment -0.12\n- **ceo** - 9 articles, 3 publisher(s), avg sentiment -0.16\n- **trump** - 8 articles, 4 publisher(s), avg sentiment -0.05\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 7 / Neutral 34 / Negative 19; mean -0.10.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: California sues OpenAI over safety concerns after rogue agent hacking (https://theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit)\n- The Guardian reported a negative-toned story: UK unemployment unexpectedly eases to 4.6% as government releases Milburn report (https://theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report)\n- NYT reported a negative-toned story: California Sues OpenAI Over A.I. Safety Issues (https://nytimes.com/2026/11/16/technology/california-openai-ai-safety.html)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- NYT - [Trump\u2019s New A.I. Chip Rules Rattle Southeast Asia](https://nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html) (2026-11-17 16:42 UTC; collected 2026-11-17 16:47 UTC)\n- BBC - [Jensen Huang says he would return as Nvidia boss if asked by the board](https://bbc.co.uk/news/articles/cwx2en2vrxmdo?at_campaign=rss&at_medium=RSS) (2026-11-17 16:39 UTC; collected 2026-11-17 16:47 UTC)\n- The Guardian - [Markets drop ahead of Nvidia\u2019s results; Jensen Huang says he\u2019d be \u2018honoured\u2019 to return as CEO \u2013 business live](https://theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates) (2026-11-17 16:39 UTC; collected 2026-11-17 16:47 UTC)\n- CNBC - [Former Nvidia CEO Jensen Huang says he\u2019s open to returning in first statement since resignation](https://cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html) (2026-11-17 16:30 UTC; collected 2026-11-17 16:47 UTC)\n- NYT - [Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs](https://nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html) (2026-11-17 16:21 UTC; collected 2026-11-17 16:47 UTC)\n- NYT - [Jensen Huang Says He Would Return to Nvidia if Asked](https://nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html) (2026-11-17 16:21 UTC; collected 2026-11-17 16:47 UTC)\n- NYT - [Facing Criticism, Trump Administration Says It\u2019s Investigating Megaspeed](https://nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html) (2026-11-17 15:34 UTC; collected 2026-11-17 16:47 UTC)\n- CNBC - [Nvidia shares try to rebound ahead of earnings as company reels from Huang resignation](https://cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html) (2026-11-17 15:17 UTC; collected 2026-11-17 16:47 UTC)\n- The Guardian - [Markets drop ahead of Nvidia\u2019s results; Jensen Huang says he\u2019d be \u2018honoured\u2019 to return as CEO \u2013 business live](https://theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates) (2026-11-17 16:27 UTC; collected 2026-11-17 16:47 UTC)\n- NYT - [Jensen Huang Says He Would Return to Nvidia if Asked](https://nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html) (2026-11-17 16:21 UTC; collected 2026-11-17 16:47 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-17\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-16 16:47 UTC and 2026-11-17 16:47 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 7 positive, 34 neutral, 19 negative (mean score -0.10). The most recurring theme was \"nvidia\".\n\nKey developments:\n- Trump\u2019s New A.I. Chip Rules Rattle Southeast Asia (NYT) https://nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html\n- Jensen Huang says he would return as Nvidia boss if asked by the board (BBC) https://bbc.co.uk/news/articles/cwx2en2vrxmdo?at_campaign=rss&at_medium=RSS\n- Markets drop ahead of Nvidia\u2019s results; Jensen Huang says he\u2019d be \u2018honoured\u2019 to return as CEO \u2013 business live (The Guardian) https://theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates\n- Former Nvidia CEO Jensen Huang says he\u2019s open to returning in first statement since resignation (CNBC) https://cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html\n- Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs (NYT) https://nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
