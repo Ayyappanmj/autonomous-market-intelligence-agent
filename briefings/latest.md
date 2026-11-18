@@ -1,60 +1,60 @@
-# Market Intelligence Briefing - 2026-11-17
+# Market Intelligence Briefing - 2026-11-18
 
-**Reporting period:** 2026-11-16 16:47 UTC to 2026-11-17 16:47 UTC  
+**Reporting period:** 2026-11-17 16:19 UTC to 2026-11-18 16:19 UTC  
 **Topics:** ai, economy, markets, technology  
 **Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text
 
 ## Executive summary
 
-Between 2026-11-16 16:47 UTC and 2026-11-17 16:47 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 7 positive, 34 neutral, 19 negative (mean score -0.10). The most recurring theme was "nvidia".
+Between 2026-11-17 16:19 UTC and 2026-11-18 16:19 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 9 positive, 37 neutral, 14 negative (mean score -0.02). The most recurring theme was "nvidia".
 
 ## Key developments
 
-1. **Trump’s New A.I. Chip Rules Rattle Southeast Asia** - _NYT; 2026-11-17 16:42 UTC; single-source, attributed_  
-   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  
-   Sources: [1](https://nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html)
-2. **Jensen Huang says he would return as Nvidia boss if asked by the board** - _BBC; 2026-11-17 16:39 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://bbc.co.uk/news/articles/cwx2en2vrxmdo?at_campaign=rss&at_medium=RSS)
-3. **Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – business live** - _The Guardian; 2026-11-17 16:39 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates)
-4. **Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation** - _CNBC; 2026-11-17 16:30 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html)
-5. **Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs** - _NYT; 2026-11-17 16:21 UTC; single-source, attributed_  
+1. **ECB President Christine Lagarde on Why She’s Stepping Down Early** - _NYT; 2026-11-18 16:14 UTC; single-source, attributed_  
    Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
-   Sources: [1](https://nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html)
-6. **Jensen Huang Says He Would Return to Nvidia if Asked** - _NYT; 2026-11-17 16:21 UTC; single-source, attributed_  
+   Sources: [1](https://nytimes.com/2026/11/18/business/dealbook/christine-lagarde-european-central-bank.html)
+2. **US senators urge White House AI chief to fix vulnerabilities after mass outages** - _The Guardian; 2026-11-18 15:53 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html)
-7. **Facing Criticism, Trump Administration Says It’s Investigating Megaspeed** - _NYT; 2026-11-17 15:34 UTC; single-source, attributed_  
+   Sources: [1](https://theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure)
+3. **Nvidia sinks after earnings, dragging down neoclouds** - _CNBC; 2026-11-18 15:48 UTC; single-source, attributed_  
+   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
+   Sources: [1](https://cnbc.com/2026/11/18/nvidia-stock-earnings.html)
+4. **Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked** - _CNBC; 2026-11-18 15:35 UTC; single-source, attributed_  
    Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  
-   Sources: [1](https://nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html)
-8. **Nvidia shares try to rebound ahead of earnings as company reels from Huang resignation** - _CNBC; 2026-11-17 15:17 UTC; single-source, attributed_  
+   Sources: [1](https://cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html)
+5. **Google Buys Worker Data From Spirit Airlines in a New Market to Feed A.I.** - _NYT; 2026-11-18 15:29 UTC; single-source, attributed_  
+   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  
+   Sources: [1](https://nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html)
+6. **The reboot of poor Jensen Huang almost worked. But who can explain away 30 leather jackets? | Emma Brockes** - _The Guardian; 2026-11-18 15:28 UTC; single-source, attributed_  
+   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  
+   Sources: [1](https://theguardian.com/commentisfree/2026/nov/18/jensen-huang-leather-jacket-tech-titan-share-collapse)
+7. **Hospitals Rush to Patch Java Vulnerabilities** - _NYT; 2026-11-18 15:27 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html)
+   Sources: [1](https://nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html)
+8. **Anthropic IPO: AI lab considers increasing the offering as investor demand surges** - _CNBC; 2026-11-18 15:19 UTC; single-source, attributed_  
+   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
+   Sources: [1](https://cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html)
 
 ## Emerging themes
 
-- **nvidia** - 16 articles, 4 publisher(s), avg sentiment -0.12
-- **jensen huang** - 9 articles, 4 publisher(s), avg sentiment -0.08
-- **artificial intelligence** - 6 articles, 3 publisher(s), avg sentiment -0.32
-- **company** - 9 articles, 4 publisher(s), avg sentiment -0.12
-- **ceo** - 9 articles, 3 publisher(s), avg sentiment -0.16
-- **trump** - 8 articles, 4 publisher(s), avg sentiment -0.05
+- **nvidia** - 13 articles, 4 publisher(s), avg sentiment -0.03
+- **jensen huang** - 7 articles, 4 publisher(s), avg sentiment +0.11
+- **tech** - 8 articles, 3 publisher(s), avg sentiment -0.09
+- **government** - 7 articles, 2 publisher(s), avg sentiment -0.06
+- **company** - 7 articles, 4 publisher(s), avg sentiment +0.06
+- **outages** - 7 articles, 4 publisher(s), avg sentiment -0.16
 
 ## Sentiment overview
 
-Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 7 / Neutral 34 / Negative 19; mean -0.10.
+Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 9 / Neutral 37 / Negative 14; mean -0.02.
 
 _Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._
 
 ## Risks
 
-- The Guardian reported a negative-toned story: California sues OpenAI over safety concerns after rogue agent hacking (https://theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit)
-- The Guardian reported a negative-toned story: UK unemployment unexpectedly eases to 4.6% as government releases Milburn report (https://theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report)
-- NYT reported a negative-toned story: California Sues OpenAI Over A.I. Safety Issues (https://nytimes.com/2026/11/16/technology/california-openai-ai-safety.html)
+- The Guardian reported a negative-toned story: Ministers to drop foie gras imports ban to help seal EU food trade deal (https://theguardian.com/politics/2026/nov/18/labour-drops-foie-gras-import-ban-eu-food-trade-deal)
+- The Guardian reported a negative-toned story: Burnham considering cuts to national insurance to create more youth jobs (https://theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report)
+- CNBC reported a negative-toned story: Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick probe (https://cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html)
 
 ## Uncertainties
 
@@ -67,16 +67,14 @@ Passed: True; revisions: 0; unsupported claims removed: 0.
 
 ## Source references
 
-- NYT - [Trump’s New A.I. Chip Rules Rattle Southeast Asia](https://nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html) (2026-11-17 16:42 UTC; collected 2026-11-17 16:47 UTC)
-- BBC - [Jensen Huang says he would return as Nvidia boss if asked by the board](https://bbc.co.uk/news/articles/cwx2en2vrxmdo?at_campaign=rss&at_medium=RSS) (2026-11-17 16:39 UTC; collected 2026-11-17 16:47 UTC)
-- The Guardian - [Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – business live](https://theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates) (2026-11-17 16:39 UTC; collected 2026-11-17 16:47 UTC)
-- CNBC - [Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation](https://cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html) (2026-11-17 16:30 UTC; collected 2026-11-17 16:47 UTC)
-- NYT - [Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs](https://nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html) (2026-11-17 16:21 UTC; collected 2026-11-17 16:47 UTC)
-- NYT - [Jensen Huang Says He Would Return to Nvidia if Asked](https://nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html) (2026-11-17 16:21 UTC; collected 2026-11-17 16:47 UTC)
-- NYT - [Facing Criticism, Trump Administration Says It’s Investigating Megaspeed](https://nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html) (2026-11-17 15:34 UTC; collected 2026-11-17 16:47 UTC)
-- CNBC - [Nvidia shares try to rebound ahead of earnings as company reels from Huang resignation](https://cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html) (2026-11-17 15:17 UTC; collected 2026-11-17 16:47 UTC)
-- The Guardian - [Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – business live](https://theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates) (2026-11-17 16:27 UTC; collected 2026-11-17 16:47 UTC)
-- NYT - [Jensen Huang Says He Would Return to Nvidia if Asked](https://nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html) (2026-11-17 16:21 UTC; collected 2026-11-17 16:47 UTC)
+- NYT - [ECB President Christine Lagarde on Why She’s Stepping Down Early](https://nytimes.com/2026/11/18/business/dealbook/christine-lagarde-european-central-bank.html) (2026-11-18 16:14 UTC; collected 2026-11-18 16:19 UTC)
+- The Guardian - [US senators urge White House AI chief to fix vulnerabilities after mass outages](https://theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure) (2026-11-18 15:53 UTC; collected 2026-11-18 16:19 UTC)
+- CNBC - [Nvidia sinks after earnings, dragging down neoclouds](https://cnbc.com/2026/11/18/nvidia-stock-earnings.html) (2026-11-18 15:48 UTC; collected 2026-11-18 16:19 UTC)
+- CNBC - [Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked](https://cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html) (2026-11-18 15:35 UTC; collected 2026-11-18 16:19 UTC)
+- NYT - [Google Buys Worker Data From Spirit Airlines in a New Market to Feed A.I.](https://nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html) (2026-11-18 15:29 UTC; collected 2026-11-18 16:19 UTC)
+- The Guardian - [The reboot of poor Jensen Huang almost worked. But who can explain away 30 leather jackets? | Emma Brockes](https://theguardian.com/commentisfree/2026/nov/18/jensen-huang-leather-jacket-tech-titan-share-collapse) (2026-11-18 15:28 UTC; collected 2026-11-18 16:19 UTC)
+- NYT - [Hospitals Rush to Patch Java Vulnerabilities](https://nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html) (2026-11-18 15:27 UTC; collected 2026-11-18 16:19 UTC)
+- CNBC - [Anthropic IPO: AI lab considers increasing the offering as investor demand surges](https://cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html) (2026-11-18 15:19 UTC; collected 2026-11-18 16:19 UTC)
 
 ---
 Headlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.

@@ -1,0 +1,459 @@
+{
+  "id": "146463aed818",
+  "generated_at": "2026-11-18T16:19:06.542728Z",
+  "period_start": "2026-11-17T16:19:06.542728Z",
+  "period_end": "2026-11-18T16:19:06.542728Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-17 16:19 UTC and 2026-11-18 16:19 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 9 positive, 37 neutral, 14 negative (mean score -0.02). The most recurring theme was \"nvidia\".",
+  "key_developments": [
+    {
+      "text": "ECB President Christine Lagarde on Why She\u2019s Stepping Down Early",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/18/business/dealbook/christine-lagarde-european-central-bank.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-18T16:14:30Z"
+    },
+    {
+      "text": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-18T15:53:10Z"
+    },
+    {
+      "text": "Nvidia sinks after earnings, dragging down neoclouds",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/18/nvidia-stock-earnings.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-18T15:48:12Z"
+    },
+    {
+      "text": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-18T15:35:37Z"
+    },
+    {
+      "text": "Google Buys Worker Data From Spirit Airlines in a New Market to Feed A.I.",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-18T15:29:42Z"
+    },
+    {
+      "text": "The reboot of poor Jensen Huang almost worked. But who can explain away 30 leather jackets? | Emma Brockes",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/commentisfree/2026/nov/18/jensen-huang-leather-jacket-tech-titan-share-collapse"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-18T15:28:25Z"
+    },
+    {
+      "text": "Hospitals Rush to Patch Java Vulnerabilities",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-18T15:27:41Z"
+    },
+    {
+      "text": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-18T15:19:53Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "nvidia",
+      "article_count": 13,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+        "https://cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
+        "https://nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
+        "https://cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
+        "https://cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html"
+      ],
+      "avg_sentiment": -0.026,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "jensen huang",
+      "article_count": 7,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/commentisfree/2026/nov/18/jensen-huang-leather-jacket-tech-titan-share-collapse",
+        "https://nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
+        "https://bbc.co.uk/news/articles/c68798vdprwpo?at_campaign=rss&at_medium=RSS",
+        "https://cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+        "https://bbc.co.uk/news/articles/cm2kl50vkwkdo?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": 0.106,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "tech",
+      "article_count": 8,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+        "https://theguardian.com/commentisfree/2026/nov/18/jensen-huang-leather-jacket-tech-titan-share-collapse",
+        "https://theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+        "https://bbc.co.uk/news/articles/c6z0kly2lll7o?at_campaign=rss&at_medium=RSS",
+        "https://cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html"
+      ],
+      "avg_sentiment": -0.087,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "government",
+      "article_count": 7,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+        "https://theguardian.com/politics/2026/nov/18/labour-drops-foie-gras-import-ban-eu-food-trade-deal",
+        "https://theguardian.com/music/2026/nov/18/elton-john-ai-campaign-australia-artists-aria-awards-copyright",
+        "https://theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise",
+        "https://theguardian.com/world/2026/nov/18/potato-war-japan-76-year-ban-american-imported-potatoes"
+      ],
+      "avg_sentiment": -0.063,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "company",
+      "article_count": 7,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+        "https://nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html",
+        "https://cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html",
+        "https://nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
+        "https://bbc.co.uk/news/articles/cmd7159vlr85o?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": 0.055,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "outages",
+      "article_count": 7,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+        "https://cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+        "https://theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+        "https://bbc.co.uk/news/articles/c6z0kly2lll7o?at_campaign=rss&at_medium=RSS",
+        "https://bbc.co.uk/news/videos/cx1l0vm87yl9o?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": -0.157,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 9,
+    "neutral": 37,
+    "negative": 14,
+    "mean_score": -0.023,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Ministers to drop foie gras imports ban to help seal EU food trade deal (https://theguardian.com/politics/2026/nov/18/labour-drops-foie-gras-import-ban-eu-food-trade-deal)",
+    "The Guardian reported a negative-toned story: Burnham considering cuts to national insurance to create more youth jobs (https://theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report)",
+    "CNBC reported a negative-toned story: Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick probe (https://cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "22227975885fc32f",
+      "title": "ECB President Christine Lagarde on Why She\u2019s Stepping Down Early",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/18/business/dealbook/christine-lagarde-european-central-bank.html",
+      "summary": "The president of the European Central Bank said she wanted to use her voice and decades of experience against what she said was \u201cfake news\u201d and \u201cmisrepresentations\u201d in European elections.",
+      "published_at": "2026-11-18T16:14:30Z",
+      "collected_at": "2026-11-18T16:19:06.542728Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "f457fa2439c83d22",
+      "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+      "summary": "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happen US politics live \u2013 latest updates A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix vulnerabilities in the US\u2019s infrastructure following nationwide outages at major companies and government agencies. Maria Cantwell, the top Democrat on the Senate commerce, science, and transportation committee, and Mike Rounds, th",
+      "published_at": "2026-11-18T15:53:10Z",
+      "collected_at": "2026-11-18T16:19:06.542728Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "cc95845940389688",
+      "title": "Nvidia sinks after earnings, dragging down neoclouds",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+      "summary": "Nvidia's earnings come at a tumultuous time for the company.",
+      "published_at": "2026-11-18T15:48:12Z",
+      "collected_at": "2026-11-18T16:19:06.542728Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "ce7c870f1848b6dc",
+      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+      "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+      "published_at": "2026-11-18T15:35:37Z",
+      "collected_at": "2026-11-18T16:19:06.542728Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": -0.4019,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "bcfba7f005806357",
+      "title": "Google Buys Worker Data From Spirit Airlines in a New Market to Feed A.I.",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html",
+      "summary": "A flight attendants\u2019 union challenged Google\u2019s plans to protect personal information in the data in court, saying the company\u2019s measures were not enough to protect Spirit\u2019s employees.",
+      "published_at": "2026-11-18T15:29:42Z",
+      "collected_at": "2026-11-18T16:19:06.542728Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "technology",
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "1eb017da246f5bb7",
+      "title": "The reboot of poor Jensen Huang almost worked. But who can explain away 30 leather jackets? | Emma Brockes",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/18/jensen-huang-leather-jacket-tech-titan-share-collapse",
+      "summary": "He seemed like the thinking person\u2019s tech titan. But then came the affairs, the share collapse \u2013 and of course, the sorry items in his wardrobe A few years ago, I attended a small dinner at a friend\u2019s house in the US at which a tech billionaire was the guest of honour. He wasn\u2019t one of the most famous tech billionaires \u2013 I\u2019d never heard of him, although I used his communications platform every day. Nonetheless, it was exciting to get up close to someone that staggeringly rich to see if he was di",
+      "published_at": "2026-11-18T15:28:25Z",
+      "collected_at": "2026-11-18T16:19:06.542728Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "406b1caa4e1c3ea3",
+      "title": "Hospitals Rush to Patch Java Vulnerabilities",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html",
+      "summary": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years.",
+      "published_at": "2026-11-18T15:27:41Z",
+      "collected_at": "2026-11-18T16:19:06.542728Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "bd17e1a66ae448f8",
+      "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol \"ANT\" on Thursday.",
+      "published_at": "2026-11-18T15:19:53Z",
+      "collected_at": "2026-11-18T16:19:06.542728Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": 0.5423,
+      "sentiment_label": "positive",
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "ECB President Christine Lagarde on Why She\u2019s Stepping Down Early",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/18/business/dealbook/christine-lagarde-european-central-bank.html"
+        ]
+      },
+      {
+        "claim": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure"
+        ]
+      },
+      {
+        "claim": "Nvidia sinks after earnings, dragging down neoclouds",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/18/nvidia-stock-earnings.html"
+        ]
+      },
+      {
+        "claim": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html"
+        ]
+      },
+      {
+        "claim": "Google Buys Worker Data From Spirit Airlines in a New Market to Feed A.I.",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html"
+        ]
+      },
+      {
+        "claim": "The reboot of poor Jensen Huang almost worked. But who can explain away 30 leather jackets? | Emma Brockes",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/commentisfree/2026/nov/18/jensen-huang-leather-jacket-tech-titan-share-collapse"
+        ]
+      },
+      {
+        "claim": "Hospitals Rush to Patch Java Vulnerabilities",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html"
+        ]
+      },
+      {
+        "claim": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-18\n\n**Reporting period:** 2026-11-17 16:19 UTC to 2026-11-18 16:19 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-17 16:19 UTC and 2026-11-18 16:19 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 9 positive, 37 neutral, 14 negative (mean score -0.02). The most recurring theme was \"nvidia\".\n\n## Key developments\n\n1. **ECB President Christine Lagarde on Why She\u2019s Stepping Down Early** - _NYT; 2026-11-18 16:14 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/11/18/business/dealbook/christine-lagarde-european-central-bank.html)\n2. **US senators urge White House AI chief to fix vulnerabilities after mass outages** - _The Guardian; 2026-11-18 15:53 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure)\n3. **Nvidia sinks after earnings, dragging down neoclouds** - _CNBC; 2026-11-18 15:48 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/18/nvidia-stock-earnings.html)\n4. **Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked** - _CNBC; 2026-11-18 15:35 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html)\n5. **Google Buys Worker Data From Spirit Airlines in a New Market to Feed A.I.** - _NYT; 2026-11-18 15:29 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html)\n6. **The reboot of poor Jensen Huang almost worked. But who can explain away 30 leather jackets? | Emma Brockes** - _The Guardian; 2026-11-18 15:28 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/commentisfree/2026/nov/18/jensen-huang-leather-jacket-tech-titan-share-collapse)\n7. **Hospitals Rush to Patch Java Vulnerabilities** - _NYT; 2026-11-18 15:27 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html)\n8. **Anthropic IPO: AI lab considers increasing the offering as investor demand surges** - _CNBC; 2026-11-18 15:19 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html)\n\n## Emerging themes\n\n- **nvidia** - 13 articles, 4 publisher(s), avg sentiment -0.03\n- **jensen huang** - 7 articles, 4 publisher(s), avg sentiment +0.11\n- **tech** - 8 articles, 3 publisher(s), avg sentiment -0.09\n- **government** - 7 articles, 2 publisher(s), avg sentiment -0.06\n- **company** - 7 articles, 4 publisher(s), avg sentiment +0.06\n- **outages** - 7 articles, 4 publisher(s), avg sentiment -0.16\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 9 / Neutral 37 / Negative 14; mean -0.02.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Ministers to drop foie gras imports ban to help seal EU food trade deal (https://theguardian.com/politics/2026/nov/18/labour-drops-foie-gras-import-ban-eu-food-trade-deal)\n- The Guardian reported a negative-toned story: Burnham considering cuts to national insurance to create more youth jobs (https://theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report)\n- CNBC reported a negative-toned story: Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick probe (https://cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- NYT - [ECB President Christine Lagarde on Why She\u2019s Stepping Down Early](https://nytimes.com/2026/11/18/business/dealbook/christine-lagarde-european-central-bank.html) (2026-11-18 16:14 UTC; collected 2026-11-18 16:19 UTC)\n- The Guardian - [US senators urge White House AI chief to fix vulnerabilities after mass outages](https://theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure) (2026-11-18 15:53 UTC; collected 2026-11-18 16:19 UTC)\n- CNBC - [Nvidia sinks after earnings, dragging down neoclouds](https://cnbc.com/2026/11/18/nvidia-stock-earnings.html) (2026-11-18 15:48 UTC; collected 2026-11-18 16:19 UTC)\n- CNBC - [Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked](https://cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html) (2026-11-18 15:35 UTC; collected 2026-11-18 16:19 UTC)\n- NYT - [Google Buys Worker Data From Spirit Airlines in a New Market to Feed A.I.](https://nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html) (2026-11-18 15:29 UTC; collected 2026-11-18 16:19 UTC)\n- The Guardian - [The reboot of poor Jensen Huang almost worked. But who can explain away 30 leather jackets? | Emma Brockes](https://theguardian.com/commentisfree/2026/nov/18/jensen-huang-leather-jacket-tech-titan-share-collapse) (2026-11-18 15:28 UTC; collected 2026-11-18 16:19 UTC)\n- NYT - [Hospitals Rush to Patch Java Vulnerabilities](https://nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html) (2026-11-18 15:27 UTC; collected 2026-11-18 16:19 UTC)\n- CNBC - [Anthropic IPO: AI lab considers increasing the offering as investor demand surges](https://cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html) (2026-11-18 15:19 UTC; collected 2026-11-18 16:19 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-18\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-17 16:19 UTC and 2026-11-18 16:19 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 9 positive, 37 neutral, 14 negative (mean score -0.02). The most recurring theme was \"nvidia\".\n\nKey developments:\n- ECB President Christine Lagarde on Why She\u2019s Stepping Down Early (NYT) https://nytimes.com/2026/11/18/business/dealbook/christine-lagarde-european-central-bank.html\n- US senators urge White House AI chief to fix vulnerabilities after mass outages (The Guardian) https://theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure\n- Nvidia sinks after earnings, dragging down neoclouds (CNBC) https://cnbc.com/2026/11/18/nvidia-stock-earnings.html\n- Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked (CNBC) https://cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html\n- Google Buys Worker Data From Spirit Airlines in a New Market to Feed A.I. (NYT) https://nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
