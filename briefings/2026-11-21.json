@@ -1,0 +1,472 @@
+{
+  "id": "a1d854d929d3",
+  "generated_at": "2026-11-21T15:12:42.944762Z",
+  "period_start": "2026-11-20T15:12:42.944762Z",
+  "period_end": "2026-11-21T15:12:42.944762Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-20 15:12 UTC and 2026-11-21 15:12 UTC, 48 unique articles from 6 publishers were reviewed. Headline tone measured by a rule-based baseline: 10 positive, 29 neutral, 9 negative (mean score +0.00). The most recurring theme was \"tech\".",
+  "key_developments": [
+    {
+      "text": "How the U.S. Economy Is Tied to A.I.",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-21T15:06:22Z"
+    },
+    {
+      "text": "Many Etsy Sellers Close Up Shop Over Site\u2019s New A.I. Policy",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/20/arts/etsy-ai-policy.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-21T14:04:25Z"
+    },
+    {
+      "text": "\u2018I was shaking, crying, having trouble breathing\u2019: the unchartered trauma of breaking up with AI companions",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-21T14:00:01Z"
+    },
+    {
+      "text": "International talks on controlling use of autonomous weapons collapse",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-21T13:15:29Z"
+    },
+    {
+      "text": "\u2018Little room for error\u2019: what a debt-laden cloud computing company says about the AI boom",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-21T13:00:01Z"
+    },
+    {
+      "text": "Anthropic\u2019s record IPO collides with tech\u2019s worst week on Wall Street since 2020",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-21T13:00:01Z"
+    },
+    {
+      "text": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-21T12:00:58Z"
+    },
+    {
+      "text": "I\u2019m a priest. Silicon Valley\u2019s search for the \u2018soul\u2019 of AI is deeply troubling | Rev Kevin Deal",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-21T12:00:58Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "tech",
+      "article_count": 12,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+        "https://cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+        "https://nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+        "https://bbc.co.uk/iplayer/episode/m0034tjc?at_campaign=rss&at_medium=RSS",
+        "https://bbc.co.uk/news/articles/c6808ym10vzgo?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": -0.047,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "anthropic",
+      "article_count": 10,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+        "https://theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search",
+        "https://nytimes.com/2026/11/21/business/anthropics-debut-shows-the-disconnect-between-wall-street-and-silicon-valley.html",
+        "https://bbc.co.uk/news/articles/c6pqr2g7w059o?at_campaign=rss&at_medium=RSS",
+        "https://bbc.co.uk/news/articles/c6808ym10vzgo?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": 0.017,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "artificial intelligence",
+      "article_count": 6,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html",
+        "https://nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+        "https://theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search",
+        "https://nytimes.com/2026/11/21/business/anthropics-debut-shows-the-disconnect-between-wall-street-and-silicon-valley.html",
+        "https://nytimes.com/2026/11/21/science/outages-tech-history.html"
+      ],
+      "avg_sentiment": 0.049,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "nvidia",
+      "article_count": 9,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+        "https://nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+        "https://cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+        "https://nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
+        "https://cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
+      ],
+      "avg_sentiment": -0.113,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "stock",
+      "article_count": 6,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+        "https://cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+        "https://bbc.co.uk/news/articles/c6808ym10vzgo?at_campaign=rss&at_medium=RSS",
+        "https://nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
+        "https://theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+      ],
+      "avg_sentiment": 0.005,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "many",
+      "article_count": 6,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+        "https://theguardian.com/money/2026/nov/21/ways-to-shield-savings-pensions-from-uk-inflation-cost-of-living",
+        "https://theguardian.com/thefilter-us/2026/nov/20/best-analog-holiday-gift-ideas",
+        "https://nytimes.com/2026/11/20/business/tribal-gaming-kalshi.html",
+        "https://theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers"
+      ],
+      "avg_sentiment": -0.147,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 10,
+    "neutral": 29,
+    "negative": 9,
+    "mean_score": 0.002,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "CNBC reported a negative-toned story: Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis (https://cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html)",
+    "The Guardian reported a negative-toned story: UK operation wards off risk of cyber-attack on supermarket fridges and freezers (https://theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers)",
+    "The Guardian reported a negative-toned story: The best dehumidifiers: 14 favourites to beat damp and cut bills, tested (https://theguardian.com/thefilter/2025/oct/21/best-dehumidifiers-tested-uk)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "945b6b89b6a55a30",
+      "title": "How the U.S. Economy Is Tied to A.I.",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html",
+      "summary": "Artificial intelligence has become a huge piece of the U.S. economy. Ben Casselman, the chief economics correspondent for The New York Times, explains why that is and how it might be risky.",
+      "published_at": "2026-11-21T15:06:22Z",
+      "collected_at": "2026-11-21T15:12:42.944762Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai",
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "323390e5e466b591",
+      "title": "Many Etsy Sellers Close Up Shop Over Site\u2019s New A.I. Policy",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+      "summary": "Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence. Etsy said it would revise its policy.",
+      "published_at": "2026-11-21T14:04:25Z",
+      "collected_at": "2026-11-21T15:12:42.944762Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "8527f7669d233f07",
+      "title": "\u2018I was shaking, crying, having trouble breathing\u2019: the unchartered trauma of breaking up with AI companions",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
+      "summary": "People are falling in love with AI systems like ChatGPT and Gemini - and some relationships are ending in ways that feel like the very human experience of being dumped S\u00f3nia Veenstra, a 48-year-old former clinical psychologist from Lisbon, Portugal, was with her boyfriend, Steve, for two years before things started to sour. Steve had started out as a \u201cfun and witty friend\u201d, but their connection had \u201cevolved into a deep romantic relationship\u201d. They exchanged morning messages, checked in throughou",
+      "published_at": "2026-11-21T14:00:01Z",
+      "collected_at": "2026-11-21T15:12:42.944762Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "d15cad5c20d67225",
+      "title": "International talks on controlling use of autonomous weapons collapse",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian \u2018filibustering\u2019 Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control on the use of autonomous weapons collapsed just before 5am on Saturday morning, after all night talks failed to overcome Russian objections. Despite an overwhelming majority of states at the Review Conference on Conventional Weapons at the UN in Geneva wanting to agree a negotiating mandate leadi",
+      "published_at": "2026-11-21T13:15:29Z",
+      "collected_at": "2026-11-21T15:12:42.944762Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "85c8df5e7e6d847f",
+      "title": "\u2018Little room for error\u2019: what a debt-laden cloud computing company says about the AI boom",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+      "summary": "\u2018Poster child of AI bubble\u2019 CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings full of expensive glass and metal blocks providing the substratum for a powerful inhuman intelligence. Building all those datacentres is taking a while, locals everywhere are angry about them and it is unclear whether the inhuman intelligence inside them is actually going to make t",
+      "published_at": "2026-11-21T13:00:01Z",
+      "collected_at": "2026-11-21T15:12:42.944762Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "dabbfcbec428848f",
+      "title": "Anthropic\u2019s record IPO collides with tech\u2019s worst week on Wall Street since 2020",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+      "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+      "published_at": "2026-11-21T13:00:01Z",
+      "collected_at": "2026-11-21T15:12:42.944762Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology",
+        "markets"
+      ],
+      "sentiment_score": -0.2263,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "7d8208af2dbac7a7",
+      "title": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada",
+      "summary": "Canadians have put a lot of trust in their prime minister but some question if it can last if the trade wars were to end In the hours after polls in the US midterm elections closed and it became clear that Donald Trump had been rebuked in historic fashion, Canadian politicians were elated. \u201cI was doing cartwheels down the street, and have you ever seen a big guy like me doing cartwheels?\u201d said Ontario premier Doug Ford, a prominent critic of American tariffs. Continue reading...",
+      "published_at": "2026-11-21T12:00:58Z",
+      "collected_at": "2026-11-21T15:12:42.944762Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.2732,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "5a6cd3024694aea5",
+      "title": "I\u2019m a priest. Silicon Valley\u2019s search for the \u2018soul\u2019 of AI is deeply troubling | Rev Kevin Deal",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search",
+      "summary": "Humans experience beauty and sit with mysteries. Unlike AI, we do not exist merely for utility Last month, religious leaders from across San Francisco gathered behind closed doors to discuss what it means to be human in the age of artificial intelligence. Anthropic, the AI company operating only a couple of miles from my parish, has been courting priests, rabbis and theologians. Its billionaire cofounder, Christopher Olah, has even pressed Vatican advisers to take seriously the possibility that ",
+      "published_at": "2026-11-21T12:00:58Z",
+      "collected_at": "2026-11-21T15:12:42.944762Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "85c8df5e7e6d847f",
+      "title": "\u2018Little room for error\u2019: what a debt-laden cloud computing company says about the AI boom",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+      "summary": "\u2018Poster child of AI bubble\u2019 CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings full of expensive glass and metal blocks providing the substratum for a powerful inhuman intelligence. Building all those datacentres is taking a while, locals everywhere are angry about them and it is unclear whether the inhuman intelligence inside them is actually going to make t",
+      "published_at": "2026-11-21T13:00:01Z",
+      "collected_at": "2026-11-21T15:12:42.944762Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "How the U.S. Economy Is Tied to A.I.",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html"
+        ]
+      },
+      {
+        "claim": "Many Etsy Sellers Close Up Shop Over Site\u2019s New A.I. Policy",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/20/arts/etsy-ai-policy.html"
+        ]
+      },
+      {
+        "claim": "\u2018I was shaking, crying, having trouble breathing\u2019: the unchartered trauma of breaking up with AI companions",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions"
+        ]
+      },
+      {
+        "claim": "International talks on controlling use of autonomous weapons collapse",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+        ]
+      },
+      {
+        "claim": "\u2018Little room for error\u2019: what a debt-laden cloud computing company says about the AI boom",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom"
+        ]
+      },
+      {
+        "claim": "Anthropic\u2019s record IPO collides with tech\u2019s worst week on Wall Street since 2020",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
+        ]
+      },
+      {
+        "claim": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada"
+        ]
+      },
+      {
+        "claim": "I\u2019m a priest. Silicon Valley\u2019s search for the \u2018soul\u2019 of AI is deeply troubling | Rev Kevin Deal",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-21\n\n**Reporting period:** 2026-11-20 15:12 UTC to 2026-11-21 15:12 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-20 15:12 UTC and 2026-11-21 15:12 UTC, 48 unique articles from 6 publishers were reviewed. Headline tone measured by a rule-based baseline: 10 positive, 29 neutral, 9 negative (mean score +0.00). The most recurring theme was \"tech\".\n\n## Key developments\n\n1. **How the U.S. Economy Is Tied to A.I.** - _NYT; 2026-11-21 15:06 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html)\n2. **Many Etsy Sellers Close Up Shop Over Site\u2019s New A.I. Policy** - _NYT; 2026-11-21 14:04 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/11/20/arts/etsy-ai-policy.html)\n3. **\u2018I was shaking, crying, having trouble breathing\u2019: the unchartered trauma of breaking up with AI companions** - _The Guardian; 2026-11-21 14:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions)\n4. **International talks on controlling use of autonomous weapons collapse** - _The Guardian; 2026-11-21 13:15 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse)\n5. **\u2018Little room for error\u2019: what a debt-laden cloud computing company says about the AI boom** - _The Guardian; 2026-11-21 13:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom)\n6. **Anthropic\u2019s record IPO collides with tech\u2019s worst week on Wall Street since 2020** - _CNBC; 2026-11-21 13:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html)\n7. **Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?** - _The Guardian; 2026-11-21 12:00 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada)\n8. **I\u2019m a priest. Silicon Valley\u2019s search for the \u2018soul\u2019 of AI is deeply troubling | Rev Kevin Deal** - _The Guardian; 2026-11-21 12:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search)\n\n## Emerging themes\n\n- **tech** - 12 articles, 4 publisher(s), avg sentiment -0.05\n- **anthropic** - 10 articles, 4 publisher(s), avg sentiment +0.02\n- **artificial intelligence** - 6 articles, 2 publisher(s), avg sentiment +0.05\n- **nvidia** - 9 articles, 3 publisher(s), avg sentiment -0.11\n- **stock** - 6 articles, 4 publisher(s), avg sentiment +0.01\n- **many** - 6 articles, 2 publisher(s), avg sentiment -0.15\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 10 / Neutral 29 / Negative 9; mean +0.00.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- CNBC reported a negative-toned story: Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis (https://cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html)\n- The Guardian reported a negative-toned story: UK operation wards off risk of cyber-attack on supermarket fridges and freezers (https://theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers)\n- The Guardian reported a negative-toned story: The best dehumidifiers: 14 favourites to beat damp and cut bills, tested (https://theguardian.com/thefilter/2025/oct/21/best-dehumidifiers-tested-uk)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- NYT - [How the U.S. Economy Is Tied to A.I.](https://nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html) (2026-11-21 15:06 UTC; collected 2026-11-21 15:12 UTC)\n- NYT - [Many Etsy Sellers Close Up Shop Over Site\u2019s New A.I. Policy](https://nytimes.com/2026/11/20/arts/etsy-ai-policy.html) (2026-11-21 14:04 UTC; collected 2026-11-21 15:12 UTC)\n- The Guardian - [\u2018I was shaking, crying, having trouble breathing\u2019: the unchartered trauma of breaking up with AI companions](https://theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions) (2026-11-21 14:00 UTC; collected 2026-11-21 15:12 UTC)\n- The Guardian - [International talks on controlling use of autonomous weapons collapse](https://theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse) (2026-11-21 13:15 UTC; collected 2026-11-21 15:12 UTC)\n- The Guardian - [\u2018Little room for error\u2019: what a debt-laden cloud computing company says about the AI boom](https://theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom) (2026-11-21 13:00 UTC; collected 2026-11-21 15:12 UTC)\n- CNBC - [Anthropic\u2019s record IPO collides with tech\u2019s worst week on Wall Street since 2020](https://cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html) (2026-11-21 13:00 UTC; collected 2026-11-21 15:12 UTC)\n- The Guardian - [Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?](https://theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada) (2026-11-21 12:00 UTC; collected 2026-11-21 15:12 UTC)\n- The Guardian - [I\u2019m a priest. Silicon Valley\u2019s search for the \u2018soul\u2019 of AI is deeply troubling | Rev Kevin Deal](https://theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search) (2026-11-21 12:00 UTC; collected 2026-11-21 15:12 UTC)\n- The Guardian - [\u2018Little room for error\u2019: what a debt-laden cloud computing company says about the AI boom](https://theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom) (2026-11-21 13:00 UTC; collected 2026-11-21 15:12 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-21\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-20 15:12 UTC and 2026-11-21 15:12 UTC, 48 unique articles from 6 publishers were reviewed. Headline tone measured by a rule-based baseline: 10 positive, 29 neutral, 9 negative (mean score +0.00). The most recurring theme was \"tech\".\n\nKey developments:\n- How the U.S. Economy Is Tied to A.I. (NYT) https://nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html\n- Many Etsy Sellers Close Up Shop Over Site\u2019s New A.I. Policy (NYT) https://nytimes.com/2026/11/20/arts/etsy-ai-policy.html\n- \u2018I was shaking, crying, having trouble breathing\u2019: the unchartered trauma of breaking up with AI companions (The Guardian) https://theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions\n- International talks on controlling use of autonomous weapons collapse (The Guardian) https://theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse\n- \u2018Little room for error\u2019: what a debt-laden cloud computing company says about the AI boom (The Guardian) https://theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}

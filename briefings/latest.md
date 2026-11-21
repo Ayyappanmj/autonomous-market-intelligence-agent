@@ -1,60 +1,60 @@
-# Market Intelligence Briefing - 2026-11-20
+# Market Intelligence Briefing - 2026-11-21
 
-**Reporting period:** 2026-11-19 15:59 UTC to 2026-11-20 15:59 UTC  
+**Reporting period:** 2026-11-20 15:12 UTC to 2026-11-21 15:12 UTC  
 **Topics:** ai, economy, markets, technology  
 **Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text
 
 ## Executive summary
 
-Between 2026-11-19 15:59 UTC and 2026-11-20 15:59 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 17 positive, 26 neutral, 17 negative (mean score -0.02). The most recurring theme was "anthropic".
+Between 2026-11-20 15:12 UTC and 2026-11-21 15:12 UTC, 48 unique articles from 6 publishers were reviewed. Headline tone measured by a rule-based baseline: 10 positive, 29 neutral, 9 negative (mean score +0.00). The most recurring theme was "tech".
 
 ## Key developments
 
-1. **Anthropic stock falls 10% in first full day of trading amid AI sell-off** - _CNBC; 2026-11-20 15:52 UTC; single-source, attributed_  
+1. **How the U.S. Economy Is Tied to A.I.** - _NYT; 2026-11-21 15:06 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html)
-2. **Anthropic shares slump on second day of trading as markets reel AI sell-off** - _The Guardian; 2026-11-20 15:52 UTC; single-source, attributed_  
+   Sources: [1](https://nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html)
+2. **Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy** - _NYT; 2026-11-21 14:04 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
-3. **Anthropic shares fall a day after blockbuster opening** - _BBC; 2026-11-20 15:44 UTC; single-source, attributed_  
+   Sources: [1](https://nytimes.com/2026/11/20/arts/etsy-ai-policy.html)
+3. **‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions** - _The Guardian; 2026-11-21 14:00 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://bbc.co.uk/news/articles/c6808ym10vzgo?at_campaign=rss&at_medium=RSS)
-4. **Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues** - _NYT; 2026-11-20 15:35 UTC; single-source, attributed_  
+   Sources: [1](https://theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions)
+4. **International talks on controlling use of autonomous weapons collapse** - _The Guardian; 2026-11-21 13:15 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html)
-5. **G.T.A. VI Is a Monumental Human Achievement** - _NYT; 2026-11-20 15:19 UTC; single-source, attributed_  
+   Sources: [1](https://theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse)
+5. **‘Little room for error’: what a debt-laden cloud computing company says about the AI boom** - _The Guardian; 2026-11-21 13:00 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html)
-6. **‘Light therapy without remortgaging the house’: the best LED face masks – tested** - _The Guardian; 2026-11-20 15:06 UTC; single-source, attributed_  
-   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  
-   Sources: [1](https://theguardian.com/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks)
-7. **Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment** - _CNBC; 2026-11-20 14:59 UTC; single-source, attributed_  
+   Sources: [1](https://theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom)
+6. **Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020** - _CNBC; 2026-11-21 13:00 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html)
-8. **Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward** - _CNBC; 2026-11-20 14:45 UTC; single-source, attributed_  
-   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  
-   Sources: [1](https://cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html)
+   Sources: [1](https://cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html)
+7. **Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?** - _The Guardian; 2026-11-21 12:00 UTC; single-source, attributed_  
+   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
+   Sources: [1](https://theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada)
+8. **I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal** - _The Guardian; 2026-11-21 12:00 UTC; single-source, attributed_  
+   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
+   Sources: [1](https://theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search)
 
 ## Emerging themes
 
-- **anthropic** - 26 articles, 4 publisher(s), avg sentiment -0.04
-- **stock** - 14 articles, 4 publisher(s), avg sentiment +0.09
-- **public** - 12 articles, 4 publisher(s), avg sentiment +0.21
-- **company** - 11 articles, 4 publisher(s), avg sentiment +0.10
-- **tech** - 11 articles, 4 publisher(s), avg sentiment -0.25
-- **market** - 8 articles, 4 publisher(s), avg sentiment -0.04
+- **tech** - 12 articles, 4 publisher(s), avg sentiment -0.05
+- **anthropic** - 10 articles, 4 publisher(s), avg sentiment +0.02
+- **artificial intelligence** - 6 articles, 2 publisher(s), avg sentiment +0.05
+- **nvidia** - 9 articles, 3 publisher(s), avg sentiment -0.11
+- **stock** - 6 articles, 4 publisher(s), avg sentiment +0.01
+- **many** - 6 articles, 2 publisher(s), avg sentiment -0.15
 
 ## Sentiment overview
 
-Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 17 / Neutral 26 / Negative 17; mean -0.02.
+Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 10 / Neutral 29 / Negative 9; mean +0.00.
 
 _Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._
 
 ## Risks
 
-- CNBC reported a negative-toned story: SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks (https://cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html)
-- CNBC reported a negative-toned story: Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility (https://cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html)
-- BBC reported a negative-toned story: Anthropic shares fall a day after blockbuster opening (https://bbc.co.uk/news/articles/c6808ym10vzgo?at_campaign=rss&at_medium=RSS)
+- CNBC reported a negative-toned story: Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis (https://cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html)
+- The Guardian reported a negative-toned story: UK operation wards off risk of cyber-attack on supermarket fridges and freezers (https://theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers)
+- The Guardian reported a negative-toned story: The best dehumidifiers: 14 favourites to beat damp and cut bills, tested (https://theguardian.com/thefilter/2025/oct/21/best-dehumidifiers-tested-uk)
 
 ## Uncertainties
 
@@ -67,16 +67,15 @@ Passed: True; revisions: 0; unsupported claims removed: 0.
 
 ## Source references
 
-- CNBC - [Anthropic stock falls 10% in first full day of trading amid AI sell-off](https://cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html) (2026-11-20 15:52 UTC; collected 2026-11-20 15:59 UTC)
-- The Guardian - [Anthropic shares slump on second day of trading as markets reel AI sell-off](https://theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off) (2026-11-20 15:52 UTC; collected 2026-11-20 15:59 UTC)
-- BBC - [Anthropic shares fall a day after blockbuster opening](https://bbc.co.uk/news/articles/c6808ym10vzgo?at_campaign=rss&at_medium=RSS) (2026-11-20 15:44 UTC; collected 2026-11-20 15:59 UTC)
-- NYT - [Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues](https://nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html) (2026-11-20 15:35 UTC; collected 2026-11-20 15:59 UTC)
-- NYT - [G.T.A. VI Is a Monumental Human Achievement](https://nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html) (2026-11-20 15:19 UTC; collected 2026-11-20 15:59 UTC)
-- The Guardian - [‘Light therapy without remortgaging the house’: the best LED face masks – tested](https://theguardian.com/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks) (2026-11-20 15:06 UTC; collected 2026-11-20 15:59 UTC)
-- CNBC - [Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment](https://cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html) (2026-11-20 14:59 UTC; collected 2026-11-20 15:59 UTC)
-- CNBC - [Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward](https://cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html) (2026-11-20 14:45 UTC; collected 2026-11-20 15:59 UTC)
-- The Guardian - [Anthropic shares slump on second day of trading as markets reel AI sell-off](https://theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off) (2026-11-20 15:52 UTC; collected 2026-11-20 15:59 UTC)
-- BBC - [Anthropic shares fall a day after blockbuster opening](https://bbc.co.uk/news/articles/c6808ym10vzgo?at_campaign=rss&at_medium=RSS) (2026-11-20 15:44 UTC; collected 2026-11-20 15:59 UTC)
+- NYT - [How the U.S. Economy Is Tied to A.I.](https://nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html) (2026-11-21 15:06 UTC; collected 2026-11-21 15:12 UTC)
+- NYT - [Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy](https://nytimes.com/2026/11/20/arts/etsy-ai-policy.html) (2026-11-21 14:04 UTC; collected 2026-11-21 15:12 UTC)
+- The Guardian - [‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions](https://theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions) (2026-11-21 14:00 UTC; collected 2026-11-21 15:12 UTC)
+- The Guardian - [International talks on controlling use of autonomous weapons collapse](https://theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse) (2026-11-21 13:15 UTC; collected 2026-11-21 15:12 UTC)
+- The Guardian - [‘Little room for error’: what a debt-laden cloud computing company says about the AI boom](https://theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom) (2026-11-21 13:00 UTC; collected 2026-11-21 15:12 UTC)
+- CNBC - [Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020](https://cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html) (2026-11-21 13:00 UTC; collected 2026-11-21 15:12 UTC)
+- The Guardian - [Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?](https://theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada) (2026-11-21 12:00 UTC; collected 2026-11-21 15:12 UTC)
+- The Guardian - [I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal](https://theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search) (2026-11-21 12:00 UTC; collected 2026-11-21 15:12 UTC)
+- The Guardian - [‘Little room for error’: what a debt-laden cloud computing company says about the AI boom](https://theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom) (2026-11-21 13:00 UTC; collected 2026-11-21 15:12 UTC)
 
 ---
 Headlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.
