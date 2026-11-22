@@ -1,0 +1,463 @@
+{
+  "id": "df967b10d3d6",
+  "generated_at": "2026-11-22T15:09:44.648435Z",
+  "period_start": "2026-11-21T15:09:44.648435Z",
+  "period_end": "2026-11-22T15:09:44.648435Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-21 15:09 UTC and 2026-11-22 15:09 UTC, 19 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 10 neutral, 6 negative (mean score -0.07). The most recurring theme was \"since\".",
+  "key_developments": [
+    {
+      "text": "Zohran Mamdani on Trump, Wall Street and Wealth Taxes",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-22T13:00:02Z"
+    },
+    {
+      "text": "South Korean minister quits after AI cheating scandal engulfs university exams",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-22T12:12:08Z"
+    },
+    {
+      "text": "As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-22T12:00:29Z"
+    },
+    {
+      "text": "CEO of funding agency for UK science and research criticised by union over cuts",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-22T12:00:28Z"
+    },
+    {
+      "text": "The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-22T11:24:22Z"
+    },
+    {
+      "text": "Howard Lutnick has been Trump\u2019s ally for decades. His ties to Nvidia may spell his downfall",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-22T11:00:26Z"
+    },
+    {
+      "text": "Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-22T08:00:21Z"
+    },
+    {
+      "text": "Unreal deals: the scam websites targeting Black Friday bargain hunters",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/money/2026/nov/22/black-friday-scam-deals--ai-fake-storefront"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-22T07:00:20Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "since",
+      "article_count": 5,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+        "https://theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
+        "https://theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+        "https://nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+        "https://cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
+      ],
+      "avg_sentiment": -0.115,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "nvidia",
+      "article_count": 4,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
+        "https://nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+        "https://nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
+        "https://nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html"
+      ],
+      "avg_sentiment": -0.08,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "artificial intelligence",
+      "article_count": 2,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
+        "https://theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+      ],
+      "avg_sentiment": 0.0,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "continue reading",
+      "article_count": 2,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos",
+        "https://theguardian.com/money/2026/nov/22/black-friday-scam-deals--ai-fake-storefront"
+      ],
+      "avg_sentiment": 0.0,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "tech outages",
+      "article_count": 2,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
+        "https://nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"
+      ],
+      "avg_sentiment": -0.17,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "wall street",
+      "article_count": 2,
+      "publishers": [
+        "CNBC",
+        "NYT"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
+        "https://cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
+      ],
+      "avg_sentiment": -0.113,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 3,
+    "neutral": 10,
+    "negative": 6,
+    "mean_score": -0.066,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: CEO of funding agency for UK science and research criticised by union over cuts (https://theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri)",
+    "The Guardian reported a negative-toned story: South Korean minister quits after AI cheating scandal engulfs university exams (https://theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams)",
+    "The Guardian reported a negative-toned story: Hacks, AI and conspiracy theories: why are we having so many outages? (https://theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "208ba5317f2e31a6",
+      "title": "Zohran Mamdani on Trump, Wall Street and Wealth Taxes",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
+      "summary": "The mayor of New York City spoke with Andrew Ross Sorkin at the DealBook Summit.",
+      "published_at": "2026-11-22T13:00:02Z",
+      "collected_at": "2026-11-22T15:09:44.648435Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "ba7958514aff33b0",
+      "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+      "summary": "Choi Kyo-jin says he \u2018failed to prepare adequately\u2019 for entrance exams following last-minute scramble to tighten measures South Korea\u2019s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week. The country has been gripped by fears of AI-assisted exam cheating since last Sunday, when the top scorer in a national tax accountancy exam confessed to using a miniature camera and smartphone to achieve a near-perfect sc",
+      "published_at": "2026-11-22T12:12:08Z",
+      "collected_at": "2026-11-22T15:09:44.648435Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": -0.4404,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "2f138f33ab309174",
+      "title": "As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
+      "summary": "All these tech outages are a reminder we\u2019re at the mercy of powers beyond our comprehension. At least in GTA we have control This week marked the release of the highly anticipated video game Grand Theft Auto VI. Millions around the world checked out of their usual responsibilities in order to immerse themselves in a game where you run errands for your girlfriend in between murdering people. I feel completely alone in not caring about GTA VI, as I famously only play video games where you get to b",
+      "published_at": "2026-11-22T12:00:29Z",
+      "collected_at": "2026-11-22T15:09:44.648435Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": -0.34,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "72dd11cc2b126161",
+      "title": "CEO of funding agency for UK science and research criticised by union over cuts",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
+      "summary": "Exclusive: Prospect\u2019s Mike Clancy tells Ian Chapman at UKRI that union has \u2018lost confidence\u2019 in his leadership A trade union that counts scientists and engineers among its members says it has lost confidence in the leader of the UK\u2019s national funding agency for science and research, citing concerns about plans for major cuts. The letter from Mike Clancy, the general secretary of Prospect, to Ian Chapman, the chief executive of UK Research and Innovation (UKRI), is the latest development in a row",
+      "published_at": "2026-11-22T12:00:28Z",
+      "collected_at": "2026-11-22T15:09:44.648435Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.7041,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "38994ba5ef504ebb",
+      "title": "The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
+      "summary": "\u2018Raising growth in every postcode\u2019 has been the PM\u2019s rallying cry but deep regional disparities and rising energy bills pose problems this winter Andy Burnham faces two, related problems: Britain faces deep regional disparities and it is entering the coldest months of the year with rising inflation. Since entering Downing Street, raising \u201cgrowth in every postcode\u201d has been the prime minister\u2019s rallying cry, as he bids to close the gaping chasm in living standards between the richest and poorest ",
+      "published_at": "2026-11-22T11:24:22Z",
+      "collected_at": "2026-11-22T15:09:44.648435Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.4939,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "66527213dfbd6c7c",
+      "title": "Howard Lutnick has been Trump\u2019s ally for decades. His ties to Nvidia may spell his downfall",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
+      "summary": "Billionaire commerce secretary faces scrutiny after sex scandal reveals his role in sales of chips to China Howard Lutnick, the beleaguered US commerce secretary and close ally of Donald Trump , is emerging as Democrats\u2019 prime target when the party takes control of Congress in January. Lutnick is resisting calls to resign amid a bipartisan outcry over his role in the scandal at artificial intelligence (AI) company Nvidia and the sale of microchips to China , the US\u2019s principal geopolitical rival",
+      "published_at": "2026-11-22T11:00:26Z",
+      "collected_at": "2026-11-22T15:09:44.648435Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "b1dd6ce93800f4de",
+      "title": "Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos",
+      "summary": "Findings highlight unscrupulous tactics used by operators in multibillion pound illicit market and challenges facing authorities Prof Heather Wardle has dedicated 20 years to researching the harm caused by gambling. So the University of Glasgow social scientist was horrified to learn that her reputation and even her photograph had been hijacked by rogue casinos claiming her endorsement for the very games whose addictive properties she has documented. Continue reading...",
+      "published_at": "2026-11-22T08:00:21Z",
+      "collected_at": "2026-11-22T15:09:44.648435Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "c489da8a2265b2ab",
+      "title": "Unreal deals: the scam websites targeting Black Friday bargain hunters",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/money/2026/nov/22/black-friday-scam-deals--ai-fake-storefront",
+      "summary": "AI is being used to clone retailers\u2019 sites and \u2018poison\u2019 chatbots into recommending them, experts say Black Friday is coming so you search online for the coat you have been after in the hope you can get it at a good price. Within a few minutes, you find just the right one, in the colour you want and at a huge discount. You decide to take advantage of the bargain quickly and transfer the money then wait for it to be delivered. Continue reading...",
+      "published_at": "2026-11-22T07:00:20Z",
+      "collected_at": "2026-11-22T15:09:44.648435Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "38994ba5ef504ebb",
+      "title": "The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
+      "summary": "\u2018Raising growth in every postcode\u2019 has been the PM\u2019s rallying cry but deep regional disparities and rising energy bills pose problems this winter Andy Burnham faces two, related problems: Britain faces deep regional disparities and it is entering the coldest months of the year with rising inflation. Since entering Downing Street, raising \u201cgrowth in every postcode\u201d has been the prime minister\u2019s rallying cry, as he bids to close the gaping chasm in living standards between the richest and poorest ",
+      "published_at": "2026-11-22T11:24:22Z",
+      "collected_at": "2026-11-22T15:09:44.648435Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "66527213dfbd6c7c",
+      "title": "Howard Lutnick has been Trump\u2019s ally for decades. His ties to Nvidia may spell his downfall",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
+      "summary": "Billionaire commerce secretary faces scrutiny after sex scandal reveals his role in sales of chips to China Howard Lutnick, the beleaguered US commerce secretary and close ally of Donald Trump , is emerging as Democrats\u2019 prime target when the party takes control of Congress in January. Lutnick is resisting calls to resign amid a bipartisan outcry over his role in the scandal at artificial intelligence (AI) company Nvidia and the sale of microchips to China , the US\u2019s principal geopolitical rival",
+      "published_at": "2026-11-22T11:00:26Z",
+      "collected_at": "2026-11-22T15:09:44.648435Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Zohran Mamdani on Trump, Wall Street and Wealth Taxes",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html"
+        ]
+      },
+      {
+        "claim": "South Korean minister quits after AI cheating scandal engulfs university exams",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+        ]
+      },
+      {
+        "claim": "As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming"
+        ]
+      },
+      {
+        "claim": "CEO of funding agency for UK science and research criticised by union over cuts",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri"
+        ]
+      },
+      {
+        "claim": "The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham"
+        ]
+      },
+      {
+        "claim": "Howard Lutnick has been Trump\u2019s ally for decades. His ties to Nvidia may spell his downfall",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china"
+        ]
+      },
+      {
+        "claim": "Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos"
+        ]
+      },
+      {
+        "claim": "Unreal deals: the scam websites targeting Black Friday bargain hunters",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/money/2026/nov/22/black-friday-scam-deals--ai-fake-storefront"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-22\n\n**Reporting period:** 2026-11-21 15:09 UTC to 2026-11-22 15:09 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-21 15:09 UTC and 2026-11-22 15:09 UTC, 19 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 10 neutral, 6 negative (mean score -0.07). The most recurring theme was \"since\".\n\n## Key developments\n\n1. **Zohran Mamdani on Trump, Wall Street and Wealth Taxes** - _NYT; 2026-11-22 13:00 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html)\n2. **South Korean minister quits after AI cheating scandal engulfs university exams** - _The Guardian; 2026-11-22 12:12 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams)\n3. **As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling** - _The Guardian; 2026-11-22 12:00 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming)\n4. **CEO of funding agency for UK science and research criticised by union over cuts** - _The Guardian; 2026-11-22 12:00 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri)\n5. **The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington** - _The Guardian; 2026-11-22 11:24 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham)\n6. **Howard Lutnick has been Trump\u2019s ally for decades. His ties to Nvidia may spell his downfall** - _The Guardian; 2026-11-22 11:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china)\n7. **Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos** - _The Guardian; 2026-11-22 08:00 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos)\n8. **Unreal deals: the scam websites targeting Black Friday bargain hunters** - _The Guardian; 2026-11-22 07:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/money/2026/nov/22/black-friday-scam-deals--ai-fake-storefront)\n\n## Emerging themes\n\n- **since** - 5 articles, 3 publisher(s), avg sentiment -0.12\n- **nvidia** - 4 articles, 2 publisher(s), avg sentiment -0.08\n- **artificial intelligence** - 2 articles, 1 publisher(s), avg sentiment +0.00\n- **continue reading** - 2 articles, 1 publisher(s), avg sentiment +0.00\n- **tech outages** - 2 articles, 2 publisher(s), avg sentiment -0.17\n- **wall street** - 2 articles, 2 publisher(s), avg sentiment -0.11\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 3 / Neutral 10 / Negative 6; mean -0.07.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: CEO of funding agency for UK science and research criticised by union over cuts (https://theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri)\n- The Guardian reported a negative-toned story: South Korean minister quits after AI cheating scandal engulfs university exams (https://theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams)\n- The Guardian reported a negative-toned story: Hacks, AI and conspiracy theories: why are we having so many outages? (https://theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- NYT - [Zohran Mamdani on Trump, Wall Street and Wealth Taxes](https://nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html) (2026-11-22 13:00 UTC; collected 2026-11-22 15:09 UTC)\n- The Guardian - [South Korean minister quits after AI cheating scandal engulfs university exams](https://theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams) (2026-11-22 12:12 UTC; collected 2026-11-22 15:09 UTC)\n- The Guardian - [As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling](https://theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming) (2026-11-22 12:00 UTC; collected 2026-11-22 15:09 UTC)\n- The Guardian - [CEO of funding agency for UK science and research criticised by union over cuts](https://theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri) (2026-11-22 12:00 UTC; collected 2026-11-22 15:09 UTC)\n- The Guardian - [The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington](https://theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham) (2026-11-22 11:24 UTC; collected 2026-11-22 15:09 UTC)\n- The Guardian - [Howard Lutnick has been Trump\u2019s ally for decades. His ties to Nvidia may spell his downfall](https://theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china) (2026-11-22 11:00 UTC; collected 2026-11-22 15:09 UTC)\n- The Guardian - [Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos](https://theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos) (2026-11-22 08:00 UTC; collected 2026-11-22 15:09 UTC)\n- The Guardian - [Unreal deals: the scam websites targeting Black Friday bargain hunters](https://theguardian.com/money/2026/nov/22/black-friday-scam-deals--ai-fake-storefront) (2026-11-22 07:00 UTC; collected 2026-11-22 15:09 UTC)\n- The Guardian - [The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington](https://theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham) (2026-11-22 11:24 UTC; collected 2026-11-22 15:09 UTC)\n- The Guardian - [Howard Lutnick has been Trump\u2019s ally for decades. His ties to Nvidia may spell his downfall](https://theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china) (2026-11-22 11:00 UTC; collected 2026-11-22 15:09 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-22\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-21 15:09 UTC and 2026-11-22 15:09 UTC, 19 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 3 positive, 10 neutral, 6 negative (mean score -0.07). The most recurring theme was \"since\".\n\nKey developments:\n- Zohran Mamdani on Trump, Wall Street and Wealth Taxes (NYT) https://nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html\n- South Korean minister quits after AI cheating scandal engulfs university exams (The Guardian) https://theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams\n- As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling (The Guardian) https://theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming\n- CEO of funding agency for UK science and research criticised by union over cuts (The Guardian) https://theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri\n- The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington (The Guardian) https://theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
