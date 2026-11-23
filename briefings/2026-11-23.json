@@ -1,0 +1,489 @@
+{
+  "id": "309c3ba1a593",
+  "generated_at": "2026-11-23T19:07:05.475751Z",
+  "period_start": "2026-11-22T19:07:05.475751Z",
+  "period_end": "2026-11-23T19:07:05.475751Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-22 19:07 UTC and 2026-11-23 19:07 UTC, 44 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 9 positive, 22 neutral, 13 negative (mean score -0.04). The most recurring theme was \"jensen huang\".",
+  "key_developments": [
+    {
+      "text": "Jensen Huang reinstated as Nvidia CEO",
+      "kind": "verified_fact",
+      "source_urls": [
+        "https://theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+        "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair"
+      ],
+      "publishers": [
+        "Ars Technica",
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-23T18:51:56Z"
+    },
+    {
+      "text": "Nvidia shares surge more than 30% on Jensen Huang\u2018s return, adding $1tn to company value \u2013 business live",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-23T18:46:09Z"
+    },
+    {
+      "text": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-23T18:42:36Z"
+    },
+    {
+      "text": "Can Jensen Huang Return to Nvidia?",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-23T18:38:32Z"
+    },
+    {
+      "text": "Amazon to acquire AI startup Decart's chip software, hire founders",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-23T18:23:55Z"
+    },
+    {
+      "text": "Here\u2019s the latest.",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-23T18:23:37Z"
+    },
+    {
+      "text": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-23T17:50:30Z"
+    },
+    {
+      "text": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://bbc.co.uk/news/articles/cq62pn6j42jko?at_campaign=rss&at_medium=RSS"
+      ],
+      "publishers": [
+        "BBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-23T17:42:37Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "jensen huang",
+      "article_count": 14,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+        "https://theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+        "https://cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+        "https://nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html",
+        "https://bbc.co.uk/news/articles/cq62pn6j42jko?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": 0.126,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "nvidia",
+      "article_count": 17,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+        "https://theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+        "https://cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+        "https://nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html",
+        "https://nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang"
+      ],
+      "avg_sentiment": 0.124,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "business live",
+      "article_count": 7,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+        "https://theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+        "https://theguardian.com/technology/nils-pratley-on-finance/2026/nov/23/nvidia-board-jensen-huang-return",
+        "https://theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+        "https://theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers"
+      ],
+      "avg_sentiment": -0.215,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "chief executive",
+      "article_count": 5,
+      "publishers": [
+        "BBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+        "https://nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html",
+        "https://bbc.co.uk/news/articles/c68798vdprwpo?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures",
+        "https://theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy"
+      ],
+      "avg_sentiment": -0.166,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "company",
+      "article_count": 7,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+        "https://theguardian.com/technology/nils-pratley-on-finance/2026/nov/23/nvidia-board-jensen-huang-return",
+        "https://theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+        "https://theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
+        "https://nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html"
+      ],
+      "avg_sentiment": -0.279,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "shares",
+      "article_count": 7,
+      "publishers": [
+        "BBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+        "https://bbc.co.uk/news/articles/cq62pn6j42jko?at_campaign=rss&at_medium=RSS",
+        "https://nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
+        "https://theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+        "https://bbc.co.uk/news/articles/c65y1qqw3kjxo?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": 0.022,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 9,
+    "neutral": 22,
+    "negative": 13,
+    "mean_score": -0.038,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Capita boss exits and shares crash after civil service pensions failures (https://theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures)",
+    "The Guardian reported a negative-toned story: Next issues cyber-attack warning after \u2018benign\u2019 data accessed by hackers (https://theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers)",
+    "BBC reported a negative-toned story: San Francisco is enjoying an AI boom, but worries about a crash are growing (https://bbc.co.uk/news/articles/cqe9k09j9jv4o?at_campaign=rss&at_medium=RSS)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "12d5ed3621b2f434",
+      "title": "Jensen Huang reinstated as Nvidia CEO",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+      "summary": "Chipmaker reverses decision it made to remove chief executive after Donald Trump intervenes directly with board Comment: Nvidia\u2019s humiliated board should resign out of embarrassment Business live \u2013 latest updates US politics \u2013 live updates Nvidia has reinstated Jensen Huang as chief executive after Donald Trump directly intervened with the US AI chipmaker\u2019s board of directors, in a stunning reversal of the tech billionaire\u2019s downfall . Speaking on Monday shortly after Nvidia\u2019s surprise announcem",
+      "published_at": "2026-11-23T18:51:56Z",
+      "collected_at": "2026-11-23T19:07:05.475751Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "0a9f4352749a09ff",
+      "title": "Nvidia shares surge more than 30% on Jensen Huang\u2018s return, adding $1tn to company value \u2013 business live",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+      "summary": "Donald Trump hails Huang as a \u2018great patriot and national treasure\u2019 after his surprise reinstatement as Nvidia\u2019s CEO US reactions to Jensen Huang return \u2013 US politics live Jensen Huang reinstated as Nvidia CEO Shares in UK housebuilder Crest Nicholson have slumped by a quarter, to a record low, after the company issued a profits warning this morning. Full year completions were 1,353, at the bottom end of the Group\u2019s previous guidance range of 1,350 to 1,400 completions. The warning has hammered ",
+      "published_at": "2026-11-23T18:46:09Z",
+      "collected_at": "2026-11-23T19:07:05.475751Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": 0.4939,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "0ad14ce38eabf1f5",
+      "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+      "summary": "Congress members of both parties are sharply questioning President Donald Trump's conclusion that Jensen Huang poses no national security risk leading Nvidia.",
+      "published_at": "2026-11-23T18:42:36Z",
+      "collected_at": "2026-11-23T19:07:05.475751Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.1877,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "f5f0f7726c8432f4",
+      "title": "Can Jensen Huang Return to Nvidia?",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html",
+      "summary": "Jensen Huang did just that. Nvidia\u2019s co-founder has been reinstated as chief executive, a move that has stunned Wall Street and Washington.",
+      "published_at": "2026-11-23T18:38:32Z",
+      "collected_at": "2026-11-23T19:07:05.475751Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "def41b9598d68a15",
+      "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
+      "summary": "Decart, founded in 2023, is best known for its software that lets developers sync their AI models across different chips.",
+      "published_at": "2026-11-23T18:23:55Z",
+      "collected_at": "2026-11-23T19:07:05.475751Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "d6337b9ee69ba44f",
+      "title": "Here\u2019s the latest.",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang",
+      "summary": "Mr. Huang resigned from Nvidia on Nov. 12 after revelations of multiple extramarital relationships.",
+      "published_at": "2026-11-23T18:23:37Z",
+      "collected_at": "2026-11-23T19:07:05.475751Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "0c56e19502667153",
+      "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+      "summary": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
+      "published_at": "2026-11-23T17:50:30Z",
+      "collected_at": "2026-11-23T19:07:05.475751Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "2e70bed814c3e604",
+      "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/cq62pn6j42jko?at_campaign=rss&at_medium=RSS",
+      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
+      "published_at": "2026-11-23T17:42:37Z",
+      "collected_at": "2026-11-23T19:07:05.475751Z",
+      "feed_name": "BBC / Business",
+      "topics": [
+        "ai",
+        "technology",
+        "markets"
+      ],
+      "sentiment_score": 0.7184,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "66cc673a6baaba00",
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "publisher": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair",
+      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+      "published_at": "2026-11-23T15:46:18Z",
+      "collected_at": "2026-11-23T19:07:05.475751Z",
+      "feed_name": "Ars Technica / Main",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "2e70bed814c3e604",
+      "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/cq62pn6j42jko?at_campaign=rss&at_medium=RSS",
+      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
+      "published_at": "2026-11-23T17:42:37Z",
+      "collected_at": "2026-11-23T19:07:05.475751Z",
+      "feed_name": "BBC / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Jensen Huang reinstated as Nvidia CEO",
+        "status": "supported",
+        "detail": "corroborated by 2 publishers",
+        "source_urls": [
+          "https://theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+          "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair"
+        ]
+      },
+      {
+        "claim": "Nvidia shares surge more than 30% on Jensen Huang\u2018s return, adding $1tn to company value \u2013 business live",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates"
+        ]
+      },
+      {
+        "claim": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html"
+        ]
+      },
+      {
+        "claim": "Can Jensen Huang Return to Nvidia?",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html"
+        ]
+      },
+      {
+        "claim": "Amazon to acquire AI startup Decart's chip software, hire founders",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"
+        ]
+      },
+      {
+        "claim": "Here\u2019s the latest.",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang"
+        ]
+      },
+      {
+        "claim": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
+        ]
+      },
+      {
+        "claim": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://bbc.co.uk/news/articles/cq62pn6j42jko?at_campaign=rss&at_medium=RSS"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-23\n\n**Reporting period:** 2026-11-22 19:07 UTC to 2026-11-23 19:07 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-22 19:07 UTC and 2026-11-23 19:07 UTC, 44 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 9 positive, 22 neutral, 13 negative (mean score -0.04). The most recurring theme was \"jensen huang\".\n\n## Key developments\n\n1. **Jensen Huang reinstated as Nvidia CEO** - _Ars Technica, The Guardian; 2026-11-23 18:51 UTC; corroborated by multiple publishers_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive), [2](https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair)\n2. **Nvidia shares surge more than 30% on Jensen Huang\u2018s return, adding $1tn to company value \u2013 business live** - _The Guardian; 2026-11-23 18:46 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates)\n3. **Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'** - _CNBC; 2026-11-23 18:42 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html)\n4. **Can Jensen Huang Return to Nvidia?** - _NYT; 2026-11-23 18:38 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html)\n5. **Amazon to acquire AI startup Decart's chip software, hire founders** - _CNBC; 2026-11-23 18:23 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html)\n6. **Here\u2019s the latest.** - _NYT; 2026-11-23 18:23 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang)\n7. **CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks** - _CNBC; 2026-11-23 17:50 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html)\n8. **Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns** - _BBC; 2026-11-23 17:42 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://bbc.co.uk/news/articles/cq62pn6j42jko?at_campaign=rss&at_medium=RSS)\n\n## Emerging themes\n\n- **jensen huang** - 14 articles, 4 publisher(s), avg sentiment +0.13\n- **nvidia** - 17 articles, 4 publisher(s), avg sentiment +0.12\n- **business live** - 7 articles, 1 publisher(s), avg sentiment -0.21\n- **chief executive** - 5 articles, 3 publisher(s), avg sentiment -0.17\n- **company** - 7 articles, 2 publisher(s), avg sentiment -0.28\n- **shares** - 7 articles, 3 publisher(s), avg sentiment +0.02\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 9 / Neutral 22 / Negative 13; mean -0.04.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Capita boss exits and shares crash after civil service pensions failures (https://theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures)\n- The Guardian reported a negative-toned story: Next issues cyber-attack warning after \u2018benign\u2019 data accessed by hackers (https://theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers)\n- BBC reported a negative-toned story: San Francisco is enjoying an AI boom, but worries about a crash are growing (https://bbc.co.uk/news/articles/cqe9k09j9jv4o?at_campaign=rss&at_medium=RSS)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- The Guardian - [Jensen Huang reinstated as Nvidia CEO](https://theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive) (2026-11-23 18:51 UTC; collected 2026-11-23 19:07 UTC)\n- The Guardian - [Nvidia shares surge more than 30% on Jensen Huang\u2018s return, adding $1tn to company value \u2013 business live](https://theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates) (2026-11-23 18:46 UTC; collected 2026-11-23 19:07 UTC)\n- CNBC - [Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'](https://cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html) (2026-11-23 18:42 UTC; collected 2026-11-23 19:07 UTC)\n- NYT - [Can Jensen Huang Return to Nvidia?](https://nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html) (2026-11-23 18:38 UTC; collected 2026-11-23 19:07 UTC)\n- CNBC - [Amazon to acquire AI startup Decart's chip software, hire founders](https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html) (2026-11-23 18:23 UTC; collected 2026-11-23 19:07 UTC)\n- NYT - [Here\u2019s the latest.](https://nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang) (2026-11-23 18:23 UTC; collected 2026-11-23 19:07 UTC)\n- CNBC - [CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks](https://cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html) (2026-11-23 17:50 UTC; collected 2026-11-23 19:07 UTC)\n- BBC - [Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns](https://bbc.co.uk/news/articles/cq62pn6j42jko?at_campaign=rss&at_medium=RSS) (2026-11-23 17:42 UTC; collected 2026-11-23 19:07 UTC)\n- Ars Technica - [Jensen Huang reinstated as Nvidia CEO, board chair](https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair) (2026-11-23 15:46 UTC; collected 2026-11-23 19:07 UTC)\n- BBC - [Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns](https://bbc.co.uk/news/articles/cq62pn6j42jko?at_campaign=rss&at_medium=RSS) (2026-11-23 17:42 UTC; collected 2026-11-23 19:07 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-23\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-22 19:07 UTC and 2026-11-23 19:07 UTC, 44 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 9 positive, 22 neutral, 13 negative (mean score -0.04). The most recurring theme was \"jensen huang\".\n\nKey developments:\n- Jensen Huang reinstated as Nvidia CEO (Ars Technica, The Guardian) https://theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive\n- Nvidia shares surge more than 30% on Jensen Huang\u2018s return, adding $1tn to company value \u2013 business live (The Guardian) https://theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates\n- Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character' (CNBC) https://cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html\n- Can Jensen Huang Return to Nvidia? (NYT) https://nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html\n- Amazon to acquire AI startup Decart's chip software, hire founders (CNBC) https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
