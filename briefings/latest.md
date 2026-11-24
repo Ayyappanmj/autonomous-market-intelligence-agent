@@ -1,60 +1,60 @@
-# Market Intelligence Briefing - 2026-11-23
+# Market Intelligence Briefing - 2026-11-24
 
-**Reporting period:** 2026-11-22 19:07 UTC to 2026-11-23 19:07 UTC  
+**Reporting period:** 2026-11-23 18:45 UTC to 2026-11-24 18:45 UTC  
 **Topics:** ai, economy, markets, technology  
 **Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text
 
 ## Executive summary
 
-Between 2026-11-22 19:07 UTC and 2026-11-23 19:07 UTC, 44 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 9 positive, 22 neutral, 13 negative (mean score -0.04). The most recurring theme was "jensen huang".
+Between 2026-11-23 18:45 UTC and 2026-11-24 18:45 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 15 positive, 29 neutral, 16 negative (mean score -0.02). The most recurring theme was "jensen huang".
 
 ## Key developments
 
-1. **Jensen Huang reinstated as Nvidia CEO** - _Ars Technica, The Guardian; 2026-11-23 18:51 UTC; corroborated by multiple publishers_  
+1. **Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War** - _NYT; 2026-11-24 18:34 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive), [2](https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair)
-2. **Nvidia shares surge more than 30% on Jensen Huang‘s return, adding $1tn to company value – business live** - _The Guardian; 2026-11-23 18:46 UTC; single-source, attributed_  
+   Sources: [1](https://nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html)
+2. **Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy** - _NYT; 2026-11-24 18:34 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates)
-3. **Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'** - _CNBC; 2026-11-23 18:42 UTC; single-source, attributed_  
+   Sources: [1](https://nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html)
+3. **Nvidia shares fall 7% as Huang comeback rally cools** - _CNBC; 2026-11-24 18:30 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html)
-4. **Can Jensen Huang Return to Nvidia?** - _NYT; 2026-11-23 18:38 UTC; single-source, attributed_  
+   Sources: [1](https://cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html)
+4. **Amazon surges launches with rival SpaceX after ULA fails to deliver** - _Ars Technica; 2026-11-24 18:30 UTC; single-source, attributed_  
+   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  
+   Sources: [1](https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver)
+5. **Faisal Islam: Fears over the AI boom haven't gone away** - _BBC; 2026-11-24 18:21 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html)
-5. **Amazon to acquire AI startup Decart's chip software, hire founders** - _CNBC; 2026-11-23 18:23 UTC; single-source, attributed_  
+   Sources: [1](https://bbc.co.uk/news/articles/c6894evgpel5o?at_campaign=rss&at_medium=RSS)
+6. **Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides** - _The Guardian; 2026-11-24 18:00 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html)
-6. **Here’s the latest.** - _NYT; 2026-11-23 18:23 UTC; single-source, attributed_  
+   Sources: [1](https://theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang)
+7. **Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC** - _CNBC; 2026-11-24 17:51 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang)
-7. **CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks** - _CNBC; 2026-11-23 17:50 UTC; single-source, attributed_  
+   Sources: [1](https://cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html)
+8. **Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally** - _NYT; 2026-11-24 17:51 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html)
-8. **Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns** - _BBC; 2026-11-23 17:42 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://bbc.co.uk/news/articles/cq62pn6j42jko?at_campaign=rss&at_medium=RSS)
+   Sources: [1](https://nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html)
 
 ## Emerging themes
 
-- **jensen huang** - 14 articles, 4 publisher(s), avg sentiment +0.13
-- **nvidia** - 17 articles, 4 publisher(s), avg sentiment +0.12
-- **business live** - 7 articles, 1 publisher(s), avg sentiment -0.21
-- **chief executive** - 5 articles, 3 publisher(s), avg sentiment -0.17
-- **company** - 7 articles, 2 publisher(s), avg sentiment -0.28
-- **shares** - 7 articles, 3 publisher(s), avg sentiment +0.02
+- **jensen huang** - 34 articles, 5 publisher(s), avg sentiment -0.01
+- **nvidia** - 41 articles, 5 publisher(s), avg sentiment -0.03
+- **trump** - 20 articles, 5 publisher(s), avg sentiment -0.12
+- **return** - 15 articles, 4 publisher(s), avg sentiment -0.10
+- **stock** - 13 articles, 4 publisher(s), avg sentiment +0.07
+- **market** - 9 articles, 4 publisher(s), avg sentiment +0.04
 
 ## Sentiment overview
 
-Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 9 / Neutral 22 / Negative 13; mean -0.04.
+Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 15 / Neutral 29 / Negative 16; mean -0.02.
 
 _Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._
 
 ## Risks
 
-- The Guardian reported a negative-toned story: Capita boss exits and shares crash after civil service pensions failures (https://theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures)
-- The Guardian reported a negative-toned story: Next issues cyber-attack warning after ‘benign’ data accessed by hackers (https://theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers)
-- BBC reported a negative-toned story: San Francisco is enjoying an AI boom, but worries about a crash are growing (https://bbc.co.uk/news/articles/cqe9k09j9jv4o?at_campaign=rss&at_medium=RSS)
+- The Guardian reported a negative-toned story: A slash-and-burn budget update could push Australia into a recession. Jim Chalmers has a fine line to tread | Patrick Commins (https://theguardian.com/business/2026/nov/24/mid-year-budget-cuts-recession-inflation-unemployment-australia-jim-chalmers)
+- The Guardian reported a negative-toned story: Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – as it happened (https://theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates)
+- BBC reported a negative-toned story: Faisal Islam: Fears over the AI boom haven't gone away (https://bbc.co.uk/news/articles/c6894evgpel5o?at_campaign=rss&at_medium=RSS)
 
 ## Uncertainties
 
@@ -67,16 +67,15 @@ Passed: True; revisions: 0; unsupported claims removed: 0.
 
 ## Source references
 
-- The Guardian - [Jensen Huang reinstated as Nvidia CEO](https://theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive) (2026-11-23 18:51 UTC; collected 2026-11-23 19:07 UTC)
-- The Guardian - [Nvidia shares surge more than 30% on Jensen Huang‘s return, adding $1tn to company value – business live](https://theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates) (2026-11-23 18:46 UTC; collected 2026-11-23 19:07 UTC)
-- CNBC - [Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'](https://cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html) (2026-11-23 18:42 UTC; collected 2026-11-23 19:07 UTC)
-- NYT - [Can Jensen Huang Return to Nvidia?](https://nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html) (2026-11-23 18:38 UTC; collected 2026-11-23 19:07 UTC)
-- CNBC - [Amazon to acquire AI startup Decart's chip software, hire founders](https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html) (2026-11-23 18:23 UTC; collected 2026-11-23 19:07 UTC)
-- NYT - [Here’s the latest.](https://nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang) (2026-11-23 18:23 UTC; collected 2026-11-23 19:07 UTC)
-- CNBC - [CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks](https://cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html) (2026-11-23 17:50 UTC; collected 2026-11-23 19:07 UTC)
-- BBC - [Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns](https://bbc.co.uk/news/articles/cq62pn6j42jko?at_campaign=rss&at_medium=RSS) (2026-11-23 17:42 UTC; collected 2026-11-23 19:07 UTC)
-- Ars Technica - [Jensen Huang reinstated as Nvidia CEO, board chair](https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair) (2026-11-23 15:46 UTC; collected 2026-11-23 19:07 UTC)
-- BBC - [Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns](https://bbc.co.uk/news/articles/cq62pn6j42jko?at_campaign=rss&at_medium=RSS) (2026-11-23 17:42 UTC; collected 2026-11-23 19:07 UTC)
+- NYT - [Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War](https://nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html) (2026-11-24 18:34 UTC; collected 2026-11-24 18:45 UTC)
+- NYT - [Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy](https://nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html) (2026-11-24 18:34 UTC; collected 2026-11-24 18:45 UTC)
+- CNBC - [Nvidia shares fall 7% as Huang comeback rally cools](https://cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html) (2026-11-24 18:30 UTC; collected 2026-11-24 18:45 UTC)
+- Ars Technica - [Amazon surges launches with rival SpaceX after ULA fails to deliver](https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver) (2026-11-24 18:30 UTC; collected 2026-11-24 18:45 UTC)
+- BBC - [Faisal Islam: Fears over the AI boom haven't gone away](https://bbc.co.uk/news/articles/c6894evgpel5o?at_campaign=rss&at_medium=RSS) (2026-11-24 18:21 UTC; collected 2026-11-24 18:45 UTC)
+- The Guardian - [Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides](https://theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang) (2026-11-24 18:00 UTC; collected 2026-11-24 18:45 UTC)
+- CNBC - [Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC](https://cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html) (2026-11-24 17:51 UTC; collected 2026-11-24 18:45 UTC)
+- NYT - [Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally](https://nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html) (2026-11-24 17:51 UTC; collected 2026-11-24 18:45 UTC)
+- BBC - [Faisal Islam: Fears over the AI boom haven't gone away](https://bbc.co.uk/news/articles/c6894evgpel5o?at_campaign=rss&at_medium=RSS) (2026-11-24 18:21 UTC; collected 2026-11-24 18:45 UTC)
 
 ---
 Headlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.
