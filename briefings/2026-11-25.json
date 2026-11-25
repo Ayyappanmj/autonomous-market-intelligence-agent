@@ -1,0 +1,463 @@
+{
+  "id": "0a746ab4873e",
+  "generated_at": "2026-11-25T17:53:06.671238Z",
+  "period_start": "2026-11-24T17:53:06.671238Z",
+  "period_end": "2026-11-25T17:53:06.671238Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-24 17:53 UTC and 2026-11-25 17:53 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 10 positive, 32 neutral, 18 negative (mean score -0.05). The most recurring theme was \"nvidia\".",
+  "key_developments": [
+    {
+      "text": "US stocks fall further as fears over AI intensify",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://bbc.co.uk/news/articles/cq0md8g14zryo?at_campaign=rss&at_medium=RSS"
+      ],
+      "publishers": [
+        "BBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-25T17:48:09Z"
+    },
+    {
+      "text": "Poundland collapses putting 11,000 jobs at risk",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://bbc.co.uk/news/articles/cm3vgdn037z4o?at_campaign=rss&at_medium=RSS"
+      ],
+      "publishers": [
+        "BBC"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-25T17:47:58Z"
+    },
+    {
+      "text": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-25T17:28:24Z"
+    },
+    {
+      "text": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU \u2013 as it happened",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-25T17:19:11Z"
+    },
+    {
+      "text": "Etsy clarifies AI terms after seller backlash",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash"
+      ],
+      "publishers": [
+        "Ars Technica"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-25T17:12:57Z"
+    },
+    {
+      "text": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-25T17:10:17Z"
+    },
+    {
+      "text": "Ars Live recap: Don\u2019t expect military attacks on data centers to stop",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop"
+      ],
+      "publishers": [
+        "Ars Technica"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-25T16:47:14Z"
+    },
+    {
+      "text": "Poundland collapses into administration, putting 12,000 jobs at risk",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-25T16:41:08Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "nvidia",
+      "article_count": 19,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+        "https://cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+        "https://nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
+        "https://cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+        "https://cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html"
+      ],
+      "avg_sentiment": -0.001,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "jensen huang",
+      "article_count": 11,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+        "https://cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+        "https://cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
+        "https://nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html",
+        "https://bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": 0.054,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "tech",
+      "article_count": 12,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+        "https://nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
+        "https://nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
+        "https://theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
+        "https://cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html"
+      ],
+      "avg_sentiment": -0.079,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "artificial intelligence",
+      "article_count": 6,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+        "https://nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html",
+        "https://nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html",
+        "https://theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation",
+        "https://theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music"
+      ],
+      "avg_sentiment": -0.065,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "company",
+      "article_count": 7,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
+        "https://theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation",
+        "https://nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+        "https://cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+        "https://nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
+      ],
+      "avg_sentiment": 0.012,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "china",
+      "article_count": 7,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+        "https://theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
+        "https://bbc.co.uk/news/articles/c893r9ke5p97o?at_campaign=rss&at_medium=RSS",
+        "https://nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
+        "https://cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html"
+      ],
+      "avg_sentiment": -0.149,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 10,
+    "neutral": 32,
+    "negative": 18,
+    "mean_score": -0.053,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: New York bans AI toys, including those using internet to talk to children (https://theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys)",
+    "BBC reported a negative-toned story: US stocks fall further as fears over AI intensify (https://bbc.co.uk/news/articles/cq0md8g14zryo?at_campaign=rss&at_medium=RSS)",
+    "The Guardian reported a negative-toned story: Tidal bans 100% AI-generated music with plans to delete more than 27m tracks (https://theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "201dcc7600eefc1d",
+      "title": "US stocks fall further as fears over AI intensify",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/cq0md8g14zryo?at_campaign=rss&at_medium=RSS",
+      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "published_at": "2026-11-25T17:48:09Z",
+      "collected_at": "2026-11-25T17:53:06.671238Z",
+      "feed_name": "BBC / Business",
+      "topics": [
+        "ai",
+        "technology",
+        "markets"
+      ],
+      "sentiment_score": -0.6486,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "65e9cc3b14933c6a",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/cm3vgdn037z4o?at_campaign=rss&at_medium=RSS",
+      "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+      "published_at": "2026-11-25T17:47:58Z",
+      "collected_at": "2026-11-25T17:53:06.671238Z",
+      "feed_name": "BBC / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.25,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "de2d936167133ae8",
+      "title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+      "summary": "Nvidia GPU sellers are seeking new buyers after new U.S. rules tightened remote access to advanced AI chips for China-linked customers",
+      "published_at": "2026-11-25T17:28:24Z",
+      "collected_at": "2026-11-25T17:53:06.671238Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "0f6ed0416d0ac449",
+      "title": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU \u2013 as it happened",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
+      "summary": "New tariffs planned as Trump administration clamps down on \u2018unfair trade practices\u2019 Hannah Webster , senior economist at the think tank New Economics Foundation , also called for other measures. The price cap increase will be difficult news for households to bear, especially during the winter when our energy needs and bills are higher. The government\u2019s current support measures don\u2019t match the reality of rising costs and squeezed household finances. The \u00a3100 payment announced at the budget won\u2019t ",
+      "published_at": "2026-11-25T17:19:11Z",
+      "collected_at": "2026-11-25T17:53:06.671238Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.4939,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "d346e42f31fce359",
+      "title": "Etsy clarifies AI terms after seller backlash",
+      "publisher": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash",
+      "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+      "published_at": "2026-11-25T17:12:57Z",
+      "collected_at": "2026-11-25T17:53:06.671238Z",
+      "feed_name": "Ars Technica / Main",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "e3007f25728eea61",
+      "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+      "summary": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
+      "published_at": "2026-11-25T17:10:17Z",
+      "collected_at": "2026-11-25T17:53:06.671238Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology",
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": -0.5267,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "7b7cb44d5be86a31",
+      "title": "Ars Live recap: Don\u2019t expect military attacks on data centers to stop",
+      "publisher": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop",
+      "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
+      "published_at": "2026-11-25T16:47:14Z",
+      "collected_at": "2026-11-25T17:53:06.671238Z",
+      "feed_name": "Ars Technica / Main",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "7b87a61f1b5d7546",
+      "title": "Poundland collapses into administration, putting 12,000 jobs at risk",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers",
+      "summary": "US owner Gordon Brothers rejected at least two last-ditch bids for UK budget retailer Do you work for Poundland? Tell us how you\u2019re affected Poundland has called in administrators, putting 12,000 jobs at risk in the run-up to Christmas after its owners rejected at least two last-ditch bids for the budget retailer. Administrators at AlixPartners have been appointed to the retailer, which has 600 stores in the UK and Ireland, by Poundland\u2019s directors. The chain is now expected to be broken up with",
+      "published_at": "2026-11-25T16:41:08Z",
+      "collected_at": "2026-11-25T17:53:06.671238Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.4588,
+      "sentiment_label": "negative",
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "US stocks fall further as fears over AI intensify",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://bbc.co.uk/news/articles/cq0md8g14zryo?at_campaign=rss&at_medium=RSS"
+        ]
+      },
+      {
+        "claim": "Poundland collapses putting 11,000 jobs at risk",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://bbc.co.uk/news/articles/cm3vgdn037z4o?at_campaign=rss&at_medium=RSS"
+        ]
+      },
+      {
+        "claim": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html"
+        ]
+      },
+      {
+        "claim": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU \u2013 as it happened",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates"
+        ]
+      },
+      {
+        "claim": "Etsy clarifies AI terms after seller backlash",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash"
+        ]
+      },
+      {
+        "claim": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
+        ]
+      },
+      {
+        "claim": "Ars Live recap: Don\u2019t expect military attacks on data centers to stop",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop"
+        ]
+      },
+      {
+        "claim": "Poundland collapses into administration, putting 12,000 jobs at risk",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-25\n\n**Reporting period:** 2026-11-24 17:53 UTC to 2026-11-25 17:53 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-24 17:53 UTC and 2026-11-25 17:53 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 10 positive, 32 neutral, 18 negative (mean score -0.05). The most recurring theme was \"nvidia\".\n\n## Key developments\n\n1. **US stocks fall further as fears over AI intensify** - _BBC; 2026-11-25 17:48 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://bbc.co.uk/news/articles/cq0md8g14zryo?at_campaign=rss&at_medium=RSS)\n2. **Poundland collapses putting 11,000 jobs at risk** - _BBC; 2026-11-25 17:47 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://bbc.co.uk/news/articles/cm3vgdn037z4o?at_campaign=rss&at_medium=RSS)\n3. **Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC** - _CNBC; 2026-11-25 17:28 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html)\n4. **US proposes new tariffs on 14 trading partners, including China, Japan and the EU \u2013 as it happened** - _The Guardian; 2026-11-25 17:19 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates)\n5. **Etsy clarifies AI terms after seller backlash** - _Ars Technica; 2026-11-25 17:12 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash)\n6. **Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return** - _CNBC; 2026-11-25 17:10 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html)\n7. **Ars Live recap: Don\u2019t expect military attacks on data centers to stop** - _Ars Technica; 2026-11-25 16:47 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop)\n8. **Poundland collapses into administration, putting 12,000 jobs at risk** - _The Guardian; 2026-11-25 16:41 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers)\n\n## Emerging themes\n\n- **nvidia** - 19 articles, 4 publisher(s), avg sentiment -0.00\n- **jensen huang** - 11 articles, 4 publisher(s), avg sentiment +0.05\n- **tech** - 12 articles, 4 publisher(s), avg sentiment -0.08\n- **artificial intelligence** - 6 articles, 3 publisher(s), avg sentiment -0.07\n- **company** - 7 articles, 3 publisher(s), avg sentiment +0.01\n- **china** - 7 articles, 4 publisher(s), avg sentiment -0.15\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 10 / Neutral 32 / Negative 18; mean -0.05.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: New York bans AI toys, including those using internet to talk to children (https://theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys)\n- BBC reported a negative-toned story: US stocks fall further as fears over AI intensify (https://bbc.co.uk/news/articles/cq0md8g14zryo?at_campaign=rss&at_medium=RSS)\n- The Guardian reported a negative-toned story: Tidal bans 100% AI-generated music with plans to delete more than 27m tracks (https://theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- BBC - [US stocks fall further as fears over AI intensify](https://bbc.co.uk/news/articles/cq0md8g14zryo?at_campaign=rss&at_medium=RSS) (2026-11-25 17:48 UTC; collected 2026-11-25 17:53 UTC)\n- BBC - [Poundland collapses putting 11,000 jobs at risk](https://bbc.co.uk/news/articles/cm3vgdn037z4o?at_campaign=rss&at_medium=RSS) (2026-11-25 17:47 UTC; collected 2026-11-25 17:53 UTC)\n- CNBC - [Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC](https://cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html) (2026-11-25 17:28 UTC; collected 2026-11-25 17:53 UTC)\n- The Guardian - [US proposes new tariffs on 14 trading partners, including China, Japan and the EU \u2013 as it happened](https://theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates) (2026-11-25 17:19 UTC; collected 2026-11-25 17:53 UTC)\n- Ars Technica - [Etsy clarifies AI terms after seller backlash](https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash) (2026-11-25 17:12 UTC; collected 2026-11-25 17:53 UTC)\n- CNBC - [Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return](https://cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html) (2026-11-25 17:10 UTC; collected 2026-11-25 17:53 UTC)\n- Ars Technica - [Ars Live recap: Don\u2019t expect military attacks on data centers to stop](https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop) (2026-11-25 16:47 UTC; collected 2026-11-25 17:53 UTC)\n- The Guardian - [Poundland collapses into administration, putting 12,000 jobs at risk](https://theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers) (2026-11-25 16:41 UTC; collected 2026-11-25 17:53 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-25\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-24 17:53 UTC and 2026-11-25 17:53 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 10 positive, 32 neutral, 18 negative (mean score -0.05). The most recurring theme was \"nvidia\".\n\nKey developments:\n- US stocks fall further as fears over AI intensify (BBC) https://bbc.co.uk/news/articles/cq0md8g14zryo?at_campaign=rss&at_medium=RSS\n- Poundland collapses putting 11,000 jobs at risk (BBC) https://bbc.co.uk/news/articles/cm3vgdn037z4o?at_campaign=rss&at_medium=RSS\n- Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC (CNBC) https://cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html\n- US proposes new tariffs on 14 trading partners, including China, Japan and the EU \u2013 as it happened (The Guardian) https://theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates\n- Etsy clarifies AI terms after seller backlash (Ars Technica) https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
