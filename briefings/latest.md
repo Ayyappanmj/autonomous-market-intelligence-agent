@@ -1,60 +1,60 @@
-# Market Intelligence Briefing - 2026-11-25
+# Market Intelligence Briefing - 2026-11-26
 
-**Reporting period:** 2026-11-24 17:53 UTC to 2026-11-25 17:53 UTC  
+**Reporting period:** 2026-11-25 17:38 UTC to 2026-11-26 17:38 UTC  
 **Topics:** ai, economy, markets, technology  
 **Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text
 
 ## Executive summary
 
-Between 2026-11-24 17:53 UTC and 2026-11-25 17:53 UTC, 60 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 10 positive, 32 neutral, 18 negative (mean score -0.05). The most recurring theme was "nvidia".
+Between 2026-11-25 17:38 UTC and 2026-11-26 17:38 UTC, 42 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 10 positive, 14 neutral, 18 negative (mean score -0.14). The most recurring theme was "nvidia".
 
 ## Key developments
 
-1. **US stocks fall further as fears over AI intensify** - _BBC; 2026-11-25 17:48 UTC; single-source, attributed_  
+1. **Jensen Huang Is Back, and So Is His Plaque at Denny’s** - _NYT; 2026-11-26 17:23 UTC; single-source, attributed_  
    Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://bbc.co.uk/news/articles/cq0md8g14zryo?at_campaign=rss&at_medium=RSS)
-2. **Poundland collapses putting 11,000 jobs at risk** - _BBC; 2026-11-25 17:47 UTC; single-source, attributed_  
-   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
-   Sources: [1](https://bbc.co.uk/news/articles/cm3vgdn037z4o?at_campaign=rss&at_medium=RSS)
-3. **Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC** - _CNBC; 2026-11-25 17:28 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html)
-4. **US proposes new tariffs on 14 trading partners, including China, Japan and the EU – as it happened** - _The Guardian; 2026-11-25 17:19 UTC; single-source, attributed_  
-   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
-   Sources: [1](https://theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates)
-5. **Etsy clarifies AI terms after seller backlash** - _Ars Technica; 2026-11-25 17:12 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash)
-6. **Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return** - _CNBC; 2026-11-25 17:10 UTC; single-source, attributed_  
-   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
-   Sources: [1](https://cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html)
-7. **Ars Live recap: Don’t expect military attacks on data centers to stop** - _Ars Technica; 2026-11-25 16:47 UTC; single-source, attributed_  
+   Sources: [1](https://nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html)
+2. **Public service broadcaster services should be top of TV app menus – Ofcom** - _The Guardian; 2026-11-26 17:09 UTC; single-source, attributed_  
    Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  
-   Sources: [1](https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop)
-8. **Poundland collapses into administration, putting 12,000 jobs at risk** - _The Guardian; 2026-11-25 16:41 UTC; single-source, attributed_  
+   Sources: [1](https://theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom)
+3. **Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say** - _CNBC; 2026-11-26 17:04 UTC; single-source, attributed_  
+   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  
+   Sources: [1](https://cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html)
+4. **Trump’s Latest Tariffs Revive Focus on Pressuring China** - _NYT; 2026-11-26 17:03 UTC; single-source, attributed_  
    Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
-   Sources: [1](https://theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers)
+   Sources: [1](https://nytimes.com/2026/11/26/business/trump-tariffs-asia.html)
+5. **European Central Bank Chooses Pablo Hernández de Cos as Next President** - _NYT; 2026-11-26 16:29 UTC; single-source, attributed_  
+   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  
+   Sources: [1](https://nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html)
+6. **Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in** - _The Guardian; 2026-11-26 15:12 UTC; single-source, attributed_  
+   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  
+   Sources: [1](https://theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm)
+7. **Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.** - _NYT; 2026-11-26 15:12 UTC; single-source, attributed_  
+   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  
+   Sources: [1](https://nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html)
+8. **Marlboro maker Altria considering takeover bid for Imperial Brands** - _The Guardian; 2026-11-26 14:41 UTC; single-source, attributed_  
+   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  
+   Sources: [1](https://theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands)
 
 ## Emerging themes
 
-- **nvidia** - 19 articles, 4 publisher(s), avg sentiment -0.00
-- **jensen huang** - 11 articles, 4 publisher(s), avg sentiment +0.05
-- **tech** - 12 articles, 4 publisher(s), avg sentiment -0.08
-- **artificial intelligence** - 6 articles, 3 publisher(s), avg sentiment -0.07
-- **company** - 7 articles, 3 publisher(s), avg sentiment +0.01
-- **china** - 7 articles, 4 publisher(s), avg sentiment -0.15
+- **nvidia** - 11 articles, 3 publisher(s), avg sentiment -0.17
+- **latest updates** - 5 articles, 1 publisher(s), avg sentiment -0.21
+- **other** - 7 articles, 3 publisher(s), avg sentiment -0.21
+- **trading partners** - 4 articles, 4 publisher(s), avg sentiment -0.31
+- **trump** - 6 articles, 3 publisher(s), avg sentiment -0.07
+- **tech** - 6 articles, 3 publisher(s), avg sentiment -0.23
 
 ## Sentiment overview
 
-Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 10 / Neutral 32 / Negative 18; mean -0.05.
+Engine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 10 / Neutral 14 / Negative 18; mean -0.14.
 
 _Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._
 
 ## Risks
 
-- The Guardian reported a negative-toned story: New York bans AI toys, including those using internet to talk to children (https://theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys)
-- BBC reported a negative-toned story: US stocks fall further as fears over AI intensify (https://bbc.co.uk/news/articles/cq0md8g14zryo?at_campaign=rss&at_medium=RSS)
-- The Guardian reported a negative-toned story: Tidal bans 100% AI-generated music with plans to delete more than 27m tracks (https://theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music)
+- The Guardian reported a negative-toned story: Number of Neets in UK falls below a million as Burnham pushes to tackle crisis (https://theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham)
+- CNBC reported a negative-toned story: S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk (https://cnbc.com/2026/11/26/nvidia-market-governance-risk.html)
+- NYT reported a negative-toned story: Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation (https://nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html)
 
 ## Uncertainties
 
@@ -67,14 +67,15 @@ Passed: True; revisions: 0; unsupported claims removed: 0.
 
 ## Source references
 
-- BBC - [US stocks fall further as fears over AI intensify](https://bbc.co.uk/news/articles/cq0md8g14zryo?at_campaign=rss&at_medium=RSS) (2026-11-25 17:48 UTC; collected 2026-11-25 17:53 UTC)
-- BBC - [Poundland collapses putting 11,000 jobs at risk](https://bbc.co.uk/news/articles/cm3vgdn037z4o?at_campaign=rss&at_medium=RSS) (2026-11-25 17:47 UTC; collected 2026-11-25 17:53 UTC)
-- CNBC - [Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC](https://cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html) (2026-11-25 17:28 UTC; collected 2026-11-25 17:53 UTC)
-- The Guardian - [US proposes new tariffs on 14 trading partners, including China, Japan and the EU – as it happened](https://theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates) (2026-11-25 17:19 UTC; collected 2026-11-25 17:53 UTC)
-- Ars Technica - [Etsy clarifies AI terms after seller backlash](https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash) (2026-11-25 17:12 UTC; collected 2026-11-25 17:53 UTC)
-- CNBC - [Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return](https://cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html) (2026-11-25 17:10 UTC; collected 2026-11-25 17:53 UTC)
-- Ars Technica - [Ars Live recap: Don’t expect military attacks on data centers to stop](https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop) (2026-11-25 16:47 UTC; collected 2026-11-25 17:53 UTC)
-- The Guardian - [Poundland collapses into administration, putting 12,000 jobs at risk](https://theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers) (2026-11-25 16:41 UTC; collected 2026-11-25 17:53 UTC)
+- NYT - [Jensen Huang Is Back, and So Is His Plaque at Denny’s](https://nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html) (2026-11-26 17:23 UTC; collected 2026-11-26 17:38 UTC)
+- The Guardian - [Public service broadcaster services should be top of TV app menus – Ofcom](https://theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom) (2026-11-26 17:09 UTC; collected 2026-11-26 17:38 UTC)
+- CNBC - [Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say](https://cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html) (2026-11-26 17:04 UTC; collected 2026-11-26 17:38 UTC)
+- NYT - [Trump’s Latest Tariffs Revive Focus on Pressuring China](https://nytimes.com/2026/11/26/business/trump-tariffs-asia.html) (2026-11-26 17:03 UTC; collected 2026-11-26 17:38 UTC)
+- NYT - [European Central Bank Chooses Pablo Hernández de Cos as Next President](https://nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html) (2026-11-26 16:29 UTC; collected 2026-11-26 17:38 UTC)
+- The Guardian - [Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in](https://theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm) (2026-11-26 15:12 UTC; collected 2026-11-26 17:38 UTC)
+- NYT - [Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.](https://nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html) (2026-11-26 15:12 UTC; collected 2026-11-26 17:38 UTC)
+- The Guardian - [Marlboro maker Altria considering takeover bid for Imperial Brands](https://theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands) (2026-11-26 14:41 UTC; collected 2026-11-26 17:38 UTC)
+- NYT - [Jensen Huang Is Back, and So Is His Plaque at Denny’s](https://nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html) (2026-11-26 17:23 UTC; collected 2026-11-26 17:38 UTC)
 
 ---
 Headlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.

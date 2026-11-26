@@ -1,0 +1,468 @@
+{
+  "id": "3502fa598f8a",
+  "generated_at": "2026-11-26T17:38:12.636750Z",
+  "period_start": "2026-11-25T17:38:12.636750Z",
+  "period_end": "2026-11-26T17:38:12.636750Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-25 17:38 UTC and 2026-11-26 17:38 UTC, 42 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 10 positive, 14 neutral, 18 negative (mean score -0.14). The most recurring theme was \"nvidia\".",
+  "key_developments": [
+    {
+      "text": "Jensen Huang Is Back, and So Is His Plaque at Denny\u2019s",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-26T17:23:31Z"
+    },
+    {
+      "text": "Public service broadcaster services should be top of TV app menus \u2013 Ofcom",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-26T17:09:14Z"
+    },
+    {
+      "text": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-26T17:04:54Z"
+    },
+    {
+      "text": "Trump\u2019s Latest Tariffs Revive Focus on Pressuring China",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/26/business/trump-tariffs-asia.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-26T17:03:31Z"
+    },
+    {
+      "text": "European Central Bank Chooses Pablo Hern\u00e1ndez de Cos as Next President",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-26T16:29:52Z"
+    },
+    {
+      "text": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-26T15:12:36Z"
+    },
+    {
+      "text": "Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-26T15:12:12Z"
+    },
+    {
+      "text": "Marlboro maker Altria considering takeover bid for Imperial Brands",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-26T14:41:19Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "nvidia",
+      "article_count": 11,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+        "https://cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+        "https://nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+        "https://nytimes.com/2026/11/26/business/huawei-trump-china-ai.html",
+        "https://theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech"
+      ],
+      "avg_sentiment": -0.165,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "latest updates",
+      "article_count": 5,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
+        "https://theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands",
+        "https://theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+        "https://theguardian.com/money/2026/nov/26/430000-uk-homeowners-500-jump-monthly-mortgage-payments-bank-of-england-interest-rates",
+        "https://theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market"
+      ],
+      "avg_sentiment": -0.213,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "other",
+      "article_count": 7,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html",
+        "https://theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+        "https://theguardian.com/technology/2026/nov/26/employers-do-you-have-concerns-about-the-rollout-of-muse-and-other-ai-agents",
+        "https://cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+        "https://nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html"
+      ],
+      "avg_sentiment": -0.213,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "trading partners",
+      "article_count": 4,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
+        "https://cnbc.com/2026/11/26/stock-markets-today-.html",
+        "https://theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+        "https://bbc.co.uk/news/articles/c893r9ke5p97o?at_campaign=rss&at_medium=RSS"
+      ],
+      "avg_sentiment": -0.31,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "trump",
+      "article_count": 6,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
+        "https://theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
+        "https://theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+        "https://nytimes.com/2026/11/26/business/huawei-trump-china-ai.html",
+        "https://cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
+      ],
+      "avg_sentiment": -0.071,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "tech",
+      "article_count": 6,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit",
+        "https://theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
+        "https://theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us",
+        "https://nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
+        "https://nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html"
+      ],
+      "avg_sentiment": -0.234,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 10,
+    "neutral": 14,
+    "negative": 18,
+    "mean_score": -0.137,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Number of Neets in UK falls below a million as Burnham pushes to tackle crisis (https://theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham)",
+    "CNBC reported a negative-toned story: S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk (https://cnbc.com/2026/11/26/nvidia-market-governance-risk.html)",
+    "NYT reported a negative-toned story: Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation (https://nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "1bc3b142cb7b5c35",
+      "title": "Jensen Huang Is Back, and So Is His Plaque at Denny\u2019s",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+      "summary": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there.",
+      "published_at": "2026-11-26T17:23:31Z",
+      "collected_at": "2026-11-26T17:38:12.636750Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "6810215c722cd95c",
+      "title": "Public service broadcaster services should be top of TV app menus \u2013 Ofcom",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom",
+      "summary": "UK regulator\u2019s code of practice on streaming platforms is intended to give prominence to iPlayer and similar offerings Public service broadcasters\u2019 streaming services such as BBC iPlayer should appear first on app menus on smart TVs to give them an \u201cappropriate degree of prominence\u201d, according to Ofcom . In addition, the regulator has said public service shows should rank higher on voice and text searches on televisions connected to the internet. Continue reading...",
+      "published_at": "2026-11-26T17:09:14Z",
+      "collected_at": "2026-11-26T17:38:12.636750Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "e1bc44b77bc95daa",
+      "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+      "summary": "A new BIS rule was intended to close \"loopholes,\" U.S. Trade Representative Jamieson Greer told CNBC's \"Squawk Box\" on Wednesday.",
+      "published_at": "2026-11-26T17:04:54Z",
+      "collected_at": "2026-11-26T17:38:12.636750Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology",
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "d5fc7034212c9f94",
+      "title": "Trump\u2019s Latest Tariffs Revive Focus on Pressuring China",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
+      "summary": "President Trump sent a message to trading partners across Asia, many of which depend on trade and investment from both the United States and China, that he is ready to escalate tariffs.",
+      "published_at": "2026-11-26T17:03:31Z",
+      "collected_at": "2026-11-26T17:38:12.636750Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": -0.3182,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "66ee8883110d0d6d",
+      "title": "European Central Bank Chooses Pablo Hern\u00e1ndez de Cos as Next President",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html",
+      "summary": "The early exit of Christine Lagarde as president of the European Central Bank, and two looming vacancies on the board, will make way for new leadership at the institution.",
+      "published_at": "2026-11-26T16:29:52Z",
+      "collected_at": "2026-11-26T17:38:12.636750Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "2af1205a17cec27d",
+      "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
+      "summary": "Then ambassador to US wanted to discuss alternatives to World Trade Organization in \u2018under the radar\u2019 meeting, documents reveal UK politics live \u2013 latest updates Peter Mandelson sought to organise an \u201cunder the radar\u201d meeting between a member of his former lobbying firm, Global Counsel, and an economic adviser to Donald Trump, while he still held shares in the company, newly released documents reveal. Mandelson\u2019s attempt to organise the meeting followed a Foreign Office proposal of a \u201clight-touc",
+      "published_at": "2026-11-26T15:12:36Z",
+      "collected_at": "2026-11-26T17:38:12.636750Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "markets",
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "d68bcc16f6226162",
+      "title": "Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html",
+      "summary": "The facilities that power A.I. and other big data needs are in high demand but widely despised. Some developers are trying to build them up instead of out.",
+      "published_at": "2026-11-26T15:12:12Z",
+      "collected_at": "2026-11-26T17:38:12.636750Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "536aa9a906b85b62",
+      "title": "Marlboro maker Altria considering takeover bid for Imperial Brands",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands",
+      "summary": "Shares in UK tobacco company jump by more than 14% on news US rival is looking into making offer Business live \u2013 latest updates Imperial Brands could become the next UK company to fall to a foreign takeover after its US rival Altria announced a possible bid for the tobacco firm. Altria, whose Philip Morris division makes Marlboro and Benson & Hedges cigarettes, told the City on Thursday that it was considering an offer. If made it was likely to be solely in cash, it said. Continue reading...",
+      "published_at": "2026-11-26T14:41:19Z",
+      "collected_at": "2026-11-26T17:38:12.636750Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.1027,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "1bc3b142cb7b5c35",
+      "title": "Jensen Huang Is Back, and So Is His Plaque at Denny\u2019s",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+      "summary": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there.",
+      "published_at": "2026-11-26T17:23:31Z",
+      "collected_at": "2026-11-26T17:38:12.636750Z",
+      "feed_name": "NYT / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Jensen Huang Is Back, and So Is His Plaque at Denny\u2019s",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html"
+        ]
+      },
+      {
+        "claim": "Public service broadcaster services should be top of TV app menus \u2013 Ofcom",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom"
+        ]
+      },
+      {
+        "claim": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html"
+        ]
+      },
+      {
+        "claim": "Trump\u2019s Latest Tariffs Revive Focus on Pressuring China",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/26/business/trump-tariffs-asia.html"
+        ]
+      },
+      {
+        "claim": "European Central Bank Chooses Pablo Hern\u00e1ndez de Cos as Next President",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html"
+        ]
+      },
+      {
+        "claim": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm"
+        ]
+      },
+      {
+        "claim": "Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html"
+        ]
+      },
+      {
+        "claim": "Marlboro maker Altria considering takeover bid for Imperial Brands",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-26\n\n**Reporting period:** 2026-11-25 17:38 UTC to 2026-11-26 17:38 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-25 17:38 UTC and 2026-11-26 17:38 UTC, 42 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 10 positive, 14 neutral, 18 negative (mean score -0.14). The most recurring theme was \"nvidia\".\n\n## Key developments\n\n1. **Jensen Huang Is Back, and So Is His Plaque at Denny\u2019s** - _NYT; 2026-11-26 17:23 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html)\n2. **Public service broadcaster services should be top of TV app menus \u2013 Ofcom** - _The Guardian; 2026-11-26 17:09 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom)\n3. **Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say** - _CNBC; 2026-11-26 17:04 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html)\n4. **Trump\u2019s Latest Tariffs Revive Focus on Pressuring China** - _NYT; 2026-11-26 17:03 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/11/26/business/trump-tariffs-asia.html)\n5. **European Central Bank Chooses Pablo Hern\u00e1ndez de Cos as Next President** - _NYT; 2026-11-26 16:29 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html)\n6. **Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in** - _The Guardian; 2026-11-26 15:12 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm)\n7. **Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.** - _NYT; 2026-11-26 15:12 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html)\n8. **Marlboro maker Altria considering takeover bid for Imperial Brands** - _The Guardian; 2026-11-26 14:41 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands)\n\n## Emerging themes\n\n- **nvidia** - 11 articles, 3 publisher(s), avg sentiment -0.17\n- **latest updates** - 5 articles, 1 publisher(s), avg sentiment -0.21\n- **other** - 7 articles, 3 publisher(s), avg sentiment -0.21\n- **trading partners** - 4 articles, 4 publisher(s), avg sentiment -0.31\n- **trump** - 6 articles, 3 publisher(s), avg sentiment -0.07\n- **tech** - 6 articles, 3 publisher(s), avg sentiment -0.23\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 10 / Neutral 14 / Negative 18; mean -0.14.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Number of Neets in UK falls below a million as Burnham pushes to tackle crisis (https://theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham)\n- CNBC reported a negative-toned story: S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk (https://cnbc.com/2026/11/26/nvidia-market-governance-risk.html)\n- NYT reported a negative-toned story: Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation (https://nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- NYT - [Jensen Huang Is Back, and So Is His Plaque at Denny\u2019s](https://nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html) (2026-11-26 17:23 UTC; collected 2026-11-26 17:38 UTC)\n- The Guardian - [Public service broadcaster services should be top of TV app menus \u2013 Ofcom](https://theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom) (2026-11-26 17:09 UTC; collected 2026-11-26 17:38 UTC)\n- CNBC - [Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say](https://cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html) (2026-11-26 17:04 UTC; collected 2026-11-26 17:38 UTC)\n- NYT - [Trump\u2019s Latest Tariffs Revive Focus on Pressuring China](https://nytimes.com/2026/11/26/business/trump-tariffs-asia.html) (2026-11-26 17:03 UTC; collected 2026-11-26 17:38 UTC)\n- NYT - [European Central Bank Chooses Pablo Hern\u00e1ndez de Cos as Next President](https://nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html) (2026-11-26 16:29 UTC; collected 2026-11-26 17:38 UTC)\n- The Guardian - [Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in](https://theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm) (2026-11-26 15:12 UTC; collected 2026-11-26 17:38 UTC)\n- NYT - [Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.](https://nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html) (2026-11-26 15:12 UTC; collected 2026-11-26 17:38 UTC)\n- The Guardian - [Marlboro maker Altria considering takeover bid for Imperial Brands](https://theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands) (2026-11-26 14:41 UTC; collected 2026-11-26 17:38 UTC)\n- NYT - [Jensen Huang Is Back, and So Is His Plaque at Denny\u2019s](https://nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html) (2026-11-26 17:23 UTC; collected 2026-11-26 17:38 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-26\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-25 17:38 UTC and 2026-11-26 17:38 UTC, 42 unique articles from 5 publishers were reviewed. Headline tone measured by a rule-based baseline: 10 positive, 14 neutral, 18 negative (mean score -0.14). The most recurring theme was \"nvidia\".\n\nKey developments:\n- Jensen Huang Is Back, and So Is His Plaque at Denny\u2019s (NYT) https://nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html\n- Public service broadcaster services should be top of TV app menus \u2013 Ofcom (The Guardian) https://theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom\n- Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say (CNBC) https://cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html\n- Trump\u2019s Latest Tariffs Revive Focus on Pressuring China (NYT) https://nytimes.com/2026/11/26/business/trump-tariffs-asia.html\n- European Central Bank Chooses Pablo Hern\u00e1ndez de Cos as Next President (NYT) https://nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
