@@ -1,0 +1,445 @@
+{
+  "id": "09c53d3bc52c",
+  "generated_at": "2026-11-27T17:21:10.167355Z",
+  "period_start": "2026-11-26T17:21:10.167355Z",
+  "period_end": "2026-11-27T17:21:10.167355Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-26 17:21 UTC and 2026-11-27 17:21 UTC, 32 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 8 positive, 12 neutral, 12 negative (mean score -0.08). The most recurring theme was \"continue reading\".",
+  "key_developments": [
+    {
+      "text": "Stocks Rally at End of a Week of Wild Swings",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-27T17:03:54Z"
+    },
+    {
+      "text": "Belgian authorities order Google to halt datacentre construction over lack of permits",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-27T17:03:09Z"
+    },
+    {
+      "text": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-27T16:43:14Z"
+    },
+    {
+      "text": "British Gas owner seeks urgent government talks over future of storage facility",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-27T15:56:32Z"
+    },
+    {
+      "text": "Black Friday Deals and Holiday Sales Are Big Money for Influencers",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-27T15:29:05Z"
+    },
+    {
+      "text": "Climate Talks Imploded, but the \u2018Age of Electricity\u2019 Rolls On, Energy Chief Says",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-27T15:18:58Z"
+    },
+    {
+      "text": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-27T14:52:40Z"
+    },
+    {
+      "text": "Hackers reportedly breach US Air Force\u2019s flagship cloud computing platform",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-27T14:50:15Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "continue reading",
+      "article_count": 4,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
+        "https://theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse",
+        "https://theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up",
+        "https://theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
+      ],
+      "avg_sentiment": -0.078,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "andy burnham",
+      "article_count": 4,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
+        "https://theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
+        "https://theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up",
+        "https://theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham"
+      ],
+      "avg_sentiment": -0.58,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "black friday",
+      "article_count": 4,
+      "publishers": [
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html",
+        "https://theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
+        "https://theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+        "https://theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse"
+      ],
+      "avg_sentiment": 0.07,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "tech",
+      "article_count": 6,
+      "publishers": [
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+        "https://theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
+        "https://cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+        "https://cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html",
+        "https://cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
+      ],
+      "avg_sentiment": -0.13,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "government",
+      "article_count": 5,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
+        "https://theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
+        "https://theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
+        "https://theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+        "https://theguardian.com/business/nils-pratley-on-finance/2026/nov/26/old-school-advice-burnham-boost-competition-if-you-want-growth"
+      ],
+      "avg_sentiment": -0.207,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "jobs",
+      "article_count": 5,
+      "publishers": [
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
+        "https://cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+        "https://theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up",
+        "https://theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+        "https://theguardian.com/commentisfree/2026/nov/26/poundland-staff-christmas-workers-future-high-streets-taxpayer"
+      ],
+      "avg_sentiment": -0.421,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 8,
+    "neutral": 12,
+    "negative": 12,
+    "mean_score": -0.076,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: Number of Neets in UK falls below a million as Burnham pushes to tackle crisis (https://theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham)",
+    "The Guardian reported a negative-toned story: Meta whistleblower calls on Burnham to go further with ban on NDAs (https://theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements)",
+    "The Guardian reported a negative-toned story: Up to 1.4m UK workers risk missing out on zero-hours shake-up, say unions (https://theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "c2e3b7cb2a0d0eef",
+      "title": "Stocks Rally at End of a Week of Wild Swings",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html",
+      "summary": "Volatility has buffeted investors in an eventful but holiday-shortened series of trading sessions.",
+      "published_at": "2026-11-27T17:03:54Z",
+      "collected_at": "2026-11-27T17:21:10.167355Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.2263,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "62bfe894c2ccd0da",
+      "title": "Belgian authorities order Google to halt datacentre construction over lack of permits",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+      "summary": "Greenpeace had published report showing tech firm was carrying on building despite ruling on its planning appeal still unresolved Belgian authorities have ordered Google to halt construction work on a large datacentre in the south of the country because the US tech firm\u2019s requests to modify the original terms of the planning permission did not have approval. \u201cInspectors visited the site and observed that the building was almost finished, with the structural work completed, even though the permit",
+      "published_at": "2026-11-27T17:03:09Z",
+      "collected_at": "2026-11-27T17:21:10.167355Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": -0.5859,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "dd0a4889278bef08",
+      "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+      "summary": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
+      "published_at": "2026-11-27T16:43:14Z",
+      "collected_at": "2026-11-27T17:21:10.167355Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology",
+        "economy"
+      ],
+      "sentiment_score": 0.3818,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "dd019555d75bdf33",
+      "title": "British Gas owner seeks urgent government talks over future of storage facility",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
+      "summary": "Centrica boss memo to 400 workers at gas plant off Yorkshire coast says utility doing all it can \u2018to save your jobs\u2019 The boss of the British Gas owner Centrica has told hundreds of staff at its largest gas storage facility that he was seeking urgent talks with Andy Burnham and would do everything he could to save jobs. Chris O\u2019Shea, the chief executive of Centrica, reportedly told staff at the Rough gas storage facility off the east Yorkshire that the government had rebuffed the company\u2019s plea f",
+      "published_at": "2026-11-27T15:56:32Z",
+      "collected_at": "2026-11-27T17:21:10.167355Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "dd0ed52d98423c8d",
+      "title": "Black Friday Deals and Holiday Sales Are Big Money for Influencers",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html",
+      "summary": "A growing part of a brand\u2019s Black Friday and Cyber Monday marketing strategy rests on paying top dollar for social media influencers to post videos.",
+      "published_at": "2026-11-27T15:29:05Z",
+      "collected_at": "2026-11-27T17:21:10.167355Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "1f4bec6b4dc4cee7",
+      "title": "Climate Talks Imploded, but the \u2018Age of Electricity\u2019 Rolls On, Energy Chief Says",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html",
+      "summary": "Fatih Birol, head of the International Energy Agency, said that market forces, data centers and energy security are driving the clean transition anyway.",
+      "published_at": "2026-11-27T15:18:58Z",
+      "collected_at": "2026-11-27T17:21:10.167355Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "a76cae0bb54d2577",
+      "title": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+      "summary": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
+      "published_at": "2026-11-27T14:52:40Z",
+      "collected_at": "2026-11-27T17:21:10.167355Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology",
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "7b006131a41a9ed1",
+      "title": "Hackers reportedly breach US Air Force\u2019s flagship cloud computing platform",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
+      "summary": "Intrusion into Cloud One platform could jeopardize security of sensitive tactical, personnel and logistics data Hackers are reported to have breached the US Air Force\u2019s flagship cloud computing platform, a break-in that comes days after reports that a CIA database was accessed. Reuters reported Friday that the intrusion into the USAF\u2019s Cloud One platform could jeopardize the security of sensitive tactical, personnel and logistics data. Continue reading...",
+      "published_at": "2026-11-27T14:50:15Z",
+      "collected_at": "2026-11-27T17:21:10.167355Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": -0.4939,
+      "sentiment_label": "negative",
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "Stocks Rally at End of a Week of Wild Swings",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html"
+        ]
+      },
+      {
+        "claim": "Belgian authorities order Google to halt datacentre construction over lack of permits",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits"
+        ]
+      },
+      {
+        "claim": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html"
+        ]
+      },
+      {
+        "claim": "British Gas owner seeks urgent government talks over future of storage facility",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future"
+        ]
+      },
+      {
+        "claim": "Black Friday Deals and Holiday Sales Are Big Money for Influencers",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html"
+        ]
+      },
+      {
+        "claim": "Climate Talks Imploded, but the \u2018Age of Electricity\u2019 Rolls On, Energy Chief Says",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html"
+        ]
+      },
+      {
+        "claim": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
+        ]
+      },
+      {
+        "claim": "Hackers reportedly breach US Air Force\u2019s flagship cloud computing platform",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-27\n\n**Reporting period:** 2026-11-26 17:21 UTC to 2026-11-27 17:21 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-26 17:21 UTC and 2026-11-27 17:21 UTC, 32 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 8 positive, 12 neutral, 12 negative (mean score -0.08). The most recurring theme was \"continue reading\".\n\n## Key developments\n\n1. **Stocks Rally at End of a Week of Wild Swings** - _NYT; 2026-11-27 17:03 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html)\n2. **Belgian authorities order Google to halt datacentre construction over lack of permits** - _The Guardian; 2026-11-27 17:03 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits)\n3. **AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth** - _CNBC; 2026-11-27 16:43 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html)\n4. **British Gas owner seeks urgent government talks over future of storage facility** - _The Guardian; 2026-11-27 15:56 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future)\n5. **Black Friday Deals and Holiday Sales Are Big Money for Influencers** - _NYT; 2026-11-27 15:29 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html)\n6. **Climate Talks Imploded, but the \u2018Age of Electricity\u2019 Rolls On, Energy Chief Says** - _NYT; 2026-11-27 15:18 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html)\n7. **German software firm SAP is reportedly cutting at least 10,000 jobs in AI push** - _CNBC; 2026-11-27 14:52 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html)\n8. **Hackers reportedly breach US Air Force\u2019s flagship cloud computing platform** - _The Guardian; 2026-11-27 14:50 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing)\n\n## Emerging themes\n\n- **continue reading** - 4 articles, 1 publisher(s), avg sentiment -0.08\n- **andy burnham** - 4 articles, 1 publisher(s), avg sentiment -0.58\n- **black friday** - 4 articles, 2 publisher(s), avg sentiment +0.07\n- **tech** - 6 articles, 2 publisher(s), avg sentiment -0.13\n- **government** - 5 articles, 1 publisher(s), avg sentiment -0.21\n- **jobs** - 5 articles, 2 publisher(s), avg sentiment -0.42\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 8 / Neutral 12 / Negative 12; mean -0.08.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: Number of Neets in UK falls below a million as Burnham pushes to tackle crisis (https://theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham)\n- The Guardian reported a negative-toned story: Meta whistleblower calls on Burnham to go further with ban on NDAs (https://theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements)\n- The Guardian reported a negative-toned story: Up to 1.4m UK workers risk missing out on zero-hours shake-up, say unions (https://theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- NYT - [Stocks Rally at End of a Week of Wild Swings](https://nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html) (2026-11-27 17:03 UTC; collected 2026-11-27 17:21 UTC)\n- The Guardian - [Belgian authorities order Google to halt datacentre construction over lack of permits](https://theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits) (2026-11-27 17:03 UTC; collected 2026-11-27 17:21 UTC)\n- CNBC - [AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth](https://cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html) (2026-11-27 16:43 UTC; collected 2026-11-27 17:21 UTC)\n- The Guardian - [British Gas owner seeks urgent government talks over future of storage facility](https://theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future) (2026-11-27 15:56 UTC; collected 2026-11-27 17:21 UTC)\n- NYT - [Black Friday Deals and Holiday Sales Are Big Money for Influencers](https://nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html) (2026-11-27 15:29 UTC; collected 2026-11-27 17:21 UTC)\n- NYT - [Climate Talks Imploded, but the \u2018Age of Electricity\u2019 Rolls On, Energy Chief Says](https://nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html) (2026-11-27 15:18 UTC; collected 2026-11-27 17:21 UTC)\n- CNBC - [German software firm SAP is reportedly cutting at least 10,000 jobs in AI push](https://cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html) (2026-11-27 14:52 UTC; collected 2026-11-27 17:21 UTC)\n- The Guardian - [Hackers reportedly breach US Air Force\u2019s flagship cloud computing platform](https://theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing) (2026-11-27 14:50 UTC; collected 2026-11-27 17:21 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-27\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-26 17:21 UTC and 2026-11-27 17:21 UTC, 32 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 8 positive, 12 neutral, 12 negative (mean score -0.08). The most recurring theme was \"continue reading\".\n\nKey developments:\n- Stocks Rally at End of a Week of Wild Swings (NYT) https://nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html\n- Belgian authorities order Google to halt datacentre construction over lack of permits (The Guardian) https://theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits\n- AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth (CNBC) https://cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html\n- British Gas owner seeks urgent government talks over future of storage facility (The Guardian) https://theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future\n- Black Friday Deals and Holiday Sales Are Big Money for Influencers (NYT) https://nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
