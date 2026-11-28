@@ -1,0 +1,498 @@
+{
+  "id": "45064c2ef3a3",
+  "generated_at": "2026-11-28T16:03:43.047203Z",
+  "period_start": "2026-11-27T16:03:43.047203Z",
+  "period_end": "2026-11-28T16:03:43.047203Z",
+  "topics": [
+    "ai",
+    "economy",
+    "markets",
+    "technology"
+  ],
+  "mode": "deterministic_fallback",
+  "mode_label": "Deterministic fallback (no LLM): extractive summaries and template text",
+  "executive_summary": "Between 2026-11-27 16:03 UTC and 2026-11-28 16:03 UTC, 22 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 7 positive, 12 neutral, 3 negative (mean score +0.04). The most recurring theme was \"government\".",
+  "key_developments": [
+    {
+      "text": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "kind": "verified_fact",
+      "source_urls": [
+        "https://bbc.co.uk/news/articles/cm15ekqvlezeo?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+        "https://theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets"
+      ],
+      "publishers": [
+        "BBC",
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-28T11:35:34Z"
+    },
+    {
+      "text": "Pensions and benefits services still down after 'cyber incident'",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_campaign=rss&at_medium=RSS"
+      ],
+      "publishers": [
+        "BBC"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-28T16:01:09Z"
+    },
+    {
+      "text": "How Burnham\u2019s 10-year plan can turn more happiness into higher growth",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/business/2026/nov/28/how-burnhams-10-year-plan-can-turn-more-happiness-into-higher-growth"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-28T16:00:43Z"
+    },
+    {
+      "text": "A.I. Companies Race for Space in New York, a City That Doesn\u2019t Have Much of It",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://nytimes.com/2026/11/28/business/ai-offices-nyc-perplexity.html"
+      ],
+      "publishers": [
+        "NYT"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-28T15:43:34Z"
+    },
+    {
+      "text": "AI data center boom strains construction labor across the U.S.",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html"
+      ],
+      "publishers": [
+        "CNBC"
+      ],
+      "important": true,
+      "why_it_matters": "May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.",
+      "published_at": "2026-11-28T14:00:01Z"
+    },
+    {
+      "text": "Argentina fails to block oil drilling off Falkland Islands",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May inform views on growth, inflation or policy; it is not an economic forecast.",
+      "published_at": "2026-11-28T13:22:10Z"
+    },
+    {
+      "text": "US oligarchs enriched by \u2018transactional\u2019 Trump face fierce scrutiny in new Congress",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/us-news/2026/nov/28/oligarchs-trump-allies-congress-scrutiny"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May influence investor sentiment; this briefing makes no price or return predictions.",
+      "published_at": "2026-11-28T12:00:39Z"
+    },
+    {
+      "text": "DWP cyber incident \u2018probably an attack\u2019, says former UK chief technology officer",
+      "kind": "source_attributed",
+      "source_urls": [
+        "https://theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "important": true,
+      "why_it_matters": "May affect technology-sector narratives and supply-chain expectations; impact is uncertain.",
+      "published_at": "2026-11-28T10:52:00Z"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "name": "government",
+      "article_count": 5,
+      "publishers": [
+        "BBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/business/2026/nov/28/how-burnhams-10-year-plan-can-turn-more-happiness-into-higher-growth",
+        "https://theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal",
+        "https://theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
+        "https://theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos"
+      ],
+      "avg_sentiment": 0.076,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "market",
+      "article_count": 5,
+      "publishers": [
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://nytimes.com/2026/11/28/business/ai-offices-nyc-perplexity.html",
+        "https://theguardian.com/commentisfree/2026/nov/28/grand-theft-anthropic-gta-fightback-against-ai",
+        "https://theguardian.com/money/2026/nov/28/how-to-sell-your-home-in-a-falling-market-house-prices",
+        "https://nytimes.com/2026/11/27/business/nvidia-jensen-huang-trump-markets.html",
+        "https://cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html"
+      ],
+      "avg_sentiment": -0.032,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "help",
+      "article_count": 5,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "NYT",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/business/2026/nov/28/how-burnhams-10-year-plan-can-turn-more-happiness-into-higher-growth",
+        "https://nytimes.com/2026/11/28/business/ai-offices-nyc-perplexity.html",
+        "https://theguardian.com/commentisfree/2026/nov/28/grand-theft-anthropic-gta-fightback-against-ai",
+        "https://bbc.co.uk/iplayer/episode/m00353dd?at_campaign=rss&at_medium=RSS",
+        "https://cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html"
+      ],
+      "avg_sentiment": 0.198,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "tech",
+      "article_count": 5,
+      "publishers": [
+        "BBC",
+        "CNBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://bbc.co.uk/news/articles/cm15ekqvlezeo?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/commentisfree/2026/nov/28/grand-theft-anthropic-gta-fightback-against-ai",
+        "https://bbc.co.uk/iplayer/episode/m00353dd?at_campaign=rss&at_medium=RSS",
+        "https://cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+        "https://theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits"
+      ],
+      "avg_sentiment": -0.005,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "still",
+      "article_count": 4,
+      "publishers": [
+        "BBC",
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
+        "https://bbc.co.uk/news/articles/c64gn8pe5eeqo?at_campaign=rss&at_medium=RSS",
+        "https://theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits"
+      ],
+      "avg_sentiment": -0.146,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    },
+    {
+      "name": "banks governments",
+      "article_count": 2,
+      "publishers": [
+        "The Guardian"
+      ],
+      "evidence": [
+        "https://theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+        "https://theguardian.com/technology/2026/nov/28/could-ai-break-encryption-what-mathematical-breakthroughs-mean-for-cybersecurity"
+      ],
+      "avg_sentiment": 0.0,
+      "note": "Theme derived from recurring terms; an analytical signal, not a forecast."
+    }
+  ],
+  "sentiment": {
+    "engine": "lexicon-baseline-v1 (rule-based, VADER-inspired)",
+    "positive": 7,
+    "neutral": 12,
+    "negative": 3,
+    "mean_score": 0.036,
+    "disclaimer": "Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations."
+  },
+  "risks": [
+    "The Guardian reported a negative-toned story: \u2018The key is pricing realistically\u2019: how to sell your home in a falling market (https://theguardian.com/money/2026/nov/28/how-to-sell-your-home-in-a-falling-market-house-prices)",
+    "The Guardian reported a negative-toned story: Google told to halt Belgium datacentre construction over lack of planning permit (https://theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits)",
+    "BBC reported a negative-toned story: OpenAI counter-sues Apple over alleged theft of trade secrets (https://bbc.co.uk/news/articles/cm15ekqvlezeo?at_campaign=rss&at_medium=RSS)"
+  ],
+  "uncertainties": [
+    "Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.",
+    "Themes reflect recurring terms in this retrieval window only, not full market coverage."
+  ],
+  "sources": [
+    {
+      "id": "b106fc4783eba830",
+      "title": "Pensions and benefits services still down after 'cyber incident'",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_campaign=rss&at_medium=RSS",
+      "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+      "published_at": "2026-11-28T16:01:09Z",
+      "collected_at": "2026-11-28T16:03:43.047203Z",
+      "feed_name": "BBC / Technology",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "f292c8e71d0bf455",
+      "title": "How Burnham\u2019s 10-year plan can turn more happiness into higher growth",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/28/how-burnhams-10-year-plan-can-turn-more-happiness-into-higher-growth",
+      "summary": "Solely targeting GDP is the road to ruin. A wider focus is needed, from better youth and mental health services to more apprenticeships When Andy Burnham publishes his 10-year plan , he is expected to define what the UK government can do to help and support citizens of all ages. In a story arc refreshing the idea of a modern, \u201ccradle to grave\u201d welfare state, the document will, according to some sources, define what the state can do for young people, those in middle age, and older people. Continu",
+      "published_at": "2026-11-28T16:00:43Z",
+      "collected_at": "2026-11-28T16:03:43.047203Z",
+      "feed_name": "The Guardian / Economics",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.3818,
+      "sentiment_label": "positive",
+      "suspicious": false
+    },
+    {
+      "id": "1c1d0b4552f1c8b1",
+      "title": "A.I. Companies Race for Space in New York, a City That Doesn\u2019t Have Much of It",
+      "publisher": "NYT",
+      "url": "https://nytimes.com/2026/11/28/business/ai-offices-nyc-perplexity.html",
+      "summary": "The artificial intelligence boom is on track to help lift Manhattan\u2019s office market to its strongest year since 2000. But as the real estate market tightens, A.I. companies have gotten creative.",
+      "published_at": "2026-11-28T15:43:34Z",
+      "collected_at": "2026-11-28T16:03:43.047203Z",
+      "feed_name": "NYT / Business",
+      "topics": [
+        "ai",
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "0f61395ce8dca916",
+      "title": "AI data center boom strains construction labor across the U.S.",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html",
+      "summary": "CNBC traveled to Abilene, Texas to see how the AI data center construction boom is impacting the local economy in both positive and negative ways.",
+      "published_at": "2026-11-28T14:00:01Z",
+      "collected_at": "2026-11-28T16:03:43.047203Z",
+      "feed_name": "CNBC / Technology",
+      "topics": [
+        "ai",
+        "technology",
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "7e3e9b58ebc04e5a",
+      "title": "Argentina fails to block oil drilling off Falkland Islands",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal",
+      "summary": "UK government calls on Buenos Aires to end \u2018economic pressure\u2019 on islands after international tribunal\u2019s ruling The UK has called on Argentina to stop its economic warfare on the Falkland islands after Buenos Aires failed in a legal attempt to terminate an offshore oil project vital to the future of the British overseas territory. An application by the South American country for suspension of the Sea Lion project was rejected on Saturday by the international tribunal for the law of the seas (Itl",
+      "published_at": "2026-11-28T13:22:10Z",
+      "collected_at": "2026-11-28T16:03:43.047203Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "economy"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "8370c78eafac81bf",
+      "title": "US oligarchs enriched by \u2018transactional\u2019 Trump face fierce scrutiny in new Congress",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/nov/28/oligarchs-trump-allies-congress-scrutiny",
+      "summary": "Democrats pledge aggressive investigations into Trump-allied billionaires and how president\u2019s policies have boosted their bottom lines For an elite circle of Donald Trump billionaire allies who lavished tens of millions of dollars on his campaign, vanity projects and crypto ventures, his second administration has boosted their bottom lines through lax oversight, tax breaks, federal contracts and other perks. But with Democrats winning control of Congress in the midterms, House and Senate investi",
+      "published_at": "2026-11-28T12:00:39Z",
+      "collected_at": "2026-11-28T16:03:43.047203Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "markets"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "95164151cf7cf72b",
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "publisher": "BBC",
+      "url": "https://bbc.co.uk/news/articles/cm15ekqvlezeo?at_campaign=rss&at_medium=RSS",
+      "summary": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+      "published_at": "2026-11-28T11:35:34Z",
+      "collected_at": "2026-11-28T16:03:43.047203Z",
+      "feed_name": "BBC / Technology",
+      "topics": [
+        "ai",
+        "technology",
+        "economy"
+      ],
+      "sentiment_score": -0.3818,
+      "sentiment_label": "negative",
+      "suspicious": false
+    },
+    {
+      "id": "df39efc322596a00",
+      "title": "DWP cyber incident \u2018probably an attack\u2019, says former UK chief technology officer",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
+      "summary": "Government took down pensions and benefits portal on Thursday but said regular payments will not be affected A serious cyber incident that forced ministers to take down online benefits and pension services was \u201cprobably an attack\u201d, the UK\u2019s former chief technology officer has said. The Department for Work and Pensions took down several systems that appeared to still be offline on Saturday morning. David Knott, who led government technology until December 2025, said much infrastructure was outdat",
+      "published_at": "2026-11-28T10:52:00Z",
+      "collected_at": "2026-11-28T16:03:43.047203Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [
+        "technology"
+      ],
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "suspicious": false
+    },
+    {
+      "id": "c343e9cde15db277",
+      "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+      "summary": "Lawsuit also alleging pressure on hardware suppliers comes after Apple sued OpenAI for allegedly poaching employees OpenAI sued Apple on Friday, accusing the company of \u2060stealing its trade secrets \u200band discouraging hardware suppliers from working on future OpenAI devices. The suit, filed in northern California federal court, comes after Apple sued OpenAI for allegedly poaching its employees to gain access to its technology. Continue reading...",
+      "published_at": "2026-11-27T23:28:50Z",
+      "collected_at": "2026-11-28T16:03:43.047203Z",
+      "feed_name": "The Guardian / Business",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "c343e9cde15db277",
+      "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+      "summary": "Lawsuit also alleging pressure on hardware suppliers comes after Apple sued OpenAI for allegedly poaching employees OpenAI sued Apple on Friday, accusing the company of \u2060stealing its trade secrets \u200band discouraging hardware suppliers from working on future OpenAI devices. The suit, filed in northern California federal court, comes after Apple sued OpenAI for allegedly poaching its employees to gain access to its technology. Continue reading...",
+      "published_at": "2026-11-27T23:28:50Z",
+      "collected_at": "2026-11-28T16:03:43.047203Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    },
+    {
+      "id": "df39efc322596a00",
+      "title": "DWP cyber incident \u2018probably an attack\u2019, says former UK chief technology officer",
+      "publisher": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
+      "summary": "Government took down pensions and benefits portal on Thursday but said regular payments will not be affected A serious cyber incident that forced ministers to take down online benefits and pension services was \u201cprobably an attack\u201d, the UK\u2019s former chief technology officer has said. The Department for Work and Pensions took down several systems that appeared to still be offline on Saturday morning. David Knott, who led government technology until December 2025, said much infrastructure was outdat",
+      "published_at": "2026-11-28T10:52:00Z",
+      "collected_at": "2026-11-28T16:03:43.047203Z",
+      "feed_name": "The Guardian / Technology",
+      "topics": [],
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "suspicious": false
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      {
+        "claim": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+        "status": "supported",
+        "detail": "corroborated by 2 publishers",
+        "source_urls": [
+          "https://bbc.co.uk/news/articles/cm15ekqvlezeo?at_campaign=rss&at_medium=RSS",
+          "https://theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+          "https://theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets"
+        ]
+      },
+      {
+        "claim": "Pensions and benefits services still down after 'cyber incident'",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_campaign=rss&at_medium=RSS"
+        ]
+      },
+      {
+        "claim": "How Burnham\u2019s 10-year plan can turn more happiness into higher growth",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/business/2026/nov/28/how-burnhams-10-year-plan-can-turn-more-happiness-into-higher-growth"
+        ]
+      },
+      {
+        "claim": "A.I. Companies Race for Space in New York, a City That Doesn\u2019t Have Much of It",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://nytimes.com/2026/11/28/business/ai-offices-nyc-perplexity.html"
+        ]
+      },
+      {
+        "claim": "AI data center boom strains construction labor across the U.S.",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html"
+        ]
+      },
+      {
+        "claim": "Argentina fails to block oil drilling off Falkland Islands",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal"
+        ]
+      },
+      {
+        "claim": "US oligarchs enriched by \u2018transactional\u2019 Trump face fierce scrutiny in new Congress",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/us-news/2026/nov/28/oligarchs-trump-allies-congress-scrutiny"
+        ]
+      },
+      {
+        "claim": "DWP cyber incident \u2018probably an attack\u2019, says former UK chief technology officer",
+        "status": "supported",
+        "detail": "attributed to a single publisher (uncorroborated)",
+        "source_urls": [
+          "https://theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott"
+        ]
+      }
+    ],
+    "flags": [],
+    "revisions": 0,
+    "unsupported_removed": 0
+  },
+  "markdown": "# Market Intelligence Briefing - 2026-11-28\n\n**Reporting period:** 2026-11-27 16:03 UTC to 2026-11-28 16:03 UTC  \n**Topics:** ai, economy, markets, technology  \n**Generation mode:** Deterministic fallback (no LLM): extractive summaries and template text\n\n## Executive summary\n\nBetween 2026-11-27 16:03 UTC and 2026-11-28 16:03 UTC, 22 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 7 positive, 12 neutral, 3 negative (mean score +0.04). The most recurring theme was \"government\".\n\n## Key developments\n\n1. **OpenAI counter-sues Apple over alleged theft of trade secrets** - _BBC, The Guardian; 2026-11-28 11:35 UTC; corroborated by multiple publishers_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://bbc.co.uk/news/articles/cm15ekqvlezeo?at_campaign=rss&at_medium=RSS), [2](https://theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets), [3](https://theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets)\n2. **Pensions and benefits services still down after 'cyber incident'** - _BBC; 2026-11-28 16:01 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_campaign=rss&at_medium=RSS)\n3. **How Burnham\u2019s 10-year plan can turn more happiness into higher growth** - _The Guardian; 2026-11-28 16:00 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/business/2026/nov/28/how-burnhams-10-year-plan-can-turn-more-happiness-into-higher-growth)\n4. **A.I. Companies Race for Space in New York, a City That Doesn\u2019t Have Much of It** - _NYT; 2026-11-28 15:43 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://nytimes.com/2026/11/28/business/ai-offices-nyc-perplexity.html)\n5. **AI data center boom strains construction labor across the U.S.** - _CNBC; 2026-11-28 14:00 UTC; single-source, attributed_  \n   Why it may matter: May signal shifting competitive or regulatory dynamics in AI; no market impact is asserted.  \n   Sources: [1](https://cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html)\n6. **Argentina fails to block oil drilling off Falkland Islands** - _The Guardian; 2026-11-28 13:22 UTC; single-source, attributed_  \n   Why it may matter: May inform views on growth, inflation or policy; it is not an economic forecast.  \n   Sources: [1](https://theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal)\n7. **US oligarchs enriched by \u2018transactional\u2019 Trump face fierce scrutiny in new Congress** - _The Guardian; 2026-11-28 12:00 UTC; single-source, attributed_  \n   Why it may matter: May influence investor sentiment; this briefing makes no price or return predictions.  \n   Sources: [1](https://theguardian.com/us-news/2026/nov/28/oligarchs-trump-allies-congress-scrutiny)\n8. **DWP cyber incident \u2018probably an attack\u2019, says former UK chief technology officer** - _The Guardian; 2026-11-28 10:52 UTC; single-source, attributed_  \n   Why it may matter: May affect technology-sector narratives and supply-chain expectations; impact is uncertain.  \n   Sources: [1](https://theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott)\n\n## Emerging themes\n\n- **government** - 5 articles, 2 publisher(s), avg sentiment +0.08\n- **market** - 5 articles, 3 publisher(s), avg sentiment -0.03\n- **help** - 5 articles, 4 publisher(s), avg sentiment +0.20\n- **tech** - 5 articles, 3 publisher(s), avg sentiment -0.01\n- **still** - 4 articles, 2 publisher(s), avg sentiment -0.15\n- **banks governments** - 2 articles, 1 publisher(s), avg sentiment +0.00\n\n## Sentiment overview\n\nEngine: lexicon-baseline-v1 (rule-based, VADER-inspired). Positive 7 / Neutral 12 / Negative 3; mean +0.04.\n\n_Sentiment scores are analytical signals computed from headlines and summaries. They are not market forecasts or investment recommendations._\n\n## Risks\n\n- The Guardian reported a negative-toned story: \u2018The key is pricing realistically\u2019: how to sell your home in a falling market (https://theguardian.com/money/2026/nov/28/how-to-sell-your-home-in-a-falling-market-house-prices)\n- The Guardian reported a negative-toned story: Google told to halt Belgium datacentre construction over lack of planning permit (https://theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits)\n- BBC reported a negative-toned story: OpenAI counter-sues Apple over alleged theft of trade secrets (https://bbc.co.uk/news/articles/cm15ekqvlezeo?at_campaign=rss&at_medium=RSS)\n\n## Uncertainties\n\n- Headline/summary sentiment is a coarse baseline and can misread context, sarcasm or quotes.\n- Themes reflect recurring terms in this retrieval window only, not full market coverage.\n\n## Verification summary\n\nPassed: True; revisions: 0; unsupported claims removed: 0.\n\n## Source references\n\n- BBC - [Pensions and benefits services still down after 'cyber incident'](https://bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_campaign=rss&at_medium=RSS) (2026-11-28 16:01 UTC; collected 2026-11-28 16:03 UTC)\n- The Guardian - [How Burnham\u2019s 10-year plan can turn more happiness into higher growth](https://theguardian.com/business/2026/nov/28/how-burnhams-10-year-plan-can-turn-more-happiness-into-higher-growth) (2026-11-28 16:00 UTC; collected 2026-11-28 16:03 UTC)\n- NYT - [A.I. Companies Race for Space in New York, a City That Doesn\u2019t Have Much of It](https://nytimes.com/2026/11/28/business/ai-offices-nyc-perplexity.html) (2026-11-28 15:43 UTC; collected 2026-11-28 16:03 UTC)\n- CNBC - [AI data center boom strains construction labor across the U.S.](https://cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html) (2026-11-28 14:00 UTC; collected 2026-11-28 16:03 UTC)\n- The Guardian - [Argentina fails to block oil drilling off Falkland Islands](https://theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal) (2026-11-28 13:22 UTC; collected 2026-11-28 16:03 UTC)\n- The Guardian - [US oligarchs enriched by \u2018transactional\u2019 Trump face fierce scrutiny in new Congress](https://theguardian.com/us-news/2026/nov/28/oligarchs-trump-allies-congress-scrutiny) (2026-11-28 12:00 UTC; collected 2026-11-28 16:03 UTC)\n- BBC - [OpenAI counter-sues Apple over alleged theft of trade secrets](https://bbc.co.uk/news/articles/cm15ekqvlezeo?at_campaign=rss&at_medium=RSS) (2026-11-28 11:35 UTC; collected 2026-11-28 16:03 UTC)\n- The Guardian - [DWP cyber incident \u2018probably an attack\u2019, says former UK chief technology officer](https://theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott) (2026-11-28 10:52 UTC; collected 2026-11-28 16:03 UTC)\n- The Guardian - [OpenAI countersues Apple for allegedly stealing trade secrets](https://theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets) (2026-11-27 23:28 UTC; collected 2026-11-28 16:03 UTC)\n- The Guardian - [OpenAI countersues Apple for allegedly stealing trade secrets](https://theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets) (2026-11-27 23:28 UTC; collected 2026-11-28 16:03 UTC)\n- The Guardian - [DWP cyber incident \u2018probably an attack\u2019, says former UK chief technology officer](https://theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott) (2026-11-28 10:52 UTC; collected 2026-11-28 16:03 UTC)\n\n---\nHeadlines and links belong to their publishers; this report quotes only headlines and short extracts. Not investment advice.",
+  "email_draft": "Subject: Daily Market Intelligence Briefing - 2026-11-28\n\n[DRAFT - NOT SENT. Review before sending.]\n\nHello,\n\nBetween 2026-11-27 16:03 UTC and 2026-11-28 16:03 UTC, 22 unique articles from 4 publishers were reviewed. Headline tone measured by a rule-based baseline: 7 positive, 12 neutral, 3 negative (mean score +0.04). The most recurring theme was \"government\".\n\nKey developments:\n- OpenAI counter-sues Apple over alleged theft of trade secrets (BBC, The Guardian) https://bbc.co.uk/news/articles/cm15ekqvlezeo?at_campaign=rss&at_medium=RSS\n- Pensions and benefits services still down after 'cyber incident' (BBC) https://bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_campaign=rss&at_medium=RSS\n- How Burnham\u2019s 10-year plan can turn more happiness into higher growth (The Guardian) https://theguardian.com/business/2026/nov/28/how-burnhams-10-year-plan-can-turn-more-happiness-into-higher-growth\n- A.I. Companies Race for Space in New York, a City That Doesn\u2019t Have Much of It (NYT) https://nytimes.com/2026/11/28/business/ai-offices-nyc-perplexity.html\n- AI data center boom strains construction labor across the U.S. (CNBC) https://cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html\n\nSentiment signals are analytical, not forecasts. Mode: Deterministic fallback (no LLM): extractive summaries and template text.\n\nRegards",
+  "is_sample": false
+}
